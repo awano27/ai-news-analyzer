@@ -119,3 +119,28 @@ SURPRISE_KEYWORDS = {
     "提供開始": 2,
     "オープンソース": 2
 }
+
+# X (Twitter) 検索キーワード（Nitter経由）
+X_SEARCH_KEYWORDS = [
+    "ChatGPT", "GPT-4", "GPT-5", "Claude", "Gemini",
+    "OpenAI", "Anthropic", "Google AI", "DeepMind",
+    "LLaMA", "Mistral", "AI model", "LLM",
+    "artificial intelligence breakthrough",
+    "AI research", "machine learning"
+]
+
+# X (Twitter) 監視対象アカウント（RSSHub経由）
+X_ACCOUNTS = [
+    "OpenAI",           # OpenAI公式
+    "AnthropicAI",      # Anthropic公式
+    "GoogleDeepMind",   # Google DeepMind
+    "GoogleAI",         # Google AI
+    "MetaAI",           # Meta AI
+    "sama",             # Sam Altman (OpenAI CEO)
+    "ID_AA_Carmack",    # John Carmack
+    "ylecun",           # Yann LeCun (Meta AI Chief)
+    "karpathy",         # Andrej Karpathy
+    "DrJimFan",         # Jim Fan (NVIDIA)
+    "hardmaru",         # David Ha
+    "AnimaAnandkumar",  # Anima Anandkumar (NVIDIA)
+]

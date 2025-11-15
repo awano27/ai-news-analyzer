@@ -1,5 +1,5 @@
 """
-メインスクリプト: ニュース収集・分析・投稿を実行
+メインスクリプト: ニュース収集・分析を実行（完全無料版）
 """
 
 import os
@@ -11,7 +11,8 @@ from dotenv import load_dotenv
 
 from feed_collector import FeedCollector
 from surprise_analyzer import SurpriseAnalyzer
-from twitter_poster import TwitterPoster
+from x_collector import XCollector
+from news_sources import X_SEARCH_KEYWORDS, X_ACCOUNTS
 
 # ロギング設定
 logging.basicConfig(
@@ -31,10 +32,6 @@ def main():
     # 必須環境変数チェック
     required_vars = [
         'GROQ_API_KEY',
-        'TWITTER_API_KEY',
-        'TWITTER_API_SECRET',
-        'TWITTER_ACCESS_TOKEN',
-        'TWITTER_ACCESS_TOKEN_SECRET'
     ]
 
     missing_vars = [var for var in required_vars if not os.getenv(var)]
@@ -46,14 +43,34 @@ def main():
     timezone = os.getenv('TIMEZONE', 'Asia/Tokyo')
     hours_lookback = int(os.getenv('HOURS_LOOKBACK', '24'))
 
-    logger.info("=== AI News Analyzer Started ===")
+    logger.info("=== AI News Analyzer Started (Free Edition) ===")
     logger.info(f"Timezone: {timezone}")
     logger.info(f"Lookback period: {hours_lookback} hours")
 
-    # ステップ1: ニュース収集
-    logger.info("\n[STEP 1] Collecting news from RSS feeds...")
+    # ステップ1: ニュース収集（RSS + X）
+    logger.info("\n[STEP 1] Collecting news from multiple sources...")
+
+    # 1-1: RSSフィードから収集
+    logger.info("[STEP 1-1] Collecting from RSS feeds...")
     collector = FeedCollector(timezone=timezone, hours_lookback=hours_lookback)
-    all_articles = collector.collect_all_feeds()
+    rss_articles = collector.collect_all_feeds()
+    logger.info(f"RSS articles collected: {len(rss_articles)}")
+
+    # 1-2: Xから収集
+    logger.info("[STEP 1-2] Collecting from X (Twitter)...")
+    x_collector = XCollector(timezone=timezone, hours_lookback=hours_lookback)
+
+    # Nitter検索
+    x_search_articles = x_collector.collect_from_search(X_SEARCH_KEYWORDS, max_tweets=50)
+    logger.info(f"X search articles collected: {len(x_search_articles)}")
+
+    # RSSHub（特定アカウント）
+    x_account_articles = x_collector.collect_from_rsshub(X_ACCOUNTS)
+    logger.info(f"X account articles collected: {len(x_account_articles)}")
+
+    # 全記事を統合
+    all_articles = rss_articles + x_search_articles + x_account_articles
+    logger.info(f"Total articles collected: {len(all_articles)}")
 
     if not all_articles:
         logger.warning("No articles found in the specified time range")
@@ -68,7 +85,7 @@ def main():
         sys.exit(0)
 
     # ステップ2: サプライズ度分析
-    logger.info("\n[STEP 2] Analyzing articles with Claude Code...")
+    logger.info("\n[STEP 2] Analyzing articles with Claude Code (Groq LLaMA 3.1 70B)...")
     analyzer = SurpriseAnalyzer(api_key=os.getenv('GROQ_API_KEY'))
     result = analyzer.analyze_articles(ai_articles)
 
@@ -99,26 +116,8 @@ def main():
     generate_report(result, report_file)
     logger.info(f"Report saved to: {report_file}")
 
-    # ステップ4: Twitter投稿
-    logger.info("\n[STEP 4] Posting to X (Twitter)...")
-    poster = TwitterPoster(
-        api_key=os.getenv('TWITTER_API_KEY'),
-        api_secret=os.getenv('TWITTER_API_SECRET'),
-        access_token=os.getenv('TWITTER_ACCESS_TOKEN'),
-        access_token_secret=os.getenv('TWITTER_ACCESS_TOKEN_SECRET')
-    )
-
-    # GitHub IssueのURLを環境変数から取得（GitHub Actionsで設定）
-    issue_url = os.getenv('GITHUB_ISSUE_URL')
-
-    success = poster.post_analysis(result, issue_url)
-
-    if success:
-        logger.info("Successfully posted to Twitter!")
-    else:
-        logger.error("Failed to post to Twitter")
-
     logger.info("\n=== AI News Analyzer Completed ===")
+    logger.info("Report will be posted to GitHub Issues by Actions workflow")
 
 
 def generate_report(result: Dict, output_file: str):
@@ -138,7 +137,7 @@ def generate_report(result: Dict, output_file: str):
 
 ---
 
-## 選定されたニュース
+## 🚀 選定されたニュース
 
 ### タイトル
 {analysis.get('title_ja', article['title'])}
@@ -154,49 +153,49 @@ def generate_report(result: Dict, output_file: str):
 
 ---
 
-## 概要
+## 📝 概要
 
 {analysis.get('summary', article['summary'])}
 
 ---
 
-## なぜサプライズか
+## ⚡ なぜサプライズか
 
 """
 
     # サプライズ理由
     reasons = analysis.get('surprise_reasons', [])
     for i, reason in enumerate(reasons, 1):
-        report += f"{i}. {reason}\n"
+        report += f"{i}. **{reason}**\n"
 
     report += f"""
 ---
 
-## インパクト分析
+## 💡 インパクト分析
 
-### エンジニア視点
+### 💻 エンジニア視点
 
 {analysis.get('engineer_impact', 'N/A')}
 
-### ビジネス視点
+### 💼 ビジネス視点
 
 {analysis.get('business_impact', 'N/A')}
 
 ---
 
-## サプライズスコア
+## 📊 サプライズスコア
 
 **{analysis.get('surprise_score', 'N/A')} / 100**
 
 ---
 
-## 他候補との比較
+## 🔍 他候補との比較
 
 {analysis.get('other_candidates_comparison', 'N/A')}
 
 ---
 
-## 全候補リスト
+## 📋 全候補リスト
 
 """
 
@@ -204,7 +203,7 @@ def generate_report(result: Dict, output_file: str):
     all_candidates = result.get('all_candidates', [])
     for i, candidate in enumerate(all_candidates, 1):
         report += f"""
-### 候補{i}: {candidate['title']}
+### 候補{i}: {candidate['title'][:80]}
 - **ソース**: {candidate['source']}
 - **URL**: {candidate['link']}
 - **公開日時**: {candidate['published'].strftime('%Y-%m-%d %H:%M %Z')}
@@ -215,11 +214,12 @@ def generate_report(result: Dict, output_file: str):
     report += f"""
 ---
 
-## メタデータ
+## 🔧 メタデータ
 
-- **分析に使用したモデル**: Claude Code
+- **分析に使用したモデル**: Claude Code (Groq LLaMA 3.1 70B)
 - **フォールバックモード**: {'はい' if result.get('fallback') else 'いいえ'}
 - **候補数**: {len(all_candidates)}
+- **収集ソース**: RSS, X (Nitter), X (RSSHub)
 """
 
     # ファイルに書き込み

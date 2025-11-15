@@ -1,49 +1,36 @@
-# クイックスタート
+# クイックスタート（完全無料版）
 
-このガイドは、最速でAI News Analyzerを動かすための簡易版です。
+最速でAI News Analyzerを動かすための簡易版です。
 
-詳細なセットアップは [SETUP.md](SETUP.md) を参照してください。
+## ⚡ 3ステップで完了
 
-## 5分で完了する最小セットアップ
+### 1. Groq APIキーを取得
 
-### 1. GitHubリポジトリを作成
+**https://console.groq.com/**
+1. Sign up（GitHubアカウントでOK）
+2. API Keys → Create Key
+3. キーをコピー
 
-```bash
-# GitHubで新規リポジトリ作成後
-cd /d/ai-news-analyzer
-git remote add origin https://github.com/YOUR_USERNAME/ai-news-analyzer.git
-git push -u origin main
-```
+### 2. GitHub Secretsを設定
 
-### 2. APIキーを取得
+**https://github.com/awano27/ai-news-analyzer/settings/secrets/actions**
 
-#### Groq API
-- https://console.groq.com/ → API Keys → Create Key
-
-#### Twitter API
-- https://developer.twitter.com/en/portal/dashboard
-- Project作成 → App作成 → Keys取得
-- **重要**: App Permissions を「Read and Write」に設定
-
-### 3. GitHub Secretsを設定
-
-リポジトリの Settings → Secrets and variables → Actions で以下を追加:
+New repository secret をクリック:
 
 ```
-GROQ_API_KEY=gsk_xxxxx
-TWITTER_API_KEY=xxxxx
-TWITTER_API_SECRET=xxxxx
-TWITTER_ACCESS_TOKEN=xxxxx
-TWITTER_ACCESS_TOKEN_SECRET=xxxxx
+Name: GROQ_API_KEY
+Secret: gsk_xxxxx（コピーしたキー）
 ```
 
-### 4. テスト実行
+### 3. テスト実行
 
-Actions タブ → Daily AI News Analysis → Run workflow
+**https://github.com/awano27/ai-news-analyzer/actions/workflows/daily-analysis.yml**
+
+Run workflow → Run workflow
 
 以上！
 
-## ローカルで試す場合
+## 💻 ローカルで試す場合
 
 ```bash
 # 依存関係インストール
@@ -51,38 +38,35 @@ pip install -r requirements.txt
 
 # .env作成
 cp .env.example .env
-# .envファイルを編集してAPIキーを設定
+# .envファイルを編集してGroq APIキーを設定
 
 # 実行
 python src/analyzer.py
 ```
 
-## 実行スケジュール変更
+## 📊 結果の確認
 
-[.github/workflows/daily-analysis.yml](.github/workflows/daily-analysis.yml) の cron を編集:
+- **GitHub Issues**: 分析レポートが自動投稿されます
+- **GitHub Actions**: 実行ログで詳細を確認できます
 
-```yaml
-# 毎日JST 21:00に実行したい場合
-cron: '0 12 * * *'  # UTC 12:00 = JST 21:00
-```
+## ❓ トラブルシューティング
 
-## トラブルシューティング
+### エラー: "Missing required environment variables"
+→ GitHub Secretsに `GROQ_API_KEY` が設定されているか確認
 
-### Twitter投稿できない
-→ App Permissions が「Read and Write」になっているか確認
+### Nitterエラー
+→ 正常です。Nitterインスタンスが一時的に使えない場合があります
 
 ### ニュースが見つからない
-→ 正常です。実際にAIニュースが少ない日もあります
+→ 正常です。24時間以内にAIニュースがない日もあります
 
-### Groq APIエラー
-→ APIキーが正しいか、クレジットが残っているか確認
+## 🔗 次に読むドキュメント
 
-## 次に読むドキュメント
+- [README.md](README.md) - 詳細な機能説明
+- [SETUP.md](SETUP.md) - カスタマイズ方法
 
-- 📖 [README.md](README.md) - プロジェクト概要
-- 🔧 [SETUP.md](SETUP.md) - 詳細セットアップガイド
-- 💻 [src/](src/) - ソースコードの説明
+## 💰 コスト
 
-## サポート
+**$0 / 月**
 
-問題があれば Issue を作成してください！
+すべて無料サービスで動作します！
