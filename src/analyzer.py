@@ -8,6 +8,7 @@ import json
 import logging
 from datetime import datetime
 from dotenv import load_dotenv
+from typing import Dict
 
 from feed_collector import FeedCollector
 from surprise_analyzer import SurpriseAnalyzer

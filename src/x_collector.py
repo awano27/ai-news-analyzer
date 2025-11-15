@@ -27,11 +27,8 @@ class XCollector:
         self.cutoff_time = datetime.now(self.timezone) - timedelta(hours=hours_lookback)
 
         # Nitterインスタンス（X検索用）
-        try:
-            # self.scraper = Nitter(log_level=1, skip_instance_check=False)
-        except Exception as e:
-            logger.warning(f"Nitter initialization failed: {e}")
-            self.scraper = None  # Nitter disabled
+        # Nitter disabled (ntscraper dependency removed)
+        self.scraper = None
 
     def collect_from_search(self, keywords: List[str], max_tweets: int = 50) -> List[Dict]:
         """
