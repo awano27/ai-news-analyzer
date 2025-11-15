@@ -3,7 +3,7 @@ X (Twitter) からAI関連の投稿を収集
 Nitter + RSSHub を使用した無料統合
 """
 
-from ntscraper import Nitter
+# from ntscraper import Nitter
 import requests
 import logging
 from datetime import datetime, timedelta
@@ -28,10 +28,10 @@ class XCollector:
 
         # Nitterインスタンス（X検索用）
         try:
-            self.scraper = Nitter(log_level=1, skip_instance_check=False)
+            # self.scraper = Nitter(log_level=1, skip_instance_check=False)
         except Exception as e:
             logger.warning(f"Nitter initialization failed: {e}")
-            self.scraper = None
+            self.scraper = None  # Nitter disabled
 
     def collect_from_search(self, keywords: List[str], max_tweets: int = 50) -> List[Dict]:
         """

@@ -5,4 +5,3 @@ python-dotenv==1.0.1
 pytz==2024.1
 beautifulsoup4==4.12.3
 lxml==5.1.0
-ntscraper==0.4.0
