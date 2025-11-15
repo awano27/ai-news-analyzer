@@ -68,7 +68,7 @@ def main():
         sys.exit(0)
 
     # ステップ2: サプライズ度分析
-    logger.info("\n[STEP 2] Analyzing articles with Claude API...")
+    logger.info("\n[STEP 2] Analyzing articles with Claude Code...")
     analyzer = SurpriseAnalyzer(api_key=os.getenv('ANTHROPIC_API_KEY'))
     result = analyzer.analyze_articles(ai_articles)
 
@@ -217,7 +217,7 @@ def generate_report(result: Dict, output_file: str):
 
 ## メタデータ
 
-- **分析に使用したモデル**: Claude 3.5 Sonnet
+- **分析に使用したモデル**: Claude Code
 - **フォールバックモード**: {'はい' if result.get('fallback') else 'いいえ'}
 - **候補数**: {len(all_candidates)}
 """

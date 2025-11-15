@@ -1,5 +1,5 @@
 """
-Claude APIを使用してニュースのサプライズ度を分析
+Claude Codeを使用してニュースのサプライズ度を分析
 """
 
 import anthropic
@@ -38,7 +38,7 @@ class SurpriseAnalyzer:
         candidates = self._select_candidates(articles)
         logger.info(f"Selected {len(candidates)} candidates for detailed analysis")
 
-        # Claude APIで詳細分析
+        # Claude Codeで詳細分析
         analysis_result = self._analyze_with_claude(candidates)
 
         return analysis_result
@@ -88,7 +88,7 @@ class SurpriseAnalyzer:
         prompt = self._create_analysis_prompt(candidates_text)
 
         try:
-            # Claude APIを呼び出し
+            # Claude Codeを呼び出し
             message = self.client.messages.create(
                 model=self.model,
                 max_tokens=2000,
@@ -100,7 +100,7 @@ class SurpriseAnalyzer:
 
             # レスポンスをパース
             response_text = message.content[0].text
-            logger.info(f"Claude API response received: {len(response_text)} chars")
+            logger.info(f"Claude Code response received: {len(response_text)} chars")
 
             # JSON形式で結果を抽出
             result = self._parse_claude_response(response_text, candidates)
@@ -108,7 +108,7 @@ class SurpriseAnalyzer:
             return result
 
         except Exception as e:
-            logger.error(f"Error calling Claude API: {str(e)}")
+            logger.error(f"Error calling Claude Code: {str(e)}")
             # エラー時はフォールバック（最も preliminary_score が高いものを返す）
             return self._fallback_selection(candidates)
 
@@ -138,7 +138,7 @@ URL: {article['link']}
 
     def _create_analysis_prompt(self, candidates_text: str) -> str:
         """
-        Claude API用のプロンプトを作成
+        Claude Code用のプロンプトを作成
 
         Args:
             candidates_text: 候補記事のテキスト
@@ -229,7 +229,7 @@ URL: {article['link']}
 
     def _fallback_selection(self, candidates: List[Dict]) -> Dict:
         """
-        Claude API失敗時のフォールバック選択
+        Claude Code失敗時のフォールバック選択
 
         Args:
             candidates: 候補記事のリスト
