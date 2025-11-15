@@ -5,7 +5,7 @@
 ## 前提条件
 
 - GitHubアカウント
-- Claude API アカウント（Anthropic）
+- Groq API アカウント（Anthropic）
 - X (Twitter) Developer アカウント
 
 ## ステップ1: リポジトリの作成
@@ -37,9 +37,9 @@ git push -u origin main
 
 ## ステップ2: APIキーの取得
 
-### 2.1 Claude API キー
+### 2.1 Groq API キー
 
-1. https://console.anthropic.com/ にアクセス
+1. https://console.groq.com/ にアクセス
 2. サインアップ/ログイン
 3. 左メニューの「API Keys」をクリック
 4. 「Create Key」をクリック
@@ -91,7 +91,7 @@ git push -u origin main
 
 | Name | Value |
 |------|-------|
-| `ANTHROPIC_API_KEY` | Claude APIキー |
+| `GROQ_API_KEY` | Groq APIキー |
 | `TWITTER_API_KEY` | Twitter API Key |
 | `TWITTER_API_SECRET` | Twitter API Key Secret |
 | `TWITTER_ACCESS_TOKEN` | Twitter Access Token |
@@ -160,7 +160,7 @@ schedule:
 
 → `HOURS_LOOKBACK` を増やす（24 → 48など）
 
-### Claude APIエラー
+### Groq APIエラー
 
 → APIキーが有効か、クレジットが残っているか確認
 

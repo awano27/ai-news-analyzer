@@ -5,9 +5,10 @@
 ## 特徴
 
 - **完全自動化**: GitHub Actionsで毎日定時実行
-- **高精度分析**: Claude Codeによるサプライズ度スコアリング
+- **高精度分析**: Claude Codeによるサプライズ度スコアリング（Groq API - 無料）
 - **自動投稿**: X (Twitter) APIで分析結果を自動ポスト
 - **履歴管理**: GitHub Issues/Discussionsでレポート保存
+- **完全無料**: Groq APIの無料枠で運用可能
 
 ## アーキテクチャ
 
@@ -21,7 +22,7 @@
 ┌─────────────────────┐
 │  Python Script      │
 │  - RSS収集          │  ← 複数のAIメディアから取得
-│  - Claude Code分析   │  ← サプライズ度スコアリング
+│  - Claude Code分析  │  ← サプライズ度スコアリング (Groq LLaMA 3.1 70B)
 │  - X API投稿        │  ← 結果を自動ツイート
 └─────────────────────┘
 ```
@@ -32,10 +33,17 @@
 
 以下のAPIキーを取得してください：
 
-#### Claude API
-1. https://console.anthropic.com/ にアクセス
-2. API Keyを発行
-3. GitHub Secretsに `ANTHROPIC_API_KEY` として保存
+#### Groq API（完全無料）
+1. https://console.groq.com/ にアクセス
+2. サインアップ（GitHubアカウントでログイン可能）
+3. 「Create API Key」をクリック
+4. APIキーをコピー
+5. GitHub Secretsに `GROQ_API_KEY` として保存
+
+**無料枠**: 
+- LLaMA 3.1 70B: 30リクエスト/分
+- 月間制限なし
+- 高速推論（Claudeより速い）
 
 #### X (Twitter) API
 1. https://developer.twitter.com/ でDeveloper Accountを作成
@@ -53,7 +61,7 @@
 
 リポジトリの `Settings` → `Secrets and variables` → `Actions` で以下を追加:
 
-- `ANTHROPIC_API_KEY`: Claude APIキー
+- `GROQ_API_KEY`: Groq APIキー（無料）
 - `TWITTER_API_KEY`: X API Key
 - `TWITTER_API_SECRET`: X API Secret Key
 - `TWITTER_ACCESS_TOKEN`: X Access Token
@@ -94,16 +102,17 @@ python src/analyzer.py
 - OpenAI Blog
 - Google AI Blog
 - Anthropic News
+- Hugging Face Blog
+- DeepMind Blog
 
 ### 日本語メディア
 - ITmedia AI+
 - AINOW
-- AI Database
 - Ledge.ai
 
 ## サプライズ度評価基準
 
-Claude Codeが以下の4つの観点で評価:
+Claude Code（Groq LLaMA 3.1 70B）が以下の4つの観点で評価:
 
 1. **インパクト**: 性能・価格・規模の桁違い感
 2. **新規性**: 既存技術との非連続性
@@ -129,6 +138,13 @@ OpenAI、GPT-5を予想外の価格で一般公開
 
 #AI #MachineLearning #OpenAI
 ```
+
+## 技術スタック
+
+- **LLM**: Groq LLaMA 3.1 70B（無料）
+- **自動化**: GitHub Actions
+- **言語**: Python 3.11+
+- **ライブラリ**: feedparser, groq, tweepy, pytz
 
 ## ライセンス
 

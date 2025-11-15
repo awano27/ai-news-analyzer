@@ -30,7 +30,7 @@ def main():
 
     # 必須環境変数チェック
     required_vars = [
-        'ANTHROPIC_API_KEY',
+        'GROQ_API_KEY',
         'TWITTER_API_KEY',
         'TWITTER_API_SECRET',
         'TWITTER_ACCESS_TOKEN',
@@ -69,7 +69,7 @@ def main():
 
     # ステップ2: サプライズ度分析
     logger.info("\n[STEP 2] Analyzing articles with Claude Code...")
-    analyzer = SurpriseAnalyzer(api_key=os.getenv('ANTHROPIC_API_KEY'))
+    analyzer = SurpriseAnalyzer(api_key=os.getenv('GROQ_API_KEY'))
     result = analyzer.analyze_articles(ai_articles)
 
     if not result:

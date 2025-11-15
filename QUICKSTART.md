@@ -17,8 +17,8 @@ git push -u origin main
 
 ### 2. APIキーを取得
 
-#### Claude API
-- https://console.anthropic.com/ → API Keys → Create Key
+#### Groq API
+- https://console.groq.com/ → API Keys → Create Key
 
 #### Twitter API
 - https://developer.twitter.com/en/portal/dashboard
@@ -30,7 +30,7 @@ git push -u origin main
 リポジトリの Settings → Secrets and variables → Actions で以下を追加:
 
 ```
-ANTHROPIC_API_KEY=sk-ant-xxxxx
+GROQ_API_KEY=gsk_xxxxx
 TWITTER_API_KEY=xxxxx
 TWITTER_API_SECRET=xxxxx
 TWITTER_ACCESS_TOKEN=xxxxx
@@ -74,7 +74,7 @@ cron: '0 12 * * *'  # UTC 12:00 = JST 21:00
 ### ニュースが見つからない
 → 正常です。実際にAIニュースが少ない日もあります
 
-### Claude APIエラー
+### Groq APIエラー
 → APIキーが正しいか、クレジットが残っているか確認
 
 ## 次に読むドキュメント

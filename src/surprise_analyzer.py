@@ -1,8 +1,9 @@
 """
 Claude Codeを使用してニュースのサプライズ度を分析
+（Groq API - 無料LLMを使用）
 """
 
-import anthropic
+from groq import Groq
 import json
 import logging
 from typing import List, Dict, Optional
@@ -15,10 +16,11 @@ class SurpriseAnalyzer:
     def __init__(self, api_key: str):
         """
         Args:
-            api_key: Anthropic APIキー
+            api_key: Groq APIキー
         """
-        self.client = anthropic.Anthropic(api_key=api_key)
-        self.model = "claude-3-5-sonnet-20241022"
+        self.client = Groq(api_key=api_key)
+        # LLaMA 3.1 70B - 無料で高性能
+        self.model = "llama-3.1-70b-versatile"
 
     def analyze_articles(self, articles: List[Dict]) -> Dict:
         """
@@ -73,7 +75,7 @@ class SurpriseAnalyzer:
 
     def _analyze_with_claude(self, candidates: List[Dict]) -> Dict:
         """
-        Claude APIで候補記事を詳細分析
+        Groq APIで候補記事を詳細分析
 
         Args:
             candidates: 候補記事のリスト
@@ -88,18 +90,21 @@ class SurpriseAnalyzer:
         prompt = self._create_analysis_prompt(candidates_text)
 
         try:
-            # Claude Codeを呼び出し
-            message = self.client.messages.create(
-                model=self.model,
-                max_tokens=2000,
-                temperature=0.3,
+            # Claude Codeを呼び出し（Groq API経由）
+            chat_completion = self.client.chat.completions.create(
                 messages=[
-                    {"role": "user", "content": prompt}
-                ]
+                    {
+                        "role": "user",
+                        "content": prompt,
+                    }
+                ],
+                model=self.model,
+                temperature=0.3,
+                max_tokens=2000,
             )
 
             # レスポンスをパース
-            response_text = message.content[0].text
+            response_text = chat_completion.choices[0].message.content
             logger.info(f"Claude Code response received: {len(response_text)} chars")
 
             # JSON形式で結果を抽出
