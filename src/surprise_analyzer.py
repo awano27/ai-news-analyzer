@@ -3,7 +3,7 @@ Claude Codeを使用してニュースのサプライズ度を分析
 （Groq API - 無料LLMを使用）
 """
 
-from groq import Groq
+import requests
 import json
 import logging
 from typing import List, Dict, Optional
@@ -18,7 +18,8 @@ class SurpriseAnalyzer:
         Args:
             api_key: Groq APIキー
         """
-        self.client = Groq(api_key=api_key)
+        self.api_key = api_key
+        self.api_url = "https://api.groq.com/openai/v1/chat/completions"
         # LLaMA 3.1 70B - 無料で高性能
         self.model = "llama-3.1-70b-versatile"
 
@@ -90,21 +91,36 @@ class SurpriseAnalyzer:
         prompt = self._create_analysis_prompt(candidates_text)
 
         try:
-            # Claude Codeを呼び出し（Groq API経由）
-            chat_completion = self.client.chat.completions.create(
-                messages=[
+            # Claude Codeを呼び出し（Groq API経由 - 直接HTTPリクエスト）
+            headers = {
+                "Authorization": f"Bearer {self.api_key}",
+                "Content-Type": "application/json"
+            }
+
+            payload = {
+                "model": self.model,
+                "messages": [
                     {
                         "role": "user",
-                        "content": prompt,
+                        "content": prompt
                     }
                 ],
-                model=self.model,
-                temperature=0.3,
-                max_tokens=2000,
+                "temperature": 0.3,
+                "max_tokens": 2000
+            }
+
+            response = requests.post(
+                self.api_url,
+                headers=headers,
+                json=payload,
+                timeout=30
             )
 
+            response.raise_for_status()
+
             # レスポンスをパース
-            response_text = chat_completion.choices[0].message.content
+            response_data = response.json()
+            response_text = response_data['choices'][0]['message']['content']
             logger.info(f"Claude Code response received: {len(response_text)} chars")
 
             # JSON形式で結果を抽出
