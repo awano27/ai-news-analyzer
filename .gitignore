@@ -42,6 +42,6 @@ Thumbs.db
 # Logs
 *.log
 
-# Output
-output/
-reports/
+# Output - keep output files in git for history
+# output/
+# reports/
