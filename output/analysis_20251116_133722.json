@@ -1,0 +1,44 @@
+{
+  "article": {
+    "title": "射幸心ぐんぐん？　「美少女AIコンシェルジュのお手伝い付きクレーンゲーム」体験してきた",
+    "link": "https://www.itmedia.co.jp/aiplus/articles/2511/14/news118.html",
+    "published": "2025-11-16 13:00:00+09:00",
+    "summary": "クレーンゲームに後付けできるAIコンシェルジュ技術「アシストキャッチャー」。あくまでデモなので不完全な部分もあったが、一方で可能性を感じる点も多かった。果たして、その全容とは……。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 0
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "射幸心ぐんぐん？　「美少女AIコンシェルジュのお手伝い付きクレーンゲーム」体験してきた",
+    "summary": "クレーンゲームに後付けできるAIコンシェルジュ技術「アシストキャッチャー」。あくまでデモなので不完全な部分もあったが、一方で可能性を感じる点も多かった。果たして、その全容とは……。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 0,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "射幸心ぐんぐん？　「美少女AIコンシェルジュのお手伝い付きクレーンゲーム」体験してきた",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2511/14/news118.html",
+      "published": "2025-11-16 13:00:00+09:00",
+      "summary": "クレーンゲームに後付けできるAIコンシェルジュ技術「アシストキャッチャー」。あくまでデモなので不完全な部分もあったが、一方で可能性を感じる点も多かった。果たして、その全容とは……。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 0
+    },
+    {
+      "title": "ChatGPTにエムダッシュ（日本では「**」）を使わないよう指示できるとアルトマンCEO",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2511/16/news017.html",
+      "published": "2025-11-16 07:52:00+09:00",
+      "summary": "OpenAIのアルトマンCEOは、「ChatGPT-5.1」の「カスタム表示」で「em-dash」（日本語では**）を使わないよう指示できるようになったとXにポストした。これはChatGPTが生成した文章と判別される一因と指摘されており、改善を求める声があった。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
