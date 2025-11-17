@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Human-centric IAM is failing: Agentic AI requires a new identity control plane",
+    "link": "https://venturebeat.com/security/human-centric-iam-is-failing-agentic-ai-requires-a-new-identity-control",
+    "published": "2025-11-16 14:00:00+09:00",
+    "summary": "The race to deploy agentic AI is on . Across the enterprise, systems that can plan, take actions and collaborate across business applications promise unprecedented efficiency. But in the rush to automate, a critical component is being overlooked: Scalable security. We are building a workforce of digital employees without giving them a secure way to log in, access data and do their jobs without creating catastrophic risk. The fundamental problem is that traditional identity and access management ",
+    "source": "VentureBeat AI",
+    "language": "en",
+    "preliminary_score": 3
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Human-centric IAM is failing: Agentic AI requires a new identity control plane",
+    "summary": "The race to deploy agentic AI is on . Across the enterprise, systems that can plan, take actions and collaborate across business applications promise unprecedented efficiency. But in the rush to automate, a critical component is being overlooked: Scalable security. We are building a workforce of digital employees without giving them a secure way to log in, access data and do their jobs without creating catastrophic risk. The fundamental problem is that traditional identity and access management ",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 3,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Human-centric IAM is failing: Agentic AI requires a new identity control plane",
+      "link": "https://venturebeat.com/security/human-centric-iam-is-failing-agentic-ai-requires-a-new-identity-control",
+      "published": "2025-11-16 14:00:00+09:00",
+      "summary": "The race to deploy agentic AI is on . Across the enterprise, systems that can plan, take actions and collaborate across business applications promise unprecedented efficiency. But in the rush to automate, a critical component is being overlooked: Scalable security. We are building a workforce of digital employees without giving them a secure way to log in, access data and do their jobs without creating catastrophic risk. The fundamental problem is that traditional identity and access management ",
+      "source": "VentureBeat AI",
+      "language": "en",
+      "preliminary_score": 3
+    },
+    {
+      "title": "How much of the AI data center boom will be powered by renewable energy?",
+      "link": "https://techcrunch.com/2025/11/16/how-much-of-the-ai-data-center-boom-will-be-powered-by-renewable-energy/",
+      "published": "2025-11-17 01:48:42+09:00",
+      "summary": "According to a new report from the International Energy Agency, the world will spend $580 billion on data centers this year — $40 billion more than will be spent finding new oil supplies.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "From shiny object to sober reality: The vector database story, two years later",
+      "link": "https://venturebeat.com/ai/from-shiny-object-to-sober-reality-the-vector-database-story-two-years-later",
+      "published": "2025-11-17 03:00:00+09:00",
+      "summary": "When I first wrote “ Vector databases: Shiny object syndrome and the case of a missing unicorn ” in March 2024, the industry was awash in hype. Vector databases were positioned as the next big thing — a must-have infrastructure layer for the gen AI era. Billions of venture dollars flowed, developers rushed to integrate embeddings into their pipelines and analysts breathlessly tracked funding rounds for Pinecone , Weaviate , Chroma , Milvus and a dozen others. The promise was intoxicating: Finall",
+      "source": "VentureBeat AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "SB C&S、AI活用のクラウド図面管理システムの取り扱いを開始",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2511/17/news012.html",
+      "published": "2025-11-17 09:00:00+09:00",
+      "summary": "New Innovationsは、AIを活用したクラウド図面管理システム「図面バンク」の取り扱いについて、SB C&Sとディストリビューター契約を締結。全国約1万5000社に及ぶSB C&Sの販売網を通じて顧客を拡大し、製造業の業務効率化と生産性向上を支援する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 0
+    },
+    {
+      "title": "不足するセキュリティ人材、本当に生成AIを活用してほしい人は？",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2511/17/news010.html",
+      "published": "2025-11-17 07:00:00+09:00",
+      "summary": "「モノづくりに携わる人」だからこそ、もう無関心ではいられない情報セキュリティ対策の話。今回は、ビジネスの現場で急速に広がる「生成AI」の活用をテーマに、経営層から現場までが考えるべきリスクと可能性を取り上げます。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
