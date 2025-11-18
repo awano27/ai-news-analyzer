@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "「Grok 4.1」リリース　感情表現や対話能力を強化、ユーザー選好度も向上",
+    "link": "https://www.itmedia.co.jp/aiplus/articles/2511/18/news066.html",
+    "published": "2025-11-18 08:19:00+09:00",
+    "summary": "xAIは「Grok 4.1」を発表した。新たな手法で創造的・感情的な対話能力を強化したという。LMArenaベンチマークでは推論モードが1位を獲得し、従来モデルよりユーザー選好度が64.78％向上した。幻覚（ハルシネーション）も低減させたとしている。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 4
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "「Grok 4.1」リリース　感情表現や対話能力を強化、ユーザー選好度も向上",
+    "summary": "xAIは「Grok 4.1」を発表した。新たな手法で創造的・感情的な対話能力を強化したという。LMArenaベンチマークでは推論モードが1位を獲得し、従来モデルよりユーザー選好度が64.78％向上した。幻覚（ハルシネーション）も低減させたとしている。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 4,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "「Grok 4.1」リリース　感情表現や対話能力を強化、ユーザー選好度も向上",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2511/18/news066.html",
+      "published": "2025-11-18 08:19:00+09:00",
+      "summary": "xAIは「Grok 4.1」を発表した。新たな手法で創造的・感情的な対話能力を強化したという。LMArenaベンチマークでは推論モードが1位を獲得し、従来モデルよりユーザー選好度が64.78％向上した。幻覚（ハルシネーション）も低減させたとしている。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "GoogleDeepMind、AI天気予測「WeatherNext 2」リリース　サイクロン予測精度が向上",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2511/18/news064.html",
+      "published": "2025-11-18 07:10:00+09:00",
+      "summary": "Google DeepMindは、AI天気予測モデル「WeatherNext 2」を発表した。最大2週間先までの予測が可能で、従来比8倍高速に生成できる。新手法「FGN」を採用し、サイクロン予測精度などが向上。予測データは「Vertex AI」などで利用可能だ。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "MCP AI agent security startup Runlayer launches with 8 unicorns, $11M from Khosla’s Keith Rabois and Felicis",
+      "link": "https://techcrunch.com/2025/11/17/mcp-ai-agent-security-startup-runlayer-launches-with-8-unicorns-11m-from-khoslas-keith-rabois-and-felicis/",
+      "published": "2025-11-17 23:00:00+09:00",
+      "summary": "Three-time founder Andrew Berman is back with a startup that helps IT ensure business users' AI agents operate securely.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "NTT、「脳解読技術」を開発　AIで“脳内イメージ”を言語化できるように",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2511/17/news093.html",
+      "published": "2025-11-17 18:57:00+09:00",
+      "summary": "NTTは、脳の活動データをもとに、人が見たり思い浮かべたりした視覚情報を言葉に変換する技術「マインド・キャプショニング」を開発したと発表した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Sakana AI、200億円を調達　企業価値は4000億円に　「ソブリンAI」開発に注力",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2511/17/news050.html",
+      "published": "2025-11-17 11:44:00+09:00",
+      "summary": "Sakana AIは、総額約200億円（1億3500万ドル）を調達したと発表した。シリーズBラウンドで、三菱UFJフィナンシャル・グループ（MUFG）などから出資を受けた。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
