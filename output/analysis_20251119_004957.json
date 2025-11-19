@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "GPT-5.1シリーズを一斉公開　CodexにMini版も加わり、“メリハリ思考”で実用性を底上げ",
+    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2511/19/news014.html",
+    "published": "2025-11-19 05:00:00+09:00",
+    "summary": "OpenAIが「GPT-5.1」「GPT-5.1-Codex」「GPT-5.1-Codex-Mini」の3モデルを一斉発表。今回はド派手な刷新こそないが、日常タスクの高速化とコスト削減、複雑タスクの精度向上といった“実用性の底上げ”が大きい。記事後半では筆者のひと言コメントも添えて紹介する。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 4
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "GPT-5.1シリーズを一斉公開　CodexにMini版も加わり、“メリハリ思考”で実用性を底上げ",
+    "summary": "OpenAIが「GPT-5.1」「GPT-5.1-Codex」「GPT-5.1-Codex-Mini」の3モデルを一斉発表。今回はド派手な刷新こそないが、日常タスクの高速化とコスト削減、複雑タスクの精度向上といった“実用性の底上げ”が大きい。記事後半では筆者のひと言コメントも添えて紹介する。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 4,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "GPT-5.1シリーズを一斉公開　CodexにMini版も加わり、“メリハリ思考”で実用性を底上げ",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2511/19/news014.html",
+      "published": "2025-11-19 05:00:00+09:00",
+      "summary": "OpenAIが「GPT-5.1」「GPT-5.1-Codex」「GPT-5.1-Codex-Mini」の3モデルを一斉発表。今回はド派手な刷新こそないが、日常タスクの高速化とコスト削減、複雑タスクの精度向上といった“実用性の底上げ”が大きい。記事後半では筆者のひと言コメントも添えて紹介する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "Google launches Gemini 3 with new coding app and record benchmark scores",
+      "link": "https://techcrunch.com/2025/11/18/google-launches-gemini-3-with-new-coding-app-and-record-benchmark-scores/",
+      "published": "2025-11-19 01:00:00+09:00",
+      "summary": "Google released Gemini 3, its latest and most advanced foundation model, to be made immediately available through the Gemini app and AI search interface.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Musk's xAI launches Grok 4.1 with lower hallucination rate on the web and apps — no API access (for now)",
+      "link": "https://venturebeat.com/ai/musks-xai-launches-grok-4-1-with-lower-hallucination-rate-on-the-web-and",
+      "published": "2025-11-19 05:03:00+09:00",
+      "summary": "In what appeared to be a bid to soak up some of Google's limelight prior to the launch of its new Gemini 3 flagship AI model — now recorded as the most powerful LLM in the world by multiple independent evaluators — Elon Musk's rival AI startup xAI last night unveiled its newest large language model, Grok 4.1. The model is now live for consumer use on Grok.com, social network X (formerly Twitter), and the company’s iOS and Android mobile apps, and it arrives with major architectural and usability",
+      "source": "VentureBeat AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Google unveils Gemini 3 claiming the lead in math, science, multimodal and agentic AI benchmarks",
+      "link": "https://venturebeat.com/ai/google-unveils-gemini-3-claiming-the-lead-in-math-science-multimodal-and",
+      "published": "2025-11-19 01:00:00+09:00",
+      "summary": "After more than a month of rumors and feverish speculation — including Polymarket wagering on the release date — Google today unveiled Gemini 3 , its newest proprietary frontier model family and the company’s most comprehensive AI release since the Gemini line debuted in 2023. The models are proprietary (closed-source), available exclusively through Google products, developer platforms, and paid APIs, including Google AI Studio , Vertex AI , the Gemini command line interface (CLI) for developers",
+      "source": "VentureBeat AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Microsoft、NVIDIA、Anthropicが戦略的提携　ClaudeをAzure上で大規模展開",
+      "link": "https://www.itmedia.co.jp/news/articles/2511/19/news069.html",
+      "published": "2025-11-19 08:47:00+09:00",
+      "summary": "Microsoft、NVIDIA、Anthropicは、戦略的提携を発表した。Anthropicへの合計150億ドルの投資が含まれる。Anthropicは「Claude」をAzure上でスケールさせ、300億ドル分のAzure利用を確約。ナデラCEOは「お互いの顧客になる」とし、ゼロサム競争からの脱却を訴えた。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
