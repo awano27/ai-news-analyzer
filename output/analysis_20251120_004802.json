@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Gemini 3、ついに登場　「驚異的」な性能と既存ユーザーへの影響",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2511/19/news099.html",
+    "published": "2025-11-19 20:00:00+09:00",
+    "summary": "Googleがついに最新AIモデル「Gemini 3」を発表した。推論能力や長期タスクの計画能力が向上したという。アプリの新機能も併せて発表された。われわれの日常業務はどう変わるのだろうか。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 5
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Gemini 3、ついに登場　「驚異的」な性能と既存ユーザーへの影響",
+    "summary": "Googleがついに最新AIモデル「Gemini 3」を発表した。推論能力や長期タスクの計画能力が向上したという。アプリの新機能も併せて発表された。われわれの日常業務はどう変わるのだろうか。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 5,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Gemini 3、ついに登場　「驚異的」な性能と既存ユーザーへの影響",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2511/19/news099.html",
+      "published": "2025-11-19 20:00:00+09:00",
+      "summary": "Googleがついに最新AIモデル「Gemini 3」を発表した。推論能力や長期タスクの計画能力が向上したという。アプリの新機能も併せて発表された。われわれの日常業務はどう変わるのだろうか。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 5
+    },
+    {
+      "title": "YC-backed Poly relaunches as a cloud-hosted file storage with AI search",
+      "link": "https://techcrunch.com/2025/11/19/yc-backed-poly-relaunches-as-a-cloud-hosted-file-storage-with-ai-search/",
+      "published": "2025-11-20 02:00:00+09:00",
+      "summary": "Poly's cloud-based file storage system with AI-powered search lets you search through text, images, audio, and video.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "The Google Search of AI agents? Fetch launches ASI:One and Business tier for new era of non-human web",
+      "link": "https://venturebeat.com/ai/the-google-search-of-ai-agents-fetch-launches-asi-one-and-business-tier-for",
+      "published": "2025-11-20 02:57:00+09:00",
+      "summary": "Fetch AI , a startup founded and led by former DeepMind founding investor, Humayun Sheikh, on Wednesday announced the release of three interconnected products designed to provide the trust, coordination, and interoperability needed for large-scale AI agent ecosystems. The launch includes ASI:One , a personal-AI orchestration platform; Fetch Business , a verification and discovery portal for brand agents; and Agentverse , an open directory hosting more than two million agents. Together, the syste",
+      "source": "VentureBeat AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "VentureBeat launches “Beyond the Pilot” — a new podcast series exploring how enterprise AI gets real",
+      "link": "https://venturebeat.com/ai/venturebeat-launches-beyond-the-pilot-a-new-podcast-series-exploring-how",
+      "published": "2025-11-19 14:00:00+09:00",
+      "summary": "Premiering November 19 VentureBeat is proud to announce the launch of its new flagship podcast, Beyond the Pilot: Enterprise AI in Action , premiering November 19 and brought to you by our anchor sponsor, Outshift by Cisco . Enterprise AI has reached a new inflection point: workloads are going live, and the constraints are getting real. The challenge for enterprise technical leaders isn’t understanding AI’s potential — it’s navigating the messy, complex work of making it run reliably at scale. B",
+      "source": "VentureBeat AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "MetaチーフAIサイエンティストのルカン博士が辞任し、AI企業立ち上げへ",
+      "link": "https://www.itmedia.co.jp/news/articles/2511/20/news069.html",
+      "published": "2025-11-20 09:07:00+09:00",
+      "summary": "MetaチーフAIサイエンティストのヤン・ルカン博士は、同社を退社して先端機械知能研究（AMI）を継続するためのスタートアップを立ち上げると発表した。新企業は「Metaとパートナーになる」としている。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
