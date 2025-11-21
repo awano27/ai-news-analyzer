@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Googleが本気を見せた「Gemini 3 Pro」　トップレベル性能でバイブコーディングにも強い",
+    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2511/21/news027.html",
+    "published": "2025-11-21 05:00:00+09:00",
+    "summary": "Googleが「Gemini 3 Pro」を公開し、AIモデル競争はさらにヒートアップ。高度な思考、画面理解、複雑タスクの自動実行、コード生成など、多方面での性能向上が確認されている。記事後半では、今回の発表をどう読むべきか、筆者の視点からも解説する。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 4
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Googleが本気を見せた「Gemini 3 Pro」　トップレベル性能でバイブコーディングにも強い",
+    "summary": "Googleが「Gemini 3 Pro」を公開し、AIモデル競争はさらにヒートアップ。高度な思考、画面理解、複雑タスクの自動実行、コード生成など、多方面での性能向上が確認されている。記事後半では、今回の発表をどう読むべきか、筆者の視点からも解説する。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 4,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Googleが本気を見せた「Gemini 3 Pro」　トップレベル性能でバイブコーディングにも強い",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2511/21/news027.html",
+      "published": "2025-11-21 05:00:00+09:00",
+      "summary": "Googleが「Gemini 3 Pro」を公開し、AIモデル競争はさらにヒートアップ。高度な思考、画面理解、複雑タスクの自動実行、コード生成など、多方面での性能向上が確認されている。記事後半では、今回の発表をどう読むべきか、筆者の視点からも解説する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "Meta、動画内アイテム識別AI「SAM 3」と3Dモデル「SAM 3D」を公開",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2511/20/news080.html",
+      "published": "2025-11-20 11:33:00+09:00",
+      "summary": "Metaは、画像と動画のアイテムを識別・追跡できるAIモデル「SAM 3」と、3D物体再構築モデル「SAM 3D」を発表し、GitHubで公開した。SAM 3は「赤いストライプの傘」など微妙な概念も識別でき、Facebook Marketplaceの「View in Room」機能やInstagramの動画編集を強化する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "ChatGPT launches group chats globally",
+      "link": "https://techcrunch.com/2025/11/20/chatgpt-launches-group-chats-globally/",
+      "published": "2025-11-21 04:07:34+09:00",
+      "summary": "The company sees group chats in ChatGPT as a way for people to coordinate trips, co-write documents, settle debates, or work through research together, while ChatGPT helps search, summarize, and compare options.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Google releases Nano Banana Pro, its latest image-generation model",
+      "link": "https://techcrunch.com/2025/11/20/google-releases-nano-banana-pro-its-latest-image-generation-model/",
+      "published": "2025-11-21 00:00:00+09:00",
+      "summary": "Google is upgrading its image generation model with new editing chops, higher resolutions, more accurate text rendering, and the ability to search the web.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Ai2’s Olmo 3 family challenges Qwen and Llama with efficient, open reasoning and customization",
+      "link": "https://venturebeat.com/ai/ai2s-olmo-3-family-challenges-qwen-and-llama-with-efficient-open-reasoning",
+      "published": "2025-11-20 14:00:00+09:00",
+      "summary": "The Allen Institute for AI (Ai2) hopes to take advantage of an increased demand for customized models and enterprises seeking more transparency from AI models with its latest release. Ai2 made the latest addition to its Olmo family of large language models available to organizations, continuing to focus on openness and customization. Olmo 3 has a longer context window, more reasoning traces and is better at coding than its previous iteration. This latest version, like the other Olmo releases, is",
+      "source": "VentureBeat AI",
+      "language": "en",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
