@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "AI音声「にじボイス」、“権利侵害はない”のにサービス終了へ　日俳連から「声優に酷似」と指摘受け",
+    "link": "https://www.itmedia.co.jp/aiplus/articles/2511/21/news121.html",
+    "published": "2025-11-21 16:44:00+09:00",
+    "summary": "DMMグループでAI関連サービスを開発するAlgomaticは、AI音声サービス「にじボイス」のサービスを2026年2月4日に終了すると発表した。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "AI音声「にじボイス」、“権利侵害はない”のにサービス終了へ　日俳連から「声優に酷似」と指摘受け",
+    "summary": "DMMグループでAI関連サービスを開発するAlgomaticは、AI音声サービス「にじボイス」のサービスを2026年2月4日に終了すると発表した。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "AI音声「にじボイス」、“権利侵害はない”のにサービス終了へ　日俳連から「声優に酷似」と指摘受け",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2511/21/news121.html",
+      "published": "2025-11-21 16:44:00+09:00",
+      "summary": "DMMグループでAI関連サービスを開発するAlgomaticは、AI音声サービス「にじボイス」のサービスを2026年2月4日に終了すると発表した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "AIエージェントを“速習”できる入門資料、法務AIサービス企業が無料公開",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2511/21/news103.html",
+      "published": "2025-11-21 13:29:00+09:00",
+      "summary": "法務を支援するAIサービスなどを開発するLegalOn Technologiesは、資料「速習 AIエージェント入門」を無料公開した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "元DeepMindやTeslaのエンジニア設立のSunday、家事代行ロボット「Memo」発表",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2511/21/news086.html",
+      "published": "2025-11-21 10:53:00+09:00",
+      "summary": "米新興企業Sundayは、家庭向け雑務代行ロボット「Memo」を発表した。Sundayは、Google DeepMindやTelsaなどの出身者が設立。Memoの開発には、実家庭で収集した1000万件の行動データを学習に利用した。まず50世帯を対象としたβプログラムを開始する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "痒い所に手が届くアップデート　TaniumがOTにもリアルタイム統制を拡張",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2511/21/news057.html",
+      "published": "2025-11-21 10:00:00+09:00",
+      "summary": "OTデバイスの管理や脆弱性対応は企業にとって悩みの種の一つだ。この解消に向けてTaniumは自社製品のアップデートを公開した。エンドポイント管理を超えたOT・モバイルデバイスへのカバレッジ拡大とAI活用の進化に迫る。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Bret Taylor’s Sierra reaches $100M ARR in under two years",
+      "link": "https://techcrunch.com/2025/11/21/bret-taylors-sierra-reaches-100m-arr-in-under-two-years/",
+      "published": "2025-11-22 08:00:08+09:00",
+      "summary": "The startup’s rapid growth suggests that enerprises are embracing AI agents.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
