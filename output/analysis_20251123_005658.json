@@ -1,0 +1,44 @@
+{
+  "article": {
+    "title": "Trump administration might not fight state AI regulations after all",
+    "link": "https://techcrunch.com/2025/11/22/trump-administration-might-not-fight-state-ai-regulations-after-all/",
+    "published": "2025-11-23 07:20:27+09:00",
+    "summary": "A Trump administration order targeting state-level AI regulation is reportedly on hold.",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 0
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Trump administration might not fight state AI regulations after all",
+    "summary": "A Trump administration order targeting state-level AI regulation is reportedly on hold.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 0,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Trump administration might not fight state AI regulations after all",
+      "link": "https://techcrunch.com/2025/11/22/trump-administration-might-not-fight-state-ai-regulations-after-all/",
+      "published": "2025-11-23 07:20:27+09:00",
+      "summary": "A Trump administration order targeting state-level AI regulation is reportedly on hold.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Lean4: How the theorem prover works and why it's the new competitive edge in AI",
+      "link": "https://venturebeat.com/ai/lean4-how-the-theorem-prover-works-and-why-its-the-new-competitive-edge-in",
+      "published": "2025-11-23 09:30:00+09:00",
+      "summary": "Large language models (LLMs) have astounded the world with their capabilities, yet they remain plagued by unpredictability and hallucinations – confidently outputting incorrect information. In high-stakes domains like finance, medicine or autonomous systems, such unreliability is unacceptable. Enter Lean4 , an open-source programming language and interactive theorem prover becoming a key tool to inject rigor and certainty into AI systems. By leveraging formal verification, Lean4 promises to make",
+      "source": "VentureBeat AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
