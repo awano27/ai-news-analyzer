@@ -1,0 +1,44 @@
+{
+  "article": {
+    "title": "AI is too risky to insure, say people whose job is insuring risk",
+    "link": "https://techcrunch.com/2025/11/23/ai-is-too-risky-to-insure-say-people-whose-job-is-insuring-risk/",
+    "published": "2025-11-24 02:45:00+09:00",
+    "summary": "Major insurers including AIG, Great American, and WR Berkley are asking U.S. regulators for permission to exclude AI-related liabilities from corporate policies. One underwriter describes the AI models’ outputs to the FT as \"too much of a black box.\"",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 0
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "AI is too risky to insure, say people whose job is insuring risk",
+    "summary": "Major insurers including AIG, Great American, and WR Berkley are asking U.S. regulators for permission to exclude AI-related liabilities from corporate policies. One underwriter describes the AI models’ outputs to the FT as \"too much of a black box.\"",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 0,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "AI is too risky to insure, say people whose job is insuring risk",
+      "link": "https://techcrunch.com/2025/11/23/ai-is-too-risky-to-insure-say-people-whose-job-is-insuring-risk/",
+      "published": "2025-11-24 02:45:00+09:00",
+      "summary": "Major insurers including AIG, Great American, and WR Berkley are asking U.S. regulators for permission to exclude AI-related liabilities from corporate policies. One underwriter describes the AI models’ outputs to the FT as \"too much of a black box.\"",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "ChatGPT told them they were special — their families say it led to tragedy",
+      "link": "https://techcrunch.com/2025/11/23/chatgpt-told-them-they-were-special-their-families-say-it-led-to-tragedy/",
+      "published": "2025-11-24 01:00:00+09:00",
+      "summary": "A wave of lawsuits against OpenAI detail how ChatGPT used manipulative language to isolate users from loved ones and make itself into their sole confidant.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
