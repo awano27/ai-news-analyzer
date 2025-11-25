@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Anthropic releases Opus 4.5 with new Chrome and Excel integrations",
+    "link": "https://techcrunch.com/2025/11/24/anthropic-releases-opus-4-5-with-new-chrome-and-excel-integrations/",
+    "published": "2025-11-25 04:08:48+09:00",
+    "summary": "Anthropic has launched Opus 4.5, the latest version of its flagship model, with new integrations into Chrome and Excel.",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Anthropic releases Opus 4.5 with new Chrome and Excel integrations",
+    "summary": "Anthropic has launched Opus 4.5, the latest version of its flagship model, with new integrations into Chrome and Excel.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Anthropic releases Opus 4.5 with new Chrome and Excel integrations",
+      "link": "https://techcrunch.com/2025/11/24/anthropic-releases-opus-4-5-with-new-chrome-and-excel-integrations/",
+      "published": "2025-11-25 04:08:48+09:00",
+      "summary": "Anthropic has launched Opus 4.5, the latest version of its flagship model, with new integrations into Chrome and Excel.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "話題の新モデル「Gemini 3」はビジネスをどう変えるか　企業向けユースケース一覧",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2511/25/news040.html",
+      "published": "2025-11-25 08:00:00+09:00",
+      "summary": "Googleは企業と開発者を対象としたマルチモーダルAI「Gemini 3」を発表した。「推論能力において最先端のモデル」とされ、さまざまな形式のデータの読み込みに対応する。このモデルは企業における業務効率化にどのように貢献するのだろうか。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Anthropic、「Claude Opus 4.5」リリース　コーディング能力や会話継続能力が向上",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2511/25/news053.html",
+      "published": "2025-11-25 07:33:00+09:00",
+      "summary": "Anthropicは、フラグシップAIモデル「Claude Opus 4.5」をリリースした。コーディングやエージェント機能を強化し、これまで数日かかっていた開発プロジェクトを数時間で完了させる能力を持つとしている。自動要約機能で「際限なくチャットを続けられる」ようになった。AWS、Google Cloud、Microsoftでも利用可能だ。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Altman describes OpenAI’s forthcoming AI device as more peaceful and calm than the iPhone",
+      "link": "https://techcrunch.com/2025/11/24/altman-describes-openais-forthcoming-ai-device-as-more-peaceful-and-calm-than-the-iphone/",
+      "published": "2025-11-25 07:59:46+09:00",
+      "summary": "Altman and Ive tease a simple AI device aimed at calm, distraction-free computing, launching within two years.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "OpenAI learned the hard way that Cameo trademarked the word ‘cameo’",
+      "link": "https://techcrunch.com/2025/11/24/openai-learned-the-hard-way-that-cameo-trademarked-the-word-cameo/",
+      "published": "2025-11-25 07:27:10+09:00",
+      "summary": "OpenAI might have to rename the \"cameo\" feature in the Sora app.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
