@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "OpenAIに続きPerplexityもAIショッピング機能を提供開始（米国で）",
+    "link": "https://www.itmedia.co.jp/news/articles/2511/26/news076.html",
+    "published": "2025-11-26 11:01:00+09:00",
+    "summary": "Perplexityは、無料のショッピング機能を米国の全ユーザーに提供開始した。ユーザーの意図や好みを記憶し、仕様とレビューを含むカードで商品をお勧めする。OpenAIも前日に同様の機能を発表している。PayPalとの提携により、Perplexity内でPayPal対応の加盟店から直接商品を購入できる。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 4
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "OpenAIに続きPerplexityもAIショッピング機能を提供開始（米国で）",
+    "summary": "Perplexityは、無料のショッピング機能を米国の全ユーザーに提供開始した。ユーザーの意図や好みを記憶し、仕様とレビューを含むカードで商品をお勧めする。OpenAIも前日に同様の機能を発表している。PayPalとの提携により、Perplexity内でPayPal対応の加盟店から直接商品を購入できる。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 4,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "OpenAIに続きPerplexityもAIショッピング機能を提供開始（米国で）",
+      "link": "https://www.itmedia.co.jp/news/articles/2511/26/news076.html",
+      "published": "2025-11-26 11:01:00+09:00",
+      "summary": "Perplexityは、無料のショッピング機能を米国の全ユーザーに提供開始した。ユーザーの意図や好みを記憶し、仕様とレビューを含むカードで商品をお勧めする。OpenAIも前日に同様の機能を発表している。PayPalとの提携により、Perplexity内でPayPal対応の加盟店から直接商品を購入できる。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
+      "link": "https://techcrunch.com/2025/11/26/chatgpt-everything-to-know-about-the-ai-chatbot/",
+      "published": "2025-11-27 04:33:39+09:00",
+      "summary": "A timeline of ChatGPT product updates and releases, starting with the latest, which we’ve been updating throughout the year.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Black Forest Labs launches Flux.2 AI image models to challenge Nano Banana Pro and Midjourney",
+      "link": "https://venturebeat.com/ai/black-forest-labs-launches-flux-2-ai-image-models-to-challenge-nano-banana",
+      "published": "2025-11-26 12:46:00+09:00",
+      "summary": "It's not just Google's Gemini 3 , Nano Banana Pro , and Anthropic's Claude Opus 4.5 we have to be thankful for this year around the Thanksgiving holiday here in the U.S. No, today the German AI startup Black Forest Labs released FLUX.2 , a new image generation and editing system complete with four different models designed to support production-grade creative workflows. FLUX.2 introduces multi-reference conditioning, higher-fidelity outputs, and improved text rendering, and it expands the compan",
+      "source": "VentureBeat AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "OpenAI、ChatGPTの自殺幇助訴訟で「チャット記録は抜粋」と主張　全記録の提出を表明",
+      "link": "https://www.itmedia.co.jp/news/articles/2511/27/news075.html",
+      "published": "2025-11-27 08:47:00+09:00",
+      "summary": "OpenAIは、16歳のユーザーの自殺に関与したと主張されている訴訟について、原告側が引用したチャット記録は選択的な抜粋であり、事実の全容を裁判所に提出すると発表した。OpenAIはプライバシーに配慮しつつ、ユーザーの精神衛生に関する詳細な文脈を提示する。また、訴訟とは別にChatGPTの安全プロトコルを強化している点を強調した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "LLMに膨大な量の問題を解かせる→混乱し有害な内容をポロポロ解答　新たなジェイルブレイク攻撃、国際チームが提案",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2511/27/news032.html",
+      "published": "2025-11-27 08:00:00+09:00",
+      "summary": "英オックスフォード大学などに所属する国際研究チームは、有害な指示の前に無害な長い推論を付加することで、AIの安全機構を巧妙に回避するジェイルブレイク攻撃を提案した研究報告を発表した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
