@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "「誤解を招いた」――国交省・薗原ダム管理支所、投稿した“AI加工”写真を削除　代わりに元写真を掲載",
+    "link": "https://www.itmedia.co.jp/aiplus/articles/2511/28/news126.html",
+    "published": "2025-11-28 18:13:00+09:00",
+    "summary": "国土交通省の薗原ダム（群馬県沼田市）管理支所の公式Xは11月28日、27日に投稿した同ダムのAI加工写真を削除すると発表した。「誤解を与えない分かりやすく簡潔な情報発信とする」という公式Xの運用ポリシーにそぐわないと判断したという。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "「誤解を招いた」――国交省・薗原ダム管理支所、投稿した“AI加工”写真を削除　代わりに元写真を掲載",
+    "summary": "国土交通省の薗原ダム（群馬県沼田市）管理支所の公式Xは11月28日、27日に投稿した同ダムのAI加工写真を削除すると発表した。「誤解を与えない分かりやすく簡潔な情報発信とする」という公式Xの運用ポリシーにそぐわないと判断したという。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "「誤解を招いた」――国交省・薗原ダム管理支所、投稿した“AI加工”写真を削除　代わりに元写真を掲載",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2511/28/news126.html",
+      "published": "2025-11-28 18:13:00+09:00",
+      "summary": "国土交通省の薗原ダム（群馬県沼田市）管理支所の公式Xは11月28日、27日に投稿した同ダムのAI加工写真を削除すると発表した。「誤解を与えない分かりやすく簡潔な情報発信とする」という公式Xの運用ポリシーにそぐわないと判断したという。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Supabase hit $5B by turning down million-dollar contracts. Here’s why.",
+      "link": "https://techcrunch.com/video/supabase-hit-5b-by-turning-down-million-dollar-contracts-heres-why/",
+      "published": "2025-11-29 08:00:00+09:00",
+      "summary": "Vibe coding has taken the tech industry by storm, and it’s not just the Lovables and Replits of the world that are winning. The startups building the infrastructure behind them are cashing in too.  Supabase, the open-source database platform that’s become the backend of choice for the vibe-coding world, raised $100 million at a $5 billion valuation just months after closing $200 million at $2 billion. But co-founder and CEO […]",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Supabase CEO on the “painful” decisions that built a $5B company",
+      "link": "https://techcrunch.com/podcast/supabase-ceo-on-the-painful-decisions-that-built-a-5b-company/",
+      "published": "2025-11-29 02:20:00+09:00",
+      "summary": "Vibe coding has taken the tech industry by storm, and it’s not just the Lovables and Replits of the world that are winning. The startups building the infrastructure behind them are cashing in too.  Supabase, the open-source database platform that’s become the backend of choice for the vibe-coding world, raised $100 million at a $5 billion valuation just months after closing $200 million at $2 billion. But co-founder and CEO […]",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "How OpenAI and Google see AI changing go-to-market strategies",
+      "link": "https://techcrunch.com/2025/11/28/how-openai-and-google-see-ai-changing-go-to-market-strategies/",
+      "published": "2025-11-29 01:00:00+09:00",
+      "summary": "AI is changing how investors and startups bring their products to market. Three experts offered their insights at TechCrunch Disrupt.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "The race to regulate AI has sparked a federal vs state showdown",
+      "link": "https://techcrunch.com/2025/11/28/the-race-to-regulate-ai-has-sparked-a-federal-vs-state-showdown/",
+      "published": "2025-11-29 00:00:00+09:00",
+      "summary": "The fight over AI regulation isn't about the technology -- it's about whether Washington or the states get to set the rules, and what happens to consumers caught in between.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
