@@ -1,0 +1,53 @@
+{
+  "article": {
+    "title": "Black Friday sets online spending record of $11.8B, Adobe says",
+    "link": "https://techcrunch.com/2025/11/29/black-friday-sets-online-spending-record-of-11-8b-adobe-says/",
+    "published": "2025-11-30 06:39:44+09:00",
+    "summary": "American consumers spent $11.8 billion online on Black Friday, according to data from Adobe Analytics, which says it tracks more than 1 trillion visits to U.S. retail websites.",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 0
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Black Friday sets online spending record of $11.8B, Adobe says",
+    "summary": "American consumers spent $11.8 billion online on Black Friday, according to data from Adobe Analytics, which says it tracks more than 1 trillion visits to U.S. retail websites.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 0,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Black Friday sets online spending record of $11.8B, Adobe says",
+      "link": "https://techcrunch.com/2025/11/29/black-friday-sets-online-spending-record-of-11-8b-adobe-says/",
+      "published": "2025-11-30 06:39:44+09:00",
+      "summary": "American consumers spent $11.8 billion online on Black Friday, according to data from Adobe Analytics, which says it tracks more than 1 trillion visits to U.S. retail websites.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "No, you can’t get your AI to ‘admit’ to being sexist, but it probably is anyway",
+      "link": "https://techcrunch.com/2025/11/29/no-you-cant-get-your-ai-to-admit-to-being-sexist-but-it-probably-is/",
+      "published": "2025-11-30 01:00:00+09:00",
+      "summary": "Though LLMs might not use explicitly biased language, they may infer your demographic data and display implicit biases, researchers say.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Why observable AI is the missing SRE layer enterprises need for reliable LLMs",
+      "link": "https://venturebeat.com/ai/why-observable-ai-is-the-missing-sre-layer-enterprises-need-for-reliable",
+      "published": "2025-11-30 04:00:00+09:00",
+      "summary": "As AI systems enter production, reliability and governance can’t depend on wishful thinking. Here’s how observability turns large language models (LLMs) into auditable, trustworthy enterprise systems. Why observability secures the future of enterprise AI The enterprise race to deploy LLM systems mirrors the early days of cloud adoption. Executives love the promise; compliance demands accountability; engineers just want a paved road. Yet, beneath the excitement, most leaders admit they can’t trac",
+      "source": "VentureBeat AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
