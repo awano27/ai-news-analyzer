@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "AIによるサイバー攻撃の民主化をUnit 42が警告　「KawaiiGPT」は無料で利用可能",
+    "link": "https://www.itmedia.co.jp/news/articles/2512/01/news051.html",
+    "published": "2025-12-01 07:32:00+09:00",
+    "summary": "Palo Alto NetworksのUnit 42は、悪意あるLLM「WormGPT 4」や「KawaiiGPT」の分析結果を公開し、AIの「デュアルユースのジレンマ」がサイバーセキュリティの中心課題だと警告した。これらのLLMの出現により、攻撃のライフサイクルが数日からわずか数分にまで圧縮されたとしている。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "AIによるサイバー攻撃の民主化をUnit 42が警告　「KawaiiGPT」は無料で利用可能",
+    "summary": "Palo Alto NetworksのUnit 42は、悪意あるLLM「WormGPT 4」や「KawaiiGPT」の分析結果を公開し、AIの「デュアルユースのジレンマ」がサイバーセキュリティの中心課題だと警告した。これらのLLMの出現により、攻撃のライフサイクルが数日からわずか数分にまで圧縮されたとしている。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "AIによるサイバー攻撃の民主化をUnit 42が警告　「KawaiiGPT」は無料で利用可能",
+      "link": "https://www.itmedia.co.jp/news/articles/2512/01/news051.html",
+      "published": "2025-12-01 07:32:00+09:00",
+      "summary": "Palo Alto NetworksのUnit 42は、悪意あるLLM「WormGPT 4」や「KawaiiGPT」の分析結果を公開し、AIの「デュアルユースのジレンマ」がサイバーセキュリティの中心課題だと警告した。これらのLLMの出現により、攻撃のライフサイクルが数日からわずか数分にまで圧縮されたとしている。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "「AU 2025」で何が語られた？　オートデスク日本法人が解説",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2512/01/news009.html",
+      "published": "2025-12-01 07:00:00+09:00",
+      "summary": "オートデスクは、米国テネシー州ナッシュビルで開催された年次イベント「Autodesk University 2025（AU 2025）」の発表内容を、日本のメディア向けに紹介する記者説明会を実施した。本稿では、基調講演、AIキーノート、製造領域の発表内容を中心に、AU 2025の主要トピックスを整理した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Google Antigravityでアプリ開発はどう変わるのか　エディタとエージェントマネジャーがもたらす新たな世界",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2512/01/news014.html",
+      "published": "2025-12-01 05:00:00+09:00",
+      "summary": "Googleが発表したAntigravityはAIエージェントを開発の中心に置いた新たな開発体験を提供しようとしている。その体験がどんなものか、どんな要素が組み合わさっているのかについて紹介します。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "‘Avatar’ director James Cameron says generative AI is ‘horrifying’",
+      "link": "https://techcrunch.com/2025/11/30/avatar-director-james-cameron-says-generative-ai-is-horrifying/",
+      "published": "2025-12-01 07:53:15+09:00",
+      "summary": "James Cameron’s movies are often at the cutting edge of visual effects technology, but that doesn't make him a fan of generative AI.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "New report examines how David Sacks might profit from Trump administration role",
+      "link": "https://techcrunch.com/2025/11/30/new-report-examines-how-david-sacks-might-profit-from-trump-administration-role/",
+      "published": "2025-12-01 06:39:04+09:00",
+      "summary": "David Sacks’ role as President Donald Trump’s artificial intelligence and crypto czar could work out very well for his investments, according to a new report. However, Sacks fired back, calling the story a \"nothing burger.\"",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
