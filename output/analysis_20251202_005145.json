@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Nvidia announces new open AI models and tools for autonomous driving research",
+    "link": "https://techcrunch.com/2025/12/01/nvidia-announces-new-open-ai-models-and-tools-for-autonomous-driving-research/",
+    "published": "2025-12-02 06:00:22+09:00",
+    "summary": "Nvidia continues its push into physical AI with the release of a new reasoning world model and other tools for physical AI.",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Nvidia announces new open AI models and tools for autonomous driving research",
+    "summary": "Nvidia continues its push into physical AI with the release of a new reasoning world model and other tools for physical AI.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Nvidia announces new open AI models and tools for autonomous driving research",
+      "link": "https://techcrunch.com/2025/12/01/nvidia-announces-new-open-ai-models-and-tools-for-autonomous-driving-research/",
+      "published": "2025-12-02 06:00:22+09:00",
+      "summary": "Nvidia continues its push into physical AI with the release of a new reasoning world model and other tools for physical AI.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "MIT offshoot Liquid AI releases blueprint for enterprise-grade small-model training",
+      "link": "https://venturebeat.com/ai/mit-offshoot-liquid-ai-releases-blueprint-for-enterprise-grade-small-model",
+      "published": "2025-12-02 02:24:00+09:00",
+      "summary": "When Liquid AI, a startup f ounded by MIT computer scientists back in 2023 , introduced its Liquid Foundation Models series 2 (LFM2) in July 2025 , the pitch was straightforward: deliver the fastest on-device foundation models on the market using the new \"liquid\" architecture, with training and inference efficiency that made small models a serious alternative to cloud-only large language models (LLMs) such as OpenAI's GPT series and Google's Gemini. The initial release shipped dense checkpoints ",
+      "source": "VentureBeat AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "サイバー犯罪のハードルが激減？　無償で使える生成AI「KawaiiGPT」が登場",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2512/02/news037.html",
+      "published": "2025-12-02 08:00:00+09:00",
+      "summary": "無償かつ導入が容易な生成AIツール「KawaiiGPT」がGitHubで公開された。ガードレールを解除していることからサイバー攻撃に悪用される懸念が高まっている。数年前に話題になった悪意のある生成AIツールWormGPTと類似の挙動を再現している。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "OpenAI、NORADのサンタ追跡プログラムに協力 ChatGPT内で3種類のホリデーツールを提供",
+      "link": "https://www.itmedia.co.jp/news/articles/2512/02/news060.html",
+      "published": "2025-12-02 07:56:00+09:00",
+      "summary": "OpenAIは、NORAD Tracks Santaプログラムに協力し、ChatGPT内で利用できる3種類のホリデーツールを提供すると発表した。提供されるのは、写真をエルフ風に変換する「Elf Enrollment」、理想のおもちゃの塗り絵を生成する「Santa’s Toy Lab」、家族向けのオリジナル物語を作成する「Christmas Story Creator」だ。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "OpenAI、Thrive Holdingsと株式取得で提携　企業向けAI導入を加速",
+      "link": "https://www.itmedia.co.jp/news/articles/2512/02/news058.html",
+      "published": "2025-12-02 06:41:00+09:00",
+      "summary": "OpenAIは、主要投資家であるThrive Capitalが設立したThrive Holdingsの株式を取得したと発表した。企業によるAI導入を加速するための提携だと説明する。同日、コンサル企業のAccentureとも提携し、次世代AI活用サービスの主要パートナーとなることを明らかにした。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
