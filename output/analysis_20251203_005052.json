@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "AWS、AIチップ「Trainium3」の提供開始　演算性能は先代の4.4倍に",
+    "link": "https://www.itmedia.co.jp/news/articles/2512/03/news062.html",
+    "published": "2025-12-03 06:31:00+09:00",
+    "summary": "AWSは年次イベント「re:Invent 2025」で、3nmプロセスの新AIチップ「Trainium3」と搭載システム「Trainium3 UltraServer」を発表し、一般提供を開始した。先代比で演算性能最大4.4倍、メモリ帯域幅約4倍を達成。次世代「Trainium4」ではNVIDIAの「NVLink Fusion」をサポートし、GPUとのシームレスな連携を目指す。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 4
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "AWS、AIチップ「Trainium3」の提供開始　演算性能は先代の4.4倍に",
+    "summary": "AWSは年次イベント「re:Invent 2025」で、3nmプロセスの新AIチップ「Trainium3」と搭載システム「Trainium3 UltraServer」を発表し、一般提供を開始した。先代比で演算性能最大4.4倍、メモリ帯域幅約4倍を達成。次世代「Trainium4」ではNVIDIAの「NVLink Fusion」をサポートし、GPUとのシームレスな連携を目指す。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 4,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "AWS、AIチップ「Trainium3」の提供開始　演算性能は先代の4.4倍に",
+      "link": "https://www.itmedia.co.jp/news/articles/2512/03/news062.html",
+      "published": "2025-12-03 06:31:00+09:00",
+      "summary": "AWSは年次イベント「re:Invent 2025」で、3nmプロセスの新AIチップ「Trainium3」と搭載システム「Trainium3 UltraServer」を発表し、一般提供を開始した。先代比で演算性能最大4.4倍、メモリ帯域幅約4倍を達成。次世代「Trainium4」ではNVIDIAの「NVLink Fusion」をサポートし、GPUとのシームレスな連携を目指す。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "リーダーの思考をAI化、社員の相談相手に　DeNA子会社ら、26年春から提供開始",
+      "link": "https://www.itmedia.co.jp/business/articles/2512/02/news086.html",
+      "published": "2025-12-02 13:35:00+09:00",
+      "summary": "ディー・エヌ・エーの子会社であるDeNA AI Link（東京都渋谷区）が、AIサービス「AI社長」を提供するTHA（東京都新宿区）と共同で、エンタープライズ向けAIサービス「リーダーズAI」の開発・提供に着手すると発表。経営層や事業リーダー、部門リーダーなどの思考をAI化し、業務で活用するサービスだ。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "中国DeepSeekから新LLM「V3.2-Speciale」　「GPT-5超え、Gemini-3.0-Proに匹敵」うたう",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/02/news078.html",
+      "published": "2025-12-02 12:08:00+09:00",
+      "summary": "AIスタートアップの中国DeepSeekが、新しい大規模言語モデル（LLM）として、10月に発表した「DeepSeek-V3.2-Exp」の後継版「DeepSeek-V3.2」と、その高性能版「DeepSeek-V3.2-Speciale」をHugging Faceで公開した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "Android 16 adds AI notification summaries, new customization options, and more",
+      "link": "https://techcrunch.com/2025/12/02/android-16-adds-ai-notification-summaries-new-customization-options-and-more/",
+      "published": "2025-12-03 04:00:00+09:00",
+      "summary": "The rollout of the new Android 16 features, which are first coming to Pixel devices, marks a new chapter in how Android updates work, as the company is shifting from a single yearly update to more frequent releases.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "AWS launches new Nova AI models and a service that gives customers more control",
+      "link": "https://techcrunch.com/2025/12/02/aws-launches-new-nova-ai-models-and-a-service-that-gives-customers-more-control/",
+      "published": "2025-12-03 02:54:02+09:00",
+      "summary": "Amazon Web Services announced four new AI models within its Nova model family and a frontier model service.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
