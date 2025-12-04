@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "AIに仕事を“任せる”時代へ　AWSのCEOマット・ガーマン氏が語る、次世代AI基盤の全貌",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2512/03/news077.html",
+    "published": "2025-12-03 13:00:00+09:00",
+    "summary": "AWSの年次イベントにて、CEOのマット・ガーマン氏は自律的に実務をこなすAIエージェントが普及する未来を展望した。インフラから開発環境まで、ビジネス価値の創出に直結する最新発表の要点を解説する。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 5
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "AIに仕事を“任せる”時代へ　AWSのCEOマット・ガーマン氏が語る、次世代AI基盤の全貌",
+    "summary": "AWSの年次イベントにて、CEOのマット・ガーマン氏は自律的に実務をこなすAIエージェントが普及する未来を展望した。インフラから開発環境まで、ビジネス価値の創出に直結する最新発表の要点を解説する。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 5,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "AIに仕事を“任せる”時代へ　AWSのCEOマット・ガーマン氏が語る、次世代AI基盤の全貌",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2512/03/news077.html",
+      "published": "2025-12-03 13:00:00+09:00",
+      "summary": "AWSの年次イベントにて、CEOのマット・ガーマン氏は自律的に実務をこなすAIエージェントが普及する未来を展望した。インフラから開発環境まで、ビジネス価値の創出に直結する最新発表の要点を解説する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 5
+    },
+    {
+      "title": "Anthropic、JavaScriptランタイム「Bun」を買収 「Claude Code」は10億ドル規模に",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/03/news081.html",
+      "published": "2025-12-03 12:02:00+09:00",
+      "summary": "Anthropicは、JavaScriptランタイム「Bun」を手掛けるBunを買収したと発表した。同時に、AIコーディングアシスタント「Claude Code」が一般提供から約6カ月で年間経常売上高10億ドル規模に達したことも発表した。Bunは今後もオープンソースで提供され、Claude Codeのパフォーマンス向上とエンタープライズAIでの地位強化に貢献していく。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "AWS、推論・エージェント機能を強化する新AI「Amazon Nova 2」リリース",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/03/news067.html",
+      "published": "2025-12-03 10:24:00+09:00",
+      "summary": "AWSはre:Invent 2025で、新AIモデル「Amazon Nova 2」ファミリーとカスタムモデル構築サービス「Nova Forge」、ワークフロー自動化エージェント「Nova Act」を発表した。Nova 2 Liteは既に利用可能で、拡張思考やWebグラウンディング機能を搭載する。Nova Forgeはオープントレーニングを提供し、Nova Actはブラウザ操作の自動化信頼性が90％に達した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "Announcing the initial People-First AI Fund grantees",
+      "link": "https://openai.com/index/people-first-ai-fund-grantees",
+      "published": "2025-12-03 17:00:00+09:00",
+      "summary": "The OpenAI Foundation announces the initial recipients of the People-First AI Fund, awarding $40.5M in unrestricted grants to 208 nonprofits supporting community innovation and opportunity.",
+      "source": "OpenAI Blog",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "「AWS MCP Server」プレビュー開始、AIからAWSを利用可能に　最新のAPIからナレッジベースまで包括的に",
+      "link": "https://www.itmedia.co.jp/news/articles/2512/03/news133.html",
+      "published": "2025-12-03 18:07:00+09:00",
+      "summary": "米Amazon Web Servicesは、AIを用いてAWSを利用するための新サービス「AWS MCP Server」のプレビュー提供を発表しました。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
