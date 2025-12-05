@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "AWS、障害発生時にAIが人間より早く調査分析する「AWS DevOps Agent」プレビュー公開　対処法まで報告",
+    "link": "https://www.itmedia.co.jp/news/articles/2512/04/news082.html",
+    "published": "2025-12-04 11:32:00+09:00",
+    "summary": "米Amazon Web Services（AWS）は、日本時間12月3日未明から開催中の年次イベント「AWS re:Invent 2025」で、障害に対して自動的に対応するAIエージェント「AWS DevOps Agent」のプレビュー公開を発表しました。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 4
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "AWS、障害発生時にAIが人間より早く調査分析する「AWS DevOps Agent」プレビュー公開　対処法まで報告",
+    "summary": "米Amazon Web Services（AWS）は、日本時間12月3日未明から開催中の年次イベント「AWS re:Invent 2025」で、障害に対して自動的に対応するAIエージェント「AWS DevOps Agent」のプレビュー公開を発表しました。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 4,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "AWS、障害発生時にAIが人間より早く調査分析する「AWS DevOps Agent」プレビュー公開　対処法まで報告",
+      "link": "https://www.itmedia.co.jp/news/articles/2512/04/news082.html",
+      "published": "2025-12-04 11:32:00+09:00",
+      "summary": "米Amazon Web Services（AWS）は、日本時間12月3日未明から開催中の年次イベント「AWS re:Invent 2025」で、障害に対して自動的に対応するAIエージェント「AWS DevOps Agent」のプレビュー公開を発表しました。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "AWS launches Kiro powers with Stripe, Figma, and Datadog integrations for AI-assisted coding",
+      "link": "https://venturebeat.com/ai/aws-launches-kiro-powers-with-stripe-figma-and-datadog-integrations-for-ai",
+      "published": "2025-12-04 23:02:00+09:00",
+      "summary": "Amazon Web Services on Wednesday introduced Kiro powers , a system that allows software developers to give their AI coding assistants instant, specialized expertise in specific tools and workflows — addressing what the company calls a fundamental bottleneck in how artificial intelligence agents operate today. AWS made the announcement at its annual re:Invent conference in Las Vegas. The capability marks a departure from how most AI coding tools work today. Typically, these tools load every possi",
+      "source": "VentureBeat AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "AI面接が「ハラスメント予備軍」を見抜く　人でも難しい“資質の見極め”、どう実現？",
+      "link": "https://www.itmedia.co.jp/business/articles/2512/05/news049.html",
+      "published": "2025-12-05 08:00:00+09:00",
+      "summary": "2017年からAI面接サービス「SHaiN」（シャイン）を提供するタレントアンドアセスメント（東京都港区）は12月3日、サービスの刷新を発表した。山﨑俊明代表取締役は「SHaiNは人の資質を見極められる」と強調する。どのようにして、人の資質を見抜くのか。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "マイクロン、消費者向けメモリ・SSDブランド「Crucial」から撤退　AI需要に注力",
+      "link": "https://www.itmedia.co.jp/news/articles/2512/04/news075.html",
+      "published": "2025-12-04 10:40:00+09:00",
+      "summary": "米Micron Technologyが、消費者向けストレージ・メモリブランド「Crucial」事業から撤退すると発表した。AIを巡ってデータセンターにおけるメモリ・ストレージの需要が増加しており、成長分野にリソースを割り振るとしている。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Micro1, a Scale AI competitor, touts crossing $100M ARR",
+      "link": "https://techcrunch.com/2025/12/04/micro1-a-scale-ai-competitor-touts-crossing-100m-arr/",
+      "published": "2025-12-05 07:45:31+09:00",
+      "summary": "Micro1 started the year with roughly $7 million ARR. Now, it claims to have surpassed $100 million in ARR, double what it reported in September.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
