@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "AI denial is becoming an enterprise risk: Why dismissing “slop” obscures real capability gains",
+    "link": "https://venturebeat.com/ai/ai-denial-is-becoming-an-enterprise-risk-why-dismissing-slop-obscures-real",
+    "published": "2025-12-05 22:00:00+09:00",
+    "summary": "Three years ago, ChatGPT was born. It amazed the world and ignited unprecedented investment and excitement in AI. Today, ChatGPT is still a toddler, but public sentiment around the AI boom has turned sharply negative. The shift began when OpenAI released GPT-5 this summer to mixed reviews , mostly from casual users who, unsurprisingly, judged the system by its surface flaws rather than its underlying capabilities. Since then, pundits and influencers have declared that AI progress is slowing, tha",
+    "source": "VentureBeat AI",
+    "language": "en",
+    "preliminary_score": 3
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "AI denial is becoming an enterprise risk: Why dismissing “slop” obscures real capability gains",
+    "summary": "Three years ago, ChatGPT was born. It amazed the world and ignited unprecedented investment and excitement in AI. Today, ChatGPT is still a toddler, but public sentiment around the AI boom has turned sharply negative. The shift began when OpenAI released GPT-5 this summer to mixed reviews , mostly from casual users who, unsurprisingly, judged the system by its surface flaws rather than its underlying capabilities. Since then, pundits and influencers have declared that AI progress is slowing, tha",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 3,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "AI denial is becoming an enterprise risk: Why dismissing “slop” obscures real capability gains",
+      "link": "https://venturebeat.com/ai/ai-denial-is-becoming-an-enterprise-risk-why-dismissing-slop-obscures-real",
+      "published": "2025-12-05 22:00:00+09:00",
+      "summary": "Three years ago, ChatGPT was born. It amazed the world and ignited unprecedented investment and excitement in AI. Today, ChatGPT is still a toddler, but public sentiment around the AI boom has turned sharply negative. The shift began when OpenAI released GPT-5 this summer to mixed reviews , mostly from casual users who, unsurprisingly, judged the system by its surface flaws rather than its underlying capabilities. Since then, pundits and influencers have declared that AI progress is slowing, tha",
+      "source": "VentureBeat AI",
+      "language": "en",
+      "preliminary_score": 3
+    },
+    {
+      "title": "「AIでやる」「ハルシネーション」など……「ソフトウェアエンジニアくらいしか使わない絵文字」AI対応版公開",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/05/news107.html",
+      "published": "2025-12-05 16:19:00+09:00",
+      "summary": "これまで「既知bug」「仕様です」「再現せず…」「バグかも」などの絵文字を公開してきた。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "DeNA、「AIエンジニアが本気で作った」LLM勉強会資料とコードを全公開　非エンジニアも学べる",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/05/news086.html",
+      "published": "2025-12-05 12:55:00+09:00",
+      "summary": "「プロンプトチューニングでうまくいかないときに……『指示をどんどん足しまくらないで！』」",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Ex-Googler’s Yoodli triples valuation to $300M+ with AI built to assist, not replace, people",
+      "link": "https://techcrunch.com/2025/12/05/ex-googlers-yoodli-triples-valuation-to-300m-with-ai-built-to-assist-not-replace-people/",
+      "published": "2025-12-06 08:43:58+09:00",
+      "summary": "Yoodli counts Google, Snowflake, and Databricks among its customers.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Sources: AI synthetic research startup Aaru raised a Series A at a $1B ‘headline’ valuation",
+      "link": "https://techcrunch.com/2025/12/05/ai-synthetic-research-startup-aaru-raised-a-series-a-at-a-1b-headline-valuation/",
+      "published": "2025-12-06 08:38:59+09:00",
+      "summary": "The one-year-old startup, which does market research on simulated populations, had a multi-tier valuation round, sources tell TechCrunch.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
