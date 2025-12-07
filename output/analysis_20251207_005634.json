@@ -1,0 +1,35 @@
+{
+  "article": {
+    "title": "Pat Gelsinger wants to save Moore’s Law, with a little help from the Feds",
+    "link": "https://techcrunch.com/2025/12/06/pat-gelsinger-wants-to-save-moores-law-with-a-little-help-from-the-feds/",
+    "published": "2025-12-07 09:18:51+09:00",
+    "summary": "The company is aiming to produce its first silicon wafers by 2028 and have its first commercial system online by 2029.",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 0
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Pat Gelsinger wants to save Moore’s Law, with a little help from the Feds",
+    "summary": "The company is aiming to produce its first silicon wafers by 2028 and have its first commercial system online by 2029.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 0,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Pat Gelsinger wants to save Moore’s Law, with a little help from the Feds",
+      "link": "https://techcrunch.com/2025/12/06/pat-gelsinger-wants-to-save-moores-law-with-a-little-help-from-the-feds/",
+      "published": "2025-12-07 09:18:51+09:00",
+      "summary": "The company is aiming to produce its first silicon wafers by 2028 and have its first commercial system online by 2029.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
