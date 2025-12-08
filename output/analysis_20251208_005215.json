@@ -1,0 +1,62 @@
+{
+  "article": {
+    "title": "TRONが組み込み特化型AIコーディングエージェントを開発、会員に無償提供へ",
+    "link": "https://monoist.itmedia.co.jp/mn/articles/2512/08/news049.html",
+    "published": "2025-12-08 06:15:00+09:00",
+    "summary": "TRONプロジェクトは、組み込みシステム特化型のAIコーディングエージェント「TRON GenAI CODEアシスタント」を開発した。近日中にTRONフォーラム会員向けにβ版を公開し、正式リリース後に同会員は無償で利用できる予定である。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 4
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "TRONが組み込み特化型AIコーディングエージェントを開発、会員に無償提供へ",
+    "summary": "TRONプロジェクトは、組み込みシステム特化型のAIコーディングエージェント「TRON GenAI CODEアシスタント」を開発した。近日中にTRONフォーラム会員向けにβ版を公開し、正式リリース後に同会員は無償で利用できる予定である。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 4,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "TRONが組み込み特化型AIコーディングエージェントを開発、会員に無償提供へ",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2512/08/news049.html",
+      "published": "2025-12-08 06:15:00+09:00",
+      "summary": "TRONプロジェクトは、組み込みシステム特化型のAIコーディングエージェント「TRON GenAI CODEアシスタント」を開発した。近日中にTRONフォーラム会員向けにβ版を公開し、正式リリース後に同会員は無償で利用できる予定である。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "OpenAI says it’s turned off app suggestions that look like ads",
+      "link": "https://techcrunch.com/2025/12/07/openai-says-its-turned-off-app-suggestions-that-look-like-ads/",
+      "published": "2025-12-08 00:05:53+09:00",
+      "summary": "While OpenAI continues to insist that there are currently no ads — or tests for advertising — live in ChatGPT, the company’s chief research officer also acknowledged that the company “fell short” with recent promotional messages.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Why AI coding agents aren’t production-ready: Brittle context windows, broken refactors, missing operational awareness",
+      "link": "https://venturebeat.com/ai/why-ai-coding-agents-arent-production-ready-brittle-context-windows-broken",
+      "published": "2025-12-07 14:00:00+09:00",
+      "summary": "Remember this Quora comment (which also became a meme)? (Source: Quora ) In the pre-large language model (LLM) Stack Overflow era, the challenge was discerning which code snippets to adopt and adapt effectively. Now, while generating code has become trivially easy, the more profound challenge lies in reliably identifying and integrating high-quality, enterprise-grade code into production environments. This article will examine the practical pitfalls and limitations observed when engineers use mo",
+      "source": "VentureBeat AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Accentureが“ChatGPT精通集団”に　コンサル業務含め幅広く活用",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2512/08/news018.html",
+      "published": "2025-12-08 08:00:00+09:00",
+      "summary": "AccentureはOpenAIとの協業を通じ、エージェント型AIを中核に据えた企業変革支援を本格化させる。ChatGPT Enterpriseの社内展開やAI専門プログラムを活用し、顧客企業の業務革新と成長機会を広げるという。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
