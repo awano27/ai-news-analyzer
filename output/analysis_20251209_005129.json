@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Claude Code is coming to Slack, and that’s a bigger deal than it sounds",
+    "link": "https://techcrunch.com/2025/12/08/claude-code-is-coming-to-slack-and-thats-a-bigger-deal-than-it-sounds/",
+    "published": "2025-12-09 04:18:05+09:00",
+    "summary": "Anthropic launches Claude Code in Slack, letting developers delegate coding tasks from chat threads. It's part of a shift toward AI-embedded collaboration that could reshape software workflows.",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Claude Code is coming to Slack, and that’s a bigger deal than it sounds",
+    "summary": "Anthropic launches Claude Code in Slack, letting developers delegate coding tasks from chat threads. It's part of a shift toward AI-embedded collaboration that could reshape software workflows.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Claude Code is coming to Slack, and that’s a bigger deal than it sounds",
+      "link": "https://techcrunch.com/2025/12/08/claude-code-is-coming-to-slack-and-thats-a-bigger-deal-than-it-sounds/",
+      "published": "2025-12-09 04:18:05+09:00",
+      "summary": "Anthropic launches Claude Code in Slack, letting developers delegate coding tasks from chat threads. It's part of a shift toward AI-embedded collaboration that could reshape software workflows.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "AI、量子、Web 4.0の融合が招くリスクとは？　チェック・ポイントが2026年のセキュリティ予測",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2512/09/news040.html",
+      "published": "2025-12-09 07:30:00+09:00",
+      "summary": "チェック・ポイントは2026年のセキュリティ予測を公開した。AIや量子コンピュータ、Web4.0、自律システムなどが融合し、防御の前提が大きく揺らぐ可能性があると予測されている。来るべきリスクに企業はどう備えればいいのか。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "note、AIコードエディタ「Cursor」を導入　非エンジニアを含む全社員が利用可能に",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/08/news096.html",
+      "published": "2025-12-08 18:12:00+09:00",
+      "summary": "noteは、AIコードエディタ「Cursor」を導入したと発表した。非エンジニアを含む全社員が利用できるようになる。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "企業の“秘伝のタレ”をAI化　リコー、AIプラットフォーム「H.D.E.E.N」（ひでん）を発表",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/08/news077.html",
+      "published": "2025-12-08 13:37:00+09:00",
+      "summary": "リコーは、企業向けAIプラットフォーム「H.D.E.E.N」（ひでん、仮称）を発表した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "「Gemini」は「ChatGPT」を超えたのか？　ITライター視点で比較　“指示通り仕事を完遂するAI”に求めるもの",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/05/news042.html",
+      "published": "2025-12-08 12:00:00+09:00",
+      "summary": "11月にそれぞれ最新AIモデルを発表したOpenAIとGoogle。その結果、各種ベンチマークにおいて、Gemini 3がGPT-5.1を上回る結果を見せた。そこでこの記事では、ITライターとしての視点から、GeminiがChatGPTよりも「使える」のかどうかを考える。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
