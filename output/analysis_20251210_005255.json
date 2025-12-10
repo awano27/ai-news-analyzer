@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Mistral launches powerful Devstral 2 coding model including open source, laptop-friendly version",
+    "link": "https://venturebeat.com/ai/mistral-launches-powerful-devstral-2-coding-model-including-open-source",
+    "published": "2025-12-10 04:44:00+09:00",
+    "summary": "French AI startup Mistral has weathered a rocky period of public questioning over the last year to emerge, now here in December 2025, with new, crowd-pleasing models for enterprise and indie developers. Just days after releasing its powerful open source, general purpose Mistral 3 LLM family for edge devices and local hardware, the company returned today to debut Devstral 2 . The release includes a new pair of models optimized for software engineering tasks — again, with one small enough to run o",
+    "source": "VentureBeat AI",
+    "language": "en",
+    "preliminary_score": 4
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Mistral launches powerful Devstral 2 coding model including open source, laptop-friendly version",
+    "summary": "French AI startup Mistral has weathered a rocky period of public questioning over the last year to emerge, now here in December 2025, with new, crowd-pleasing models for enterprise and indie developers. Just days after releasing its powerful open source, general purpose Mistral 3 LLM family for edge devices and local hardware, the company returned today to debut Devstral 2 . The release includes a new pair of models optimized for software engineering tasks — again, with one small enough to run o",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 4,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Mistral launches powerful Devstral 2 coding model including open source, laptop-friendly version",
+      "link": "https://venturebeat.com/ai/mistral-launches-powerful-devstral-2-coding-model-including-open-source",
+      "published": "2025-12-10 04:44:00+09:00",
+      "summary": "French AI startup Mistral has weathered a rocky period of public questioning over the last year to emerge, now here in December 2025, with new, crowd-pleasing models for enterprise and indie developers. Just days after releasing its powerful open source, general purpose Mistral 3 LLM family for edge devices and local hardware, the company returned today to debut Devstral 2 . The release includes a new pair of models optimized for software engineering tasks — again, with one small enough to run o",
+      "source": "VentureBeat AI",
+      "language": "en",
+      "preliminary_score": 4
+    },
+    {
+      "title": "Max Hodak is more worried about Twitter than brain-computer interface hacking",
+      "link": "https://techcrunch.com/podcast/max-hodak-is-more-worried-about-twitter-than-brain-computer-interface-hacking/",
+      "published": "2025-12-10 06:56:34+09:00",
+      "summary": "This week on StrictlyVC Download, Connie Loizos speaks with Science Corp. founder Max Hodak to discuss how brain-computer interfaces are arriving faster than anyone realizes. The Neuralink co-founder and former president shares how his company recently achieved what may be the biggest breakthrough in vision restoration in decades, enabling 80% of blind patients to read […]",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 3
+    },
+    {
+      "title": "EU launches antitrust probe into Google’s AI search tools",
+      "link": "https://techcrunch.com/2025/12/09/eu-launches-antitrust-probe-into-googles-ai-search-tools/",
+      "published": "2025-12-10 01:29:49+09:00",
+      "summary": "The European Commission is investigating Google over its AI summaries.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Z.ai debuts open source GLM-4.6V, a native tool-calling vision model for multimodal reasoning",
+      "link": "https://venturebeat.com/ai/z-ai-debuts-open-source-glm-4-6v-a-native-tool-calling-vision-model-for",
+      "published": "2025-12-09 10:03:00+09:00",
+      "summary": "Chinese AI startup Zhipu AI aka Z.ai has released its GLM-4.6V series , a new generation of open-source vision-language models (VLMs) optimized for multimodal reasoning, frontend automation, and high-efficiency deployment. The release includes two models in \"large\" and \"small\" sizes: GLM-4.6V (106B) , a larger 106-billion parameter model aimed at cloud-scale inference GLM-4.6V-Flash (9B) , a smaller model of only 9 billion parameters designed for low-latency, local applications Recall that gener",
+      "source": "VentureBeat AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "NTTデータ、シリコンバレーに“AI特化”の新会社を設立　ねらいは？",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/09/news118.html",
+      "published": "2025-12-09 20:39:00+09:00",
+      "summary": "NTTデータグループは、AIに関するビジネスに特化した新会社「NTT DATA AIVista」（エヌティティデータエーアイヴィスタ）を、米国シリコンバレーに設立したと発表した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
