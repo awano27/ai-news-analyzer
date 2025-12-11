@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Quilter's AI just designed an 843‑part Linux computer that booted on the first try. Hardware will never be the same.",
+    "link": "https://venturebeat.com/ai/quilters-ai-just-designed-an-843-part-linux-computer-that-booted-on-the",
+    "published": "2025-12-10 23:00:00+09:00",
+    "summary": "A Los Angeles-based startup has demonstrated what it calls a breakthrough in hardware development: an artificial intelligence system that designed a fully functional Linux computer in one week — a process that would typically consume nearly three months of skilled engineering labor. Quilter , which has raised more than $40 million from investors including Benchmark, Index Ventures, and Coatue, used its physics-driven AI to automate the design of a two-board computer system that booted successful",
+    "source": "VentureBeat AI",
+    "language": "en",
+    "preliminary_score": 3
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Quilter's AI just designed an 843‑part Linux computer that booted on the first try. Hardware will never be the same.",
+    "summary": "A Los Angeles-based startup has demonstrated what it calls a breakthrough in hardware development: an artificial intelligence system that designed a fully functional Linux computer in one week — a process that would typically consume nearly three months of skilled engineering labor. Quilter , which has raised more than $40 million from investors including Benchmark, Index Ventures, and Coatue, used its physics-driven AI to automate the design of a two-board computer system that booted successful",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 3,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Quilter's AI just designed an 843‑part Linux computer that booted on the first try. Hardware will never be the same.",
+      "link": "https://venturebeat.com/ai/quilters-ai-just-designed-an-843-part-linux-computer-that-booted-on-the",
+      "published": "2025-12-10 23:00:00+09:00",
+      "summary": "A Los Angeles-based startup has demonstrated what it calls a breakthrough in hardware development: an artificial intelligence system that designed a fully functional Linux computer in one week — a process that would typically consume nearly three months of skilled engineering labor. Quilter , which has raised more than $40 million from investors including Benchmark, Index Ventures, and Coatue, used its physics-driven AI to automate the design of a two-board computer system that booted successful",
+      "source": "VentureBeat AI",
+      "language": "en",
+      "preliminary_score": 3
+    },
+    {
+      "title": "Google launches managed MCP servers that let AI agents simply plug into its tools",
+      "link": "https://techcrunch.com/2025/12/10/google-is-going-all-in-on-mcp-servers-agent-ready-by-design/",
+      "published": "2025-12-11 00:00:00+09:00",
+      "summary": "Google is rolling out managed MCP servers to make its services “agent-ready by design,” starting with Maps and BigQuery, aiming to simplify messy integrations and help AI agents use real tools.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Figma launches new AI-powered object removal and image extension",
+      "link": "https://techcrunch.com/2025/12/10/figma-launches-new-ai-powered-object-removal-and-image-extension/",
+      "published": "2025-12-10 23:00:00+09:00",
+      "summary": "Figma is launching a new image editing toolbar to bring all its features in one place.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Google launches sub-$5 AI Plus plan in India to compete with ChatGPT Go",
+      "link": "https://techcrunch.com/2025/12/10/google-launches-sub-5-ai-plus-plan-in-india-to-compete-with-chatgpt-go/",
+      "published": "2025-12-10 22:30:51+09:00",
+      "summary": "For new users in India, Google is offering an AI Plus subscription for ₹199 ($2.21) for the first six months, after which you'll have to pay ₹399 ($4.44).",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "リコーがGoogle「Gemma 3」ベースの日本語LLMを開発　オンプレミスでの導入に最適化",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2512/11/news047.html",
+      "published": "2025-12-11 08:00:00+09:00",
+      "summary": "リコーはGoogleのオープンウェイトモデルを基盤にした日本語LLMを開発し、オンプレミスでの導入を想定した高性能モデルとして発表した。モデルマージ技術やノーコード開発環境と組み合わせて、企業の生成AI活用を支援する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
