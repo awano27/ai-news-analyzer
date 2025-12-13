@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
+    "link": "https://techcrunch.com/2025/12/12/chatgpt-everything-to-know-about-the-ai-chatbot/",
+    "published": "2025-12-13 01:01:00+09:00",
+    "summary": "A timeline of ChatGPT product updates and releases, starting with the latest, which we’ve been updating throughout the year.",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "ChatGPT: Everything you need to know about the AI-powered chatbot",
+    "summary": "A timeline of ChatGPT product updates and releases, starting with the latest, which we’ve been updating throughout the year.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
+      "link": "https://techcrunch.com/2025/12/12/chatgpt-everything-to-know-about-the-ai-chatbot/",
+      "published": "2025-12-13 01:01:00+09:00",
+      "summary": "A timeline of ChatGPT product updates and releases, starting with the latest, which we’ve been updating throughout the year.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "AIエージェントの10大リスクとは？　OWASPが最新リストを公開",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2512/13/news022.html",
+      "published": "2025-12-13 07:30:00+09:00",
+      "summary": "OWASPはAIエージェント固有の脅威を整理した最新トップ10を公開した。ツール実行や連携を前提とする設計が新たな攻撃面を生み、開発・運用の安全対策の見直しを促している。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "産経新聞、“競馬予想AI”を無料提供　サンスポのデータと記者予想を学習",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/12/news099.html",
+      "published": "2025-12-12 15:56:00+09:00",
+      "summary": "産経新聞社は、JRA（日本中央競馬会）が実施するレースを対象にしたAIサービス「ChatKeiba」（チャットケイバ）の提供を始めると発表した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "AI音声のElevenLabs、Metaと提携　インスタのリールの吹き替えなど提供",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/12/news078.html",
+      "published": "2025-12-12 12:24:00+09:00",
+      "summary": "AI音声サービスを手掛ける米ElevenLabsは、米Metaと提携すると発表した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Google、全サービスでMCPサーバ提供へ　まずはGoogleマップ、BigQuery、Google Compute Engineで",
+      "link": "https://www.itmedia.co.jp/news/articles/2512/12/news077.html",
+      "published": "2025-12-12 11:59:00+09:00",
+      "summary": "米Googleは、Geminiなどの生成AIと同社のクラウドサービスを接続できるMCPサーバを今後すべての同社のサービスで提供すると発表しました。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
