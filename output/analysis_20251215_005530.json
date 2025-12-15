@@ -1,0 +1,53 @@
+{
+  "article": {
+    "title": "Grok got crucial facts wrong about Bondi Beach shooting",
+    "link": "https://techcrunch.com/2025/12/14/grok-gets-the-facts-wrong-about-bondi-beach-shooting/",
+    "published": "2025-12-15 08:17:47+09:00",
+    "summary": "Grok, the chatbot built by Elon Musk’s xAI and popularized on his social media platform X, appears to have repeatedly spread misinformation about today’s mass shooting at Bondi Beach in Australia.",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 0
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Grok got crucial facts wrong about Bondi Beach shooting",
+    "summary": "Grok, the chatbot built by Elon Musk’s xAI and popularized on his social media platform X, appears to have repeatedly spread misinformation about today’s mass shooting at Bondi Beach in Australia.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 0,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Grok got crucial facts wrong about Bondi Beach shooting",
+      "link": "https://techcrunch.com/2025/12/14/grok-gets-the-facts-wrong-about-bondi-beach-shooting/",
+      "published": "2025-12-15 08:17:47+09:00",
+      "summary": "Grok, the chatbot built by Elon Musk’s xAI and popularized on his social media platform X, appears to have repeatedly spread misinformation about today’s mass shooting at Bondi Beach in Australia.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Build vs buy is dead — AI just killed it",
+      "link": "https://venturebeat.com/ai/build-vs-buy-is-dead-ai-just-killed-it",
+      "published": "2025-12-15 04:00:00+09:00",
+      "summary": "Picture this: You're sitting in a conference room, halfway through a vendor pitch. The demo looks solid, and pricing fits nicely under budget. The timeline seems reasonable too. Everyone’s nodding along. You’re literally minutes away from saying yes. Then someone from your finance team walks in. They see the deck and frown. A few minutes later, they shoot you a message on Slack: “Actually, I threw together a version of this last week. Took me 2 hours in Cursor. Wanna take a look?” Wait… what? Th",
+      "source": "VentureBeat AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "社員の「迷い」をなくす労務へ　“分かりやすい”制度をつくる生成AI活用法",
+      "link": "https://www.itmedia.co.jp/business/articles/2512/15/news021.html",
+      "published": "2025-12-15 08:00:00+09:00",
+      "summary": "制度を“使いやすくする”だけでなく、手続きを迷わせず、情報へのアクセス性を高め、問い合わせの負荷を減らす。こうした取り組みこそが、生成AIによる“攻めの労務”が組織にもたらす価値となる。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
