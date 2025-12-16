@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Generative AI hype distracts us from AI’s more important breakthroughs",
+    "link": "https://www.technologyreview.com/2025/12/15/1129179/generative-ai-hype-distracts-us-from-ais-more-important-breakthroughs/",
+    "published": "2025-12-15 19:00:00+09:00",
+    "summary": "On April 28, 2022, at a highly anticipated concert in Spokane, Washington, the musician Paul McCartney astonished his audience with a groundbreaking application of AI: He began to perform with a lifelike depiction of his long-deceased musical partner, John Lennon.  Using recent advances in audio and video processing, engineers had taken the pair’s final performance…",
+    "source": "MIT Technology Review AI",
+    "language": "en",
+    "preliminary_score": 3
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Generative AI hype distracts us from AI’s more important breakthroughs",
+    "summary": "On April 28, 2022, at a highly anticipated concert in Spokane, Washington, the musician Paul McCartney astonished his audience with a groundbreaking application of AI: He began to perform with a lifelike depiction of his long-deceased musical partner, John Lennon.  Using recent advances in audio and video processing, engineers had taken the pair’s final performance…",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 3,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Generative AI hype distracts us from AI’s more important breakthroughs",
+      "link": "https://www.technologyreview.com/2025/12/15/1129179/generative-ai-hype-distracts-us-from-ais-more-important-breakthroughs/",
+      "published": "2025-12-15 19:00:00+09:00",
+      "summary": "On April 28, 2022, at a highly anticipated concert in Spokane, Washington, the musician Paul McCartney astonished his audience with a groundbreaking application of AI: He began to perform with a lifelike depiction of his long-deceased musical partner, John Lennon.  Using recent advances in audio and video processing, engineers had taken the pair’s final performance…",
+      "source": "MIT Technology Review AI",
+      "language": "en",
+      "preliminary_score": 3
+    },
+    {
+      "title": "Nvidia bulks up open source offerings with an acquisition and new open AI models",
+      "link": "https://techcrunch.com/2025/12/15/nvidia-bulks-up-open-source-offerings-with-an-acquisition-and-new-open-ai-models/",
+      "published": "2025-12-16 07:00:57+09:00",
+      "summary": "Nvidia acquired SchedMD, the lead developer of Slurm, and launched the Nemotron 3 family of open source AI models.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Creative Commons announces tentative support for AI ‘pay-to-crawl’ systems",
+      "link": "https://techcrunch.com/2025/12/15/creative-commons-announces-tentative-support-for-ai-pay-to-crawl-systems/",
+      "published": "2025-12-16 05:54:54+09:00",
+      "summary": "The organization offered support for this idea of an AI marketplace, and  suggested several guiding principles.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "NVIDIA、エージェント型AI開発向けオープンモデル「Nemotron 3」発表",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/16/news054.html",
+      "published": "2025-12-16 07:13:00+09:00",
+      "summary": "NVIDIAは、エージェント型AI構築に最適化されたオープンな基盤モデルファミリー「Nemotron 3」を発表した。ハイブリッドなMoEアーキテクチャを採用し、最大100万トークンのロングコンテキストに対応する。開発者は自由に派生モデルを作成できる。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "ロート製薬、新卒採用のエントリーシート廃止　「生成AIで内容が均質化」　代行手段は“直接会って話す”",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/15/news123.html",
+      "published": "2025-12-15 19:09:00+09:00",
+      "summary": "ロート製薬は、新卒採用で実施していたエントリーシートによる書類選考を廃止すると発表した。その背景にあったのは、“生成AIによる効率化”の影響だ。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
