@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "OpenAI、「ChatGPT Images 1.5」公開　生成速度4倍で「Nano Banana」に対抗",
+    "link": "https://www.itmedia.co.jp/aiplus/articles/2512/17/news069.html",
+    "published": "2025-12-17 07:24:00+09:00",
+    "summary": "OpenAIは、画像生成AIの新版「ChatGPT Images 1.5」を発表した。生成速度が最大4倍高速化し、指示追従性や写真編集能力、高密度なテキスト描画性能が大幅に向上。サイドバーには専用の「画像」メニューが追加され、直感的な操作が可能になった。無料版を含む全ユーザーに順次展開され、API利用料も従来より20％安価になる。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 4
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "OpenAI、「ChatGPT Images 1.5」公開　生成速度4倍で「Nano Banana」に対抗",
+    "summary": "OpenAIは、画像生成AIの新版「ChatGPT Images 1.5」を発表した。生成速度が最大4倍高速化し、指示追従性や写真編集能力、高密度なテキスト描画性能が大幅に向上。サイドバーには専用の「画像」メニューが追加され、直感的な操作が可能になった。無料版を含む全ユーザーに順次展開され、API利用料も従来より20％安価になる。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 4,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "OpenAI、「ChatGPT Images 1.5」公開　生成速度4倍で「Nano Banana」に対抗",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/17/news069.html",
+      "published": "2025-12-17 07:24:00+09:00",
+      "summary": "OpenAIは、画像生成AIの新版「ChatGPT Images 1.5」を発表した。生成速度が最大4倍高速化し、指示追従性や写真編集能力、高密度なテキスト描画性能が大幅に向上。サイドバーには専用の「画像」メニューが追加され、直感的な操作が可能になった。無料版を含む全ユーザーに順次展開され、API利用料も従来より20％安価になる。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "世界のデータセンター市場、2030年には「2倍超」の約264兆円に　AI需要がけん引",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/16/news116.html",
+      "published": "2025-12-16 16:36:00+09:00",
+      "summary": "世界のデータセンターサービス市場は、2030年に1兆7200億ドル（264兆8800億円、1ドル154円換算、以下同）に達し、25年の8454億ドル（130兆1916億円）から2倍超となる見通し――電子情報技術産業協会（JEITA）は、同市場に関する今後の予測を発表した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Agentic AI Foundation（AAIF）発足　寄贈されたMCP、AGENTS.md、gooseはどうなるのか",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2512/16/news047.html",
+      "published": "2025-12-16 13:00:00+09:00",
+      "summary": "Linux FoundationはAgentic AI Foundationの創設を発表した。Anthropicの「Model Context Protocol」、OpenAIの「AGENTS.md」、Blockの「goose」が創設に際して寄贈された。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "キリン、ビールづくりに独自AI「フジワラ」導入　26年3月以降発売の製品から",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/16/news065.html",
+      "published": "2025-12-16 11:20:00+09:00",
+      "summary": "キリンホールディングスは、ビール類の開発に独自AI「FJWLA」（フジワラ）を活用すると発表した。香味の開発を効率化する。2026年3月以降に発売のビール類から順次導入する予定。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "DoorDash rolls out Zesty, an AI social app for discovering new restaurants",
+      "link": "https://techcrunch.com/2025/12/16/doordash-rolls-out-zesty-an-ai-social-app-for-discovering-new-restaurants/",
+      "published": "2025-12-17 03:48:43+09:00",
+      "summary": "Users can view and share photos and comments about restaurants they’ve visited, discover content from others, and follow people just like on any social network.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
