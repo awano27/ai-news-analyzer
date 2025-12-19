@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "OpenAI、エージェント型コーディング向け「GPT-5.2-Codex」公開　長時間開発作業に対応",
+    "link": "https://www.itmedia.co.jp/aiplus/articles/2512/19/news086.html",
+    "published": "2025-12-19 07:21:00+09:00",
+    "summary": "OpenAIは、最新モデル「GPT-5.2」を基盤とした開発特化型モデル「GPT-5.2-Codex」を発表した。自律的にテストや修正を行う「コーディングエージェント」として、大規模なリファクタリングやシステム移行など長期プロジェクトへの対応力を強化。防御的サイバーセキュリティ機能も備える。有料ユーザー向けに順次提供を開始する。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 4
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "OpenAI、エージェント型コーディング向け「GPT-5.2-Codex」公開　長時間開発作業に対応",
+    "summary": "OpenAIは、最新モデル「GPT-5.2」を基盤とした開発特化型モデル「GPT-5.2-Codex」を発表した。自律的にテストや修正を行う「コーディングエージェント」として、大規模なリファクタリングやシステム移行など長期プロジェクトへの対応力を強化。防御的サイバーセキュリティ機能も備える。有料ユーザー向けに順次提供を開始する。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 4,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "OpenAI、エージェント型コーディング向け「GPT-5.2-Codex」公開　長時間開発作業に対応",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/19/news086.html",
+      "published": "2025-12-19 07:21:00+09:00",
+      "summary": "OpenAIは、最新モデル「GPT-5.2」を基盤とした開発特化型モデル「GPT-5.2-Codex」を発表した。自律的にテストや修正を行う「コーディングエージェント」として、大規模なリファクタリングやシステム移行など長期プロジェクトへの対応力を強化。防御的サイバーセキュリティ機能も備える。有料ユーザー向けに順次提供を開始する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "ChatGPT launches an app store, lets developers know it’s open for business",
+      "link": "https://techcrunch.com/2025/12/18/chatgpt-launches-an-app-store-lets-developers-know-its-open-for-business/",
+      "published": "2025-12-19 05:22:50+09:00",
+      "summary": "OpenAI is looking to populate its flagship chatbot with a host of new user experiences.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Luma releases a new AI model that lets users generate a video from a start  and end frame",
+      "link": "https://techcrunch.com/2025/12/18/luma-releases-a-new-ai-model-that-lets-users-generate-a-video-from-a-start-and-end-frame/",
+      "published": "2025-12-18 23:52:58+09:00",
+      "summary": "Luma AI's new model is available through the company's Dream Machine platform.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Anthropic launches enterprise ‘Agent Skills’ and opens the standard, challenging OpenAI in workplace AI",
+      "link": "https://venturebeat.com/technology/anthropic-launches-enterprise-agent-skills-and-opens-the-standard",
+      "published": "2025-12-19 02:00:00+09:00",
+      "summary": "Anthropic said on Wednesday it would release its Agent Skills technology as an open standard, a strategic bet that sharing its approach to making AI assistants more capable will cement the company's position in the fast-evolving enterprise software market. The San Francisco-based artificial intelligence company also unveiled organization-wide management tools for enterprise customers and a directory of partner-built skills from companies including Atlassian , Figma , Canva , Stripe , Notion , an",
+      "source": "VentureBeat AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Anthropic、AI店長による売店運営を検証　「Project Vend」で見えた自律性とリスク",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/19/news087.html",
+      "published": "2025-12-19 09:06:00+09:00",
+      "summary": "Anthropicは、AIが自律的に店舗運営を行う研究「Project Vend」の進捗を発表した。最新モデルを採用したフェーズ2では、CEOや店長などの役割分担により、初の黒字化を達成。一方で、人間による嘘の指示を信じる脆弱性や、法律に抵触する提案を受け入れるなどの課題も浮き彫りになり、実用化に向けたガードレール設計の重要性が示された。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
