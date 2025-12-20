@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "京大、「キリスト教AI」開発へ　「どうすれば幸せになれる？」にも原典に基づき回答　“仏教AI”に続き",
+    "link": "https://www.itmedia.co.jp/aiplus/articles/2512/19/news126.html",
+    "published": "2025-12-19 18:16:00+09:00",
+    "summary": "京都大学で仏教を研究する熊谷誠慈教授と、AIサービスなどを手掛けるテラバース（京都市）らの研究チームは、キリスト教とAIを掛け合わせた「キリスト教AI」の開発を始めたと発表した。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "京大、「キリスト教AI」開発へ　「どうすれば幸せになれる？」にも原典に基づき回答　“仏教AI”に続き",
+    "summary": "京都大学で仏教を研究する熊谷誠慈教授と、AIサービスなどを手掛けるテラバース（京都市）らの研究チームは、キリスト教とAIを掛け合わせた「キリスト教AI」の開発を始めたと発表した。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "京大、「キリスト教AI」開発へ　「どうすれば幸せになれる？」にも原典に基づき回答　“仏教AI”に続き",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/19/news126.html",
+      "published": "2025-12-19 18:16:00+09:00",
+      "summary": "京都大学で仏教を研究する熊谷誠慈教授と、AIサービスなどを手掛けるテラバース（京都市）らの研究チームは、キリスト教とAIを掛け合わせた「キリスト教AI」の開発を始めたと発表した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "AIで離職予兆を可視化する「freeeサーベイ」提供開始　どうリスク評価するのか、プライバシーは？",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2512/19/news080.html",
+      "published": "2025-12-19 13:00:00+09:00",
+      "summary": "freeeは、AIで従業員の離職予兆を可視化し、面談アジェンダを自動生成してフォローアップを支援する「freeeサーベイ」を提供開始した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "note、経産省のAI開発支援「GENIAC」に採択　KADOKAWAらと「RAGデータベース」開発へ",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/19/news093.html",
+      "published": "2025-12-19 11:53:00+09:00",
+      "summary": "noteは、経済産業省などが実施する生成AI開発支援プロジェクト「GENIAC」に、同社の事業が採択されたと発表した。外部データを参照して生成AIが回答を出力する「RAG」向けに、出版社などのコンテンツを集めたデータベースを構築する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Cursor continues acquisition spree with Graphite deal",
+      "link": "https://techcrunch.com/2025/12/19/cursor-continues-acquisition-spree-with-graphite-deal/",
+      "published": "2025-12-20 06:51:22+09:00",
+      "summary": "Graphite is an AI code review assistant that was last valued at $290 million.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Yann LeCun confirms his new ‘world model’ startup, reportedly seeks $5B+ valuation",
+      "link": "https://techcrunch.com/2025/12/19/yann-lecun-confirms-his-new-world-model-startup-reportedly-seeks-5b-valuation/",
+      "published": "2025-12-20 04:23:44+09:00",
+      "summary": "Renowned AI scientist Yann LeCun confirmed on Thursday the worst-kept secret in the tech world: that he had indeed launched a new startup. Although he did say he will not be running the new company as its CEO.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
