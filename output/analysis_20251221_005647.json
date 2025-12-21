@@ -1,0 +1,62 @@
+{
+  "article": {
+    "title": "OpenAI allows users to directly adjust ChatGPT’s enthusiasm level",
+    "link": "https://techcrunch.com/2025/12/20/openai-allows-users-to-directly-adjust-chatgpts-warmth-and-enthusiasm/",
+    "published": "2025-12-21 05:34:07+09:00",
+    "summary": "ChatGPT users can now tweak the chatbot’s warmth, enthusiasm, and emoji use.",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 0
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "OpenAI allows users to directly adjust ChatGPT’s enthusiasm level",
+    "summary": "ChatGPT users can now tweak the chatbot’s warmth, enthusiasm, and emoji use.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 0,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "OpenAI allows users to directly adjust ChatGPT’s enthusiasm level",
+      "link": "https://techcrunch.com/2025/12/20/openai-allows-users-to-directly-adjust-chatgpts-warmth-and-enthusiasm/",
+      "published": "2025-12-21 05:34:07+09:00",
+      "summary": "ChatGPT users can now tweak the chatbot’s warmth, enthusiasm, and emoji use.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "New York Governor Kathy Hochul signs RAISE Act to regulate AI safety",
+      "link": "https://techcrunch.com/2025/12/20/new-york-governor-kathy-hochul-signs-raise-act-to-regulate-ai-safety/",
+      "published": "2025-12-21 03:20:34+09:00",
+      "summary": "The bill will require large AI developers to publish information about their safety protocols and report safety incidents to the state within 72 hours.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Ex-Splunk execs’ startup Resolve AI hits $1 billion valuation with Series A",
+      "link": "https://techcrunch.com/2025/12/19/ex-splunk-execs-startup-resolve-ai-hits-1-billion-valuation-with-series-a/",
+      "published": "2025-12-20 09:58:42+09:00",
+      "summary": "The round was led by Lightspeed Venture Partners, according to people familiar with the deal.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Hiring specialists made sense before AI — now generalists win",
+      "link": "https://venturebeat.com/ai/hiring-specialists-made-sense-before-ai-now-generalists-win",
+      "published": "2025-12-21 04:00:00+09:00",
+      "summary": "Tony Stoyanov is CTO and co-founder of EliseAI In the 2010s, tech companies chased staff-level specialists: Backend engineers, data scientists, system architects. That model worked when technology evolved slowly. Specialists knew their craft, could deliver quickly and built careers on predictable foundations like cloud infrastructure or the latest JS framework Then AI went mainstream. The pace of change has exploded. New technologies appear and mature in less than a year. You can’t hire someone ",
+      "source": "VentureBeat AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
