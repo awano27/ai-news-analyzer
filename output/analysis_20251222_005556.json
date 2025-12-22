@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "IBM、Confluentを約110億ドルで買収へ　AI向けのスマートデータ基盤を構想",
+    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2512/22/news047.html",
+    "published": "2025-12-22 08:00:00+09:00",
+    "summary": "IBMはデータストリーミングプラットフォームを提供するConfluentを買収することで最終合意に達したと発表した。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "IBM、Confluentを約110億ドルで買収へ　AI向けのスマートデータ基盤を構想",
+    "summary": "IBMはデータストリーミングプラットフォームを提供するConfluentを買収することで最終合意に達したと発表した。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "IBM、Confluentを約110億ドルで買収へ　AI向けのスマートデータ基盤を構想",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2512/22/news047.html",
+      "published": "2025-12-22 08:00:00+09:00",
+      "summary": "IBMはデータストリーミングプラットフォームを提供するConfluentを買収することで最終合意に達したと発表した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Agent autonomy without guardrails is an SRE nightmare",
+      "link": "https://venturebeat.com/ai/agent-autonomy-without-guardrails-is-an-sre-nightmare",
+      "published": "2025-12-22 04:00:00+09:00",
+      "summary": "João Freitas is GM and VP of engineering for AI and automation at PagerDuty As AI use continues to evolve in large organizations, leaders are increasingly seeking the next development that will yield major ROI. The latest wave of this ongoing trend is the adoption of AI agents. However, as with any new technology, organizations must ensure they adopt AI agents in a responsible way that allows them to facilitate both speed and security. More than half of organizations have already deployed AI age",
+      "source": "VentureBeat AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "ChatGPTのパーソナライズ強化　文章の部分的な書き換えにも対応",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/22/news063.html",
+      "published": "2025-12-22 08:01:00+09:00",
+      "summary": "OpenAIは、ChatGPTアプリのパーソナライズ機能とテキスト修正機能を強化した。応答のスタイルやトーンを3段階で細かく調整できるようになったほか、チャット内で文章の一部を選択して直接修正・改善を指示することが可能になった。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 0
+    },
+    {
+      "title": "「AI上司」だけでは部下は育たない　成長のカギは人間上司の「意味付け」スキルにあり",
+      "link": "https://www.itmedia.co.jp/business/articles/2512/22/news049.html",
+      "published": "2025-12-22 08:00:00+09:00",
+      "summary": "AI時代に突入し、人間以外の存在が人を能動的に評価できるようになった。この変化は、マネジャーの役割をどう変えるのか。そして、私たちはそれにどう向き合えばいいのか。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 0
+    },
+    {
+      "title": "生成AI初学者は必聴？　DeNAの非エンジニア向け研修に潜入してきた　有識者が教えるAIとの付き合い方",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/22/news023.html",
+      "published": "2025-12-22 07:00:00+09:00",
+      "summary": "DeNAが社員300人以上を対象に初学者向けのAI研修を実施。講師を務めたのは、同社のAIエンジニアで、データ分析・AI技術コンペ「Kaggle」で最高位のGrandmasterを獲得した村上直輝氏だ。講義の内容は。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
