@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "ChatGPT launches a year-end review like Spotify Wrapped",
+    "link": "https://techcrunch.com/2025/12/22/chatgpt-launches-a-year-end-review-like-spotify-wrapped/",
+    "published": "2025-12-23 04:01:04+09:00",
+    "summary": "The experience includes awards, poems, and pictures referencing your year in chat.",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "ChatGPT launches a year-end review like Spotify Wrapped",
+    "summary": "The experience includes awards, poems, and pictures referencing your year in chat.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "ChatGPT launches a year-end review like Spotify Wrapped",
+      "link": "https://techcrunch.com/2025/12/22/chatgpt-launches-a-year-end-review-like-spotify-wrapped/",
+      "published": "2025-12-23 04:01:04+09:00",
+      "summary": "The experience includes awards, poems, and pictures referencing your year in chat.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
+      "link": "https://techcrunch.com/2025/12/22/chatgpt-everything-to-know-about-the-ai-chatbot/",
+      "published": "2025-12-23 00:43:15+09:00",
+      "summary": "A timeline of ChatGPT product updates and releases, starting with the latest, which we’ve been updating throughout the year.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Gemini 3 Flash登場　Proに迫る性能で価格は最大1/8、軽量モデルがAI開発の常識を変えるか",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2512/23/news017.html",
+      "published": "2025-12-23 05:00:00+09:00",
+      "summary": "派手な性能競争の陰で、AI開発の現場では別の変化が起き始めているのかもしれない。Googleが発表した「Gemini 3 Flash」は、その兆しを象徴するモデルだ。この発表を起点に、軽量モデルが開発の主役になり得るのかを筆者なりに考えてみたい。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "ノーコードで業務自動化AIエージェントを作成できる「Google Workspace Studio」提供開始",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2512/22/news052.html",
+      "published": "2025-12-22 13:00:00+09:00",
+      "summary": "Googleは、Google Workspace向けのAIエージェント設計ツール「Google Workspace Studio」の一般提供を開始した。ノーコードで日常業務や複雑なワークフローを自動化できるという。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "書籍「いちばんやさしいAIエージェントの教本」無料公開　24日から27日まで　インプレス",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/22/news081.html",
+      "published": "2025-12-22 12:05:00+09:00",
+      "summary": "インプレスは、書籍「いちばんやさしいAIエージェントの教本 人気講師が教える自律型AIの基礎と実践ノウハウのすべて」の全文を12月24日から27日まで無料で公開する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
