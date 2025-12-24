@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "KnowBe4、2026年セキュリティ予測を公開　AIや量子技術の本格化がもたらすリスク",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2512/24/news043.html",
+    "published": "2025-12-24 07:30:00+09:00",
+    "summary": "KnowBe4は「2026年サイバーセキュリティ予測」を公表した。AIがサイバーセキュリティ全体に与える影響は2026年も拡大し、防御側の高度化と、攻撃側における悪用の高度化が同時に進むという。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "KnowBe4、2026年セキュリティ予測を公開　AIや量子技術の本格化がもたらすリスク",
+    "summary": "KnowBe4は「2026年サイバーセキュリティ予測」を公表した。AIがサイバーセキュリティ全体に与える影響は2026年も拡大し、防御側の高度化と、攻撃側における悪用の高度化が同時に進むという。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "KnowBe4、2026年セキュリティ予測を公開　AIや量子技術の本格化がもたらすリスク",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2512/24/news043.html",
+      "published": "2025-12-24 07:30:00+09:00",
+      "summary": "KnowBe4は「2026年サイバーセキュリティ予測」を公表した。AIがサイバーセキュリティ全体に与える影響は2026年も拡大し、防御側の高度化と、攻撃側における悪用の高度化が同時に進むという。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Rubrik Japan、2026年におけるサイバーセキュリティ分野の動向予測を公開",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2512/24/news042.html",
+      "published": "2025-12-24 07:00:00+09:00",
+      "summary": "Rubrik Japanは2026年におけるサイバーセキュリティ分野の動向予測を公開した。AIの普及がサイバーリスク構造を変化させている状況を踏まえ、企業が取るべき方向性を示している。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "LINEヤフー・川邊健太郎会長が退任へ　今後はAI事業に進出か　「AIと自分の二人会社みたいなのを起業」",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/23/news111.html",
+      "published": "2025-12-23 18:00:00+09:00",
+      "summary": "LINEヤフーは、代表取締役会長の川邊健太郎氏が2026年6月に退任すると発表した。26年6月開催予定の第31回定時株主総会終結の時点で任期満了となる。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "スマホゲームのKLab、AI音楽専門レーベル設立　新たなビジネス展開　「AI音楽の時代がやってくる」",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/23/news091.html",
+      "published": "2025-12-23 13:48:00+09:00",
+      "summary": "スマートフォンゲームなどを手掛けるKLabは、AI音楽専門レーベル 「KLab AI Entertainment」を立ち上げたと発表した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "John Carreyrou and other authors bring new lawsuit against six major AI companies",
+      "link": "https://techcrunch.com/2025/12/23/john-carreyrou-and-other-authors-bring-new-lawsuit-against-six-major-ai-companies/",
+      "published": "2025-12-24 04:02:47+09:00",
+      "summary": "These authors rejected Anthropic's class action settlement, arguing that \"LLM companies should not be able to so easily extinguish thousands upon thousands of high-value claims at bargain-basement rates.\"",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
