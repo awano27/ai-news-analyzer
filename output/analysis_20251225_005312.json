@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "AGIは完成せず、AI失敗事例が続出――スタンフォード大教授が語る“幻想から冷める1年”",
+    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2512/25/news067.html",
+    "published": "2025-12-25 08:00:00+09:00",
+    "summary": "スタンフォード大学は2025年12月15日、同大学のAI専門家らによる2026年のAIトレンド予測を発表した。コンピュータサイエンス、医学、法学、経済学の各分野の専門家が、2026年のAI動向を予測している。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "AGIは完成せず、AI失敗事例が続出――スタンフォード大教授が語る“幻想から冷める1年”",
+    "summary": "スタンフォード大学は2025年12月15日、同大学のAI専門家らによる2026年のAIトレンド予測を発表した。コンピュータサイエンス、医学、法学、経済学の各分野の専門家が、2026年のAI動向を予測している。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "AGIは完成せず、AI失敗事例が続出――スタンフォード大教授が語る“幻想から冷める1年”",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2512/25/news067.html",
+      "published": "2025-12-25 08:00:00+09:00",
+      "summary": "スタンフォード大学は2025年12月15日、同大学のAI専門家らによる2026年のAIトレンド予測を発表した。コンピュータサイエンス、医学、法学、経済学の各分野の専門家が、2026年のAI動向を予測している。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Google Cloud、“全て”のサービスでMCP対応　AIエージェント開発を効率化",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2512/25/news056.html",
+      "published": "2025-12-25 08:00:00+09:00",
+      "summary": "Google Cloudは自社サービスのフルマネージドMCPサーバを公開した。AIと外部ツールの標準連携を実現し、Google Cloud全体でエージェント型AI開発を促進させる。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "アクセンチュアが3万人の従業員に「Claude」研修　企業のAI導入を支援する新組織をAnthropicと共同設立",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2512/25/news048.html",
+      "published": "2025-12-25 08:00:00+09:00",
+      "summary": "AnthropicとAccentureは協業を拡大し、企業のAI導入を試行から本格運用へ移す体制を強化すると発表した。新組織の設置や人材育成を通じ、産業全体でのAI活用を加速させる狙いがある。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "DeNA、AI活用事例を100件まとめた資料を無料公開　エンジニアからクリエイターまで幅広に",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/24/news130.html",
+      "published": "2025-12-24 19:18:00+09:00",
+      "summary": "DeNAは、社内で集めた100のAI活用事例をまとめた資料を公開した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "ビジネスパーソンの6割「画像生成AI、週に1回は業務に利用」　アドビ調査",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/24/news085.html",
+      "published": "2025-12-24 12:10:00+09:00",
+      "summary": "日本のビジネスパーソンの6割近くが、週に1回は業務で画像生成AIを利用している──アドビがビジネスパーソン1000人を対象とした調査結果を発表した。回答者のち595人が週に1回以上使っていると答えたという。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
