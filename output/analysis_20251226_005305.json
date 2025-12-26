@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "AIエージェントが船長を導く航海システム、ウェザーニューズが提供開始",
+    "link": "https://www.itmedia.co.jp/aiplus/articles/2512/25/news102.html",
+    "published": "2025-12-25 16:01:00+09:00",
+    "summary": "船長はウェザーニューズの専門家と会話するように、航路上や港湾の気象リスク、燃費やスピードの予測など運航計画に直結する情報をAIに聞くことができる。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "AIエージェントが船長を導く航海システム、ウェザーニューズが提供開始",
+    "summary": "船長はウェザーニューズの専門家と会話するように、航路上や港湾の気象リスク、燃費やスピードの予測など運航計画に直結する情報をAIに聞くことができる。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "AIエージェントが船長を導く航海システム、ウェザーニューズが提供開始",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/25/news102.html",
+      "published": "2025-12-25 16:01:00+09:00",
+      "summary": "船長はウェザーニューズの専門家と会話するように、航路上や港湾の気象リスク、燃費やスピードの予測など運航計画に直結する情報をAIに聞くことができる。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "ソフトバンクが新たなAI計算基盤を稼働、「NVIDIA GB200 NVL72」採用　国産LLM「Sarashina」開発に活用",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/25/news080.html",
+      "published": "2025-12-25 11:31:00+09:00",
+      "summary": "ソフトバンクは、米NVIDIAのAI向けコンピューティングプラットフォーム「GB200 NVL72」搭載の新しいAI計算基盤を稼働開始したと発表した。国産LLM「Sarashina」の商用サービスの開発などに活用する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "AI Wrapped: The 14 AI terms you couldn’t avoid in 2025",
+      "link": "https://www.technologyreview.com/2025/12/25/1130298/ai-wrapped-the-14-ai-terms-you-couldnt-avoid-in-2025/",
+      "published": "2025-12-25 19:00:00+09:00",
+      "summary": "If the past 12 months have taught us anything, it’s that the AI hype train is showing no signs of slowing. It’s hard to believe that at the beginning of the year, DeepSeek had yet to turn the entire industry on its head, Meta was better known for trying (and failing) to make the metaverse…",
+      "source": "MIT Technology Review AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "電磁界解析ソフトウェアを設計エージェントで自動操作するシステムを開発",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2512/26/news007.html",
+      "published": "2025-12-26 09:00:00+09:00",
+      "summary": "MotorAIは、JSOLの社内カンパニーであるJMAGビジネスカンパニーとパートナー契約を締結した。今回の提携により、MotorAIの設計エージェントが、JSOLの電磁界解析ソフトウェア「JMAG-Designer」を自動操作するシステムを開発する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 0
+    },
+    {
+      "title": "衝撃、4本腕ロボ＆ヒューマノイドCEO！　漫画「1年間、生成AIに翻弄されるWebメディア編集部」【残り3話】",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/26/news008.html",
+      "published": "2025-12-26 08:30:00+09:00",
+      "summary": "2025年は生成AI関連の話題で盛りだくさん。AI関連のニュースを追いかけるITmedia AI＋編集部も大忙しでした。本連載ではそんな激動の1年間と、止まらないニュースに翻弄され続けた編集部の様子を4コマ漫画化します。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
