@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "楽天、7000億パラメータの日本語LLM「Rakuten AI 3.0」を発表　各種サービスに展開予定",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2512/27/news025.html",
+    "published": "2025-12-27 08:00:00+09:00",
+    "summary": "楽天が日本語特化LLM「Rakuten AI 3.0」を発表した。MoE採用で性能と計算効率を両立し、日本語版MT-Benchで高得点を記録している。GENIAC支援のもと自社サービスへ導入する他、来春にはオープンウェイトモデルとしての公開を予定している。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 4
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "楽天、7000億パラメータの日本語LLM「Rakuten AI 3.0」を発表　各種サービスに展開予定",
+    "summary": "楽天が日本語特化LLM「Rakuten AI 3.0」を発表した。MoE採用で性能と計算効率を両立し、日本語版MT-Benchで高得点を記録している。GENIAC支援のもと自社サービスへ導入する他、来春にはオープンウェイトモデルとしての公開を予定している。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 4,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "楽天、7000億パラメータの日本語LLM「Rakuten AI 3.0」を発表　各種サービスに展開予定",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2512/27/news025.html",
+      "published": "2025-12-27 08:00:00+09:00",
+      "summary": "楽天が日本語特化LLM「Rakuten AI 3.0」を発表した。MoE採用で性能と計算効率を両立し、日本語版MT-Benchで高得点を記録している。GENIAC支援のもと自社サービスへ導入する他、来春にはオープンウェイトモデルとしての公開を予定している。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "企業の生成AI活用に起きた“3つの変化”　ヒット記事で振り返る2025年のトレンド",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2512/27/news020.html",
+      "published": "2025-12-27 08:00:00+09:00",
+      "summary": "2025年の生成AIトレンドを凝縮した年間ランキングを公開。企業が生成AIの「本格導入」へと進む中、読者が注目した技術や活用事例とは。激動の1年を振り返り、2026年の展望を考察する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "SOMPOが“法人向けGemini”導入、グループ3万人で活用へ",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/26/news089.html",
+      "published": "2025-12-26 13:14:00+09:00",
+      "summary": "SOMPOホールディングスは、国内グループの従業員約3万人を対象に、米Googleの法人向けAIサービス「Gemini Enterprise」を1月から導入すると発表した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "【2025年版】無料でAIを学べる「公開資料・動画」12選　基本から活用法まで幅広く",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2512/26/news055.html",
+      "published": "2025-12-26 12:00:00+09:00",
+      "summary": "年末年始にAIの勉強はいかが？",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Equity’s 2026 Predictions: AI Agents, Blockbuster IPOs, and the Future of VC",
+      "link": "https://techcrunch.com/podcast/equitys-2026-predictions-ai-agents-blockbuster-ipos-and-the-future-of-vc/",
+      "published": "2025-12-27 03:00:00+09:00",
+      "summary": "TechCrunch’s Equity crew is bringing 2025 to a close and getting ahead on the year to come with our annual predictions episode! Hosts Kirsten Korosec, Anthony Ha, and Rebecca Bellan were joined by Build Mode host Isabelle Johannessen to dissect the year’s biggest tech developments, from mega AI funding rounds that defied expectations to the rise of “physical AI,” and make […]",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
