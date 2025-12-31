@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Meta、急成長の「Manus AI」を買収　自律型AIエージェント機能を統合へ",
+    "link": "https://www.itmedia.co.jp/news/articles/2512/30/news034.html",
+    "published": "2025-12-30 11:38:00+09:00",
+    "summary": "Metaは、中国発でシンガポール拠点の汎用AIエージェント開発企業Manus AIを買収すると発表した。Manusは自律型タスク遂行に強みを持ち、8カ月で売上高1億ドルを達成した急成長スタートアップだ。Metaはこの技術を「Meta AI」などの自社プロダクトに統合し、シャオ・ホンCEOらと共に、数十億人のユーザーに向けたサービスの拡充を加速させるとしている。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Meta、急成長の「Manus AI」を買収　自律型AIエージェント機能を統合へ",
+    "summary": "Metaは、中国発でシンガポール拠点の汎用AIエージェント開発企業Manus AIを買収すると発表した。Manusは自律型タスク遂行に強みを持ち、8カ月で売上高1億ドルを達成した急成長スタートアップだ。Metaはこの技術を「Meta AI」などの自社プロダクトに統合し、シャオ・ホンCEOらと共に、数十億人のユーザーに向けたサービスの拡充を加速させるとしている。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Meta、急成長の「Manus AI」を買収　自律型AIエージェント機能を統合へ",
+      "link": "https://www.itmedia.co.jp/news/articles/2512/30/news034.html",
+      "published": "2025-12-30 11:38:00+09:00",
+      "summary": "Metaは、中国発でシンガポール拠点の汎用AIエージェント開発企業Manus AIを買収すると発表した。Manusは自律型タスク遂行に強みを持ち、8カ月で売上高1億ドルを達成した急成長スタートアップだ。Metaはこの技術を「Meta AI」などの自社プロダクトに統合し、シャオ・ホンCEOらと共に、数十億人のユーザーに向けたサービスの拡充を加速させるとしている。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "The best AI-powered dictation apps of 2025",
+      "link": "https://techcrunch.com/2025/12/30/the-best-ai-powered-dictation-apps-of-2025/",
+      "published": "2025-12-31 01:00:00+09:00",
+      "summary": "AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "VCs predict enterprises will spend more on AI in 2026 — through fewer vendors",
+      "link": "https://techcrunch.com/2025/12/30/vcs-predict-enterprises-will-spend-more-on-ai-in-2026-through-fewer-vendors/",
+      "published": "2025-12-31 00:30:24+09:00",
+      "summary": "Enterprises have been experimenting with AI tools for a few years. Investors predict they will start to pick winners in 2026.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Meta just bought Manus, an AI startup everyone has been talking about",
+      "link": "https://techcrunch.com/2025/12/29/meta-just-bought-manus-an-ai-startup-everyone-has-been-talking-about/",
+      "published": "2025-12-30 14:39:08+09:00",
+      "summary": "Meta says it'll keep Manus running independently while weaving its agents into Facebook, Instagram, and WhatsApp, where Meta's own chatbot, Meta AI, is already available to users.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "The ascent of the AI therapist",
+      "link": "https://www.technologyreview.com/2025/12/30/1129392/book-reviews-ai-therapy-mental-health/",
+      "published": "2025-12-30 20:00:00+09:00",
+      "summary": "We’re in the midst of a global mental-­health crisis. More than a billion people worldwide suffer from a mental-health condition, according to the World Health Organization. The prevalence of anxiety and depression is growing in many demographics, particularly young people, and suicide is claiming hundreds of thousands of lives globally each year. Given the clear…",
+      "source": "MIT Technology Review AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
