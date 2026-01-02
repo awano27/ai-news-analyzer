@@ -1,0 +1,62 @@
+{
+  "article": {
+    "title": "European banks plan to cut 200,000 jobs as AI takes hold",
+    "link": "https://techcrunch.com/2026/01/01/european-banks-plan-to-cut-200000-jobs-as-ai-takes-hold/",
+    "published": "2026-01-02 05:28:20+09:00",
+    "summary": "The bloodletting will hit hardest in back-office operations, risk management, and compliance.",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 0
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "European banks plan to cut 200,000 jobs as AI takes hold",
+    "summary": "The bloodletting will hit hardest in back-office operations, risk management, and compliance.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 0,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "European banks plan to cut 200,000 jobs as AI takes hold",
+      "link": "https://techcrunch.com/2026/01/01/european-banks-plan-to-cut-200000-jobs-as-ai-takes-hold/",
+      "published": "2026-01-02 05:28:20+09:00",
+      "summary": "The bloodletting will hit hardest in back-office operations, risk management, and compliance.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "OpenAI bets big on audio as Silicon Valley declares war on screens",
+      "link": "https://techcrunch.com/2026/01/01/openai-bets-big-on-audio-as-silicon-valley-declares-war-on-screens/",
+      "published": "2026-01-02 03:29:29+09:00",
+      "summary": "The form factors may differ, but the thesis is the same: audio is the interface of the future. Every space -- your home, your car, even your face -- is becoming an interface.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "‘College dropout’ has become the most coveted startup founder credential",
+      "link": "https://techcrunch.com/2025/12/31/college-dropout-has-become-the-most-coveted-startup-founder-credential/",
+      "published": "2026-01-01 11:44:02+09:00",
+      "summary": "AI founders are increasingly using their \"dropout\" status as a credential during YC pitches.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "「導入後の評価軸がない」生成AI導入決裁者が答えた、手探りで進める生成AI活用の実態",
+      "link": "https://kn.itmedia.co.jp/kn/articles/2601/02/news011.html",
+      "published": "2026-01-02 07:00:00+09:00",
+      "summary": "Ragateは情報システム部とDX推進室の意思決定関与者505人を対象とした調査結果を公表した。生成AI導入に関する懸念点や今後の予算動向を解析し、意思決定者が取るべき対応を述べた。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
