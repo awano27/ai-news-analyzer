@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "India orders Musk’s X to fix Grok over ‘obscene’ AI content",
+    "link": "https://techcrunch.com/2026/01/02/india-orders-musks-x-to-fix-grok-over-obscene-ai-content/",
+    "published": "2026-01-03 03:29:26+09:00",
+    "summary": "India's IT ministry has given X 72 hours to submit an action-taken report.",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 0
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "India orders Musk’s X to fix Grok over ‘obscene’ AI content",
+    "summary": "India's IT ministry has given X 72 hours to submit an action-taken report.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 0,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "India orders Musk’s X to fix Grok over ‘obscene’ AI content",
+      "link": "https://techcrunch.com/2026/01/02/india-orders-musks-x-to-fix-grok-over-obscene-ai-content/",
+      "published": "2026-01-03 03:29:26+09:00",
+      "summary": "India's IT ministry has given X 72 hours to submit an action-taken report.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "How AI is reshaping work and who gets to do it, according to Mercor’s CEO",
+      "link": "https://techcrunch.com/podcast/how-ai-is-reshaping-work-and-who-gets-to-do-it-according-to-mercors-ceo/",
+      "published": "2026-01-03 02:33:18+09:00",
+      "summary": "Three-year-old startup Mercor has become a $10 billion middleman in AI’s data gold rush. The company connects AI labs like OpenAI and Anthropic with former employees of Goldman Sachs, McKinsey, and white-shoe law firms, paying them up to $200 an hour to share their industry expertise and train the AI models that could eventually automate their former employers out of business.   Today we’re bringing […]",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Nvidia’s AI empire: A look at its top startup investments",
+      "link": "https://techcrunch.com/2026/01/02/nvidias-ai-empire-a-look-at-its-top-startup-investments/",
+      "published": "2026-01-03 01:00:00+09:00",
+      "summary": "Over the last two years, Nvidia has used its ballooning fortunes to invest in over 100 AI startups. Here are the giant semiconductor's largest investments.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "In 2026, AI will move from hype to pragmatism",
+      "link": "https://techcrunch.com/2026/01/02/in-2026-ai-will-move-from-hype-to-pragmatism/",
+      "published": "2026-01-02 23:43:00+09:00",
+      "summary": "In 2026, here's what you can expect from the AI industry: new architectures, smaller models, world models, reliable agents, physical AI, and products designed for real-world use.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Announcing OpenAI Grove Cohort 2",
+      "link": "https://openai.com/index/openai-grove",
+      "published": "2026-01-02 19:00:00+09:00",
+      "summary": "Applications are now open for OpenAI Grove Cohort 2, a 5-week founder program designed for individuals at any stage, from pre-idea to product. Participants receive $50K in API credits, early access to AI tools, and hands-on mentorship from the OpenAI team.",
+      "source": "OpenAI Blog",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
