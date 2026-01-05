@@ -1,0 +1,53 @@
+{
+  "article": {
+    "title": "Plaud launches a new AI pin and a desktop meeting notetaker",
+    "link": "https://techcrunch.com/2026/01/04/plaud-launches-a-new-ai-pin-and-a-desktop-meeting-notetaker/",
+    "published": "2026-01-05 01:28:10+09:00",
+    "summary": "Plaud is going after the likes of Granola to launch a desktop app that records online meetings",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Plaud launches a new AI pin and a desktop meeting notetaker",
+    "summary": "Plaud is going after the likes of Granola to launch a desktop app that records online meetings",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Plaud launches a new AI pin and a desktop meeting notetaker",
+      "link": "https://techcrunch.com/2026/01/04/plaud-launches-a-new-ai-pin-and-a-desktop-meeting-notetaker/",
+      "published": "2026-01-05 01:28:10+09:00",
+      "summary": "Plaud is going after the likes of Granola to launch a desktop app that records online meetings",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "DoorDash says it banned driver who seemingly faked a delivery using AI",
+      "link": "https://techcrunch.com/2026/01/04/doordash-says-it-banned-driver-who-seemingly-faked-a-delivery-using-ai/",
+      "published": "2026-01-05 06:14:23+09:00",
+      "summary": "DoorDash seems to have confirmed a viral story about a driver using an AI-generated photo to lie about making a delivery.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "AIエージェントと設計者との共創の“始まり”を感じさせる2026年",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2601/05/news023.html",
+      "published": "2026-01-05 08:00:00+09:00",
+      "summary": "設計業務におけるAI活用は「効率化」や「自動化」の段階を越え、設計者の判断や思考の流れに寄り添う存在へと進化しつつあります。2026年は「AIエージェント」と設計者との共創が、現場レベルで少しずつ形になり始める年になるかもしれません。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
