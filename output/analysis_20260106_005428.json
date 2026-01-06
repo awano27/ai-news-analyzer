@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "NVIDIAがフィジカルAIのオープン展開を加速、自動運転向けで「Alpamayo」を公開",
+    "link": "https://monoist.itmedia.co.jp/mn/articles/2601/06/news051.html",
+    "published": "2026-01-06 08:15:00+09:00",
+    "summary": "NVIDIAは「CES 2026」の開催に合わせて、フィジカルAI（人工知能）の代表的なアプリケーションである自動運転技術とヒューマノイド向けのオープンソースAIモデルを発表した。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 6
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "NVIDIAがフィジカルAIのオープン展開を加速、自動運転向けで「Alpamayo」を公開",
+    "summary": "NVIDIAは「CES 2026」の開催に合わせて、フィジカルAI（人工知能）の代表的なアプリケーションである自動運転技術とヒューマノイド向けのオープンソースAIモデルを発表した。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 6,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "NVIDIAがフィジカルAIのオープン展開を加速、自動運転向けで「Alpamayo」を公開",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2601/06/news051.html",
+      "published": "2026-01-06 08:15:00+09:00",
+      "summary": "NVIDIAは「CES 2026」の開催に合わせて、フィジカルAI（人工知能）の代表的なアプリケーションである自動運転技術とヒューマノイド向けのオープンソースAIモデルを発表した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 6
+    },
+    {
+      "title": "洗濯物をたたむ家庭用ロボ「CLOiD」、LGから　CESで一般公開",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/05/news092.html",
+      "published": "2026-01-05 16:36:00+09:00",
+      "summary": "韓国LG Electronicsが視覚言語モデル（VLM）を活用した家事ロボット「LG CLOiD」を発表した。ラスベガスで1月6日（現地時間）から開催される「CES 2026」で一般公開する。現地では、冷蔵庫から牛乳を取り出したり、オーブンにクロワッサンを入れたりして朝食を準備する他、乾いた洗濯物をたたむといったデモを披露する予定だ。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "Nvidia launches powerful new Rubin chip architecture",
+      "link": "https://techcrunch.com/2026/01/05/nvidia-launches-powerful-new-rubin-chip-architecture/",
+      "published": "2026-01-06 07:16:58+09:00",
+      "summary": "Nvidia CEO Jensen Huang officially launched the company’s new Rubin computing architecture, which he described as the state of the art in AI computing.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Nvidia launches Alpamayo, open AI models that allow autonomous vehicles to ‘think like a human’",
+      "link": "https://techcrunch.com/2026/01/05/nvidia-launches-alpamayo-open-ai-models-that-allow-autonomous-vehicles-to-think-like-a-human/",
+      "published": "2026-01-06 06:52:22+09:00",
+      "summary": "Nvidia unveiled Alpamayo at CES 2026, which includes a reasoning vision language action model that allows an autonomous vehicle to think more like a human and provide chain-of-thought reasoning.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Boston Dynamicsのヒト型ロボット「Atlas」に「Gemini Robotics」搭載　Hyundaiが自動車工場に配備へ",
+      "link": "https://www.itmedia.co.jp/news/articles/2601/06/news056.html",
+      "published": "2026-01-06 08:57:00+09:00",
+      "summary": "Hyndai傘下のBoston Dynamicsは、Google DeepMindとの提携を発表した。ヒト型ロボット「Atlas」に、ロボット向け基盤モデル「Gemini Robotics」を統合し、知覚や推論能力を高めるのが目的だ。Hyundaiは2028年から米国工場にAtlasを配備する計画で、産業現場での完全自律作業の実現を目指す。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
