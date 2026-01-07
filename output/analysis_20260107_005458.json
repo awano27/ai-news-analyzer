@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "NVIDIA、次世代AIプラットフォーム「Rubin」量産開始　推論コストを10分の1へ",
+    "link": "https://www.itmedia.co.jp/news/articles/2601/06/news061.html",
+    "published": "2026-01-06 10:35:00+09:00",
+    "summary": "NVIDIAは、次世代AIプラットフォーム「Rubin」の量産開始を発表した。GPUやCPUなど6つの新チップを“extreme codesign”で一体化。先代Blackwell比で推論コストを10分の1に低減する。2026年後半に提供開始予定で、OpenAIやxAIなど主要各社がこぞって採用を表明した。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 4
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "NVIDIA、次世代AIプラットフォーム「Rubin」量産開始　推論コストを10分の1へ",
+    "summary": "NVIDIAは、次世代AIプラットフォーム「Rubin」の量産開始を発表した。GPUやCPUなど6つの新チップを“extreme codesign”で一体化。先代Blackwell比で推論コストを10分の1に低減する。2026年後半に提供開始予定で、OpenAIやxAIなど主要各社がこぞって採用を表明した。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 4,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "NVIDIA、次世代AIプラットフォーム「Rubin」量産開始　推論コストを10分の1へ",
+      "link": "https://www.itmedia.co.jp/news/articles/2601/06/news061.html",
+      "published": "2026-01-06 10:35:00+09:00",
+      "summary": "NVIDIAは、次世代AIプラットフォーム「Rubin」の量産開始を発表した。GPUやCPUなど6つの新チップを“extreme codesign”で一体化。先代Blackwell比で推論コストを10分の1に低減する。2026年後半に提供開始予定で、OpenAIやxAIなど主要各社がこぞって採用を表明した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "AMD unveils new AI PC processors for general use and gaming at CES",
+      "link": "https://techcrunch.com/2026/01/05/amd-unveils-new-ai-pc-processors-for-general-use-and-gaming-at-ces/",
+      "published": "2026-01-06 12:30:00+09:00",
+      "summary": "AMD announced the latest version of its AI-powered PC chips designed for a variety of tasks, from gaming to content creation and multitasking.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "CES 2026でも過熱する「フィジカルAI」、バズワードを脱して本格的なトレンドへ",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2601/07/news056.html",
+      "published": "2026-01-07 08:00:00+09:00",
+      "summary": "2025年後半から日本国内でもバズワードとして取り上げられてきた「フィジカルAI」。その主戦場は日本が得意とする自動車とロボットであり、2026年はこのフィジカルAIが本格的なトレンドとして定着していく年になるだろう。「CES 2026」でもフィジカルAIに向けた新製品の発表が相次いだ。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "ＳＯＭＰＯグループ、3万人の従業員にAIエージェント導入　“AI前提”の働き方を検証へ",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2601/07/news039.html",
+      "published": "2026-01-07 08:00:00+09:00",
+      "summary": "ＳＯＭＰＯホールディングスは国内グループ従業員約3万人向けにAIエージェントを導入すると発表した。業務効率と生産性の向上を通じ、AI前提の業務再構築と事業変革を促進させる方針だ。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "OpenAIが過去1年を分析、エンジニアから非技術職まで“AIの時短効果”が広がる",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2601/06/news050.html",
+      "published": "2026-01-06 13:00:00+09:00",
+      "summary": "OpenAIは、企業におけるAIの活用状況に関する調査レポート「The state of enterprise AI」（エンタープライズAIの現状）を公開した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
