@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "LenovoとMotorola、共通AI基盤「Qira」発表　ペンダント型AI端末「ProjectMaxwell」も披露",
+    "link": "https://www.itmedia.co.jp/news/articles/2601/07/news099.html",
+    "published": "2026-01-07 14:06:00+09:00",
+    "summary": "LenovoとMotorolaは、デバイスの垣根を超えるAIプラットフォーム「Qira」を発表した。PCやスマホでAIの記憶や文脈を共有し、シームレスな体験を実現する。また、ペンダント型AI端末「Project Maxwell」のプロトタイプも公開。視覚と聴覚を共有する「常時寄り添うAI」のビジョンを提示した。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 4
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "LenovoとMotorola、共通AI基盤「Qira」発表　ペンダント型AI端末「ProjectMaxwell」も披露",
+    "summary": "LenovoとMotorolaは、デバイスの垣根を超えるAIプラットフォーム「Qira」を発表した。PCやスマホでAIの記憶や文脈を共有し、シームレスな体験を実現する。また、ペンダント型AI端末「Project Maxwell」のプロトタイプも公開。視覚と聴覚を共有する「常時寄り添うAI」のビジョンを提示した。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 4,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "LenovoとMotorola、共通AI基盤「Qira」発表　ペンダント型AI端末「ProjectMaxwell」も披露",
+      "link": "https://www.itmedia.co.jp/news/articles/2601/07/news099.html",
+      "published": "2026-01-07 14:06:00+09:00",
+      "summary": "LenovoとMotorolaは、デバイスの垣根を超えるAIプラットフォーム「Qira」を発表した。PCやスマホでAIの記憶や文脈を共有し、シームレスな体験を実現する。また、ペンダント型AI端末「Project Maxwell」のプロトタイプも公開。視覚と聴覚を共有する「常時寄り添うAI」のビジョンを提示した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "OpenAI unveils ChatGPT Health, says 230 million users ask about health each week",
+      "link": "https://techcrunch.com/2026/01/07/openai-unveils-chatgpt-health-says-230-million-users-ask-about-health-each-week/",
+      "published": "2026-01-08 06:08:23+09:00",
+      "summary": "The feature, which is expected to roll out in the coming weeks, will offer a dedicated space for conversations with ChatGPT about health.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "OpenAI、健康支援機能「ChatGPT Health」発表　Apple「ヘルスケア」などと連携",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/08/news052.html",
+      "published": "2026-01-08 07:29:00+09:00",
+      "summary": "OpenAIは、ChatGPTアプリの新機能「ChatGPT Health」を発表した。Appleの「ヘルスケア」アプリなどのデータにアクセスし、検査結果の解説や医師への相談準備を支援する。プライバシー対策として、通常のチャットとは隔離された専用メモリ空間を使用し、モデルの学習にも利用しない。現在はベータβ版のウェイトリスト登録を受け付けている。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "ホロライブ、カードゲームPVに「不適切な映像制作手法」　動画が非公開に　“AI利用疑惑”受け発覚",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/07/news101.html",
+      "published": "2026-01-07 14:54:00+09:00",
+      "summary": "VTuber事務所「ホロライブプロダクション」を運営するカバーは、公式トレーディングカードゲームのPVを一部非公開にした。制作工程の一部に「原画イラストのクオリティーを損なう映像制作手法が含まれていた」という。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Ford has an AI assistant and new hands-free BlueCruise tech on the way",
+      "link": "https://techcrunch.com/2026/01/07/ford-has-an-ai-assistant-and-new-hands-free-bluecruise-tech-on-the-way/",
+      "published": "2026-01-08 09:00:00+09:00",
+      "summary": "Ford says the new generation of BlueCruise will be 30% cheaper to build than the current technology.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
