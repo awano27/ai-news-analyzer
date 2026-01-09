@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Snowflake announces its intent to buy observability platform Observe",
+    "link": "https://techcrunch.com/2026/01/08/snowflake-announces-its-intent-to-buy-observability-platform-observe/",
+    "published": "2026-01-09 02:00:49+09:00",
+    "summary": "Snowflake is bolstering its data stack to make the platform better suited to the sheer volume of data produced by AI agents.",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Snowflake announces its intent to buy observability platform Observe",
+    "summary": "Snowflake is bolstering its data stack to make the platform better suited to the sheer volume of data produced by AI agents.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Snowflake announces its intent to buy observability platform Observe",
+      "link": "https://techcrunch.com/2026/01/08/snowflake-announces-its-intent-to-buy-observability-platform-observe/",
+      "published": "2026-01-09 02:00:49+09:00",
+      "summary": "Snowflake is bolstering its data stack to make the platform better suited to the sheer volume of data produced by AI agents.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Gmailに「Gemini 3」搭載の大型アップデート、情報の要約や「AI Inbox」が登場",
+      "link": "https://www.itmedia.co.jp/news/articles/2601/09/news066.html",
+      "published": "2026-01-09 08:30:00+09:00",
+      "summary": "Googleは、「Gmail」に「Gemini 3」を導入するアップデートを発表した。受信トレイ全体から情報を探し出す「AI Overview」や、ユーザーの文体を学習した「Help Me Write」、重要メールを自動抽出する「AI Inbox」を順次提供する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "現実世界で動き始めたAI――自動運転にロボット、「フィジカルAI」に突き進むNVIDIAのビジョン",
+      "link": "https://www.itmedia.co.jp/news/articles/2601/09/news065.html",
+      "published": "2026-01-09 08:30:00+09:00",
+      "summary": "米ラスベガスで開催中の「CES 2026」。米NVIDIAが1月5日（現地時間）に行った基調講演では、ジェンスン・フアンCEOが登壇。次世代AIスパコン「Vera Rubin」と、推論で思考を語ることができる自動運転AI「Alpamayo」を発表。AIが現実世界に浸透する未来像を示した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "2026年最大の懸念はAIで高度化した“あの脅威”　ISACAが最新の意識調査を公表",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2601/09/news037.html",
+      "published": "2026-01-09 07:00:00+09:00",
+      "summary": "ISACAは最新の調査レポート「2026年度版 テック動向と優先課題パルス調査」を公開した。調査結果ではAIに関連したサイバー脅威が2026年における主要な懸念事項として浮上した。その中でも特に注意すべきものは何か。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "AI支援開発で「伸びるチーム」「崩れるチーム」を分ける7つの能力、Googleが分析",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2601/08/news043.html",
+      "published": "2026-01-08 13:00:00+09:00",
+      "summary": "GoogleはAIソフトウェア開発に関する調査レポートを公開し、AIの導入効果を増幅させる7つの基礎能力を明らかにした。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
