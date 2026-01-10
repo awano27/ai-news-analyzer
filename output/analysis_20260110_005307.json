@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Anthropic adds Allianz to growing list of enterprise wins",
+    "link": "https://techcrunch.com/2026/01/09/anthropic-adds-allianz-to-growing-list-of-enterprise-wins/",
+    "published": "2026-01-09 18:00:00+09:00",
+    "summary": "Anthropic announces its first enterprise deal of 2026, which includes building agents for, and giving Claude code to, Allianz.",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Anthropic adds Allianz to growing list of enterprise wins",
+    "summary": "Anthropic announces its first enterprise deal of 2026, which includes building agents for, and giving Claude code to, Allianz.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Anthropic adds Allianz to growing list of enterprise wins",
+      "link": "https://techcrunch.com/2026/01/09/anthropic-adds-allianz-to-growing-list-of-enterprise-wins/",
+      "published": "2026-01-09 18:00:00+09:00",
+      "summary": "Anthropic announces its first enterprise deal of 2026, which includes building agents for, and giving Claude code to, Allianz.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Cygames、“AI特化”の子会社設立　「クリエイターが安心・安全に利用できるAI技術」の開発目指す",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/09/news080.html",
+      "published": "2026-01-09 13:27:00+09:00",
+      "summary": "Cygamesは、AIを活用したサービスやツールを開発する子会社Cygames AI Studio（東京都渋谷区）を設立したと発表した。Cygamesがゲーム制作で培った知見をもとに、「クリエイターが安心・安全に利用できるAI技術」の開発を目指す。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "生成AIと社内データをつなぐ「RAG」、関心はあれど普及していない現実",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2601/09/news062.html",
+      "published": "2026-01-09 13:00:00+09:00",
+      "summary": "Digeonは、「RAG」の認知・導入実態調査の結果を発表した。RAG導入済みの層が一部にとどまっている実態が浮き彫りになった。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "OpenAI、医療機関向け「OpenAI for Healthcare」発表　HIPAA準拠で組織導入を支援",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/09/news071.html",
+      "published": "2026-01-09 10:22:00+09:00",
+      "summary": "OpenAIは、医療機関向けの新たな枠組み「OpenAI for Healthcare」を発表した。個人向け「ChatGPT Health」とは異なり、病院などの組織がHIPAA準拠の環境でAIを運用するための専用製品を提供する。データをモデルの学習には使わず、高度な暗号化により、機密性の高い患者情報の安全な取り扱いを可能にするとしている。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "CES 2026: Everything revealed, from Nvidia’s debuts to AMD’s new chips to Razer’s AI oddities",
+      "link": "https://techcrunch.com/2026/01/09/ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities/",
+      "published": "2026-01-10 07:36:27+09:00",
+      "summary": "CES 2026 is in full swing in Las Vegas, with the show floor open to the public after a packed couple of days occupied by press conferences from the likes of Nvidia, Sony, and AMD and previews from Sunday’s Unveiled event.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
