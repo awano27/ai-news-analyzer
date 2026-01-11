@@ -1,0 +1,53 @@
+{
+  "article": {
+    "title": "OpenAI is reportedly asking contractors to upload real work from past jobs",
+    "link": "https://techcrunch.com/2026/01/10/openai-is-reportedly-asking-contractors-to-upload-real-work-from-past-jobs/",
+    "published": "2026-01-11 06:18:29+09:00",
+    "summary": "An intellectual property lawyer says OpenAI is \"putting itself at great risk\" with this approach.",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 0
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "OpenAI is reportedly asking contractors to upload real work from past jobs",
+    "summary": "An intellectual property lawyer says OpenAI is \"putting itself at great risk\" with this approach.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 0,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "OpenAI is reportedly asking contractors to upload real work from past jobs",
+      "link": "https://techcrunch.com/2026/01/10/openai-is-reportedly-asking-contractors-to-upload-real-work-from-past-jobs/",
+      "published": "2026-01-11 06:18:29+09:00",
+      "summary": "An intellectual property lawyer says OpenAI is \"putting itself at great risk\" with this approach.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Indonesia blocks Grok over non-consensual, sexualized deepfakes",
+      "link": "https://techcrunch.com/2026/01/10/indonesia-blocks-grok-over-non-consensual-sexualized-deepfakes/",
+      "published": "2026-01-11 04:37:54+09:00",
+      "summary": "Indonesian officials said Saturday that they are temporarily blocking access to xAI’s chatbot Grok.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "OpenAIとソフトバンクG、SB Energyに10億ドル共同出資　1.2GW級のAI拠点建設へ",
+      "link": "https://www.itmedia.co.jp/news/articles/2601/11/news014.html",
+      "published": "2026-01-11 08:19:00+09:00",
+      "summary": "OpenAIとソフトバンクグループは、SB Energyに計10億ドルを共同出資した。テキサス州で1.2GW級の巨大データセンターを建設し、AI特化型インフラの新たな標準モデルを共同開発する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
