@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Google announces a new protocol to facilitate commerce using AI agents",
+    "link": "https://techcrunch.com/2026/01/11/google-announces-a-new-protocol-to-facilitate-commerce-using-ai-agents/",
+    "published": "2026-01-12 00:00:00+09:00",
+    "summary": "Google said that merchants can now offer discounts to users directly in AI mode results",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Google announces a new protocol to facilitate commerce using AI agents",
+    "summary": "Google said that merchants can now offer discounts to users directly in AI mode results",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Google announces a new protocol to facilitate commerce using AI agents",
+      "link": "https://techcrunch.com/2026/01/11/google-announces-a-new-protocol-to-facilitate-commerce-using-ai-agents/",
+      "published": "2026-01-12 00:00:00+09:00",
+      "summary": "Google said that merchants can now offer discounts to users directly in AI mode results",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "ISACA、AI監査資格「Advanced in AI Audit（AAIA）」の日本語提供を開始　学習キットも充実",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2601/12/news007.html",
+      "published": "2026-01-12 08:00:00+09:00",
+      "summary": "ITガバナンスやセキュリティ、リスク管理などの認定資格を提供するISACAが、監査特化型AI認定資格「ISACA Advanced in AI Audit（AAIA）」の日本語版を提供開始した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Motional puts AI at center of robotaxi reboot as it targets 2026 for driverless service",
+      "link": "https://techcrunch.com/2026/01/11/motional-puts-ai-at-center-of-robotaxi-reboot-as-it-targets-2026-for-driverless-service/",
+      "published": "2026-01-12 09:10:54+09:00",
+      "summary": "Motional says it will launch a driverless robotaxi service in Las Vegas before the end of 2026.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Google removes AI Overviews for certain medical queries",
+      "link": "https://techcrunch.com/2026/01/11/google-removes-ai-overviews-for-certain-medical-queries/",
+      "published": "2026-01-12 02:56:41+09:00",
+      "summary": "This follows an investigation by the Guardian that found Google AI Overviews offering misleading information in response to some health-related queries.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Indonesia and Malaysia block Grok over non-consensual, sexualized deepfakes",
+      "link": "https://techcrunch.com/2026/01/11/indonesia-blocks-grok-over-non-consensual-sexualized-deepfakes/",
+      "published": "2026-01-12 00:07:49+09:00",
+      "summary": "Indonesian officials said Saturday that they are temporarily blocking access to xAI’s chatbot Grok.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
