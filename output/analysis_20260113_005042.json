@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Hyperscale AI data centers: 10 Breakthrough Technologies 2026",
+    "link": "https://www.technologyreview.com/2026/01/12/1129982/hyperscale-ai-data-centers-energy-usage-2026-breakthrough-technology/",
+    "published": "2026-01-12 20:00:00+09:00",
+    "summary": "In sprawling stretches of farmland and industrial parks, supersized buildings packed with racks of computers are springing up to fuel the AI race. These engineering marvels are a new species of infrastructure: supercomputers designed to train and run large language models at mind-­bending scale, complete with their own specialized chips, cooling systems, and even energy…",
+    "source": "MIT Technology Review AI",
+    "language": "en",
+    "preliminary_score": 3
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Hyperscale AI data centers: 10 Breakthrough Technologies 2026",
+    "summary": "In sprawling stretches of farmland and industrial parks, supersized buildings packed with racks of computers are springing up to fuel the AI race. These engineering marvels are a new species of infrastructure: supercomputers designed to train and run large language models at mind-­bending scale, complete with their own specialized chips, cooling systems, and even energy…",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 3,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Hyperscale AI data centers: 10 Breakthrough Technologies 2026",
+      "link": "https://www.technologyreview.com/2026/01/12/1129982/hyperscale-ai-data-centers-energy-usage-2026-breakthrough-technology/",
+      "published": "2026-01-12 20:00:00+09:00",
+      "summary": "In sprawling stretches of farmland and industrial parks, supersized buildings packed with racks of computers are springing up to fuel the AI race. These engineering marvels are a new species of infrastructure: supercomputers designed to train and run large language models at mind-­bending scale, complete with their own specialized chips, cooling systems, and even energy…",
+      "source": "MIT Technology Review AI",
+      "language": "en",
+      "preliminary_score": 3
+    },
+    {
+      "title": "Mechanistic interpretability: 10 Breakthrough Technologies 2026",
+      "link": "https://www.technologyreview.com/2026/01/12/1130003/mechanistic-interpretability-ai-research-models-2026-breakthrough-technologies/",
+      "published": "2026-01-12 20:00:00+09:00",
+      "summary": "Hundreds of millions of people now use chatbots every day. And yet the large language models that drive them are so complicated that nobody really understands what they are, how they work, or exactly what they can and can’t do—not even the people who build them. Weird, right? It’s also a problem. Without a clear…",
+      "source": "MIT Technology Review AI",
+      "language": "en",
+      "preliminary_score": 3
+    },
+    {
+      "title": "AI companions: 10 Breakthrough Technologies 2026",
+      "link": "https://www.technologyreview.com/2026/01/12/1130018/ai-companions-chatbots-relationships-2026-breakthrough-technology/",
+      "published": "2026-01-12 20:00:00+09:00",
+      "summary": "Chatbots are skilled at crafting sophisticated dialogue and mimicking empathetic behavior. They never get tired of chatting. It’s no wonder, then, that so many people now use them for companionship—forging friendships or even romantic relationships.  According to a study from the nonprofit Common Sense Media, 72% of US teenagers have used AI for companionship. Although…",
+      "source": "MIT Technology Review AI",
+      "language": "en",
+      "preliminary_score": 3
+    },
+    {
+      "title": "Generative coding: 10 Breakthrough Technologies 2026",
+      "link": "https://www.technologyreview.com/2026/01/12/1130027/generative-coding-ai-software-2026-breakthrough-technology/",
+      "published": "2026-01-12 20:00:00+09:00",
+      "summary": "Generative AI’s ability to write software code has quickly created one of the technology’s first real use cases for business. Professional software engineers and novices alike are using AI coding assistants to produce, test, edit, and debug code, reducing the amount of time it takes to complete the often tedious steps required to finish projects.…",
+      "source": "MIT Technology Review AI",
+      "language": "en",
+      "preliminary_score": 3
+    },
+    {
+      "title": "Anthropic announces Claude for Healthcare following OpenAI’s ChatGPT Health reveal",
+      "link": "https://techcrunch.com/2026/01/12/anthropic-announces-claude-for-healthcare-following-openais-chatgpt-health-reveal/",
+      "published": "2026-01-13 05:48:21+09:00",
+      "summary": "Anthropic's Claude for Healthcare is unveiled about a week after OpenAI announced its ChatGPT Health product.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
