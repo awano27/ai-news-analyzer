@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Microsoft announces glut of new data centers but says it won’t let your electricity bill go up",
+    "link": "https://techcrunch.com/2026/01/13/microsoft-announces-glut-of-new-data-centers-but-says-it-wont-let-your-electricity-bill-go-up/",
+    "published": "2026-01-14 05:15:58+09:00",
+    "summary": "The tech giant has pledged to be a \"good neighbor\" as it continues to invest in AI infrastructure throughout the country.",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Microsoft announces glut of new data centers but says it won’t let your electricity bill go up",
+    "summary": "The tech giant has pledged to be a \"good neighbor\" as it continues to invest in AI infrastructure throughout the country.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Microsoft announces glut of new data centers but says it won’t let your electricity bill go up",
+      "link": "https://techcrunch.com/2026/01/13/microsoft-announces-glut-of-new-data-centers-but-says-it-wont-let-your-electricity-bill-go-up/",
+      "published": "2026-01-14 05:15:58+09:00",
+      "summary": "The tech giant has pledged to be a \"good neighbor\" as it continues to invest in AI infrastructure throughout the country.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Apple launches ‘Creator Studio’ bundle of apps for $12.99 per month",
+      "link": "https://techcrunch.com/2026/01/13/apple-launches-creator-studio-bundle-of-apps-for-12-99-per-month/",
+      "published": "2026-01-13 23:40:19+09:00",
+      "summary": "The bundle includes access to Final Cut Pro, Logic Pro, and Pixelmator Pro on Mac and iPad, as well as Motion, Compressor, and MainStage on Mac.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Slackbot is an AI agent now",
+      "link": "https://techcrunch.com/2026/01/13/slackbot-is-an-ai-agent-now/",
+      "published": "2026-01-13 22:00:00+09:00",
+      "summary": "Salesforce unveils Slackbot, a new AI agent that allows users to complete tasks across multiple enterprise applications from Slack.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "OpenAI、医療系スタートアップ買収　「ChatGPT ヘルスケア」強化へ",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/13/news109.html",
+      "published": "2026-01-13 18:44:00+09:00",
+      "summary": "米OpenAIは、医療系スタートアップの米Torchを買収したと発表した。ChatGPT上で使える健康支援機能「ChatGPT ヘルスケア」の機能を強化する狙い。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "ファミマ、AIで売り場を採点　品ぞろえ最適化へ実証実験",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/13/news107.html",
+      "published": "2026-01-13 18:13:00+09:00",
+      "summary": "ファミリーマートが、売り場の陳列状況をAIで点数化する実証実験を始めると発表した。品ぞろえの最適化につなげ、業務効率化を目指す。1月中旬から首都圏の一部店舗で開始する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
