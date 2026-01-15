@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Musk denies awareness of Grok sexual underage images as California AG launches probe",
+    "link": "https://techcrunch.com/2026/01/14/musk-denies-awareness-of-grok-sexual-underage-images-as-california-ag-launches-probe/",
+    "published": "2026-01-15 07:42:51+09:00",
+    "summary": "The California attorney general has opened a formal investigation into Elon Musk's xAI after its chatbot Grok began generating nonconsensual sexual images of real women and even children.",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Musk denies awareness of Grok sexual underage images as California AG launches probe",
+    "summary": "The California attorney general has opened a formal investigation into Elon Musk's xAI after its chatbot Grok began generating nonconsensual sexual images of real women and even children.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Musk denies awareness of Grok sexual underage images as California AG launches probe",
+      "link": "https://techcrunch.com/2026/01/14/musk-denies-awareness-of-grok-sexual-underage-images-as-california-ag-launches-probe/",
+      "published": "2026-01-15 07:42:51+09:00",
+      "summary": "The California attorney general has opened a formal investigation into Elon Musk's xAI after its chatbot Grok began generating nonconsensual sexual images of real women and even children.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "AI security firm, depthfirst, announces $40 million Series A",
+      "link": "https://techcrunch.com/2026/01/14/ai-security-firm-depthfirst-announces-40-million-series-a/",
+      "published": "2026-01-15 00:50:17+09:00",
+      "summary": "The company used an AI-native platform to help companies fight threats.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Google、Geminiに「Personal Intelligence」導入　Gmailやフォトを横断して自律推論して回答",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/15/news064.html",
+      "published": "2026-01-15 07:37:00+09:00",
+      "summary": "Googleは、Geminiの新機能「Personal Intelligence」を発表した。GmailやGoogleフォトなどのデータをAIが横断的に推論し、個人の文脈に合わせた高度な助言を行う。アプリの枠を超えた支援が特徴だ。学習への不使用など、プライバシー保護も徹底したとしている。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "ゲームの絵には“AI画像”使っていない──Cygamesが生成AI巡り謝罪　「不安を与えて、心から申し訳ない」",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/14/news113.html",
+      "published": "2026-01-14 22:56:00+09:00",
+      "summary": "Cygamesは、生成AIに関する声明を発表した。同社は1月9日、AIサービスやツールを開発する子会社・Cygames AI Studioの設立を発表。これについて、一部のXユーザーからは、生成AIを使うことについて批判的な意見が上がっていた。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "「AIによるコンテンツの無断利用や改変は禁止」――漫画制作のナンバーナインが注意喚起",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/14/news101.html",
+      "published": "2026-01-14 17:03:00+09:00",
+      "summary": "漫画制作などを手掛けるナンバーナインは、AIによるコンテンツの無断利用や改変などをしないよう注意喚起した。対象は、同社が公式サイトやSNSなどで公開している全ての画像と著作物。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
