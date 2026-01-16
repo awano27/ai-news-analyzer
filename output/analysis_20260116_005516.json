@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "日常の業務もClaudeで自動化する日がくる？　Anthropicが新機能「Cowork」を発表",
+    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2601/16/news017.html",
+    "published": "2026-01-16 05:00:00+09:00",
+    "summary": "Anthropicは、AIが自律的にフォルダ内のファイルを操作して、資料作成やデータ整理を行う新機能「Cowork」の先行公開を開始した。非エンジニアの生産性も劇的に向上させる「同僚」のようなプロダクトといえる。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 4
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "日常の業務もClaudeで自動化する日がくる？　Anthropicが新機能「Cowork」を発表",
+    "summary": "Anthropicは、AIが自律的にフォルダ内のファイルを操作して、資料作成やデータ整理を行う新機能「Cowork」の先行公開を開始した。非エンジニアの生産性も劇的に向上させる「同僚」のようなプロダクトといえる。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 4,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "日常の業務もClaudeで自動化する日がくる？　Anthropicが新機能「Cowork」を発表",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2601/16/news017.html",
+      "published": "2026-01-16 05:00:00+09:00",
+      "summary": "Anthropicは、AIが自律的にフォルダ内のファイルを操作して、資料作成やデータ整理を行う新機能「Cowork」の先行公開を開始した。非エンジニアの生産性も劇的に向上させる「同僚」のようなプロダクトといえる。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "Wikimedia Foundation announces new AI partnerships with Amazon, Meta, Microsoft, Perplexity, and others",
+      "link": "https://techcrunch.com/2026/01/15/wikimedia-foundation-announces-new-ai-partnerships-with-amazon-meta-microsoft-perplexity-and-others/",
+      "published": "2026-01-16 00:19:05+09:00",
+      "summary": "The AI partnerships allow companies to access the org's content, like Wikipedia, at scale.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "AmazonやMetaなどAI企業5社がWikipediaの有償パートナーに",
+      "link": "https://www.itmedia.co.jp/news/articles/2601/16/news066.html",
+      "published": "2026-01-16 07:59:00+09:00",
+      "summary": "Wikimedia Enterpriseは、Wikipedia誕生25周年に合わせ、AmazonやMicrosoft、Metaら5社を新たな有償パートナーとして発表した（Googleは2022年からパートナーになっている）。AIチャットボット等の基盤としてWikipediaのデータを利用するIT企業に対し、有償契約を通じた資金還元を求める動きだ。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "新語は“Google超え”――Microsoftの「Copilot Keyboard」は、正常進化したAI日本語入力だった",
+      "link": "https://www.itmedia.co.jp/news/articles/2601/15/news131.html",
+      "published": "2026-01-15 18:00:00+09:00",
+      "summary": "MicrosoftがAIを使った新しい日本語入力システム「Copilot Keyboard」のβ版を公開している。クラウドAIを活用し、最新のネットスラングから専門用語まで高精度に変換。単語の意味をその場で表示する機能も搭載する。1週間試用した筆者は、Windows標準IMEからの乗り換えも視野に入る完成度だと感じた。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "総務省、「自治体AIガイドブック」第4版公表　自治体の生成AI活用事例、利用ルール整備に役立つテンプレ公開",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2601/15/news057.html",
+      "published": "2026-01-15 13:00:00+09:00",
+      "summary": "総務省は2025年12月、「自治体におけるAI活用・導入ガイドブック＜導入手順編＞（第4版）」を公表した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
