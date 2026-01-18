@@ -1,0 +1,35 @@
+{
+  "article": {
+    "title": "Musk wants up to $134B in OpenAI lawsuit, despite $700B fortune",
+    "link": "https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/",
+    "published": "2026-01-17 17:26:08+09:00",
+    "summary": "Musk's legal team argues he should be compensated as an early startup investor who sees returns \"many orders of magnitude greater\" than his initial investment.",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 0
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Musk wants up to $134B in OpenAI lawsuit, despite $700B fortune",
+    "summary": "Musk's legal team argues he should be compensated as an early startup investor who sees returns \"many orders of magnitude greater\" than his initial investment.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 0,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Musk wants up to $134B in OpenAI lawsuit, despite $700B fortune",
+      "link": "https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/",
+      "published": "2026-01-17 17:26:08+09:00",
+      "summary": "Musk's legal team argues he should be compensated as an early startup investor who sees returns \"many orders of magnitude greater\" than his initial investment.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
