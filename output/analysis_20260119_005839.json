@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Moxie Marlinspike has a privacy-conscious alternative to ChatGPT",
+    "link": "https://techcrunch.com/2026/01/18/moxie-marlinspike-has-a-privacy-conscious-alternative-to-chatgpt/",
+    "published": "2026-01-19 00:30:00+09:00",
+    "summary": "Confer is designed to look and feel like ChatGPT or Claude, but your conversations can't be used for training or advertising.",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 0
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Moxie Marlinspike has a privacy-conscious alternative to ChatGPT",
+    "summary": "Confer is designed to look and feel like ChatGPT or Claude, but your conversations can't be used for training or advertising.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 0,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Moxie Marlinspike has a privacy-conscious alternative to ChatGPT",
+      "link": "https://techcrunch.com/2026/01/18/moxie-marlinspike-has-a-privacy-conscious-alternative-to-chatgpt/",
+      "published": "2026-01-19 00:30:00+09:00",
+      "summary": "Confer is designed to look and feel like ChatGPT or Claude, but your conversations can't be used for training or advertising.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "AI for self empowerment",
+      "link": "https://openai.com/index/ai-for-human-agency",
+      "published": "2026-01-18 21:00:00+09:00",
+      "summary": "How AI can expand human agency by closing the capability overhang—helping people, businesses, and countries unlock real productivity, growth, and opportunity.",
+      "source": "OpenAI Blog",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "A business that scales with the value of intelligence",
+      "link": "https://openai.com/index/a-business-that-scales-with-the-value-of-intelligence",
+      "published": "2026-01-18 19:00:00+09:00",
+      "summary": "OpenAI’s business model scales with intelligence—spanning subscriptions, API, ads, commerce, and compute—driven by deepening ChatGPT adoption.",
+      "source": "OpenAI Blog",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "元OpenAI幹部、AI監査の非営利団体「AVERI」設立　「家電並みの安全確認」を目指す",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/19/news050.html",
+      "published": "2026-01-19 07:25:00+09:00",
+      "summary": "元OpenAI幹部のマイルズ・ブランデージ氏が、AIの第三者監査を推進する非営利団体「AVERI」を発足させた。企業の自己採点に依存する現行の安全性評価を改善するため、4段階の「AI保証レベル」や評価ツール「BenchRisk」を開発。主要AI企業や投資家と連携し、社会インフラとしてのAIの信頼性担保を目指す。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 0
+    },
+    {
+      "title": "「管理職罰ゲーム」化は過去のものに　AI活用でマネジャーの働き方はどう変わる？",
+      "link": "https://www.itmedia.co.jp/business/articles/2601/19/news019.html",
+      "published": "2026-01-19 07:00:00+09:00",
+      "summary": "",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
