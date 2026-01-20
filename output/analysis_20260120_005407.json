@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Here are the 55 US AI startups that raised $100M or more in 2025",
+    "link": "https://techcrunch.com/2026/01/19/here-are-the-49-us-ai-startups-that-have-raised-100m-or-more-in-2025/",
+    "published": "2026-01-20 03:06:34+09:00",
+    "summary": "Last year was monumental for the AI industry in the U.S. and beyond. How will 2025 compare?",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 0
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Here are the 55 US AI startups that raised $100M or more in 2025",
+    "summary": "Last year was monumental for the AI industry in the U.S. and beyond. How will 2025 compare?",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 0,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Here are the 55 US AI startups that raised $100M or more in 2025",
+      "link": "https://techcrunch.com/2026/01/19/here-are-the-49-us-ai-startups-that-have-raised-100m-or-more-in-2025/",
+      "published": "2026-01-20 03:06:34+09:00",
+      "summary": "Last year was monumental for the AI industry in the U.S. and beyond. How will 2025 compare?",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Well, there goes the metaverse!",
+      "link": "https://techcrunch.com/2026/01/19/well-there-goes-the-metaverse/",
+      "published": "2026-01-20 01:00:00+09:00",
+      "summary": "The metaverse is on its last legs as VR is eclipsed by AI. But that's not the only thing that went wrong for Meta's VR ambitions.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Rogue agents and shadow AI: Why VCs are betting big on AI security",
+      "link": "https://techcrunch.com/2026/01/19/rogue-agents-and-shadow-ai-why-vcs-are-betting-big-on-ai-security/",
+      "published": "2026-01-20 01:00:00+09:00",
+      "summary": "Misaligned agents are just one layer of the AI security challenge that startup Witness AI is trying to solve. It detects employee use of unapproved tools, blocking attacks, and ensuring compliance.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Going beyond pilots with composable and sovereign AI",
+      "link": "https://www.technologyreview.com/2026/01/19/1131422/going-beyond-pilots-with-composable-and-sovereign-ai/",
+      "published": "2026-01-19 20:59:33+09:00",
+      "summary": "Today marks an inflection point for enterprise AI adoption. Despite billions invested in generative AI, only 5% of integrated pilots deliver measurable business value and nearly one in two companies abandons AI initiatives before reaching production. The bottleneck is not the models themselves. What’s holding enterprises back is the surrounding infrastructure: Limited data accessibility, rigid…",
+      "source": "MIT Technology Review AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "GPT-5.2-Codexが主要ツールで解禁　「Windows最適化」×「長時間エージェント」で実用性が向上",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2601/20/news014.html",
+      "published": "2026-01-20 05:00:00+09:00",
+      "summary": "OpenAIのコーディング特化モデル「GPT-5.2-Codex」が、GitHub CopilotやCursorなど主要AI開発ツールで解禁された。長時間エージェントとWindows最適化の強化点を整理し、どんな開発者に効くアップデートなのかを解説する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
