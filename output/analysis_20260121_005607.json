@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "OpenAI、ServiceNowとの提携拡大　「GPT-5.2」で企業のワークフローを自律型AIエージェントが実行",
+    "link": "https://www.itmedia.co.jp/aiplus/articles/2601/21/news058.html",
+    "published": "2026-01-21 07:15:00+09:00",
+    "summary": "OpenAIとServiceNowは戦略的提携の拡大を発表した。次世代モデル「GPT-5.2」を統合した自律型AIエージェントを提供し、ServiceNowのプラットフォーム上で、年間800億件超のワークフローをAIが自動実行する環境を構築する。IntuitやAccentureとも連携するOpenAIは、企業向けAIの社会実装を一段と加速させる構えだ。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "OpenAI、ServiceNowとの提携拡大　「GPT-5.2」で企業のワークフローを自律型AIエージェントが実行",
+    "summary": "OpenAIとServiceNowは戦略的提携の拡大を発表した。次世代モデル「GPT-5.2」を統合した自律型AIエージェントを提供し、ServiceNowのプラットフォーム上で、年間800億件超のワークフローをAIが自動実行する環境を構築する。IntuitやAccentureとも連携するOpenAIは、企業向けAIの社会実装を一段と加速させる構えだ。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "OpenAI、ServiceNowとの提携拡大　「GPT-5.2」で企業のワークフローを自律型AIエージェントが実行",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/21/news058.html",
+      "published": "2026-01-21 07:15:00+09:00",
+      "summary": "OpenAIとServiceNowは戦略的提携の拡大を発表した。次世代モデル「GPT-5.2」を統合した自律型AIエージェントを提供し、ServiceNowのプラットフォーム上で、年間800億件超のワークフローをAIが自動実行する環境を構築する。IntuitやAccentureとも連携するOpenAIは、企業向けAIの社会実装を一段と加速させる構えだ。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "ぐるなび、AIで飲食店を調べる「UMAME!」本格展開　59万店から“あなたに最適な1軒”提案へ",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/20/news120.html",
+      "published": "2026-01-20 19:31:00+09:00",
+      "summary": "ぐるなびは、AIを活用して飲食店を検索できるサービス「UMAME!」（うまみー!）の本格展開を始めたと発表した。AIとのチャットにより、ユーザーの気分や目的などに合った飲食店を提案する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "イラストレーターなど芸術系フリーランスに聞く「生成AIで収入は増えた？　減った？」　調査団体が約2万5000人にアンケート",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/20/news111.html",
+      "published": "2026-01-20 17:12:00+09:00",
+      "summary": "芸術・芸能系フリーランスの収入は、生成AIの影響をどの程度受けているのか──やくみつる氏が名誉会長を務めるフリーランス調査団体の日本フリーランスリーグが調査結果を発表した。芸術・芸能系フリーランス約2万4991人に、生成AIへの所感や利用度、収入への影響を聞いた。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "死んだペットを“AI化”するサービス開始　「依存させない」設計うたう　月額2980円から",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/20/news107.html",
+      "published": "2026-01-20 16:47:00+09:00",
+      "summary": "故人をAIで再現するサービスなどを開発するニュウジアは、亡くなったペットをAI化するサービス「PetMemory AI」を始めたと発表した。ペットの性格を学んだAIとのチャットや、ペットの写真をもとにしたAI動画などを提供する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "“AIクリエイター”専門のレーベル新設、日本コロムビア　「創作現場は分業モデルから変化」",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/20/news081.html",
+      "published": "2026-01-20 12:01:00+09:00",
+      "summary": "日本コロムビアグループは、生成AIを活用するクリエイター専門のレーベル「NCG ENTERTAINMENT」を設立すると発表した。同社が長年音楽業界で培ってきた経験を生かし、AIによるエンターテインメントを打ち出す。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
