@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Sources: Project SGLang spins out as RadixArk with $400M valuation as inference market explodes",
+    "link": "https://techcrunch.com/2026/01/21/sources-project-sglang-spins-out-as-radixark-with-400m-valuation-as-inference-market-explodes/",
+    "published": "2026-01-22 08:24:14+09:00",
+    "summary": "SGLang, which originated as an open source research project at Ion Stoica’s UC Berkeley lab, has raised capital from Accel.",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Sources: Project SGLang spins out as RadixArk with $400M valuation as inference market explodes",
+    "summary": "SGLang, which originated as an open source research project at Ion Stoica’s UC Berkeley lab, has raised capital from Accel.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Sources: Project SGLang spins out as RadixArk with $400M valuation as inference market explodes",
+      "link": "https://techcrunch.com/2026/01/21/sources-project-sglang-spins-out-as-radixark-with-400m-valuation-as-inference-market-explodes/",
+      "published": "2026-01-22 08:24:14+09:00",
+      "summary": "SGLang, which originated as an open source research project at Ion Stoica’s UC Berkeley lab, has raised capital from Accel.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "OpenAIとゲイツ財団、アフリカの医療をAI化する「Horizon 1000」に5000万ドル",
+      "link": "https://www.itmedia.co.jp/news/articles/2601/22/news065.html",
+      "published": "2026-01-22 08:05:00+09:00",
+      "summary": "OpenAIとビル・ゲイツ氏のGates Foundationは、アフリカの医療をAIで支援する「Horizon 1000」を共同発表した。5000万ドル（約79億円）を投じ、2028年までに1000拠点の保健施設にAIを導入する。診断支援や事務自動化を通じて、アフリカのプライマリヘルスケアの質と効率を向上させるとしている。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "モスバーガー、「AIドライブスルー」の実証実験　音声対話AIが注文対応　将来的にはアニメキャラも参戦？",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/21/news108.html",
+      "published": "2026-01-21 18:27:00+09:00",
+      "summary": "ハンバーガーショップ「モスバーガー」を展開するモスフードサービスは、AIドライブスルーの実証実験を始めると発表した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "AIは「共通テスト」をどう解いた？　詳細をnoteで公開　全AIが間違えたのは「イラスト」と「人間感情」の読み取り",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/21/news075.html",
+      "published": "2026-01-21 11:42:00+09:00",
+      "summary": "専用受験システムで、API経由で受験させた。ChatGPTが最高得点だったが、他のAIより回答に3倍の時間がかかっていることなどが明らかに。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Not to be outdone by OpenAI, Apple is reportedly developing an AI wearable",
+      "link": "https://techcrunch.com/2026/01/21/not-to-be-outdone-by-openai-apple-is-reportedly-developing-an-ai-wearable/",
+      "published": "2026-01-22 09:20:18+09:00",
+      "summary": "Should this wearable materialize, it could be released as early as 2027, according to a report on the device.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
