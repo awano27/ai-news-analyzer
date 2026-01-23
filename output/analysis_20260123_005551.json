@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "世界初、AIで新種の化石を発見　北大などのチームが発表　約7000万年前の地層から産出",
+    "link": "https://www.itmedia.co.jp/aiplus/articles/2601/22/news138.html",
+    "published": "2026-01-22 18:47:00+09:00",
+    "summary": "北海道大学などの研究チームは、AIによって7000万年前の新種となる化石を発見したと発表した。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 5
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "世界初、AIで新種の化石を発見　北大などのチームが発表　約7000万年前の地層から産出",
+    "summary": "北海道大学などの研究チームは、AIによって7000万年前の新種となる化石を発見したと発表した。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 5,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "世界初、AIで新種の化石を発見　北大などのチームが発表　約7000万年前の地層から産出",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/22/news138.html",
+      "published": "2026-01-22 18:47:00+09:00",
+      "summary": "北海道大学などの研究チームは、AIによって7000万年前の新種となる化石を発見したと発表した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 5
+    },
+    {
+      "title": "AIが“卵の段階”でニワトリの雌雄を判別、オスのヒヨコ処分回避へ　日立傘下",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/22/news111.html",
+      "published": "2026-01-22 15:01:00+09:00",
+      "summary": "日立グループのSIerである日立ソリューションズ・クリエイトは、ニワトリの雌雄を卵の状態で判別するAIを開発したと発表した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "NVIDIA、「フィジカルAI」を支援するオープンモデルやフレームワークを発表",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2601/22/news053.html",
+      "published": "2026-01-22 13:00:00+09:00",
+      "summary": "NVIDIAはフィジカルAI向けの新たなオープンモデルとフレームワークを発表した。併せて、Boston Dynamicsをはじめとするパートナー企業がこれらを活用した次世代ロボットやロボット運用を効率化している事例も発表された。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "YouTube、AI分身での動画制作など、次世代戦略を発表",
+      "link": "https://www.itmedia.co.jp/news/articles/2601/22/news081.html",
+      "published": "2026-01-22 11:43:00+09:00",
+      "summary": "YouTubeのニール・モーハンCEOは、クリエイター向けにAIで生成した本人の分身を使った動画制作機能を導入すると発表した。一方で、AIによる低品質な粗製乱造コンテンツの拡散を抑えるためのアルゴリズム刷新や、AIラベル付けの徹底に言及。創造性の拡張とプラットフォームの信頼性維持の両立を目指すと語った。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "OpenAI is coming for those sweet enterprise dollars in 2026",
+      "link": "https://techcrunch.com/2026/01/22/openai-is-coming-for-those-sweet-enterprise-dollars-in-2026/",
+      "published": "2026-01-23 09:52:33+09:00",
+      "summary": "OpenAI has reportedly appointed Barret Zoph to lead its push into enterprise just a week after Zoph rejoined the company.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
