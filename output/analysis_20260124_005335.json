@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Sakana AIがGoogleとパートナーシップ締結、研究開発に「Gemini」活用へ　資金調達も",
+    "link": "https://www.itmedia.co.jp/aiplus/articles/2601/23/news095.html",
+    "published": "2026-01-23 15:39:00+09:00",
+    "summary": "Sakana AIは、米Googleと戦略的パートナーシップを締結したと発表した。研究開発に「Gemini」をはじめとしたGoogleのAIモデルを活用する。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Sakana AIがGoogleとパートナーシップ締結、研究開発に「Gemini」活用へ　資金調達も",
+    "summary": "Sakana AIは、米Googleと戦略的パートナーシップを締結したと発表した。研究開発に「Gemini」をはじめとしたGoogleのAIモデルを活用する。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Sakana AIがGoogleとパートナーシップ締結、研究開発に「Gemini」活用へ　資金調達も",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/23/news095.html",
+      "published": "2026-01-23 15:39:00+09:00",
+      "summary": "Sakana AIは、米Googleと戦略的パートナーシップを締結したと発表した。研究開発に「Gemini」をはじめとしたGoogleのAIモデルを活用する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Who’s behind AMI Labs, Yann LeCun’s ‘world model’ startup",
+      "link": "https://techcrunch.com/2026/01/23/whos-behind-ami-labs-yann-lecuns-world-model-startup/",
+      "published": "2026-01-24 09:04:45+09:00",
+      "summary": "Yann LeCun's new venture, AMI Labs, has drawn intense attention since the AI scientist left Meta to found it.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "How did Davos turn into a tech conference?",
+      "link": "https://techcrunch.com/video/how-did-davos-turn-into-a-tech-conference/",
+      "published": "2026-01-24 05:00:00+09:00",
+      "summary": "The World Economic Forum’s annual meeting in Davos felt different this year, and not just because Meta and Salesforce took over storefronts on the main promenade. AI dominated the conversation in a way that overshadowed traditional topics like climate change and global poverty, and the CEOs weren’t holding back. There was public criticism of trade policy, warnings about AI […]",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Google Photos’ latest feature lets you meme yourself",
+      "link": "https://techcrunch.com/2026/01/23/google-photos-latest-feature-lets-you-meme-yourself/",
+      "published": "2026-01-24 02:02:22+09:00",
+      "summary": "The addition is meant to just be a fun way to explore your photos and experiment with Google's Gemini AI technology, and specifically Nano Banana.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Meta pauses teen access to AI characters ahead of new version",
+      "link": "https://techcrunch.com/2026/01/23/meta-pauses-teen-access-to-ai-characters-ahead-of-new-version/",
+      "published": "2026-01-24 02:00:00+09:00",
+      "summary": "Meta today said that it is pausing teens' access to its AI characters globally across all its apps. The company mentioned that it is not abandoning its efforts but wants to develop an updated version of AI characters for teens.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
