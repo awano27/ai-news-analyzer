@@ -1,0 +1,62 @@
+{
+  "article": {
+    "title": "Tech CEOs boast and bicker about AI at Davos",
+    "link": "https://techcrunch.com/2026/01/24/tech-ceos-boast-and-bicker-about-ai-at-davos/",
+    "published": "2026-01-25 05:00:46+09:00",
+    "summary": "There were times at this week’s meeting of the World Economic Forum when Davos seemed transformed into a high-powered tech conference.",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 0
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Tech CEOs boast and bicker about AI at Davos",
+    "summary": "There were times at this week’s meeting of the World Economic Forum when Davos seemed transformed into a high-powered tech conference.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 0,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Tech CEOs boast and bicker about AI at Davos",
+      "link": "https://techcrunch.com/2026/01/24/tech-ceos-boast-and-bicker-about-ai-at-davos/",
+      "published": "2026-01-25 05:00:46+09:00",
+      "summary": "There were times at this week’s meeting of the World Economic Forum when Davos seemed transformed into a high-powered tech conference.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Former Googlers seek to captivate kids with an AI-powered learning app",
+      "link": "https://techcrunch.com/2026/01/24/former-google-trio-is-building-an-interactive-ai-powered-learning-app-for-kids/",
+      "published": "2026-01-25 03:21:21+09:00",
+      "summary": "Sparkli said that education systems often fall behind in teaching modern concepts. The company wants to teach kids about topics like skills design, financial literacy, and entrepreneurship by creating an AI-powered learning \"expedition.\"",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "A new test for AI labs: Are you even trying to make money?",
+      "link": "https://techcrunch.com/2026/01/24/a-new-test-for-ai-labs-are-you-even-trying-to-make-money/",
+      "published": "2026-01-25 02:00:00+09:00",
+      "summary": "It’s getting hard to tell which AI labs. are actually trying to make money. We created a rating system to help sort it out.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Legal AI giant Harvey acquires Hexus as competition heats up in legal tech",
+      "link": "https://techcrunch.com/2026/01/23/legal-ai-giant-harvey-acquires-hexus-as-competition-heats-up-in-legal-tech/",
+      "published": "2026-01-24 14:27:22+09:00",
+      "summary": "Hexus founder and CEO Sakshi Pratap, who previously held engineering roles at Walmart, Oracle, and Google, tells TechCrunch that her San Francisco-based team has already joined Harvey, while the startup's India-based engineers will come onboard once Harvey establishes a Bangalore office.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
