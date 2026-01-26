@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "This founder cracked firefighting — now he’s creating an AI gold mine",
+    "link": "https://techcrunch.com/2026/01/25/this-founder-cracked-firefighting-now-hes-creating-an-ai-gold-mine/",
+    "published": "2026-01-26 08:20:36+09:00",
+    "summary": "The nozzle is just the beginning – what company founder Sunny Sethi calls \"the muscle on the ground.”",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 0
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "This founder cracked firefighting — now he’s creating an AI gold mine",
+    "summary": "The nozzle is just the beginning – what company founder Sunny Sethi calls \"the muscle on the ground.”",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 0,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "This founder cracked firefighting — now he’s creating an AI gold mine",
+      "link": "https://techcrunch.com/2026/01/25/this-founder-cracked-firefighting-now-hes-creating-an-ai-gold-mine/",
+      "published": "2026-01-26 08:20:36+09:00",
+      "summary": "The nozzle is just the beginning – what company founder Sunny Sethi calls \"the muscle on the ground.”",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "ChatGPT is pulling answers from Elon Musk’s Grokipedia",
+      "link": "https://techcrunch.com/2026/01/25/chatgpt-is-pulling-answers-from-elon-musks-grokipedia/",
+      "published": "2026-01-26 07:35:53+09:00",
+      "summary": "Information from the conservative-leaning, AI-generated encyclopedia developed by Elon Musk’s xAI is beginning to appear in answers from ChatGPT.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Humans& thinks coordination is the next frontier for AI, and they’re building a model to prove it",
+      "link": "https://techcrunch.com/2026/01/25/humans-thinks-coordination-is-the-next-frontier-for-ai-and-theyre-building-a-model-to-prove-it/",
+      "published": "2026-01-26 07:11:06+09:00",
+      "summary": "Humans&, a new startup founded by alumni of Anthropic, Meta, OpenAI, xAI, and Google DeepMind, is building the next generation of foundation models for collaboration, not chat.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Science fiction writers, Comic-Con say goodbye to AI",
+      "link": "https://techcrunch.com/2026/01/25/science-fiction-writers-comic-con-say-goodbye-to-ai/",
+      "published": "2026-01-26 06:53:42+09:00",
+      "summary": "Some of the major players in science fiction and pop culture are taking firmer stances against generative AI.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Apple will reportedly unveil its Gemini-powered Siri assistant in February",
+      "link": "https://techcrunch.com/2026/01/25/apple-will-reportedly-unveil-its-gemini-powered-siri-assistant-in-february/",
+      "published": "2026-01-26 01:56:31+09:00",
+      "summary": "We’re about to get our first real look at the results of the recently announced AI partnership between Apple and Google.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
