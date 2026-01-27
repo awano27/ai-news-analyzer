@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Anthropic launches interactive Claude apps, including Slack and other workplace tools",
+    "link": "https://techcrunch.com/2026/01/26/anthropic-launches-interactive-claude-apps-including-slack-and-other-workplace-tools/",
+    "published": "2026-01-27 03:00:00+09:00",
+    "summary": "Claude users will now be able to call up interactive apps inside the chatbot interface, with Cowork integration coming soon.",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Anthropic launches interactive Claude apps, including Slack and other workplace tools",
+    "summary": "Claude users will now be able to call up interactive apps inside the chatbot interface, with Cowork integration coming soon.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Anthropic launches interactive Claude apps, including Slack and other workplace tools",
+      "link": "https://techcrunch.com/2026/01/26/anthropic-launches-interactive-claude-apps-including-slack-and-other-workplace-tools/",
+      "published": "2026-01-27 03:00:00+09:00",
+      "summary": "Claude users will now be able to call up interactive apps inside the chatbot interface, with Cowork integration coming soon.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Microsoft announces powerful new chip for AI inference",
+      "link": "https://techcrunch.com/2026/01/26/microsoft-announces-powerful-new-chip-for-ai-inference/",
+      "published": "2026-01-27 01:00:00+09:00",
+      "summary": "Maia comes equipped with over 100 billion transistors, delivering over 10 petaflops in 4-bit precision and approximately 5 petaflops of 8-bit performance — a substantial increase over its predecessor.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "AIエージェント導入率8％は低すぎる？　「Agentforce」を激推しするSalesforceの野心と現実",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2601/22/news008.html",
+      "published": "2026-01-27 08:00:00+09:00",
+      "summary": "問い合わせの90％をAIが解決するヒースロー空港、150万店舗でAIエージェントを展開するPepsiCo――。Salesforceが「Dreamforce 2025」で発表した「Agentforce 360」は、AIエージェントの本番稼働時代を告げるものだ。導入率8％の現実と、先行事例が示す可能性を探る。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Microsoft、推論特化チップ「Maia 200」　競合比3倍の性能でGPT-5.2を支援",
+      "link": "https://www.itmedia.co.jp/news/articles/2601/27/news059.html",
+      "published": "2026-01-27 07:05:00+09:00",
+      "summary": "Microsoftは自社製AI推論チップ「Maia 200」を発表した。TSMCの3nmプロセスを採用し、塩酸性能はAmazonやGoogleの最新チップを凌駕するとしている。推論の価格性能比を30％改善し、OpenAIの「GPT-5.2」の提供基盤としても活用される。アイオワ州リージョンで稼働を開始しており、順次グローバルへ拡大する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "日本産AIが“日商簿記1級”で合格レベル　選択＆計算問題で正答率99.8％　AIベンチャー企業が発表",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/26/news115.html",
+      "published": "2026-01-26 18:24:00+09:00",
+      "summary": "AIベンチャー企業のファーストアカウンティングは、経理特化型AI「Deep Dean」が簿記検定試験（日商簿記）で合格レベルの記録を出したと発表した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
