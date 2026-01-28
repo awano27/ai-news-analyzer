@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "China’s Moonshot releases a new open source model Kimi K2.5 and a coding agent",
+    "link": "https://techcrunch.com/2026/01/27/chinas-moonshot-releases-a-new-open-source-model-kimi-k2-5-and-a-coding-agent/",
+    "published": "2026-01-27 23:11:10+09:00",
+    "summary": "The company said that the model was trained on 15 trillion mixed visual and text tokens.",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 4
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "China’s Moonshot releases a new open source model Kimi K2.5 and a coding agent",
+    "summary": "The company said that the model was trained on 15 trillion mixed visual and text tokens.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 4,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "China’s Moonshot releases a new open source model Kimi K2.5 and a coding agent",
+      "link": "https://techcrunch.com/2026/01/27/chinas-moonshot-releases-a-new-open-source-model-kimi-k2-5-and-a-coding-agent/",
+      "published": "2026-01-27 23:11:10+09:00",
+      "summary": "The company said that the model was trained on 15 trillion mixed visual and text tokens.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 4
+    },
+    {
+      "title": "“俺の嫁召喚機”ことGateboxに新モデル　VTuber、AIキャラも意識　4月にクラファンへ",
+      "link": "https://www.itmedia.co.jp/news/articles/2601/27/news134.html",
+      "published": "2026-01-27 20:20:00+09:00",
+      "summary": "“キャラクター召喚装置”ことAIアシスタントデバイス「Gatebox」を手掛けるGatebox社が、新モデル「Gatebox 3」を発表した。まずは有機ELディスプレイとLED300個を備えたプロトタイプを公開。4月をめどに製品化に向けたクラウドファンディングを実施予定で、同月にかけて詳細な機能などを公開していく。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "OpenAI launches Prism, a new AI workspace for scientists",
+      "link": "https://techcrunch.com/2026/01/27/openai-launches-prism-a-new-ai-workspace-for-scientists/",
+      "published": "2026-01-28 03:00:00+09:00",
+      "summary": "OpenAI has launched a new scientific workspace program called Prism, which integrates AI into existing standards for composing research papers.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "OpenAI、科学論文執筆環境「Prism」公開　「GPT-5.2」搭載のLaTeX対応ワークスペース",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/28/news070.html",
+      "published": "2026-01-28 08:27:00+09:00",
+      "summary": "OpenAIは、「GPT-5.2」を統合した科学者向けのAI搭載LaTeXエディタ「Prism」を無料公開した。論文の構造や数式、文献情報をAIが把握し、執筆や推敲、手書き数式のコード変換などを1つのワークスペースで完結させる。個人ユーザーは無制限で利用可能だ。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "AI開発の落とし穴、Sansanが自社事例の資料公開　若手エンジニアの開発スピードとスキルへの影響とは",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/27/news101.html",
+      "published": "2026-01-27 13:48:00+09:00",
+      "summary": "馬には乗ってみよAIには添うてみよ──Sansanは1月23日、そう題したAI開発の落とし穴に関する資料を公開した。同社では生産性向上を見込みAI開発ツールを取り入れたが、導入後の実態を解説している。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
