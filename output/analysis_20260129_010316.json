@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Tiny startup Arcee AI built a 400B-parameter open source LLM from scratch to best Meta’s Llama",
+    "link": "https://techcrunch.com/2026/01/28/tiny-startup-arcee-ai-built-a-400b-open-source-llm-from-scratch-to-best-metas-llama/",
+    "published": "2026-01-29 02:30:00+09:00",
+    "summary": "30-person startup Arcee AI has released a 400B model called Trinity, which it says is one of the biggest open source foundation models from a U.S. company.",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Tiny startup Arcee AI built a 400B-parameter open source LLM from scratch to best Meta’s Llama",
+    "summary": "30-person startup Arcee AI has released a 400B model called Trinity, which it says is one of the biggest open source foundation models from a U.S. company.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Tiny startup Arcee AI built a 400B-parameter open source LLM from scratch to best Meta’s Llama",
+      "link": "https://techcrunch.com/2026/01/28/tiny-startup-arcee-ai-built-a-400b-open-source-llm-from-scratch-to-best-metas-llama/",
+      "published": "2026-01-29 02:30:00+09:00",
+      "summary": "30-person startup Arcee AI has released a 400B model called Trinity, which it says is one of the biggest open source foundation models from a U.S. company.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Google、ChromeブラウザもGemini3に　サイドパネルUIでNano Bananaも統合",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/29/news065.html",
+      "published": "2026-01-29 08:23:00+09:00",
+      "summary": "Googleは、「Gemini 3」を搭載する「Chrome」ブラウザの大規模更新を発表した。常駐型サイドパネルを導入し、画像編集ツール「Nano Banana」の統合によりWeb上の画像を直接加工できるようにする。まずは、米国のWindows、macOS、Chromebook Plusユーザー向けに提供を開始した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "AIエージェント「Genspark」、日本法人設立　国内展開を本格化",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/28/news145.html",
+      "published": "2026-01-28 18:54:00+09:00",
+      "summary": "AIエージェントサービス「Genspark」を手掛ける米MainFuncは、Gensparkを日本市場で本格展開すると発表した。日本法人も設立し、拡販に臨む。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "有料版「Gemini」にお手ごろプラン　GoogleのAIサブスク「Plus」日本でも提供開始　月額1200円",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/28/news116.html",
+      "published": "2026-01-28 13:04:00+09:00",
+      "summary": "米Googleが個人向けのAIサブスクリプション「Google AI Plus」の提供を日本でも開始した。「Gemini」の上位モデルや「Nano Banana Pro」といった生成AIサービスの利用回数を追加する他、200GBのクラウドストレージを提供する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "NVIDIA、オープン世界基盤モデルやマルチモーダルRAGなどを発表",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2601/28/news063.html",
+      "published": "2026-01-28 13:00:00+09:00",
+      "summary": "NVIDIAは、AI活用を促進するための新たなオープンモデルや機能追加を発表した。オープン世界基盤モデルやフィジカルAI、自動運転車開発、ヘルスケア・ライフサイエンス向けの発表内容をまとめる。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
