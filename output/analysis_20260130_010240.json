@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Oracle、Linux版の「Oracle AI Database 26ai」正式リリース　前バージョンからそのまま移行可能",
+    "link": "https://www.itmedia.co.jp/news/articles/2601/29/news070.html",
+    "published": "2026-01-29 10:31:00+09:00",
+    "summary": "米Oracleはオンプレミス向けのLinux x86-64版「Oracle AI Database 26ai」の正式リリースを発表しました。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 4
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Oracle、Linux版の「Oracle AI Database 26ai」正式リリース　前バージョンからそのまま移行可能",
+    "summary": "米Oracleはオンプレミス向けのLinux x86-64版「Oracle AI Database 26ai」の正式リリースを発表しました。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 4,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Oracle、Linux版の「Oracle AI Database 26ai」正式リリース　前バージョンからそのまま移行可能",
+      "link": "https://www.itmedia.co.jp/news/articles/2601/29/news070.html",
+      "published": "2026-01-29 10:31:00+09:00",
+      "summary": "米Oracleはオンプレミス向けのLinux x86-64版「Oracle AI Database 26ai」の正式リリースを発表しました。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "GMO、月1回の「全従業員がAI前提で仕事する日」制定　業務の効率化図る",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/29/news122.html",
+      "published": "2026-01-29 16:59:00+09:00",
+      "summary": "GMOインターネットグループは、全従業員が業務でのAI活用に取り組む社内向けイベントデー「GMO AI Day」を始めると発表した。「AI前提で仕事をする日」として、毎月第4木曜日に実施する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "「AIチャットに相談できる新機能」のしくじり赤裸々に　スタートアップ2社が失敗事例の資料公開",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/29/news120.html",
+      "published": "2026-01-29 16:54:00+09:00",
+      "summary": "スタートアップのマイベストとユビーは1月28日に開催したイベント「AI時代のプロダクトマネジメント反省会 成功も失敗も語るしかNight」で、それぞれが経験した失敗談を紹介し、講演資料も一般公開した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "AI巡るサイバーリスクが「情報セキュリティ10大脅威」に　IPAが初選出",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/29/news097.html",
+      "published": "2026-01-29 13:14:00+09:00",
+      "summary": "情報処理推進機構（IPA）が、2025年に社会的影響が大きかった情報セキュリティの脅威をまとめた「情報セキュリティ10大脅威」の最新版を公開した。個人部門に大きな変化はなかったが、企業などの「組織」部門では「AIの利用を巡るサイバーリスク」が初めてランクインした。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Claudeの「Agent Skills」がMCPと同様、オープン標準に　どんな便利スキルがある？",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2601/29/news055.html",
+      "published": "2026-01-29 13:00:00+09:00",
+      "summary": "Anthropicは、「Claude」の「Agent Skills」機能をアップデートし、オープン標準として公開した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
