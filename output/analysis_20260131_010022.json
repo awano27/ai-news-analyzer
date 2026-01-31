@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "AI同士で相談させて“最強の布陣”を組む新技術　日立製作所が開発",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2601/31/news014.html",
+    "published": "2026-01-31 08:00:00+09:00",
+    "summary": "日立製作所が発表した新技術によって、AI同士の相性を特定し、最強のチームを自動編成することが可能になる。産業においてどのような活用が期待できるか。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "AI同士で相談させて“最強の布陣”を組む新技術　日立製作所が開発",
+    "summary": "日立製作所が発表した新技術によって、AI同士の相性を特定し、最強のチームを自動編成することが可能になる。産業においてどのような活用が期待できるか。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "AI同士で相談させて“最強の布陣”を組む新技術　日立製作所が開発",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2601/31/news014.html",
+      "published": "2026-01-31 08:00:00+09:00",
+      "summary": "日立製作所が発表した新技術によって、AI同士の相性を特定し、最強のチームを自動編成することが可能になる。産業においてどのような活用が期待できるか。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "生成AI利用者、過半数が利用規約を確認せず　リスク意識は高いが「認識と行動にギャップ」　LINEヤフー調査",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/30/news117.html",
+      "published": "2026-01-30 17:58:00+09:00",
+      "summary": "生成AI利用者の過半数が利用規約を確認していない──LINEヤフーは、生成AIサービスの利用者に対する意識調査の結果を公開した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "全編AI制作のMV、日本コロムビアが公開　「飾りじゃないのよ涙は」徳永英明カバー",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/30/news106.html",
+      "published": "2026-01-30 15:36:00+09:00",
+      "summary": "楽曲のドラマチックな世界観を表現するため「あえて実写ではなく生成AIによる抽象的かつ情緒的な映像表現を選んだ」と説明。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "OpenAI、「GPT-4o」など旧モデルの提供を2月13日に終了へ",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/30/news088.html",
+      "published": "2026-01-30 11:40:00+09:00",
+      "summary": "OpenAIは、「ChatGPT」で「GPT-4」シリーズと初期の「GPT-5」モデルの提供を2月13日に終了すると発表した。後継のGPT-5.1や5.2への移行が進んでおり、旧モデルの愛好者が求めた「温かみ」のある応答や創造性も、最新モデルのカスタマイズ機能で補完可能になったとしている。なお、APIについては当面の間、提供が継続される。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "マスク氏率いるSpaceXとxAIが合併協議、IPOに先立つ動き",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2601/30/news082.html",
+      "published": "2026-01-30 11:05:00+09:00",
+      "summary": "イーロン・マスク氏が率いる宇宙開発企業の米SpaceXとAI企業の米xAIが、年内に予定されるSpaceXの新規株式公開（IPO）に先立ち、合併に向けた協議を進めている。事情に詳しい関係者の話と、ロイターが確認した直近の開示情報で判明した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
