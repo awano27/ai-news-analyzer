@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "OpenAI launches new macOS app for agentic coding",
+    "link": "https://techcrunch.com/2026/02/02/openai-launches-new-macos-app-for-agentic-coding/",
+    "published": "2026-02-03 03:19:31+09:00",
+    "summary": "OpenAI has released a new macOS app for Codex, integrating many of the agentic coding practices that have become popular since Codex launched last year.",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "OpenAI launches new macOS app for agentic coding",
+    "summary": "OpenAI has released a new macOS app for Codex, integrating many of the agentic coding practices that have become popular since Codex launched last year.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "OpenAI launches new macOS app for agentic coding",
+      "link": "https://techcrunch.com/2026/02/02/openai-launches-new-macos-app-for-agentic-coding/",
+      "published": "2026-02-03 03:19:31+09:00",
+      "summary": "OpenAI has released a new macOS app for Codex, integrating many of the agentic coding practices that have become popular since Codex launched last year.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "イーロン・マスク氏、SpaceXによるxAI買収を正式発表",
+      "link": "https://www.itmedia.co.jp/news/articles/2602/03/news056.html",
+      "published": "2026-02-03 08:29:00+09:00",
+      "summary": "イーロン・マスク氏は、自身がオーナーである宇宙開発企業SpaceXとAI企業xAIの統合を発表した。「Starlink」や「Starship」の運用に高度なAIを直接導入するほか、軌道上にAI計算基盤を構築する「宇宙データセンター」構想の加速を狙う。宇宙空間での低コストなAI学習により、物理学の理解と技術革新をかつてない速度で推進するとしている。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "OpenAI、macOS版「Codex」アプリを公開　複数AIエージェントの統合管理をGUIで実現",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2602/03/news055.html",
+      "published": "2026-02-03 07:26:00+09:00",
+      "summary": "OpenAIは、コーディングエージェント「Codex」のmacOS向けデスクトップアプリの提供を開始した。複数のAIエージェントをGUI上で並列管理し、複雑な開発タスクを統合制御できる。外部ツール連携やオートメーション機能も備え、既存のモバイル版やIDE拡張機能と設定を共有する。有料プランユーザー向け。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "ホントに役立つスキルを作るには？　AnthropicがAIエージェントで使うスキルの構築ガイドを公開",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2602/03/news017.html",
+      "published": "2026-02-03 05:00:00+09:00",
+      "summary": "何らかのワークフローや定型処理の手順、それに必要な情報をAIエージェントに持たせる「スキル」の構築方法について、Anthropicが公式ガイドを公開した。実際に役に立つスキルを作りたいのなら、このガイドがその第一歩になるかもしれませんよ。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Transformers v5公開、5年ぶりの大刷新　“軽量・運用重視”を前提に役割を再定義",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2602/03/news012.html",
+      "published": "2026-02-03 05:00:00+09:00",
+      "summary": "AI開発で事実上の標準であるHugging FaceのTransformersがv5へとメジャーアップデートされた。内部設計の刷新により、vLLMなどの外部ツールと組み合わせやすくなり、量子化モデルを含む軽量・運用重視の使い方を前提としたライブラリへと進化している。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
