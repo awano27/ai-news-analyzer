@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Apple、「Xcode 26.3」提供開始　ClaudeとCodexを統合し「エージェンティックコーディング」導入",
+    "link": "https://www.itmedia.co.jp/aiplus/articles/2602/04/news063.html",
+    "published": "2026-02-04 07:27:00+09:00",
+    "summary": "Appleは、自律的開発支援「エージェンティックコーディング」を導入した「Xcode 26.3」を発表した。AnthropicのClaude AgentやOpenAIのCodexをネイティブ統合し、AIがプロジェクト構造を把握して設計からテストまでを自律的に実行する。オープン規格MCPにも対応し、開発者が最適なAIモデルを選択できる柔軟な基盤を整えた。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 4
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Apple、「Xcode 26.3」提供開始　ClaudeとCodexを統合し「エージェンティックコーディング」導入",
+    "summary": "Appleは、自律的開発支援「エージェンティックコーディング」を導入した「Xcode 26.3」を発表した。AnthropicのClaude AgentやOpenAIのCodexをネイティブ統合し、AIがプロジェクト構造を把握して設計からテストまでを自律的に実行する。オープン規格MCPにも対応し、開発者が最適なAIモデルを選択できる柔軟な基盤を整えた。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 4,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Apple、「Xcode 26.3」提供開始　ClaudeとCodexを統合し「エージェンティックコーディング」導入",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2602/04/news063.html",
+      "published": "2026-02-04 07:27:00+09:00",
+      "summary": "Appleは、自律的開発支援「エージェンティックコーディング」を導入した「Xcode 26.3」を発表した。AnthropicのClaude AgentやOpenAIのCodexをネイティブ統合し、AIがプロジェクト構造を把握して設計からテストまでを自律的に実行する。オープン規格MCPにも対応し、開発者が最適なAIモデルを選択できる柔軟な基盤を整えた。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "Google、ECシステムとAIエージェントをつなぐ「Universal Commerce Protocol」発表　デモも公開",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2602/03/news043.html",
+      "published": "2026-02-03 13:00:00+09:00",
+      "summary": "GoogleはAIエージェントによる次世代のコマース体験を実現する「Universal Commerce Protocol」を発表した。ShopifyやWalmartなど業界リーダーと連携し、エージェントと企業間の複雑な統合を簡素化するためのオープン標準を共同で策定したという。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "BigQueryに会話型分析機能が登場、Gemini活用　詳細な分析レポート生成、将来予測や非構造化データの分析も可能に",
+      "link": "https://www.itmedia.co.jp/news/articles/2602/03/news059.html",
+      "published": "2026-02-03 10:12:00+09:00",
+      "summary": "Google Cloudは、同社の大規模データベースであるBigQueryの新機能として、自然言語を使ってデータを分析できる会話型分析機能（Conversational Analytics）のプレビュー公開を発表しました。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "設計者を支える3つのAI仮想コンパニオン　探索×科学×実現で製品開発を伴走",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2602/04/news051.html",
+      "published": "2026-02-04 09:00:00+09:00",
+      "summary": "米国テキサス州ヒューストンで開幕したダッソー・システムズ主催の年次ユーザーイベント「3DEXPERIENCE World 2026」の初日のゼネラルセッションでは、AI活用の方向性が示されるとともに、「AURA」に続く2つの新たなバーチャルコンパニオンの発表が行われた。講演の模様をダイジェストで紹介する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "AWSジャパン、600万ドル規模のフィジカルAI開発支援を発表　「日本のロボット産業の強みを生かす」",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2602/04/news027.html",
+      "published": "2026-02-04 08:00:00+09:00",
+      "summary": "AWSジャパンが日本のロボット産業促進を図る「フィジカルAI開発支援プログラム」を始動した。同プログラムは国内のAI開発に何をもたらすのか。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
