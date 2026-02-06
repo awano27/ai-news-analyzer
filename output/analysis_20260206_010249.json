@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "OpenAI、エージェントコーディングモデル「GPT-5.3-Codex」発表　Anthropicの新Opus発表直後に",
+    "link": "https://www.itmedia.co.jp/aiplus/articles/2602/06/news063.html",
+    "published": "2026-02-06 08:38:00+09:00",
+    "summary": "OpenAIは、自律型コーディングモデル「GPT-5.3-Codex」をリリースしたと発表した。Anthropicの新モデル「Claude Opus 4.6」発表直後のことだ。PC操作ベンチマークで前モデルの約1.7倍となるスコアを記録し、設計からデバッグ、資料作成まで自律遂行する。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 4
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "OpenAI、エージェントコーディングモデル「GPT-5.3-Codex」発表　Anthropicの新Opus発表直後に",
+    "summary": "OpenAIは、自律型コーディングモデル「GPT-5.3-Codex」をリリースしたと発表した。Anthropicの新モデル「Claude Opus 4.6」発表直後のことだ。PC操作ベンチマークで前モデルの約1.7倍となるスコアを記録し、設計からデバッグ、資料作成まで自律遂行する。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 4,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "OpenAI、エージェントコーディングモデル「GPT-5.3-Codex」発表　Anthropicの新Opus発表直後に",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2602/06/news063.html",
+      "published": "2026-02-06 08:38:00+09:00",
+      "summary": "OpenAIは、自律型コーディングモデル「GPT-5.3-Codex」をリリースしたと発表した。Anthropicの新モデル「Claude Opus 4.6」発表直後のことだ。PC操作ベンチマークで前モデルの約1.7倍となるスコアを記録し、設計からデバッグ、資料作成まで自律遂行する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "Anthropic、「エージェントチーム」搭載の「Claude Opus 4.6」リリース",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2602/06/news061.html",
+      "published": "2026-02-06 07:11:00+09:00",
+      "summary": "Anthropicは、新フラグシップモデル「Claude Opus 4.6」を発表した。Opusクラス初の100万トークン対応や、複数AIが並列作業する「Agent Team」機能を搭載。PowerPoint連携による資料自動作成も可能だ。前モデルから推論、コーディング能力が大幅に向上し、金融やソフトウェア開発など専門業務の自律化を加速させるとしている。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "OpenAI launches new agentic coding model only minutes after Anthropic drops its own",
+      "link": "https://techcrunch.com/2026/02/05/openai-launches-new-agentic-coding-model-only-minutes-after-anthropic-drops-its-own/",
+      "published": "2026-02-06 05:01:39+09:00",
+      "summary": "The new model is built to accelerate the capabilities of Codex, the agentic coding tool OpenAI launched earlier this week.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "OpenAI launches a way for enterprises to build and manage AI agents",
+      "link": "https://techcrunch.com/2026/02/05/openai-launches-a-way-for-enterprises-to-build-and-manage-ai-agents/",
+      "published": "2026-02-06 03:09:50+09:00",
+      "summary": "OpenAI launched Frontier, a new platform designed for enterprises to build and deploy agents while treating them like human employees.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Anthropic releases Opus 4.6 with new ‘agent teams’",
+      "link": "https://techcrunch.com/2026/02/05/anthropic-releases-opus-4-6-with-new-agent-teams/",
+      "published": "2026-02-06 02:51:13+09:00",
+      "summary": "The newest version of Anthropic's model is designed to broaden its capabilities and appeal, allowing for a greater variety of uses and customers.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
