@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Waymo、DeepMindの「Genie 3」で自動運転をシミュレート　「もしも」の状況を無限に生成",
+    "link": "https://www.itmedia.co.jp/aiplus/articles/2602/07/news026.html",
+    "published": "2026-02-07 07:42:00+09:00",
+    "summary": "Google系列の自動運転企業WaymoはGoogle DeepMindの汎用ワールドモデル「Genie 3」を基盤とした自動運転シミュレーター「Waymo World Model」を発表した。竜巻や積雪などの状況をリアルに再現し、実世界で遭遇する前に「Waymo Driver」の対応能力を高める狙いだ。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Waymo、DeepMindの「Genie 3」で自動運転をシミュレート　「もしも」の状況を無限に生成",
+    "summary": "Google系列の自動運転企業WaymoはGoogle DeepMindの汎用ワールドモデル「Genie 3」を基盤とした自動運転シミュレーター「Waymo World Model」を発表した。竜巻や積雪などの状況をリアルに再現し、実世界で遭遇する前に「Waymo Driver」の対応能力を高める狙いだ。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Waymo、DeepMindの「Genie 3」で自動運転をシミュレート　「もしも」の状況を無限に生成",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2602/07/news026.html",
+      "published": "2026-02-07 07:42:00+09:00",
+      "summary": "Google系列の自動運転企業WaymoはGoogle DeepMindの汎用ワールドモデル「Genie 3」を基盤とした自動運転シミュレーター「Waymo World Model」を発表した。竜巻や積雪などの状況をリアルに再現し、実世界で遭遇する前に「Waymo Driver」の対応能力を高める狙いだ。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Gartner、2026年のセキュリティトレンドを発表　6つの変化にどう対応する？",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2602/07/news021.html",
+      "published": "2026-02-07 07:30:00+09:00",
+      "summary": "Gartnerは2026年のセキュリティトレンドを発表した。エージェント型AIが普及することで従来のセキュリティ対策は大きな転換を迫られている。そのとき企業はどのような対策を進めればいいのか。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "KDDI、AI特化の新会社「KDDIアイレット」　2028年度には3000人規模へ",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2602/06/news097.html",
+      "published": "2026-02-06 14:52:00+09:00",
+      "summary": "KDDIは、AI開発に特化した新会社「KDDIアイレット」を設立すると発表した。KDDIの中間持株会社であるKDDI Digital Divergence Holdingsと、同社の子会社で、クラウド事業などを手掛けるアイレットを合併する形で、4月1日から始動する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "OpenAIの最新プラットフォーム「Frontier」、ソフトバンクの企業向けAI「クリスタル」の基盤に採用",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2602/06/news093.html",
+      "published": "2026-02-06 13:29:00+09:00",
+      "summary": "ソフトバンクは、米OpenAIとの合弁会社SB OAI Japan（東京都港区）から提供する企業向けAI「クリスタル・インテリジェンス」の基盤に、OpenAIの最新プラットフォーム「Frontier」を活用すると発表した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "OpenAI、企業向けAI統括基盤「Frontier」発表　社内外のエージェントを一元管理",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2602/06/news078.html",
+      "published": "2026-02-06 11:56:00+09:00",
+      "summary": "OpenAIは、企業向けAIエージェント統合管理プラットフォーム「Frontier」を発表した。社内外の多様なエージェントを一元管理し、CRMや業務アプリと連携して自律的な実務遂行を可能にする。エージェント個別のID管理や監査機能など、強固なガバナンスを備え、OracleやUberなどの大手企業が既に導入を開始している。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
