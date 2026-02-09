@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "「Claude Opus 4.6」に2.5倍速で利用料6倍の「fast mode」、リサーチプレビューとして登場",
+    "link": "https://www.itmedia.co.jp/aiplus/articles/2602/09/news063.html",
+    "published": "2026-02-09 07:37:00+09:00",
+    "summary": "Anthropicは、最上位モデル「Claude Opus 4.6」の高速モード（fast mode）のリサーチプレビュー版を発表した。品質を維持したまま生成速度を最大2.5倍に向上させるというもので、利用料は標準の6倍。GitHub Copilotのプレビューにも採用され、2月16日まで利用料が半額になるキャンペーンを実施中だ。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "「Claude Opus 4.6」に2.5倍速で利用料6倍の「fast mode」、リサーチプレビューとして登場",
+    "summary": "Anthropicは、最上位モデル「Claude Opus 4.6」の高速モード（fast mode）のリサーチプレビュー版を発表した。品質を維持したまま生成速度を最大2.5倍に向上させるというもので、利用料は標準の6倍。GitHub Copilotのプレビューにも採用され、2月16日まで利用料が半額になるキャンペーンを実施中だ。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "「Claude Opus 4.6」に2.5倍速で利用料6倍の「fast mode」、リサーチプレビューとして登場",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2602/09/news063.html",
+      "published": "2026-02-09 07:37:00+09:00",
+      "summary": "Anthropicは、最上位モデル「Claude Opus 4.6」の高速モード（fast mode）のリサーチプレビュー版を発表した。品質を維持したまま生成速度を最大2.5倍に向上させるというもので、利用料は標準の6倍。GitHub Copilotのプレビューにも採用され、2月16日まで利用料が半額になるキャンペーンを実施中だ。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Crypto.com places $70M bet on AI.com domain ahead of Super Bowl",
+      "link": "https://techcrunch.com/2026/02/08/crypto-com-places-70m-bet-on-ai-com-domain-ahead-of-super-bowl/",
+      "published": "2026-02-09 05:19:47+09:00",
+      "summary": "The purchase rewrites the domain record books -- not that the crypto industry has ever been accused of restraint when it comes to spending.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Okay, I’m slightly less mad about that ‘Magnificent Ambersons’ AI project",
+      "link": "https://techcrunch.com/2026/02/08/okay-im-slightly-less-mad-about-that-magnificent-ambersons-ai-project/",
+      "published": "2026-02-09 04:36:28+09:00",
+      "summary": "But this is still a bad idea.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "From Svedka to Anthropic, brands make bold plays with AI in Super Bowl ads",
+      "link": "https://techcrunch.com/2026/02/08/super-bowl-60-ai-ads-svedka-anthropic-brands-commercials/",
+      "published": "2026-02-09 01:18:16+09:00",
+      "summary": "From the first AI-generated Big Game ad courtesy of Svedka to Anthropic's beef with OpenAI, here are the biggest ads from Super Bowl LX.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "ChatGPTで“存在しない判例”を引用　米国の弁護士に制裁、出禁や罰金",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2602/09/news039.html",
+      "published": "2026-02-09 08:00:00+09:00",
+      "summary": "米国カンザス連邦地方裁判所は、生成AIが作り出した架空の判例や虚偽の引用を含む準備書面を提出した原告側弁護士5人に対し、連邦民事訴訟規則第11条に基づく制裁を科す決定を下した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
