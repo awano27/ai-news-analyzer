@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Bringing ChatGPT to GenAI.mil",
+    "link": "https://openai.com/index/bringing-chatgpt-to-genaimil",
+    "published": "2026-02-09 20:00:00+09:00",
+    "summary": "OpenAI for Government announces the deployment of a custom ChatGPT on GenAI.mil, bringing secure, safety-forward AI to U.S. defense teams.",
+    "source": "OpenAI Blog",
+    "language": "en",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Bringing ChatGPT to GenAI.mil",
+    "summary": "OpenAI for Government announces the deployment of a custom ChatGPT on GenAI.mil, bringing secure, safety-forward AI to U.S. defense teams.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Bringing ChatGPT to GenAI.mil",
+      "link": "https://openai.com/index/bringing-chatgpt-to-genaimil",
+      "published": "2026-02-09 20:00:00+09:00",
+      "summary": "OpenAI for Government announces the deployment of a custom ChatGPT on GenAI.mil, bringing secure, safety-forward AI to U.S. defense teams.",
+      "source": "OpenAI Blog",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "OpenAI、「ChatGPT」で広告表示テストを開始　米国の無料版と「Go」プランが対象",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2602/10/news063.html",
+      "published": "2026-02-10 07:03:00+09:00",
+      "summary": "OpenAIは、ChatGPTで広告表示のテストを米国で開始すると発表した。無料版と低価格の「Go」プランが対象。ユーザーのプロンプトに基づき関連性の高い広告を表示するが、回答の精度には影響せず、広告主に個人情報は共有されないとしている。テスト中は18歳未満やデリケートなトピックには表示しない。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "ブラウザのAI機能のオン・オフはユーザーが決める時代に？　AI制御機能を搭載することをMozillaが発表、Firefoxデスクトップ版に搭載へ",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2602/09/news022.html",
+      "published": "2026-02-10 05:00:00+09:00",
+      "summary": "Firefoxを開発するMozillaは、デスクトップ版のブラウザに「AI制御」と呼ばれるAI管理機能を導入すると発表した。この機能はFirefox 148で提供され、ユーザーは生成AI機能のオン・オフを一括または個別に制御できるようになる。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Databricks CEO says SaaS isn’t dead, but AI will soon make it irrelevant",
+      "link": "https://techcrunch.com/2026/02/09/databricks-ceo-says-saas-isnt-dead-but-ai-will-soon-make-it-irrelevant/",
+      "published": "2026-02-10 06:14:50+09:00",
+      "summary": "AI isn't going to replace major SaaS apps with vibe-coded versions, Databricks CEO Ali Ghodsi believes. But it could give rise to competitors.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Anthropic’s India expansion collides with a local company that already had the name",
+      "link": "https://techcrunch.com/2026/02/09/anthropics-india-expansion-collides-with-a-local-company-that-already-had-the-name/",
+      "published": "2026-02-10 06:01:41+09:00",
+      "summary": "India's Anthropic Software has taken the U.S. AI giant to court over a name dispute.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
