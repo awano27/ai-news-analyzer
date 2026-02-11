@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "ノジマ、“ロボットだらけ”のショールーム開設　一般客も利用可能",
+    "link": "https://www.itmedia.co.jp/aiplus/articles/2602/10/news115.html",
+    "published": "2026-02-10 20:36:00+09:00",
+    "summary": "ノジマはロボットに特化したショールーム「MIRAI ROBO SQUARE」（ミライロボスクエア）を開設すると発表した。サービスロボットや人型ロボットなど、国内外約20社のロボットを展示する。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "ノジマ、“ロボットだらけ”のショールーム開設　一般客も利用可能",
+    "summary": "ノジマはロボットに特化したショールーム「MIRAI ROBO SQUARE」（ミライロボスクエア）を開設すると発表した。サービスロボットや人型ロボットなど、国内外約20社のロボットを展示する。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "ノジマ、“ロボットだらけ”のショールーム開設　一般客も利用可能",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2602/10/news115.html",
+      "published": "2026-02-10 20:36:00+09:00",
+      "summary": "ノジマはロボットに特化したショールーム「MIRAI ROBO SQUARE」（ミライロボスクエア）を開設すると発表した。サービスロボットや人型ロボットなど、国内外約20社のロボットを展示する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "NTTとTBSが「AIテーマパーク（仮称）」開業へ　AI活用し「エンタメ×教育」の新事業に",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2602/10/news051.html",
+      "published": "2026-02-10 13:00:00+09:00",
+      "summary": "NTTとTBSホールディングスは、オリジナルIP「感情騎士 - エモーショナル・ナイト -」と、同作の世界観を体験できる常設拠点「AIテーマパーク（仮称）」の設立を発表した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "日本発のAI VTuber「しずく」開発元、米VC大手a16zから資金調達",
+      "link": "https://www.itmedia.co.jp/news/articles/2602/10/news075.html",
+      "published": "2026-02-10 12:20:00+09:00",
+      "summary": "日本発のキャラクターAIスタートアップ・米Shizuku AIが、米ベンチャーキャピタル大手アンドリーセン・ホロウィッツ（a16z）からの資金調達を発表した。a16zによる日本関連の投資は初という。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Amazon may launch a marketplace where media sites can sell their content to AI companies",
+      "link": "https://techcrunch.com/2026/02/10/amazon-may-launch-a-marketplace-where-media-sites-can-sell-their-content-to-ai-companies/",
+      "published": "2026-02-11 08:16:28+09:00",
+      "summary": "A new report claims the e-commerce giant is looking to create a pipeline of licensable content between media publishers and AI companies.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "An ice dance duo skated to AI music at the Olympics",
+      "link": "https://techcrunch.com/2026/02/10/olympics-czech-ice-dancers-duo-ai-music/",
+      "published": "2026-02-11 07:31:13+09:00",
+      "summary": "Czech ice dancers Katerina Mrazkova and Daniel Mrazek are learning the hard way that LLMs sometimes spit out straight-up plagiarism.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
