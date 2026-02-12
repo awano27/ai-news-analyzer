@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "ThreadsにAIでフィードを制御できる新機能「Dear Algo」",
+    "link": "https://www.itmedia.co.jp/news/articles/2602/12/news054.html",
+    "published": "2026-02-12 09:19:00+09:00",
+    "summary": "Metaは、ThreadsでAIがフィードのお勧めを調整する新機能「Dear Algo」を発表した。公開ポストに「Dear algo」に続けて希望のトピックを入力することで、表示内容をカスタマイズできる。まずは米英豪などで提供を開始。ユーザーが自身のアルゴリズムを能動的に制御できる仕組みの導入により、利便性向上を目指す。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 4
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "ThreadsにAIでフィードを制御できる新機能「Dear Algo」",
+    "summary": "Metaは、ThreadsでAIがフィードのお勧めを調整する新機能「Dear Algo」を発表した。公開ポストに「Dear algo」に続けて希望のトピックを入力することで、表示内容をカスタマイズできる。まずは米英豪などで提供を開始。ユーザーが自身のアルゴリズムを能動的に制御できる仕組みの導入により、利便性向上を目指す。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 4,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "ThreadsにAIでフィードを制御できる新機能「Dear Algo」",
+      "link": "https://www.itmedia.co.jp/news/articles/2602/12/news054.html",
+      "published": "2026-02-12 09:19:00+09:00",
+      "summary": "Metaは、ThreadsでAIがフィードのお勧めを調整する新機能「Dear Algo」を発表した。公開ポストに「Dear algo」に続けて希望のトピックを入力することで、表示内容をカスタマイズできる。まずは米英豪などで提供を開始。ユーザーが自身のアルゴリズムを能動的に制御できる仕組みの導入により、利便性向上を目指す。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "Uber Eats launches AI assistant to help with grocery cart creation",
+      "link": "https://techcrunch.com/2026/02/11/uber-eats-launches-ai-assistant-to-help-with-grocery-cart-creation/",
+      "published": "2026-02-12 06:07:37+09:00",
+      "summary": "Uber Eats launched a new AI feature, “Cart Assistant,” that can automatically add items to your cart based on text or image prompts.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Former Founders Fund VC Sam Blond launches AI sales startup to upend Salesforce",
+      "link": "https://techcrunch.com/2026/02/11/former-founders-fund-vc-sam-blond-launches-ai-sales-startup-to-upend-salesforce/",
+      "published": "2026-02-12 01:00:00+09:00",
+      "summary": "The startup, Monaco, has come out of stealth as an AI-native all-in-one CRM plus more system backed by names like the Collison brothers and Garry Tan.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "xAI lays out interplanetary ambitions in public all-hands",
+      "link": "https://techcrunch.com/2026/02/11/xai-lays-out-interplanetary-ambitions-in-public-all-hands/",
+      "published": "2026-02-12 08:29:08+09:00",
+      "summary": "On Wednesday, xAI took the rare step of publishing its full 45-minute all-hands presentation to the X platform, making it widely available.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "AI inference startup Modal Labs in talks to raise at $2.5B valuation, sources say",
+      "link": "https://techcrunch.com/2026/02/11/ai-inference-startup-modal-labs-in-talks-to-raise-at-2-5b-valuation-sources-say/",
+      "published": "2026-02-12 07:48:35+09:00",
+      "summary": "General Catalyst is in talks to lead the round for the four-year-old startup, according to our sources.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
