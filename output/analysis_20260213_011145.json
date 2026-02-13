@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "AIがゼロデイ脆弱性を発見する時代へ　Claudeは500件超の脆弱性をどうやって見つけたか",
+    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2602/13/news017.html",
+    "published": "2026-02-13 05:00:00+09:00",
+    "summary": "Claude Opus 4.6はサイバーセキュリティに関する能力も大きく向上している。Anthropicの発表によれば、Claudeはオープンソースソースソフトウェアから500件を超える脆弱性を発見したという。Claudeは何を試し、何を考え、どのようにして脆弱性を見つけたのだろう。そして悪用リスクにどう対処しているのか。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 4
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "AIがゼロデイ脆弱性を発見する時代へ　Claudeは500件超の脆弱性をどうやって見つけたか",
+    "summary": "Claude Opus 4.6はサイバーセキュリティに関する能力も大きく向上している。Anthropicの発表によれば、Claudeはオープンソースソースソフトウェアから500件を超える脆弱性を発見したという。Claudeは何を試し、何を考え、どのようにして脆弱性を見つけたのだろう。そして悪用リスクにどう対処しているのか。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 4,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "AIがゼロデイ脆弱性を発見する時代へ　Claudeは500件超の脆弱性をどうやって見つけたか",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2602/13/news017.html",
+      "published": "2026-02-13 05:00:00+09:00",
+      "summary": "Claude Opus 4.6はサイバーセキュリティに関する能力も大きく向上している。Anthropicの発表によれば、Claudeはオープンソースソースソフトウェアから500件を超える脆弱性を発見したという。Claudeは何を試し、何を考え、どのようにして脆弱性を見つけたのだろう。そして悪用リスクにどう対処しているのか。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "論文の図を生成するAI「PaperBanana」 Googleなどが開発　ブラウザ上で試せるジェネレーターも公開中",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2602/12/news026.html",
+      "published": "2026-02-12 12:00:00+09:00",
+      "summary": "北京大学とGoogle Cloud AI Researchに所属する研究者らは、学術論文における図や統計プロットを自動生成するフレームワークを開発した研究報告を発表した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "OpenAI、Cerebrasチップ搭載の高速エージェントコーディングツール「GPT-5.3-Codex-Spark」",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2602/13/news061.html",
+      "published": "2026-02-13 07:57:00+09:00",
+      "summary": "OpenAIは、エージェントコーディングツールの高速版「GPT-5.3-Codex-Spark」をリリースした。Cerebrasの専用チップ「WSE-3」を活用し、毎秒1000トークン以上の爆速推論を実現。リアルタイムでの対話型コーディングを可能にする。ChatGPT Proユーザー向けにVS Code拡張機能等を通じてプレビュー提供を開始した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Anthropic、AIによる「電気代高騰」を防止へ　インフラ増設費の100％自社負担を約束",
+      "link": "https://www.itmedia.co.jp/news/articles/2602/12/news080.html",
+      "published": "2026-02-12 13:33:00+09:00",
+      "summary": "Anthropicは、AIインフラ拡大に伴う一般家庭の電気料金高騰を防ぐため、増加コストを自社で全額負担する新方針を発表した。将来的に50GW以上の電力が必要とされる中、送電網の増設費用を100％カバーし、独自の発電設備も調達する。AI開発の加速と、一般市民の生活コスト保護の両立を目指す。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "香川県がエヌビディアと連携協定　全国の自治体で初",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2602/12/news079.html",
+      "published": "2026-02-12 13:29:00+09:00",
+      "summary": "香川県が、米NVIDIAの日本法人エヌビディアと同社のGPUを活用する企業の誘致などに向けた連携協定を結ぶと発表した。県によれば、自治体がエヌビディアと連携協定を結ぶのは初という。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
