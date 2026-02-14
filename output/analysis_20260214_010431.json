@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "人型ロボットの格闘大会を開催へ　中国　優勝者には“2億円相当”の純金ベルト",
+    "link": "https://www.itmedia.co.jp/aiplus/articles/2602/13/news101.html",
+    "published": "2026-02-13 16:22:00+09:00",
+    "summary": "ロボット開発企業の中国ENGINEAIテクノロジーは、イベント「第1回世界人型ロボット自由格闘大会」（URKL、Ultimate Robot Knock-out Legend）を開催すると発表した。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "人型ロボットの格闘大会を開催へ　中国　優勝者には“2億円相当”の純金ベルト",
+    "summary": "ロボット開発企業の中国ENGINEAIテクノロジーは、イベント「第1回世界人型ロボット自由格闘大会」（URKL、Ultimate Robot Knock-out Legend）を開催すると発表した。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "人型ロボットの格闘大会を開催へ　中国　優勝者には“2億円相当”の純金ベルト",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2602/13/news101.html",
+      "published": "2026-02-13 16:22:00+09:00",
+      "summary": "ロボット開発企業の中国ENGINEAIテクノロジーは、イベント「第1回世界人型ロボット自由格闘大会」（URKL、Ultimate Robot Knock-out Legend）を開催すると発表した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Google、推論特化型「Deep Think」を大幅強化　手書きスケッチから3Dモデル生成も可能に",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2602/13/news064.html",
+      "published": "2026-02-13 10:19:00+09:00",
+      "summary": "Googleは、AIモデル「Gemini 3」の推論モード「Deep Think」をアップグレードしたと発表。科学やエンジニアリング等の複雑な課題解決に特化し、スケッチからの3Dモデル生成も可能。「Google AI Ultra」ユーザー向けに提供を開始している。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Airbnb says a third of its customer support is now handled by AI in the US and Canada",
+      "link": "https://techcrunch.com/2026/02/13/airbnb-says-a-third-of-its-customer-support-is-now-handled-by-ai-in-the-u-s-and-canada/",
+      "published": "2026-02-14 07:12:26+09:00",
+      "summary": "Airbnb was poised to introduce an app that doesn't just search for you, but one that \"knows you.\" CEO Brian Chesky said, \"It will help guests plan their entire trip, help hosts better run their businesses, and help the company operate more efficiently at scale.\"",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Why top talent is walking away from OpenAI and xAI",
+      "link": "https://techcrunch.com/video/why-top-talent-is-walking-away-from-openai-and-xai/",
+      "published": "2026-02-14 06:00:00+09:00",
+      "summary": "AI companies have been hemorrhaging talent the past few weeks. Half of xAI’s founding team has left the company — some on their own, others through “restructuring” — while OpenAI is facing its own shakeups, from the disbanding of its mission alignment team to the firing of a policy exec who opposed its “adult mode” feature.  Watch as TechCrunch’s Equity podcast hosts Kirsten Korosec, Anthony […]",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "OpenAI removes access to sycophancy-prone GPT-4o model",
+      "link": "https://techcrunch.com/2026/02/13/openai-removes-access-to-sycophancy-prone-gpt-4o-model/",
+      "published": "2026-02-14 03:10:00+09:00",
+      "summary": "The model is known for its overly sycophantic nature and its role in several lawsuits involving users' unhealthy relationships with the chatbot.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
