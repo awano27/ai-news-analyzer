@@ -1,0 +1,53 @@
+{
+  "article": {
+    "title": "Is safety ‘dead’ at xAI?",
+    "link": "https://techcrunch.com/2026/02/14/is-safety-is-dead-at-xai/",
+    "published": "2026-02-15 06:55:44+09:00",
+    "summary": "Elon Musk is “actively” working to make xAI’s Grok chatbot “more unhinged, according to a former employee.",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 0
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Is safety ‘dead’ at xAI?",
+    "summary": "Elon Musk is “actively” working to make xAI’s Grok chatbot “more unhinged, according to a former employee.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 0,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Is safety ‘dead’ at xAI?",
+      "link": "https://techcrunch.com/2026/02/14/is-safety-is-dead-at-xai/",
+      "published": "2026-02-15 06:55:44+09:00",
+      "summary": "Elon Musk is “actively” working to make xAI’s Grok chatbot “more unhinged, according to a former employee.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Hollywood isn’t happy about the new Seedance 2.0 video generator",
+      "link": "https://techcrunch.com/2026/02/14/hollywood-isnt-happy-about-the-new-seedance-2-0-video-generator/",
+      "published": "2026-02-15 03:26:52+09:00",
+      "summary": "Hollywood organizations are pushing back against a new AI video model called Seedance 2.0, which they say has quickly become a tool for “blatant” copyright infringement.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Airbnb plans to bake in AI features for search, discovery and support",
+      "link": "https://techcrunch.com/2026/02/13/airbnb-plans-to-bake-in-ai-features-for-search-discovery-and-support/",
+      "published": "2026-02-14 11:40:42+09:00",
+      "summary": "Airbnb CEO Brian Chesky said the company wants to increase its use of large language models for customer discovery, support and engineering.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
