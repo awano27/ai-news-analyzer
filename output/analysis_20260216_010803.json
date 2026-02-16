@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "OpenClaw creator Peter Steinberger joins OpenAI",
+    "link": "https://techcrunch.com/2026/02/15/openclaw-creator-peter-steinberger-joins-openai/",
+    "published": "2026-02-16 07:28:02+09:00",
+    "summary": "OpenAI said OpenClaw will live on as an open source project.",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "OpenClaw creator Peter Steinberger joins OpenAI",
+    "summary": "OpenAI said OpenClaw will live on as an open source project.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "OpenClaw creator Peter Steinberger joins OpenAI",
+      "link": "https://techcrunch.com/2026/02/15/openclaw-creator-peter-steinberger-joins-openai/",
+      "published": "2026-02-16 07:28:02+09:00",
+      "summary": "OpenAI said OpenClaw will live on as an open source project.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "As AI data centers hit power limits, Peak XV backs Indian startup C2i to fix the bottleneck",
+      "link": "https://techcrunch.com/2026/02/15/as-ai-data-centers-hit-power-limits-peak-xv-backs-indian-startup-c2i-to-fix-the-bottleneck/",
+      "published": "2026-02-16 10:00:00+09:00",
+      "summary": "C2i has raised $15 million as it tests a grid-to-GPU approach to reducing power losses in AI data centers.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Blackstone backs Neysa in up to $1.2B financing as India pushes to build domestic AI infrastructure",
+      "link": "https://techcrunch.com/2026/02/15/blackstone-backs-neysa-in-up-to-1-2b-financing-as-india-pushes-to-build-domestic-ai-compute/",
+      "published": "2026-02-16 09:30:00+09:00",
+      "summary": "Neysa is targeting deployments of more than 20,000 GPUs over time as demand for local AI compute accelerates.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Anthropic and the Pentagon are reportedly arguing over Claude usage",
+      "link": "https://techcrunch.com/2026/02/15/anthropic-and-the-pentagon-are-reportedly-arguing-over-claude-usage/",
+      "published": "2026-02-16 06:11:28+09:00",
+      "summary": "The apparent issue: whether Claude can be used for mass domestic surveillance and autonomous weapons.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "India has 100M weekly active ChatGPT users, Sam Altman says",
+      "link": "https://techcrunch.com/2026/02/15/india-has-100m-weekly-active-chatgpt-users-sam-altman-says/",
+      "published": "2026-02-16 03:00:00+09:00",
+      "summary": "OpenAI CEO Sam Altman says India has the largest number of student users of ChatGPT worldwide.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
