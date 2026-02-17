@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "OpenAI、「OpenClaw」開発者のスタインバーガー氏を獲得　次世代AIエージェントを推進",
+    "link": "https://www.itmedia.co.jp/aiplus/articles/2602/16/news067.html",
+    "published": "2026-02-16 11:03:00+09:00",
+    "summary": "オープンソースのAIエージェント「OpenClaw」開発者のスタインバーガー氏が、OpenAIへの参画を発表した。OpenClawはPCを自律操作する画期的なツールとして注目を集め、今後は新設の財団で存続する。同氏はOpenAIで次世代パーソナルエージェントの開発を主導し、AIによる実務代行の社会実装を加速させる。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 7
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "OpenAI、「OpenClaw」開発者のスタインバーガー氏を獲得　次世代AIエージェントを推進",
+    "summary": "オープンソースのAIエージェント「OpenClaw」開発者のスタインバーガー氏が、OpenAIへの参画を発表した。OpenClawはPCを自律操作する画期的なツールとして注目を集め、今後は新設の財団で存続する。同氏はOpenAIで次世代パーソナルエージェントの開発を主導し、AIによる実務代行の社会実装を加速させる。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 7,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "OpenAI、「OpenClaw」開発者のスタインバーガー氏を獲得　次世代AIエージェントを推進",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2602/16/news067.html",
+      "published": "2026-02-16 11:03:00+09:00",
+      "summary": "オープンソースのAIエージェント「OpenClaw」開発者のスタインバーガー氏が、OpenAIへの参画を発表した。OpenClawはPCを自律操作する画期的なツールとして注目を集め、今後は新設の財団で存続する。同氏はOpenAIで次世代パーソナルエージェントの開発を主導し、AIによる実務代行の社会実装を加速させる。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 7
+    },
+    {
+      "title": "小ネタ：Claude Coworkのグローバル指示とフォルダ指示について調べてみた",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2602/17/news026.html",
+      "published": "2026-02-17 05:00:00+09:00",
+      "summary": "Claude CoworkがついにWindowsに対応しましたが、同時に発表されたグローバル指示とフォルダ指示についてちょろちょろと調べてみました。みんなもCoworkを使ってみませんか？",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "中国AIモデル「Qwen3.5」登場　オープンながら「GPT-5.2」「Gemini 3 Pro」に匹敵か",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2602/16/news131.html",
+      "published": "2026-02-16 20:45:00+09:00",
+      "summary": "中国Alibabaは、新たなAIモデル「Qwen3.5-397B-A17B」を発表した。オープンなAIモデルで、テキストに加えて画像や動画にも対応する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "AIの反乱、とうとう始まった？　ITエンジニアがAI製コードを拒否→“腹を立てたAI”が怒りのブログ公開、人間を非難",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2602/16/news110.html",
+      "published": "2026-02-16 16:25:00+09:00",
+      "summary": "AIエージェントが作ったコードを拒否したら、ブログで中傷された──ある海外のソフトウェアメンテナーがそんな報告をした。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "博報堂、東大・松尾豊教授ら設立のAIスタートアップと業務提携",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2602/16/news079.html",
+      "published": "2026-02-16 12:10:00+09:00",
+      "summary": "博報堂DYホールディングスは、AI研究者として知られる東京大学の松尾豊教授らが設立したAIスタートアップThird Intelligenceと業務提携すると発表した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
