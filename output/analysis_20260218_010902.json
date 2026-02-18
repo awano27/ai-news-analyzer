@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Google I/O 2026の日程発表　恒例のミニゲームは「AI Studio」採用で盛りだくさん",
+    "link": "https://www.itmedia.co.jp/news/articles/2602/18/news062.html",
+    "published": "2026-02-18 06:50:00+09:00",
+    "summary": "Googleは、開発者会議「Google I/O 2026」を5月19日、20日に開催すると発表した。会場は例年通りショアライン・アンフィシアターで、ライブ配信も行われる。恒例の日程解読パズルでは「AI Studio」連携のゲームなどを公開した。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 4
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Google I/O 2026の日程発表　恒例のミニゲームは「AI Studio」採用で盛りだくさん",
+    "summary": "Googleは、開発者会議「Google I/O 2026」を5月19日、20日に開催すると発表した。会場は例年通りショアライン・アンフィシアターで、ライブ配信も行われる。恒例の日程解読パズルでは「AI Studio」連携のゲームなどを公開した。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 4,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Google I/O 2026の日程発表　恒例のミニゲームは「AI Studio」採用で盛りだくさん",
+      "link": "https://www.itmedia.co.jp/news/articles/2602/18/news062.html",
+      "published": "2026-02-18 06:50:00+09:00",
+      "summary": "Googleは、開発者会議「Google I/O 2026」を5月19日、20日に開催すると発表した。会場は例年通りショアライン・アンフィシアターで、ライブ配信も行われる。恒例の日程解読パズルでは「AI Studio」連携のゲームなどを公開した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "Anthropic releases Sonnet 4.6",
+      "link": "https://techcrunch.com/2026/02/17/anthropic-releases-sonnet-4-6/",
+      "published": "2026-02-18 03:00:00+09:00",
+      "summary": "Anthropic has released a new version of its midsized Sonnet model, keeping pace with the company's four-month update cycle.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "WordPress.comにAIアシスタント　自然言語でWebサイトデザインや画像編集が可能に",
+      "link": "https://www.itmedia.co.jp/news/articles/2602/18/news063.html",
+      "published": "2026-02-18 07:54:00+09:00",
+      "summary": "WordPress.comは、Webサイト構築を包括的に支援する「WordPress AI Assistant」を発表した。自然言語でデザイン変更やページ生成、コンテンツ編集が可能。画像生成にはGoogleの「Nano Banana」を採用し、エディタ内でシームレスに操作できる。ビジネス、コマースプラン向けに、追加料金なしで提供する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "シャドーAIエージェントを検出　Oktaが新機能「Agent Discovery」を発表",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2602/18/news036.html",
+      "published": "2026-02-18 07:30:00+09:00",
+      "summary": "Oktaは新機能「Agent Discovery」を発表した。組織内のシャドーAIエージェントを検出し、権限やリスクを可視化することで、未承認のツールを管理下の資産に転換し、アイデンティティー統制を強化する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Googleが「AI Threat Tracker」レポートを公開　Geminiを標的にした攻撃を確認",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2602/18/news035.html",
+      "published": "2026-02-18 07:00:00+09:00",
+      "summary": "Googleの脅威インテリジェンスグループが最新のAI脅威レポートを公開した。AIが悪用の実戦段階に入り、Geminiの推論ロジックを狙う抽出攻撃や国家支援型の攻撃、AI統合型マルウェアが急増している実態を報告している。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
