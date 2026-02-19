@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Indian AI lab Sarvam’s new models are a major bet on the viability of open source AI",
+    "link": "https://techcrunch.com/2026/02/18/indian-ai-lab-sarvams-new-models-are-a-major-bet-on-the-viability-of-open-source-ai/",
+    "published": "2026-02-18 21:55:20+09:00",
+    "summary": "The new lineup includes 30-billion- and 105-billion-parameter models; a text-to-speech model; a speech-to-text model; and a vision model to parse documents.",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Indian AI lab Sarvam’s new models are a major bet on the viability of open source AI",
+    "summary": "The new lineup includes 30-billion- and 105-billion-parameter models; a text-to-speech model; a speech-to-text model; and a vision model to parse documents.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Indian AI lab Sarvam’s new models are a major bet on the viability of open source AI",
+      "link": "https://techcrunch.com/2026/02/18/indian-ai-lab-sarvams-new-models-are-a-major-bet-on-the-viability-of-open-source-ai/",
+      "published": "2026-02-18 21:55:20+09:00",
+      "summary": "The new lineup includes 30-billion- and 105-billion-parameter models; a text-to-speech model; a speech-to-text model; and a vision model to parse documents.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "「空間知能」のWorld LabsがNVIDIA、AMD、Autodeskなどから10億ドル調達",
+      "link": "https://www.itmedia.co.jp/news/articles/2602/19/news071.html",
+      "published": "2026-02-19 09:49:00+09:00",
+      "summary": "フェイフェイ・リー博士率いるWorld Labsは、10億ドルの資金調達を発表した。AMDやNVIDIAらが出資。同社は「空間知能（spatial intelligence）」を核に、高精細な3D世界を生成する「ワールドモデル」の開発を推進する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "日本IBMのAI戦略“3つの柱”　「制御できるAI」でレガシー資産をモダナイズ",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2602/19/news045.html",
+      "published": "2026-02-19 08:00:00+09:00",
+      "summary": "日本IBMがAI戦略を発表した。2026年はシステム開発、業務プロセスにAIを本格的に導入する元年と位置付け、開発支援ツールやガバナンスを実装したAI基盤の提供を開始する。特にハイブリッド環境が多い大企業のAI推進が強みと語る同社が、具体策を記者会見で語った。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "「身近な上司」を再現する専用ディープフェイク動画を作成　KnowBe4が新トレーニング",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2602/19/news039.html",
+      "published": "2026-02-19 08:00:00+09:00",
+      "summary": "KnowBe4は自社幹部の動画や音声などの素材でディープフェイク動画を作成し、高度ななりすまし攻撃を体験できる日本語版トレーニングを発表した。巧妙なAI詐欺の手口を実践的に学ぶことで、判断能力の強化が期待できる。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "「pixiv」ガイドライン改定へ　“AI利用の虚偽申告”や大量投稿など禁止　違反作は非表示も",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2602/18/news132.html",
+      "published": "2026-02-18 19:40:00+09:00",
+      "summary": "ピクシブは、イラスト投稿サイト「pixiv」のガイドラインを3月18日に改定すると発表した。作品を大量に投稿したり、AI生成かどうかなど作品内容と一致しないステータスを付与したりする行為を禁止する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
