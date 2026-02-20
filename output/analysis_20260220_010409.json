@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Reload wants to give your AI agents a shared memory",
+    "link": "https://techcrunch.com/2026/02/19/reload-an-ai-employee-agent-management-platform-raises-2-275m-and-launches-an-ai-employee/",
+    "published": "2026-02-20 00:00:00+09:00",
+    "summary": "Reload announces a $2.275 million raise in a round led by Anthemis and the launch of its first AI employee, Epic.",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Reload wants to give your AI agents a shared memory",
+    "summary": "Reload announces a $2.275 million raise in a round led by Anthemis and the launch of its first AI employee, Epic.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Reload wants to give your AI agents a shared memory",
+      "link": "https://techcrunch.com/2026/02/19/reload-an-ai-employee-agent-management-platform-raises-2-275m-and-launches-an-ai-employee/",
+      "published": "2026-02-20 00:00:00+09:00",
+      "summary": "Reload announces a $2.275 million raise in a round led by Anthemis and the launch of its first AI employee, Epic.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "For open source programs, AI coding tools are a mixed blessing",
+      "link": "https://techcrunch.com/2026/02/19/for-open-source-programs-ai-coding-tools-are-a-mixed-blessing/",
+      "published": "2026-02-19 23:00:00+09:00",
+      "summary": "AI coding tools have enabled a flood of bad code that threatens to overwhelm many projects. Building new features is easier, but maintaining them is just as hard.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Reliance unveils $110B AI investment plan as India ramps up tech ambitions",
+      "link": "https://techcrunch.com/2026/02/19/reliance-unveils-110b-ai-investment-plan-as-india-ramps-up-tech-ambitions/",
+      "published": "2026-02-19 20:39:17+09:00",
+      "summary": "Reliance has begun building multi-gigawatt AI data centers in Jamnagar, with more than 120 MW of capacity expected to come online in 2026.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Google、推論を強化した「Gemini 3.1 Pro」発表　GitHub Copilotでも利用可能に",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2602/20/news060.html",
+      "published": "2026-02-20 07:14:00+09:00",
+      "summary": "Googleは、推論能力を強化した最新モデル「Gemini 3.1 Pro」を発表した。論理パズル等の難関ベンチマークで前モデルの2倍以上の性能を記録。複雑なSVGアニメーションのコード生成も可能になった。GeminiアプリやNotebookLM（ProとUltra）で利用できるほか、GitHub Copilotでもパブリックプレビューとして提供が開始された。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "北海道で最も人口が少ない村に「AI副村長」、年齢は“17歳”　村民をチャットでサポート",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2602/19/news141.html",
+      "published": "2026-02-19 18:54:00+09:00",
+      "summary": "ゲーム開発などを手掛けるカヤックは、北海道で最も人口が少ない音威子府村（おといねっぷむら）と共同で、村専用のチャットAI「ねっぷちゃん」を開発したと発表した。ねっぷちゃんを「AI副村長」と位置付け、村民をサポートする実証実験も始める。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
