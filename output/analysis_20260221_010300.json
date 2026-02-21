@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "India’s Sarvam launches Indus AI chat app as competition heats up",
+    "link": "https://techcrunch.com/2026/02/20/indias-sarvam-launches-indus-ai-chat-app-as-competition-heats-up/",
+    "published": "2026-02-21 10:00:00+09:00",
+    "summary": "Sarvam's Indus chat app is currently available in beta.",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "India’s Sarvam launches Indus AI chat app as competition heats up",
+    "summary": "Sarvam's Indus chat app is currently available in beta.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "India’s Sarvam launches Indus AI chat app as competition heats up",
+      "link": "https://techcrunch.com/2026/02/20/indias-sarvam-launches-indus-ai-chat-app-as-competition-heats-up/",
+      "published": "2026-02-21 10:00:00+09:00",
+      "summary": "Sarvam's Indus chat app is currently available in beta.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "三菱UFJ銀行、AIで提案書作成　“独自フォーマットに完全準拠したスライド”生成",
+      "link": "https://www.itmedia.co.jp/news/articles/2602/20/news105.html",
+      "published": "2026-02-20 17:16:00+09:00",
+      "summary": "三菱UFJ銀行が、法人顧客向けの提案資料作成を自動化する「エージェント型AI生成機能」を構築した。システム基盤には、LayerXが提供するAIプラットフォーム「Ai Workforce」を採用。生成AIと行内のビッグデータ基盤を連携させることで、これまで膨大な時間を要していた資料作成業務の劇的な効率化を図る。LayerXが2月19日に発表した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "ソフトバンクのAI開発企業・SB Intuitions、突然の社長交代",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2602/20/news085.html",
+      "published": "2026-02-20 15:09:00+09:00",
+      "summary": "ソフトバンクの子会社でAIの研究開発などを手掛けるSB Intuitionsは、代表取締役を交代すると発表した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "The creator economy’s ad revenue problem and India’s AI ambitions",
+      "link": "https://techcrunch.com/video/the-creator-economys-ad-revenue-problem-and-indias-ai-ambitions/",
+      "published": "2026-02-21 08:00:00+09:00",
+      "summary": "The creator economy is evolving fast, and ad revenue alone isn’t cutting it anymore. YouTubers are launching product lines, acquiring startups, and building actual business empires. In fact, MrBeast’s company bought fintech startup Step, and his chocolate business is outearning his media arm. This isn’t just one creator’s strategy. For many, it’s the new playbook.  On this episode of TechCrunch’s Equity podcast, hosts Kirsten Korosec, Anthony Ha, and Rebecca Bellan unpack how creators are divers",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Anthropic-funded group backs candidate attacked by rival AI super PAC",
+      "link": "https://techcrunch.com/2026/02/20/anthropic-funded-group-backs-candidate-attacked-by-rival-ai-super-pac/",
+      "published": "2026-02-21 05:52:48+09:00",
+      "summary": "Dueling pro-AI PACs have centered around backing or targeting one New York congressional bid: Alex Bores, whose RAISE Act requires AI developers to disclose safety protocols and report serious system misuse.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
