@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Guide Labs debuts a new kind of interpretable LLM",
+    "link": "https://techcrunch.com/2026/02/23/guide-labs-debuts-a-new-kind-of-interpretable-llm/",
+    "published": "2026-02-24 02:53:28+09:00",
+    "summary": "The company open sourced an 8-billion-parameter LLM, Steerling-8B, trained with a new architecture designed to make its actions easily interpretable.",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Guide Labs debuts a new kind of interpretable LLM",
+    "summary": "The company open sourced an 8-billion-parameter LLM, Steerling-8B, trained with a new architecture designed to make its actions easily interpretable.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Guide Labs debuts a new kind of interpretable LLM",
+      "link": "https://techcrunch.com/2026/02/23/guide-labs-debuts-a-new-kind-of-interpretable-llm/",
+      "published": "2026-02-24 02:53:28+09:00",
+      "summary": "The company open sourced an 8-billion-parameter LLM, Steerling-8B, trained with a new architecture designed to make its actions easily interpretable.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "OpenAI announces Frontier Alliance Partners",
+      "link": "https://openai.com/index/frontier-alliance-partners",
+      "published": "2026-02-23 14:30:00+09:00",
+      "summary": "OpenAI announces Frontier Alliance Partners to help enterprises move from AI pilots to production with secure, scalable agent deployments.",
+      "source": "OpenAI Blog",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "OpenAI、法人向け「Frontier Alliances」発表　マッキンゼーやアクセンチュアらと提携",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2602/24/news063.html",
+      "published": "2026-02-24 09:14:00+09:00",
+      "summary": "OpenAIは、法人向けAIプラットフォーム「Frontier」の導入を支援する連合「Frontier Alliances」を発表した。McKinsey、BCG、Accenture、Capgeminiが参加。戦略立案からシステム統合、運用までを包括的にサポートする体制を構築する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Anthropic、DeepSeekなど中国AI企業3社による「大規模な蒸留攻撃」を報告　国家安全保障リスクを警告",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2602/24/news060.html",
+      "published": "2026-02-24 07:24:00+09:00",
+      "summary": "Anthropicは、DeepSeekら中国AI企業3社が「Claude」の能力を不正に抽出する「蒸留攻撃」を大規模に実施したと発表した。3社は1600万回以上の不正なやり取りを通じて、推論能力や安全な応答の仕組みを自社モデルに流用した疑いがある。Anthropicは、国家安全保障上のリスクを警告し、業界全体に協調対応を呼びかけている。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "A Meta AI security researcher said an OpenClaw agent ran amok on her inbox",
+      "link": "https://techcrunch.com/2026/02/23/a-meta-ai-security-researcher-said-an-openclaw-agent-ran-amok-on-her-inbox/",
+      "published": "2026-02-24 09:57:14+09:00",
+      "summary": "The viral X post from an AI security researcher reads like satire. But it's really a word of warning about what can go wrong when handing tasks to an AI agent.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
