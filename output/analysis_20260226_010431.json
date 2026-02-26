@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Perplexity、複数の最強モデルを統合制御するAIエージェントプラットフォーム「Perplexity Computer」提供開始",
+    "link": "https://www.itmedia.co.jp/aiplus/articles/2602/26/news074.html",
+    "published": "2026-02-26 06:55:00+09:00",
+    "summary": "Perplexityは、複数の先端AIモデルを統合して複雑なワークフローを実行する「Perplexity Computer」を発表した。「Claude Opus 4.6」や「ChatGPT 5.2」等の最新モデルをサブエージェントとして使い分け、リサーチやコード作成を非同期で進める。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 4
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Perplexity、複数の最強モデルを統合制御するAIエージェントプラットフォーム「Perplexity Computer」提供開始",
+    "summary": "Perplexityは、複数の先端AIモデルを統合して複雑なワークフローを実行する「Perplexity Computer」を発表した。「Claude Opus 4.6」や「ChatGPT 5.2」等の最新モデルをサブエージェントとして使い分け、リサーチやコード作成を非同期で進める。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 4,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Perplexity、複数の最強モデルを統合制御するAIエージェントプラットフォーム「Perplexity Computer」提供開始",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2602/26/news074.html",
+      "published": "2026-02-26 06:55:00+09:00",
+      "summary": "Perplexityは、複数の先端AIモデルを統合して複雑なワークフローを実行する「Perplexity Computer」を発表した。「Claude Opus 4.6」や「ChatGPT 5.2」等の最新モデルをサブエージェントとして使い分け、リサーチやコード作成を非同期で進める。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "Wearable startup CUDIS launches a new health ring line with an AI-fueled ‘coach’",
+      "link": "https://techcrunch.com/2026/02/25/wearable-startup-cudis-launches-a-new-health-ring-line-with-an-ai-fueled-coach/",
+      "published": "2026-02-26 04:10:04+09:00",
+      "summary": "The wearable incentivizes healthy behavior with points that can be redeemed for health products.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Copilotではなく「AIエージェント」がもはや主流？　米国で設立したスタートアップ",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2602/26/news061.html",
+      "published": "2026-02-26 08:00:00+09:00",
+      "summary": "ストライプジャパンは2026年1月28日、米国での法人設立支援プラットフォーム「Stripe Atlas」のデータに基づくスタートアップ動向を発表した。AI分野の急増と、AIエージェントへのシフトが目立っている。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "9割超の企業「AIが浸透しても新卒採用数を減らさない」　一体なぜ？　マイナビが解説",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2602/25/news103.html",
+      "published": "2026-02-25 14:41:00+09:00",
+      "summary": "9割以上の企業はAIが浸透しても新卒採用数を減らさない――マイナビは2月25日、2027年卒新卒採用の動向に関し、このような調査結果を公開した。同日に実施した記者向け説明会では、AIの普及が採用活動や新入社員の業務に与える影響なども解説した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "「Microsoft Agent Framework」と「GitHub Copilot SDK」が統合、マルチエージェント構築に対応",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2602/25/news067.html",
+      "published": "2026-02-25 13:00:00+09:00",
+      "summary": "Microsoftは、AIエージェントの開発を支援する「Microsoft Agent Framework」が「GitHub Copilot SDK」と統合したことを発表した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
