@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Google、「Nano Banana 2」公開　「Gemini 3.1 Flash」ベース、無料版でも高機能利用可能に",
+    "link": "https://www.itmedia.co.jp/aiplus/articles/2602/27/news082.html",
+    "published": "2026-02-27 07:52:00+09:00",
+    "summary": "Googleは最新の画像生成AI「Nano Banana 2」を発表した。「Gemini 3.1 Flash」の知能を活用し、Web検索と連動した正確な図解生成や高度なテキスト描画が可能。従来は有料版限定だった機能が無料ユーザーにも開放され、4K解像度や最大14のオブジェクト制御に対応する。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 4
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Google、「Nano Banana 2」公開　「Gemini 3.1 Flash」ベース、無料版でも高機能利用可能に",
+    "summary": "Googleは最新の画像生成AI「Nano Banana 2」を発表した。「Gemini 3.1 Flash」の知能を活用し、Web検索と連動した正確な図解生成や高度なテキスト描画が可能。従来は有料版限定だった機能が無料ユーザーにも開放され、4K解像度や最大14のオブジェクト制御に対応する。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 4,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Google、「Nano Banana 2」公開　「Gemini 3.1 Flash」ベース、無料版でも高機能利用可能に",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2602/27/news082.html",
+      "published": "2026-02-27 07:52:00+09:00",
+      "summary": "Googleは最新の画像生成AI「Nano Banana 2」を発表した。「Gemini 3.1 Flash」の知能を活用し、Web検索と連動した正確な図解生成や高度なテキスト描画が可能。従来は有料版限定だった機能が無料ユーザーにも開放され、4K解像度や最大14のオブジェクト制御に対応する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "Read AI launches an email-based ‘digital twin’ to help you with schedules and answers",
+      "link": "https://techcrunch.com/2026/02/26/read-ai-launches-an-email-based-digital-twin-to-help-you-with-schedules-and-answers/",
+      "published": "2026-02-27 02:00:00+09:00",
+      "summary": "Read AI is launching Ada, which can reply with your availability and extract answers from the company knowledge base and the web.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Google launches Nano Banana 2 model with faster image generation",
+      "link": "https://techcrunch.com/2026/02/26/google-launches-nano-banana-2-model-with-faster-image-generation/",
+      "published": "2026-02-27 01:00:00+09:00",
+      "summary": "Google is making Nano Banana 2 a default model in Gemini app and in AI mode.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "ソフトバンク子会社のAI企業、NICTと共同研究　“安全なAI”実現へ",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2602/26/news119.html",
+      "published": "2026-02-26 15:47:00+09:00",
+      "summary": "ソフトバンクの子会社でAIを研究開発するSB Intuitionsは、情報通信研究機構（NICT）とAIに関する共同研究を始めたと発表した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "声優の梶裕貴さんが独立　新会社立ち上げ、音声AIプロジェクト「そよぎフラクタル」に注力",
+      "link": "https://www.itmedia.co.jp/news/articles/2602/26/news113.html",
+      "published": "2026-02-26 14:51:00+09:00",
+      "summary": "声優の梶裕貴さんが所属事務所のヴィムス（東京都渋谷区）から独立し、新会社を立ち上げると発表した。4月8日までヴィムスで活動し、9日からは新会社の代表取締役として、以前から取り組んでいる音声AIプロジェクト「そよぎフラクタル」に関する活動に注力するという。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
