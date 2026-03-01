@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "OpenAI’s Sam Altman announces Pentagon deal with ‘technical safeguards’",
+    "link": "https://techcrunch.com/2026/02/28/openais-sam-altman-announces-pentagon-deal-with-technical-safeguards/",
+    "published": "2026-03-01 01:17:36+09:00",
+    "summary": "OpenAI's CEO claims its new defense contract includes protections addressing the same issues that became a flashpoint for Anthropic.",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "OpenAI’s Sam Altman announces Pentagon deal with ‘technical safeguards’",
+    "summary": "OpenAI's CEO claims its new defense contract includes protections addressing the same issues that became a flashpoint for Anthropic.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "OpenAI’s Sam Altman announces Pentagon deal with ‘technical safeguards’",
+      "link": "https://techcrunch.com/2026/02/28/openais-sam-altman-announces-pentagon-deal-with-technical-safeguards/",
+      "published": "2026-03-01 01:17:36+09:00",
+      "summary": "OpenAI's CEO claims its new defense contract includes protections addressing the same issues that became a flashpoint for Anthropic.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "OpenAI、米国防総省とAI導入で合意　Anthropicへの強硬措置の沈静化を要請",
+      "link": "https://www.itmedia.co.jp/news/articles/2603/01/news019.html",
+      "published": "2026-03-01 07:16:00+09:00",
+      "summary": "OpenAIは、米国防総省（DoW）の機密網へのAI導入で合意した。トランプ政権が安全策撤廃を拒むAnthropicの排除を決めた直後の発表だ。OpenAIは「クラウド限定運用」や「保護条項」の明文化により、自律型兵器への転用を防ぐ多層的な安全網を維持。政府の強硬姿勢を軟化させ、業界全体の合理的な合意を目指す姿勢を示した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "OpenAI、17兆円超の資金調達　Amazon、NVIDIA、SBGが出資",
+      "link": "https://www.itmedia.co.jp/news/articles/2602/28/news035.html",
+      "published": "2026-02-28 18:50:00+09:00",
+      "summary": "OpenAIは、企業価値7300億ドルの評価に基づき、総額1100億ドルの資金調達を発表した。Amazon、NVIDIA、ソフトバンクGが参画。Amazonとは戦略的提携を結び、AWS上で記憶を保持するAIエージェント基盤「Stateful Runtime」を共同構築する。Amazon独自チップの活用も進め、計5GWに及ぶ計算資源を確保する計画だ。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "The trap Anthropic built for itself",
+      "link": "https://techcrunch.com/2026/02/28/the-trap-anthropic-built-for-itself/",
+      "published": "2026-03-01 09:08:58+09:00",
+      "summary": "Anthropic, OpenAI, Google DeepMind and others have long promised to govern themselves responsibly. Now, in the absence of rules, there's not a lot to protect them.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Anthropic’s Claude rises to No. 2 in the App Store following Pentagon dispute",
+      "link": "https://techcrunch.com/2026/02/28/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/",
+      "published": "2026-03-01 06:05:06+09:00",
+      "summary": "Anthropic’s chatbot Claude seems to have benefited from the attention around the company’s fraught negotiations with the Pentagon.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
