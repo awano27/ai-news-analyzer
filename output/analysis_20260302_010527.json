@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Google looks to tackle longstanding RCS spam in India — but not alone",
+    "link": "https://techcrunch.com/2026/03/01/google-looks-to-tackle-longstanding-rcs-spam-in-india-but-not-alone/",
+    "published": "2026-03-02 02:30:00+09:00",
+    "summary": "Google is integrating carrier-level filtering into RCS in India through a partnership with Airtel to strengthen protections against spam.",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 0
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Google looks to tackle longstanding RCS spam in India — but not alone",
+    "summary": "Google is integrating carrier-level filtering into RCS in India through a partnership with Airtel to strengthen protections against spam.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 0,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Google looks to tackle longstanding RCS spam in India — but not alone",
+      "link": "https://techcrunch.com/2026/03/01/google-looks-to-tackle-longstanding-rcs-spam-in-india-but-not-alone/",
+      "published": "2026-03-02 02:30:00+09:00",
+      "summary": "Google is integrating carrier-level filtering into RCS in India through a partnership with Airtel to strengthen protections against spam.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "OpenAI reveals more details about its agreement with the Pentagon",
+      "link": "https://techcrunch.com/2026/03/01/openai-shares-more-details-about-its-agreement-with-the-pentagon/",
+      "published": "2026-03-02 01:30:10+09:00",
+      "summary": "By CEO Sam Altman’s own admission, OpenAI’s deal with the Department of Defense was “definitely rushed,” and “the optics don’t look good.”",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Anthropic’s Claude rises to No. 1 in the App Store following Pentagon dispute",
+      "link": "https://techcrunch.com/2026/03/01/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/",
+      "published": "2026-03-01 23:48:58+09:00",
+      "summary": "Anthropic’s chatbot Claude seems to have benefited from the attention around the company’s fraught negotiations with the Pentagon.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "米軍のイラン攻撃に「Claude」が使われたことが判明　トランプ大統領による「使用停止命令」後",
+      "link": "https://www.itmedia.co.jp/news/articles/2603/02/news064.html",
+      "published": "2026-03-02 08:16:00+09:00",
+      "summary": "トランプ大統領が国防総省にAnthropic製品の使用停止を命じた直後、米軍がイラン攻撃で同社のAI「Claude」を使用したことが判明した。安全策撤廃を巡る対立で同社が「サプライチェーンリスク」に指定され排除が決定的となる中、現場では依然としてAIが実戦投入される状況が浮き彫りとなった。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Gemini 3.1 Pro登場　思考モデルから実務エージェントへ、複雑タスクを完遂するAIに進化",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2603/02/news016.html",
+      "published": "2026-03-02 05:00:00+09:00",
+      "summary": "思考力の強化に加え、エージェント実行能力を大きく押し上げたGemini 3.1 Pro。本稿では主要ベンチマークや機能改善を整理しつつ、「考えるAI」から「働くAI」へと進むモデル進化の方向性を、開発者視点のコメントとともに読み解く。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
