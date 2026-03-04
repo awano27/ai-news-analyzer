@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "OpenAI、不自然な回答やお節介な前置きを排した「GPT-5.3 Instant」公開",
+    "link": "https://www.itmedia.co.jp/aiplus/articles/2603/04/news084.html",
+    "published": "2026-03-04 09:11:00+09:00",
+    "summary": "OpenAIは、より自然で正確な回答を実現した「GPT-5.3 Instant」をリリースした。AI特有の「説教じみた前置き」や不要な拒否を大幅に削減し、ユーザーの意図に即した直接的な回答が可能になったとしている。Web検索併用時のハルシネーションも約27％減少。一方で日本語などの非英語圏ではトーンが不自然になる制限事項も残る。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 4
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "OpenAI、不自然な回答やお節介な前置きを排した「GPT-5.3 Instant」公開",
+    "summary": "OpenAIは、より自然で正確な回答を実現した「GPT-5.3 Instant」をリリースした。AI特有の「説教じみた前置き」や不要な拒否を大幅に削減し、ユーザーの意図に即した直接的な回答が可能になったとしている。Web検索併用時のハルシネーションも約27％減少。一方で日本語などの非英語圏ではトーンが不自然になる制限事項も残る。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 4,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "OpenAI、不自然な回答やお節介な前置きを排した「GPT-5.3 Instant」公開",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2603/04/news084.html",
+      "published": "2026-03-04 09:11:00+09:00",
+      "summary": "OpenAIは、より自然で正確な回答を実現した「GPT-5.3 Instant」をリリースした。AI特有の「説教じみた前置き」や不要な拒否を大幅に削減し、ユーザーの意図に即した直接的な回答が可能になったとしている。Web検索併用時のハルシネーションも約27％減少。一方で日本語などの非英語圏ではトーンが不自然になる制限事項も残る。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "Google、推論の深さを制御する「thinking levels」搭載の「Gemini 3.1 Flash-Lite」リリース",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2603/04/news080.html",
+      "published": "2026-03-04 07:50:00+09:00",
+      "summary": "Googleは、Gemini 3シリーズ最速の「Gemini 3.1 Flash-Lite」をリリースした。「Gemini 2.5 Flash」と比較して出力が2.5倍高速化し、ベンチマークでもそれを上回る性能を達成。タスクに応じた推論の深さを制御できる「thinking levels」も搭載し、大量翻訳から高度なSaaSエージェントまで幅広い用途に対応するとしている。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Claudeの世界規模の障害は“成長痛”？　その原因を読み解く",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2603/04/news041.html",
+      "published": "2026-03-04 07:30:00+09:00",
+      "summary": "Anthropicは2026年3月2日、Claudeの主要なプラットフォームで世界規模の障害が発生したと発表。APIや開発用ツール、最新モデルのOpus 4.6などに広範囲に波及した。生成AIの可用性とインフラ冗長化の重要性があらためて問われている。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "AIをよく使う社員ほど「残業が長い」――原因と対策は？　専門家が語る“効率化のわな”",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2603/03/news143.html",
+      "published": "2026-03-03 18:31:00+09:00",
+      "summary": "AIのヘビーユーザーほど残業時間が長い――パーソルホールディングス傘下のパーソル総合研究所は、生成AIと正規雇用者の働き方に関する実態について、このような調査結果を発表した。その原因と対策を、同社の田村元樹研究員が解説した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "“米国のAI覇権”に終止符？　「中国AI」の台頭が突き付ける日本企業への3つの問い",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2603/03/news031.html",
+      "published": "2026-03-03 12:00:00+09:00",
+      "summary": "中国のAI企業が相次いで新たなAIモデルを公開した。「中国AI」の台頭は何を意味するのか。動向とともに解説する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
