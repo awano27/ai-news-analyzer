@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "さくら、「AI検定」を開始　基礎を学べる教材も無料公開",
+    "link": "https://www.itmedia.co.jp/aiplus/articles/2603/04/news111.html",
+    "published": "2026-03-04 13:08:00+09:00",
+    "summary": "さくらインターネットは、独自検定「さくらのAI検定」を始めると発表した。AIの基礎や同社が提供するAIサービスの知識などを学べるという。同検定向けの教材も無料で公開している。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 4
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "さくら、「AI検定」を開始　基礎を学べる教材も無料公開",
+    "summary": "さくらインターネットは、独自検定「さくらのAI検定」を始めると発表した。AIの基礎や同社が提供するAIサービスの知識などを学べるという。同検定向けの教材も無料で公開している。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 4,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "さくら、「AI検定」を開始　基礎を学べる教材も無料公開",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2603/04/news111.html",
+      "published": "2026-03-04 13:08:00+09:00",
+      "summary": "さくらインターネットは、独自検定「さくらのAI検定」を始めると発表した。AIの基礎や同社が提供するAIサービスの知識などを学べるという。同検定向けの教材も無料で公開している。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "攻撃はもう外から来ない？　2300億件の脅威観測から見えた事実",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2603/05/news037.html",
+      "published": "2026-03-05 08:46:00+09:00",
+      "summary": "Cloudflareはグローバル脅威レポートを発表した。サイバー攻撃手法の進化や攻撃者によるAI活用の実態を詳細に分析している。攻撃トレンドの変化に伴い、従来の防御手法が限界を迎えていることを指摘し、戦略の転換を推奨している。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Anthropic CEO Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies,’ report says",
+      "link": "https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/",
+      "published": "2026-03-05 07:40:05+09:00",
+      "summary": "Anthropic gave up its contract with the Pentagon over AI safety disagreements -- then, OpenAI swooped in.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Apple Music to add Transparency Tags to distinguish AI music, says report",
+      "link": "https://techcrunch.com/2026/03/04/apple-music-to-add-transparency-tags-to-distinguish-ai-music-says-report/",
+      "published": "2026-03-05 06:43:58+09:00",
+      "summary": "The label or distributor has to opt in to tagging their music as AI, so it's unclear how effective this intervention will be.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Google Search rolls out Gemini’s Canvas in AI Mode to all US users",
+      "link": "https://techcrunch.com/2026/03/04/https-techcrunch-com-2026-03-04-google-search-rolls-out-geminis-canvas-in-ai-mode-to-all-us-users/",
+      "published": "2026-03-05 03:50:58+09:00",
+      "summary": "Canvas in AI Mode is available to U.S. users in English for creating plans, projects, apps, and more.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
