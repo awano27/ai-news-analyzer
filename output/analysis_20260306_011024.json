@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "OpenAI、「Codex」のWindows版もリリース",
+    "link": "https://www.itmedia.co.jp/aiplus/articles/2603/05/news063.html",
+    "published": "2026-03-05 10:26:00+09:00",
+    "summary": "OpenAIは、AIエージェントを統合管理できる開発者向けデスクトップ環境「Codex」アプリのWindows版を公開した。macOS版は2月にリリース済みだ。複数のエージェントをGUI上で並列稼働させ、複雑な開発タスクを指揮できるのが特徴。ChatGPTの各プランで利用可能で、OSをまたいだ作業の同期にも対応する。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 4
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "OpenAI、「Codex」のWindows版もリリース",
+    "summary": "OpenAIは、AIエージェントを統合管理できる開発者向けデスクトップ環境「Codex」アプリのWindows版を公開した。macOS版は2月にリリース済みだ。複数のエージェントをGUI上で並列稼働させ、複雑な開発タスクを指揮できるのが特徴。ChatGPTの各プランで利用可能で、OSをまたいだ作業の同期にも対応する。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 4,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "OpenAI、「Codex」のWindows版もリリース",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2603/05/news063.html",
+      "published": "2026-03-05 10:26:00+09:00",
+      "summary": "OpenAIは、AIエージェントを統合管理できる開発者向けデスクトップ環境「Codex」アプリのWindows版を公開した。macOS版は2月にリリース済みだ。複数のエージェントをGUI上で並列稼働させ、複雑な開発タスクを指揮できるのが特徴。ChatGPTの各プランで利用可能で、OSをまたいだ作業の同期にも対応する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "AWS launches a new AI agent platform specifically for healthcare",
+      "link": "https://techcrunch.com/2026/03/05/aws-amazon-connect-health-ai-agent-platform-health-care-providers/",
+      "published": "2026-03-06 06:54:37+09:00",
+      "summary": "AWS is launching Amazon Connect Health, an AI agent platform that will help with patient scheduling, documentation, and patient verification.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "EXCLUSIVE: Luma launches creative AI agents powered by its new ‘Unified Intelligence’ models",
+      "link": "https://techcrunch.com/2026/03/05/exclusive-luma-launches-creative-ai-agents-powered-by-its-new-unified-intelligence-models/",
+      "published": "2026-03-06 03:11:36+09:00",
+      "summary": "Luma introduced Luma Agents, powered by its new “Unified Intelligence” models, designed to coordinate multiple AI systems and generate end-to-end creative work across text, images, video and audio.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "OpenAI launches GPT-5.4 with Pro and Thinking versions",
+      "link": "https://techcrunch.com/2026/03/05/openai-launches-gpt-5-4-with-pro-and-thinking-versions/",
+      "published": "2026-03-06 03:00:15+09:00",
+      "summary": "GPT-5.4 is billed as \"our most capable and efficient frontier model for professional work.\"",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Anthropic、AIの労働市場インパクトを測る新指標　プログラマーは75％、清掃員は0％",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2603/06/news076.html",
+      "published": "2026-03-06 09:00:00+09:00",
+      "summary": "Anthropicは、AIが労働市場に与える影響を測定する新指標を発表した。理論上の能力だけでなく、実際のClaude利用データを組み合わせた「実測露出度」を用いているのが特徴だ。プログラマーなどの職種で影響が高い一方、肉体労働への影響は限定的。現時点で失業率の構造的な上昇は見られないが、政策対応のための早期警告として活用を目指す。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
