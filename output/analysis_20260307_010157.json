@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "AIの常時稼働によるトラフィック激増にどう対応するか　NEC・東大・NTTが技術を結集",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2603/07/news016.html",
+    "published": "2026-03-07 08:00:00+09:00",
+    "summary": "NECと東京大学、NTTは、6G/IOWN基盤でAIエージェント向け技術を統合したと発表した。大容量データの通信と計算を効率化し、リアルタイムAR支援の実証で遅延抑制と精度維持を確認した。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "AIの常時稼働によるトラフィック激増にどう対応するか　NEC・東大・NTTが技術を結集",
+    "summary": "NECと東京大学、NTTは、6G/IOWN基盤でAIエージェント向け技術を統合したと発表した。大容量データの通信と計算を効率化し、リアルタイムAR支援の実証で遅延抑制と精度維持を確認した。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "AIの常時稼働によるトラフィック激増にどう対応するか　NEC・東大・NTTが技術を結集",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2603/07/news016.html",
+      "published": "2026-03-07 08:00:00+09:00",
+      "summary": "NECと東京大学、NTTは、6G/IOWN基盤でAIエージェント向け技術を統合したと発表した。大容量データの通信と計算を効率化し、リアルタイムAR支援の実証で遅延抑制と精度維持を確認した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "米国防総省、Anthropicを「サプライチェーンリスク」に正式指定　法廷で争うとアモデイCEO",
+      "link": "https://www.itmedia.co.jp/news/articles/2603/07/news030.html",
+      "published": "2026-03-07 07:46:00+09:00",
+      "summary": "Anthropicのダリオ・アモデイCEOは、米国防総省から「サプライチェーンリスク」認定書簡を受け取ったと発表した。監視や自律型兵器へのAI利用制限を巡り交渉が膠着し、実質的な取引排除処分を受けた形だ。アモデイ氏は、この認定が法的に不当だとし、法廷で争う姿勢を改めて示した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "“政府認定AI”選定へ　デジタル庁、国産7モデルを検証　全府省庁18万人に展開",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2603/06/news097.html",
+      "published": "2026-03-06 13:26:00+09:00",
+      "summary": "デジタル庁は3月6日、政府調達を前提に、生成AIプラットフォーム「源内」で試用する国産LLM（大規模言語モデル）を発表した。NTTグループの「tsuzumi 2」、ソフトバンクの「Sarashina2 mini」など7モデルを選定。5月から2027年3月にかけて、これらの利用を前提に、源内を全府省庁の職員約18万人に展開。実用性を検証していく。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "GMOとPFNが資本提携、合弁会社を設立　「国産AI環境」提供へ",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2603/06/news085.html",
+      "published": "2026-03-06 12:19:00+09:00",
+      "summary": "Preferred Networksは、GMOインターネットグループと同社傘下のGMOサイバーセキュリティ byイエラエと資本業務提携し、合弁会社「GMO Preferred Security」を設立したと発表した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Microsoft, Google, Amazon say Anthropic Claude remains available to non-defense customers",
+      "link": "https://techcrunch.com/2026/03/06/microsoft-anthropic-claude-remains-available-to-customers-except-the-defense-department/",
+      "published": "2026-03-07 04:50:10+09:00",
+      "summary": "Trump's Department of War feud with Anthropic won't impact other companies that are using Claude via Microsoft and Google products.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
