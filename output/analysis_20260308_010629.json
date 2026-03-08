@@ -1,0 +1,53 @@
+{
+  "article": {
+    "title": "Google just gave Sundar Pichai a $692M pay package",
+    "link": "https://techcrunch.com/2026/03/07/google-just-gave-sundar-pichai-a-692m-pay-package/",
+    "published": "2026-03-08 09:20:10+09:00",
+    "summary": "Most of it is tied to performance, including new stock incentives linked to Waymo and Wing, its drone delivery venture.",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 0
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Google just gave Sundar Pichai a $692M pay package",
+    "summary": "Most of it is tied to performance, including new stock incentives linked to Waymo and Wing, its drone delivery venture.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 0,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Google just gave Sundar Pichai a $692M pay package",
+      "link": "https://techcrunch.com/2026/03/07/google-just-gave-sundar-pichai-a-692m-pay-package/",
+      "published": "2026-03-08 09:20:10+09:00",
+      "summary": "Most of it is tied to performance, including new stock incentives linked to Waymo and Wing, its drone delivery venture.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "OpenAI robotics lead Caitlin Kalinowski quits in response to Pentagon deal",
+      "link": "https://techcrunch.com/2026/03/07/openai-robotics-lead-caitlin-kalinowski-quits-in-response-to-pentagon-deal/",
+      "published": "2026-03-08 05:44:25+09:00",
+      "summary": "Hardware executive Caitlin Kalinowski announced today that in response to OpenAI's controversial agreement with the Department of Defense, she’s resigned from her role leading the company's robotics team.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "OpenAI delays ChatGPT’s ‘adult mode’ again",
+      "link": "https://techcrunch.com/2026/03/07/openai-delays-chatgpts-adult-mode-again/",
+      "published": "2026-03-08 02:28:41+09:00",
+      "summary": "The feature, which will give verified adult users access to erotica and other adult content, had already been delayed from December.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
