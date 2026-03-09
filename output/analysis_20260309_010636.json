@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "さくらインターネット「さくらのAI検定」を創設　教材も無料公開",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2603/08/news016.html",
+    "published": "2026-03-09 08:00:00+09:00",
+    "summary": "さくらインターネットはAIの基礎から実践まで学べる「さくらのAI検定」を創設した。生成AI普及を背景に国内企業で専門人材不足が続く状況を踏まえ、AIサービス選択や安全な活用力を持つ人材育成を狙う。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "さくらインターネット「さくらのAI検定」を創設　教材も無料公開",
+    "summary": "さくらインターネットはAIの基礎から実践まで学べる「さくらのAI検定」を創設した。生成AI普及を背景に国内企業で専門人材不足が続く状況を踏まえ、AIサービス選択や安全な活用力を持つ人材育成を狙う。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "さくらインターネット「さくらのAI検定」を創設　教材も無料公開",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2603/08/news016.html",
+      "published": "2026-03-09 08:00:00+09:00",
+      "summary": "さくらインターネットはAIの基礎から実践まで学べる「さくらのAI検定」を創設した。生成AI普及を背景に国内企業で専門人材不足が続く状況を踏まえ、AIサービス選択や安全な活用力を持つ人材育成を狙う。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Will the Pentagon’s Anthropic controversy scare startups away from defense work?",
+      "link": "https://techcrunch.com/2026/03/08/will-the-pentagons-anthropic-controversy-scare-startups-away-from-defense-work/",
+      "published": "2026-03-09 05:14:42+09:00",
+      "summary": "On the latest episode of TechCrunch’s Equity podcast, we discussed what the controversy means for other startups seeking to work with the federal government.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Owner of ICE detention facility sees big opportunity in AI man camps",
+      "link": "https://techcrunch.com/2026/03/08/owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps/",
+      "published": "2026-03-09 01:30:00+09:00",
+      "summary": "AI data center developers are increasingly relying on a style of camp popularized as housing for men working in remote oil fields.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "A roadmap for AI, if anyone will listen",
+      "link": "https://techcrunch.com/2026/03/07/a-roadmap-for-ai-if-anyone-will-listen/",
+      "published": "2026-03-08 15:05:26+09:00",
+      "summary": "The Pro-Human Declaration was finalized before last week's Pentagon-Anthropic standoff, but the collision of the two events wasn’t lost on anyone involved.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "日本人「旅行離れ」の根本原因　インバウンド高騰で泊まれない実態と「AIの限界」",
+      "link": "https://www.itmedia.co.jp/business/articles/2603/09/news016.html",
+      "published": "2026-03-09 07:00:00+09:00",
+      "summary": "かつての「安価な団体ツアー」が崩壊した今、旅行業界は誰をターゲットにし、どんな付加価値を提供すべきなのか。各社のデータと予測トレンドから、2026年の旅行ビジネスにおける勝ち筋を分析する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
