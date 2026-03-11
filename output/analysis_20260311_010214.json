@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Amazon launches its healthcare AI assistant on its website and app",
+    "link": "https://techcrunch.com/2026/03/10/amazon-launches-its-healthcare-ai-assistant-on-its-website-and-app/",
+    "published": "2026-03-11 05:10:06+09:00",
+    "summary": "Health AI can answer questions, explain health records, manage prescription renewals, book appointments, and more.",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Amazon launches its healthcare AI assistant on its website and app",
+    "summary": "Health AI can answer questions, explain health records, manage prescription renewals, book appointments, and more.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Amazon launches its healthcare AI assistant on its website and app",
+      "link": "https://techcrunch.com/2026/03/10/amazon-launches-its-healthcare-ai-assistant-on-its-website-and-app/",
+      "published": "2026-03-11 05:10:06+09:00",
+      "summary": "Health AI can answer questions, explain health records, manage prescription renewals, book appointments, and more.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Google、WorkspaceにGeminiを深く統合　アプリ横断のAI活用が可能に",
+      "link": "https://www.itmedia.co.jp/news/articles/2603/11/news059.html",
+      "published": "2026-03-11 08:38:00+09:00",
+      "summary": "Googleは、Gemini AIをWorkspaceの各アプリに深く統合した新機能を発表した。ドキュメントやスプレッドシート等で、メールやファイルを横断的に参照したコンテンツ作成や情報検索が可能になる。法人向けテスト参加者や特定の有料プランユーザーを対象に英語圏から順次展開され、数カ月以内に一般提供される予定だ。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "もはやAIは内部脅威？　企業の73％が「最大リスク」と回答",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2603/11/news039.html",
+      "published": "2026-03-11 08:00:00+09:00",
+      "summary": "タレスDISジャパンはデータセキュリティの現状を分析した「タレス2026年データ脅威レポート」を発表した。調査によると、企業の73％が「AIをデータセキュリティ上の最大リスク」と回答したという。ではこれにどう対策すればいいか。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "JR東、故障の復旧にAIとドローン活用　運転再開までの時間「3割減」へ",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2603/10/news125.html",
+      "published": "2026-03-10 18:33:00+09:00",
+      "summary": "JR東日本は、鉄道設備の故障の復旧にAIとドローンを活用すると発表した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "ヤン・ルカン率いるAI新興、1600億円超を調達　NVIDIAやトヨタなどが支援　「世界モデル」開発へ",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2603/10/news109.html",
+      "published": "2026-03-10 16:09:00+09:00",
+      "summary": "AI研究者として知られるヤン・ルカン氏が率いるAIスタートアップの仏Advanced Machine Intelligence（AMI）は、10億3000万ドル（1617億1000万円）を調達したと発表した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
