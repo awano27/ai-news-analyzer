@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Meta、自社製AIチップ「MTIA」新モデルと次世代データセンター構想発表",
+    "link": "https://www.itmedia.co.jp/news/articles/2603/12/news068.html",
+    "published": "2026-03-12 08:46:00+09:00",
+    "summary": "Metaは、AI関連タスクに特化した自社製カスタムチップ「MTIA」シリーズの最新4モデルを公開した。推論処理の最適化とコスト削減を狙い、開発サイクルを大幅に短縮。並行して、NVIDIA製GPUを大量投入した巨大クラスタの構築や、将来的な5GW規模の超巨大データセンター「Hyperion」の稼働計画も進めている。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 4
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Meta、自社製AIチップ「MTIA」新モデルと次世代データセンター構想発表",
+    "summary": "Metaは、AI関連タスクに特化した自社製カスタムチップ「MTIA」シリーズの最新4モデルを公開した。推論処理の最適化とコスト削減を狙い、開発サイクルを大幅に短縮。並行して、NVIDIA製GPUを大量投入した巨大クラスタの構築や、将来的な5GW規模の超巨大データセンター「Hyperion」の稼働計画も進めている。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 4,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Meta、自社製AIチップ「MTIA」新モデルと次世代データセンター構想発表",
+      "link": "https://www.itmedia.co.jp/news/articles/2603/12/news068.html",
+      "published": "2026-03-12 08:46:00+09:00",
+      "summary": "Metaは、AI関連タスクに特化した自社製カスタムチップ「MTIA」シリーズの最新4モデルを公開した。推論処理の最適化とコスト削減を狙い、開発サイクルを大幅に短縮。並行して、NVIDIA製GPUを大量投入した巨大クラスタの構築や、将来的な5GW規模の超巨大データセンター「Hyperion」の稼働計画も進めている。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "M365版「Cowork」登場　Anthropicとの連携が生んだ「新しい仕事の進め方」",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2603/12/news045.html",
+      "published": "2026-03-12 08:00:00+09:00",
+      "summary": "「Microsoft 365 Copilot」の新機能「Copilot Cowork」が発表された。AIが各アプリを横断して業務を遂行する。機能の詳細とユースケースについて解説する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Anthropic、AIリスク専門のシンクタンク設立──米政府の規制リスクに直面する中で",
+      "link": "https://www.itmedia.co.jp/news/articles/2603/12/news066.html",
+      "published": "2026-03-12 07:43:00+09:00",
+      "summary": "Anthropicは、AIの社会的影響を研究する新部門「Anthropic Institute」を設立した。高度なAIがもたらす経済や雇用へのリスクを分析し、政府の政策決定を支援するシンクタンクとして機能する。ワシントンD.C.にも拠点を設け、サプライチェーンリスク指定を巡る議論が深まる中、情報の公開と外部連携を強化する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "都営バスの「AI翻訳透明ディスプレイ」実証再開　強度不足での破損経て約2カ月ぶり",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2603/11/news115.html",
+      "published": "2026-03-11 18:45:00+09:00",
+      "summary": "東京都は3月11日、音声認識した内容を翻訳して表示する「AI翻訳透明ディスプレイ」の都営バスへの試験導入を再開すると発表した。1月15日から浅草エリアのバス路線で試験導入を始めたものの、強度不足により機器が破損したため、18日から一時中断していた。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "YouTube、政治家の“AIフェイク動画”対策を強化　自動検出機能の提供拡大",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2603/11/news077.html",
+      "published": "2026-03-11 12:00:00+09:00",
+      "summary": "米Google傘下のYouTubeは、生成AIによる偽動画を検出する機能を、一部の政治家やジャーナリストに試験提供すると発表した。自身の顔に似た顔が映るAI動画を検知し、YouTubeのガイドラインに違反している場合は削除を要請できる。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
