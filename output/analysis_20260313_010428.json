@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Anthropic、「Claude」で表や図のインライン表示をβ公開　無料版でも",
+    "link": "https://www.itmedia.co.jp/aiplus/articles/2603/13/news068.html",
+    "published": "2026-03-13 08:02:00+09:00",
+    "summary": "Anthropicは、Claudeのチャット回答内で表や図、画像をインライン生成する機能をβ版として導入した。2025年9月に公開された「Imagine with Claude」がベースで、全ユーザーが利用可能。プロンプトに応じてAIが視覚化の必要性を判断する。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Anthropic、「Claude」で表や図のインライン表示をβ公開　無料版でも",
+    "summary": "Anthropicは、Claudeのチャット回答内で表や図、画像をインライン生成する機能をβ版として導入した。2025年9月に公開された「Imagine with Claude」がベースで、全ユーザーが利用可能。プロンプトに応じてAIが視覚化の必要性を判断する。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Anthropic、「Claude」で表や図のインライン表示をβ公開　無料版でも",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2603/13/news068.html",
+      "published": "2026-03-13 08:02:00+09:00",
+      "summary": "Anthropicは、Claudeのチャット回答内で表や図、画像をインライン生成する機能をβ版として導入した。2025年9月に公開された「Imagine with Claude」がベースで、全ユーザーが利用可能。プロンプトに応じてAIが視覚化の必要性を判断する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Microsoft 365の新プラン「E7」は“AI盛り盛り”で99ドル　E5にはない魅力は？",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2603/12/news096.html",
+      "published": "2026-03-13 08:00:00+09:00",
+      "summary": "AIとエージェント運用を統合したMicrosoft 365の新プラン「Microsoft 365 E7」が発表された。Copilotや管理基盤を統合し、業務全般でのAI利用とIT部門による統制を両立する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "VS Codeの安定版が毎週リリースへ　第1弾のバージョン1.111ではAIエージェント運用を強化",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2603/13/news023.html",
+      "published": "2026-03-13 05:00:00+09:00",
+      "summary": "Visual Studio Codeの安定版が毎週リリースへ移行した。その第1弾となるバージョン1.111では、AIエージェントの自律実行や権限管理、デバッグ支援などが強化されている。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "How to watch Jensen Huang’s Nvidia GTC 2026 keynote",
+      "link": "https://techcrunch.com/2026/03/12/how-to-watch-jensen-huangs-nvidia-gtc-2026-keynote/",
+      "published": "2026-03-13 08:25:39+09:00",
+      "summary": "Nvidia kicks off its GTC conference with Huang's keynote on Monday, which can be watched in person or via livestream.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Sales automation startup Rox AI hits $1.2B valuation, sources say",
+      "link": "https://techcrunch.com/2026/03/12/sales-automation-startup-rox-ai-hits-1-2b-valuation-sources-say/",
+      "published": "2026-03-13 07:25:50+09:00",
+      "summary": "Rox, founded in 2024 by the former chief growth officer of New Relic, offers an AI-native alternative to CRM tools.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
