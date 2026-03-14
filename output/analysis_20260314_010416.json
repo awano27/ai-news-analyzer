@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "AIボットの猛攻でソーシャルニュースサイトDiggが再起動2カ月後に「ハードリセット」",
+    "link": "https://www.itmedia.co.jp/news/articles/2603/14/news025.html",
+    "published": "2026-03-14 08:15:00+09:00",
+    "summary": "ソーシャルニュースサイトのDiggは、サイトを一時停止すると発表した。1月のオープンベータ公開から約2カ月での決断となる。原因はAIボットによる大量のスパム投稿で、人間によるコミュニティの信頼維持が困難になったためとしている。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 4
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "AIボットの猛攻でソーシャルニュースサイトDiggが再起動2カ月後に「ハードリセット」",
+    "summary": "ソーシャルニュースサイトのDiggは、サイトを一時停止すると発表した。1月のオープンベータ公開から約2カ月での決断となる。原因はAIボットによる大量のスパム投稿で、人間によるコミュニティの信頼維持が困難になったためとしている。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 4,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "AIボットの猛攻でソーシャルニュースサイトDiggが再起動2カ月後に「ハードリセット」",
+      "link": "https://www.itmedia.co.jp/news/articles/2603/14/news025.html",
+      "published": "2026-03-14 08:15:00+09:00",
+      "summary": "ソーシャルニュースサイトのDiggは、サイトを一時停止すると発表した。1月のオープンベータ公開から約2カ月での決断となる。原因はAIボットによる大量のスパム投稿で、人間によるコミュニティの信頼維持が困難になったためとしている。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "The wild six weeks for NanoClaw’s creator that led to a deal with Docker",
+      "link": "https://techcrunch.com/2026/03/13/the-wild-six-weeks-for-nanoclaws-creator-that-led-to-a-deal-with-docker/",
+      "published": "2026-03-14 02:09:59+09:00",
+      "summary": "Gavriel Cohen is living an open source developer's dream as his project has achieved acclaim and a partnership with Docker in a matter of weeks.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "AIによるbot通信の8割がクローラー　Metaが過半数を占める実態",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2603/14/news013.html",
+      "published": "2026-03-14 08:00:00+09:00",
+      "summary": "FastlyはAIによるbot通信の実態を分析したレポートを発表した。通信の約8割をクローラーが占め、Metaが過半を生成していると判明した。高頻度アクセスによるサーバ負荷や、bot識別の難しさが課題となっている。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "ホンダ、慶大・阪大とAI開発の協働研究所　人材育成を加速",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2603/13/news108.html",
+      "published": "2026-03-13 18:53:00+09:00",
+      "summary": "本田技研工業は、慶應義塾大学および大阪大学とAI開発で産学連携するプロジェクト「BRIDGE」（ブリッジ）を始めると発表した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "“AI養老孟司”が客員教授に就任　本人とともに　東京工科大",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2603/13/news093.html",
+      "published": "2026-03-13 15:26:00+09:00",
+      "summary": "東京工科大学は、養老孟司氏と同氏を模したAIアバター「AI養老先生」がともに客員教授に就任したと発表した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
