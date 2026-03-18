@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "OpenAI、「GPT-5.4」の軽量版「mini」と「nano」を公開　無料とGoでも利用可能",
+    "link": "https://www.itmedia.co.jp/aiplus/articles/2603/18/news068.html",
+    "published": "2026-03-18 06:58:00+09:00",
+    "summary": "OpenAIは、最新モデル「GPT-5.4」の軽量版となる「mini」と「nano」を発表した。高い推論能力を維持しつつ、応答速度とコスト効率を最適化したものだ。無料版やGoプランでも利用可能で、開発者向けにはAPIを通じた提供も開始された。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 4
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "OpenAI、「GPT-5.4」の軽量版「mini」と「nano」を公開　無料とGoでも利用可能",
+    "summary": "OpenAIは、最新モデル「GPT-5.4」の軽量版となる「mini」と「nano」を発表した。高い推論能力を維持しつつ、応答速度とコスト効率を最適化したものだ。無料版やGoプランでも利用可能で、開発者向けにはAPIを通じた提供も開始された。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 4,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "OpenAI、「GPT-5.4」の軽量版「mini」と「nano」を公開　無料とGoでも利用可能",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2603/18/news068.html",
+      "published": "2026-03-18 06:58:00+09:00",
+      "summary": "OpenAIは、最新モデル「GPT-5.4」の軽量版となる「mini」と「nano」を発表した。高い推論能力を維持しつつ、応答速度とコスト効率を最適化したものだ。無料版やGoプランでも利用可能で、開発者向けにはAPIを通じた提供も開始された。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "World launches tool to verify humans behind AI shopping agents",
+      "link": "https://techcrunch.com/2026/03/17/world-launches-tool-to-verify-humans-behind-ai-shopping-agents/",
+      "published": "2026-03-18 00:00:00+09:00",
+      "summary": "As AI agents take the reins for online shoppers, Sam Altman's unconventional startup is looking to expand its verification offerings to support agentic commerce.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "強力なAIは「想定より早く実現する」　AIによる重要課題の研究組織「Anthropic Institute」設立",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2603/18/news043.html",
+      "published": "2026-03-18 08:00:00+09:00",
+      "summary": "Anthropicは、高度なAIが社会に与える影響を研究する「Anthropic Institute」を設立した。急速な技術進化に伴う雇用や法制度の課題を分析し、開発者の知見を公開・共有することで、AI時代の適切な統治と社会のレジリエンス向上を目指す。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "富山市、公式キャラ制作に画像生成AI活用　若者向けPRに起用",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2603/17/news114.html",
+      "published": "2026-03-17 18:34:00+09:00",
+      "summary": "富山県富山市が、制作過程に米Adobeの画像生成AIサービス「Adobe Firefly」を活用したオリジナルキャラクター「やまやま」「くすくす」を発表した。若者に市の魅力や親しみやすさを伝えるキャラとして、プロモーションに活用する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "楽天、日本語LLM「Rakuten AI 3.0」公開　商用利用も可能",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2603/17/news085.html",
+      "published": "2026-03-17 13:14:00+09:00",
+      "summary": "楽天グループは、日本語に特化したLLM「Rakuten AI 3.0」を公開した。Hugging Face上で、商用利用もできるライセンス「Apache 2.0」で提供する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
