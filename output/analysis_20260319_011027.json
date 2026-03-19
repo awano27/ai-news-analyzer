@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "The leaderboard “you can’t game,” funded by the companies it ranks",
+    "link": "https://techcrunch.com/video/the-leaderboard-you-cant-game-funded-by-the-companies-it-ranks/",
+    "published": "2026-03-19 01:30:00+09:00",
+    "summary": "Artificial intelligence models are multiplying fast, and competition is stiff. With so many players crowding the space, which one will be the best — and who decides that? Arena, formerly LM Arena, has emerged as the de facto public leaderboard for frontier LLMs, influencing funding, launches, and PR cycles. In just seven months, the startup went from a UC Berkeley PhD research […]",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "The leaderboard “you can’t game,” funded by the companies it ranks",
+    "summary": "Artificial intelligence models are multiplying fast, and competition is stiff. With so many players crowding the space, which one will be the best — and who decides that? Arena, formerly LM Arena, has emerged as the de facto public leaderboard for frontier LLMs, influencing funding, launches, and PR cycles. In just seven months, the startup went from a UC Berkeley PhD research […]",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "The leaderboard “you can’t game,” funded by the companies it ranks",
+      "link": "https://techcrunch.com/video/the-leaderboard-you-cant-game-funded-by-the-companies-it-ranks/",
+      "published": "2026-03-19 01:30:00+09:00",
+      "summary": "Artificial intelligence models are multiplying fast, and competition is stiff. With so many players crowding the space, which one will be the best — and who decides that? Arena, formerly LM Arena, has emerged as the de facto public leaderboard for frontier LLMs, influencing funding, launches, and PR cycles. In just seven months, the startup went from a UC Berkeley PhD research […]",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "The PhD students who became the judges of the AI industry",
+      "link": "https://techcrunch.com/podcast/the-phd-students-who-became-the-judges-of-the-ai-industry/",
+      "published": "2026-03-19 00:00:00+09:00",
+      "summary": "Artificial intelligence models are multiplying fast, and competition is stiff. With so many players crowding the space, which one will be the best — and who decides that? Arena, formerly LM Arena, has emerged as the de facto public leaderboard for frontier LLMs, influencing funding, launches, and PR cycles. In just seven months, the startup went from a UC Berkeley PhD research […]",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "2028年にインシデント対応の5割はAI関連に　ガートナーが予測",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2603/19/news051.html",
+      "published": "2026-03-19 08:00:00+09:00",
+      "summary": "ガートナーは2026年以降のセキュリティの展望として、AI普及によってリスク管理が激変すると発表した。2028年にはインシデント対応の半分がAI関連となり、規制対応の遅れやデータ負債、ID管理が複雑化するという。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "宇宙に本格進出するNVIDIA、軌道データセンター向けの「Vera Rubin」を発表",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2603/19/news063.html",
+      "published": "2026-03-19 07:15:00+09:00",
+      "summary": "NVIDIAはユーザーイベント「GTC 2026」において、最新のAIインフラ基盤「Vera Rubinプラットフォーム」をベースに、宇宙空間をはじめサイズ、重量、電力（SWaP）に制約のある環境向けに開発中の「NVIDIA Space-1 Vera Rubin Module」を発表した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "手のひらサイズAIスパコン「DGX Spark」が4台連結可能に、OpenClawもサクサク動く",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2603/19/news046.html",
+      "published": "2026-03-19 06:45:00+09:00",
+      "summary": "NVIDIAは「GTC 2026」の開催に併せて、超小型デスクトップAIスーパーコンピュータ「DGX Spark」の次期ソフトウェアアップデートについて発表した。これまで2台連結によるスケールアウトが可能だったが、今後は4台連結まで可能になるという。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
