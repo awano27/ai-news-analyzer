@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "初の“長考”できる国産フルスクラッチLLM「PLaMo 3.0 Prime」　Qwen3-235Bやgpt-oss-120bに肉薄　PFN",
+    "link": "https://www.itmedia.co.jp/aiplus/articles/2603/23/news112.html",
+    "published": "2026-03-23 19:20:00+09:00",
+    "summary": "Preferred Networksが既存モデルを下敷きにせず、ゼロベースで構築した大規模言語モデル「PLaMo 3.0 Prime」のβ版をリリースした。中国産モデル「DeepSeek R-1」などの開発手法を参考に、同様の形で開発したモデルとしては国内で初めて、長考によってクオリティーの高い回答（reasoning）が可能な機能を搭載した。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "初の“長考”できる国産フルスクラッチLLM「PLaMo 3.0 Prime」　Qwen3-235Bやgpt-oss-120bに肉薄　PFN",
+    "summary": "Preferred Networksが既存モデルを下敷きにせず、ゼロベースで構築した大規模言語モデル「PLaMo 3.0 Prime」のβ版をリリースした。中国産モデル「DeepSeek R-1」などの開発手法を参考に、同様の形で開発したモデルとしては国内で初めて、長考によってクオリティーの高い回答（reasoning）が可能な機能を搭載した。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "初の“長考”できる国産フルスクラッチLLM「PLaMo 3.0 Prime」　Qwen3-235Bやgpt-oss-120bに肉薄　PFN",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2603/23/news112.html",
+      "published": "2026-03-23 19:20:00+09:00",
+      "summary": "Preferred Networksが既存モデルを下敷きにせず、ゼロベースで構築した大規模言語モデル「PLaMo 3.0 Prime」のβ版をリリースした。中国産モデル「DeepSeek R-1」などの開発手法を参考に、同様の形で開発したモデルとしては国内で初めて、長考によってクオリティーの高い回答（reasoning）が可能な機能を搭載した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "チャッピーは「笑ゥせぇるすまん」？　米国チームが“AIへの悩み相談”に警告　イエスマン化に懸念",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2603/23/news035.html",
+      "published": "2026-03-23 12:00:00+09:00",
+      "summary": "米スタンフォード大学や米カーネギーメロン大学に所属する研究者らは、AIがユーザーに過剰に同調して機嫌をとるイエスマン化のまん延と、それが人間に与える悪影響を実証した研究報告を発表した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "「鳥貴族」のノウハウ、大倉社長のAIアバターが伝授　DXで個別におすすめメニュー提案",
+      "link": "https://www.itmedia.co.jp/news/articles/2603/23/news060.html",
+      "published": "2026-03-23 10:33:00+09:00",
+      "summary": "居酒屋チェーン「鳥貴族」を展開するエターナルホスピタリティグループが、AIや顧客データを活用して事業変革を図るDX（デジタルトランスフォーメーション）戦略を発表した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Air Street becomes one of the largest solo VCs in Europe with $232M fund",
+      "link": "https://techcrunch.com/2026/03/23/air-street-becomes-one-of-the-largest-solo-vcs-in-europe-with-232m-fund/",
+      "published": "2026-03-24 07:36:39+09:00",
+      "summary": "London’s Air Street Capital has raised a large Fund III with eyes locked on backing early-stage European and North American AI companies.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Bernie Sanders’ AI ‘gotcha’ video flops, but the memes are great",
+      "link": "https://techcrunch.com/2026/03/23/bernie-sanders-ai-gotcha-video-flops-but-the-memes-are-great/",
+      "published": "2026-03-24 05:15:59+09:00",
+      "summary": "Sen. Bernie Sanders thinks he's tricked Claude into revealing the AI industry's secrets, but he really just exposed how agreeable chatbots can become.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
