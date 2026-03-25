@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Arm、初の自社開発チップ「AGI CPU」を発表　Metaと共同開発のエージェンティックAI特化CPU",
+    "link": "https://www.itmedia.co.jp/news/articles/2603/25/news067.html",
+    "published": "2026-03-25 07:43:00+09:00",
+    "summary": "Armは、自社初となる独自開発CPU「AGI CPU」を発表した。エージェンティックAIの需要拡大に対応し、高い電力効率と並列処理能力を備える。開発ではMetaが中核的な役割りを担っており、将来的に設計をOCPで公開する予定だ。OpenAIやソシオネクストなど50社以上が支持を表明しており、次世代AIインフラの中核を担うことが期待される。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 4
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Arm、初の自社開発チップ「AGI CPU」を発表　Metaと共同開発のエージェンティックAI特化CPU",
+    "summary": "Armは、自社初となる独自開発CPU「AGI CPU」を発表した。エージェンティックAIの需要拡大に対応し、高い電力効率と並列処理能力を備える。開発ではMetaが中核的な役割りを担っており、将来的に設計をOCPで公開する予定だ。OpenAIやソシオネクストなど50社以上が支持を表明しており、次世代AIインフラの中核を担うことが期待される。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 4,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Arm、初の自社開発チップ「AGI CPU」を発表　Metaと共同開発のエージェンティックAI特化CPU",
+      "link": "https://www.itmedia.co.jp/news/articles/2603/25/news067.html",
+      "published": "2026-03-25 07:43:00+09:00",
+      "summary": "Armは、自社初となる独自開発CPU「AGI CPU」を発表した。エージェンティックAIの需要拡大に対応し、高い電力効率と並列処理能力を備える。開発ではMetaが中核的な役割りを担っており、将来的に設計をOCPで公開する予定だ。OpenAIやソシオネクストなど50社以上が支持を表明しており、次世代AIインフラの中核を担うことが期待される。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "日立のフィジカルAI統合モデル「IWIM」の実力は？　試作ロボット2種を公開",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2603/25/news043.html",
+      "published": "2026-03-25 06:30:00+09:00",
+      "summary": "日立製作所は「フィジカルAI体験スタジオ」の先行公開に併せて、現場で自ら学びながら動作を最適化し複雑作業を自動化するフィジカルAI技術を発表するとともに、同技術を実装した試作ロボット2種を公開した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "Sakana AI、新AIモデル「Namazu」発表　AIチャット「Sakana Chat」も公開",
+      "link": "https://www.itmedia.co.jp/news/articles/2603/24/news071.html",
+      "published": "2026-03-24 10:22:00+09:00",
+      "summary": "Sakana AIは、新たなAIモデルシリーズ「Namazu」（α版）を開発したと発表した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "OpenAI adds open source tools to help developers build for teen safety",
+      "link": "https://techcrunch.com/2026/03/24/openai-adds-open-source-tools-to-help-developers-build-for-teen-safety/",
+      "published": "2026-03-25 03:41:34+09:00",
+      "summary": "Rather than working from scratch to figure out how to make AI safer for teens, developers can use these policies to fortify what they build.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Helping developers build safer AI experiences for teens",
+      "link": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
+      "published": "2026-03-24 20:00:00+09:00",
+      "summary": "OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in AI systems.",
+      "source": "OpenAI Blog",
+      "language": "en",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
