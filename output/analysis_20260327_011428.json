@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Mistral releases a new open source model for speech generation",
+    "link": "https://techcrunch.com/2026/03/26/mistral-releases-a-new-open-source-model-for-speech-generation/",
+    "published": "2026-03-26 20:30:00+09:00",
+    "summary": "The model, which lets enterprises build voice agents for sales and customer engagement, puts Mistral in direct competition with the likes of ElevenLabs, Deepgram, and OpenAI.",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 4
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Mistral releases a new open source model for speech generation",
+    "summary": "The model, which lets enterprises build voice agents for sales and customer engagement, puts Mistral in direct competition with the likes of ElevenLabs, Deepgram, and OpenAI.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 4,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Mistral releases a new open source model for speech generation",
+      "link": "https://techcrunch.com/2026/03/26/mistral-releases-a-new-open-source-model-for-speech-generation/",
+      "published": "2026-03-26 20:30:00+09:00",
+      "summary": "The model, which lets enterprises build voice agents for sales and customer engagement, puts Mistral in direct competition with the likes of ElevenLabs, Deepgram, and OpenAI.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 4
+    },
+    {
+      "title": "Google、音声モデル「Gemini 3.1 Flash Live」公開　感情に合わせて自然な対話を実現",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2603/27/news069.html",
+      "published": "2026-03-27 09:08:00+09:00",
+      "summary": "Googleは、リアルタイム対話機能を強化した新モデル「Gemini 3.1 Flash Live」を発表した。低遅延かつ高精度なマルチモーダル推論を実現し、音声のニュアンスや感情を汲み取った自然な応答が可能だ。音声には電子透かし「SynthID」を埋め込み、安全性の確保と誤情報拡散の防止を図る。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "Sakana AIが日本仕様のLLM「Namazu」を開発　新サービス「Sakana Chat」も公開",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2603/27/news032.html",
+      "published": "2026-03-27 08:00:00+09:00",
+      "summary": "Sakana AIは日本仕様に調整した学習モデル「Namazu」を開発し、新サービス「Sakana Chat」を公開した。独自の事後学習技術により、海外モデル特有のバイアスや回答拒否を解消し、日本独自の文脈に即した中立的で正確な応答を実現した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "「OpenClawはパーソナルAIのOS」　NVIDIAが提示する新時代のエージェント基盤",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2603/27/news030.html",
+      "published": "2026-03-27 08:00:00+09:00",
+      "summary": "NVIDIAがOpenClaw向け基盤「NemoClaw」を発表した。ジェンスン・フアン氏が「パーソナルAIのOS」と断言する仕組みは企業で受け入れられるのか。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Google、LLMのメモリ消費を6分の1に削減する新技術「TurboQuant」発表",
+      "link": "https://www.itmedia.co.jp/news/articles/2603/27/news067.html",
+      "published": "2026-03-27 07:40:00+09:00",
+      "summary": "Googleは、LLMのメモリ消費量を6分の1に削減する新技術「TurboQuant」を発表した。PolarQuantとQJLを組み合わせ、精度を維持したままKVキャッシュを3ビットまで圧縮する。NVIDIAのH100での計算速度は最大8倍に向上。Gemini等の大規模モデルやベクトル検索の劇的な高速化が期待される。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
