@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Bluesky、AIとの対話でカスタムフィードを作る新アプリ「Attie」　招待制で提供開始",
+    "link": "https://www.itmedia.co.jp/news/articles/2603/30/news080.html",
+    "published": "2026-03-30 07:31:00+09:00",
+    "summary": "Blueskyは、自然言語でカスタムフィードを作成できるAIアプリ「Attie」を発表した。「AT Protocol」を活用し、プログラミング知識なしでAIエージェントと対話しながら独自のタイムラインを構築できる。CIOのグレーバー氏は、AIをプラットフォームではなく個人の主導権を取り戻すための道具と位置づけている。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 4
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Bluesky、AIとの対話でカスタムフィードを作る新アプリ「Attie」　招待制で提供開始",
+    "summary": "Blueskyは、自然言語でカスタムフィードを作成できるAIアプリ「Attie」を発表した。「AT Protocol」を活用し、プログラミング知識なしでAIエージェントと対話しながら独自のタイムラインを構築できる。CIOのグレーバー氏は、AIをプラットフォームではなく個人の主導権を取り戻すための道具と位置づけている。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 4,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Bluesky、AIとの対話でカスタムフィードを作る新アプリ「Attie」　招待制で提供開始",
+      "link": "https://www.itmedia.co.jp/news/articles/2603/30/news080.html",
+      "published": "2026-03-30 07:31:00+09:00",
+      "summary": "Blueskyは、自然言語でカスタムフィードを作成できるAIアプリ「Attie」を発表した。「AT Protocol」を活用し、プログラミング知識なしでAIエージェントと対話しながら独自のタイムラインを構築できる。CIOのグレーバー氏は、AIをプラットフォームではなく個人の主導権を取り戻すための道具と位置づけている。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "Sora’s shutdown could be a reality check moment for AI video",
+      "link": "https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/",
+      "published": "2026-03-30 01:30:00+09:00",
+      "summary": "Is this just normal corporate strategy, or are we about to see a broader pullback on AI-generated video?",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "「職員が激減」に備えよ──2040年問題に向けて「自治体」に残された生存戦略",
+      "link": "https://www.itmedia.co.jp/business/articles/2603/30/news038.html",
+      "published": "2026-03-30 08:00:00+09:00",
+      "summary": "「2040年問題」を前に、自治体は人口減少や高齢化による深刻な人手不足に直面している。限られた職員で行政サービスを維持するにはどうすべきか――CIO補佐官として自治体DXに携わってきた筆者が、AI技術の進化を踏まえながら、行政サービスの未来像をマネジメントの視点で考える。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 0
+    },
+    {
+      "title": "地銀の属人的業務をAIに任せられるか　中国銀行と日立が描く自律化ロードマップ",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2603/30/news024.html",
+      "published": "2026-03-30 08:00:00+09:00",
+      "summary": "銀行の融資業務は属人化や事務負荷が根深い。この難題に対し、中国銀行と日立製作所がAIエージェントによる抜本的な変革に乗り出した。専門的な判断をどこまで自律化できるのか。“融資DX”の最前線に迫る。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 0
+    },
+    {
+      "title": "フジクラが米ビッグテックに指名買いされる理由　生成AIが伸びると、なぜ「光配線」が儲かるのか",
+      "link": "https://www.itmedia.co.jp/business/articles/2603/30/news055.html",
+      "published": "2026-03-30 07:00:00+09:00",
+      "summary": "生成AIの普及が加速する中、その恩恵を受けているのは半導体やソフトウェア企業だけではない。米ビッグテックから「指名買い」される光ファイバー大手フジクラの岡田直樹社長に、AIの裏側で起きている構造変化を聞いた。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
