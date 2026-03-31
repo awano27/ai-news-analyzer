@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Microsoft、「Copilot Cowork」をFrontierで提供開始　「GPT」と「Claude」を組み合わせる機能も",
+    "link": "https://www.itmedia.co.jp/aiplus/articles/2603/31/news078.html",
+    "published": "2026-03-31 07:50:00+09:00",
+    "summary": "Microsoftは、「Microsoft 365」の新機能「Copilot Cowork」をFrontierプログラムで提供開始した。あわせて、マルチモデルAI採用の調査支援機能「Researcher」に、「GPT」と「Claude」に生成と評価を分業させる「Critique」と、両者の回答を比較する「Council」を追加した。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Microsoft、「Copilot Cowork」をFrontierで提供開始　「GPT」と「Claude」を組み合わせる機能も",
+    "summary": "Microsoftは、「Microsoft 365」の新機能「Copilot Cowork」をFrontierプログラムで提供開始した。あわせて、マルチモデルAI採用の調査支援機能「Researcher」に、「GPT」と「Claude」に生成と評価を分業させる「Critique」と、両者の回答を比較する「Council」を追加した。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Microsoft、「Copilot Cowork」をFrontierで提供開始　「GPT」と「Claude」を組み合わせる機能も",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2603/31/news078.html",
+      "published": "2026-03-31 07:50:00+09:00",
+      "summary": "Microsoftは、「Microsoft 365」の新機能「Copilot Cowork」をFrontierプログラムで提供開始した。あわせて、マルチモデルAI採用の調査支援機能「Researcher」に、「GPT」と「Claude」に生成と評価を分業させる「Critique」と、両者の回答を比較する「Council」を追加した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "リコー、“日本語で推論”できるマルチモーダルLLMを開発　「Gemini 2.5 Pro」に匹敵うたう",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2603/30/news123.html",
+      "published": "2026-03-30 16:38:00+09:00",
+      "summary": "リコーは、推論のプロセスを日本語化したマルチモーダルLLM「Qwen3-VL-Ricoh-32B-20260227」を開発したと発表した。320億パラメータを持ち、複雑な図表を含む日本語の資料も読解できるという。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "AIの巧みな“おべっか”が人間の判断力を損なう可能性──スタンフォード大の新論文",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2603/30/news111.html",
+      "published": "2026-03-30 13:42:00+09:00",
+      "summary": "AIは悩みを相談するユーザーに対し、有害な内容であっても過度に肯定・迎合する傾向があると、スタンフォード大学の研究者らが研究結果を論文で発表した。ユーザーはAIの客観性を誤認しやすく、自己中心的な態度を強めるリスクがあるとしている。研究チームは、対人スキルの低下や依存を招く安全上の問題として、厳格な規制の必要性を提言している。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "15% of Americans say they’d be willing to work for an AI boss, according to new poll",
+      "link": "https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/",
+      "published": "2026-03-31 08:41:48+09:00",
+      "summary": "According to a Quinnipiac University poll, 15% of Americans say they'd be willing to have a job where their direct supervisor was an AI program that assigned tasks and set schedules.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Popular AI gateway startup LiteLLM ditches controversial startup Delve",
+      "link": "https://techcrunch.com/2026/03/30/popular-ai-gateway-startup-litellm-ditches-controversial-startup-delve/",
+      "published": "2026-03-31 08:08:12+09:00",
+      "summary": "LiteLLM had obtained two security compliance certifications via Delve and fell victim to some horrific credential-stealing malware last week.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
