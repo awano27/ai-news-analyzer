@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Salesforce announces an AI-heavy makeover for Slack, with 30 new features",
+    "link": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/",
+    "published": "2026-04-01 07:46:25+09:00",
+    "summary": "Slack just got a whole lot more useful.",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Salesforce announces an AI-heavy makeover for Slack, with 30 new features",
+    "summary": "Slack just got a whole lot more useful.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Salesforce announces an AI-heavy makeover for Slack, with 30 new features",
+      "link": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/",
+      "published": "2026-04-01 07:46:25+09:00",
+      "summary": "Slack just got a whole lot more useful.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Exclusive: Runway launches $10M fund, Builders program to support early-stage AI startups",
+      "link": "https://techcrunch.com/2026/03/31/exclusive-runway-launches-10m-fund-builders-program-to-support-early-stage-ai-startups/",
+      "published": "2026-03-31 23:00:00+09:00",
+      "summary": "Runway is launching a $10 million fund and startup program to back companies building with its AI video models, as it pushes toward interactive, real-time “video intelligence” applications.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "AnthropicのAIツール「Claude Code」でコード露出、ソースマップの誤混入で",
+      "link": "https://www.itmedia.co.jp/news/articles/2604/01/news056.html",
+      "published": "2026-04-01 08:54:00+09:00",
+      "summary": "Anthropicの「Claude Code」のソースコードが一時アクセス可能な状態になり拡散した。原因はnpmパッケージへのソースマップファイルの誤混入で、同社はセキュリティ侵害ではなく人為的ミスと説明している。顧客データの漏えいは否定したが、公開されたコードの解析や再実装の動きが広がっている。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "年間3.9億円が溶ける　「データ整備」「生成AI導入」に潜む莫大な人件費",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2604/01/news047.html",
+      "published": "2026-04-01 08:00:00+09:00",
+      "summary": "Sansanが情シス部門のデータメンテナンス工数に関する実態調査を発表。1社当たり年間平均3.9億円相当が消費され、半数以上が2025年に業務量が増加したと回答したことなどが明らかとなった。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "「安全」のAnthropicで痛恨のミス　最強AI「Mythos」の機密流出がもたらした教訓",
+      "link": "https://www.itmedia.co.jp/business/articles/2604/01/news038.html",
+      "published": "2026-04-01 07:00:00+09:00",
+      "summary": "米Anthropicが人的ミスにより次世代AIモデルの機密情報を漏洩した。新モデル「Claude Mythos」には最高位クラス「Capybara」が新設され、従来のOpusを凌駕する性能を持つ。しかし、強力なサイバー攻撃に悪用されるリスクがあるため、初期は防御側組織に限定公開される予定だ。欧州CEO向けの極秘合宿計画も流出し、同社の安全性への信頼が問われる事態となっている。この事態から何を学ぶか？",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
