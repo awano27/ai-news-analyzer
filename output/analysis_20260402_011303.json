@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Mercor says it was hit by cyberattack tied to compromise of open source LiteLLM project",
+    "link": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
+    "published": "2026-04-01 10:42:59+09:00",
+    "summary": "The AI recruiting startup confirmed a security incident after an extortion hacking crew took credit for stealing data from the company's systems.",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Mercor says it was hit by cyberattack tied to compromise of open source LiteLLM project",
+    "summary": "The AI recruiting startup confirmed a security incident after an extortion hacking crew took credit for stealing data from the company's systems.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Mercor says it was hit by cyberattack tied to compromise of open source LiteLLM project",
+      "link": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
+      "published": "2026-04-01 10:42:59+09:00",
+      "summary": "The AI recruiting startup confirmed a security incident after an extortion hacking crew took credit for stealing data from the company's systems.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "4日間ChatGPT禁止──息をするようにAIを使う知的労働者10人の“LLM絶ち”実録日記",
+      "link": "https://www.itmedia.co.jp/news/articles/2604/02/news043.html",
+      "published": "2026-04-02 08:00:00+09:00",
+      "summary": "韓国科学技術院に所属する研究者らが発表した論文「“Oops! ChatGPT is Temporarily Unavailable!”: A Diary Study on Knowledge Workers’ Experiences of LLM Withdrawal」は、ChatGPTなどの大規模言語モデル（LLM）を日常的に使い込んでいる知識労働者10人に、4日間の“LLM断ち”を課す日記調査を実施した研究報告だ。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "動画・音声を視聴したときの“脳反応”を予測──Metaが開発した脳活動予測AI「TRIBE v2」の可能性",
+      "link": "https://www.itmedia.co.jp/news/articles/2604/02/news037.html",
+      "published": "2026-04-02 08:00:00+09:00",
+      "summary": "米Metaなどに所属する研究者らが発表した論文「A foundation model of vision, audition, and language for in-silico neuroscience」は、人間の脳活動を予測する基盤モデル「TRIBE v2」を発表した研究報告だ。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Slack、Slackbotでエージェント連携を強化　“チームメイト”化を推進",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2604/01/news101.html",
+      "published": "2026-04-01 15:08:00+09:00",
+      "summary": "Slackは、内蔵AIアシスタント「Slackbot」の大幅な機能拡張を発表した。分析機能「Deep Thoughts」による戦略立案、デスクトップ上の自動データ入力、他社製エージェントを繋ぐハブ機能、会議中のリアルタイムCRM更新などを実装。個人の支援ツールから、組織全体を繋ぐ究極のチームメイトへと進化させる。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "“人間向けWebサイト”やめます――AI向けに「Markdown」表示　インターリンク「エイプリルフールではない」",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2604/01/news073.html",
+      "published": "2026-04-01 11:52:00+09:00",
+      "summary": "インターネットサービスプロバイダーのインターリンクは、コーポレートサイトをAI向けに最適化すると発表した。従来のHTMLファイルからMarkdownファイル中心の構成に移行する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
