@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Google、エージェント特化の「Gemma 4」をApache 2.0で公開",
+    "link": "https://www.itmedia.co.jp/aiplus/articles/2604/03/news062.html",
+    "published": "2026-04-03 08:58:00+09:00",
+    "summary": "Googleは、高性能オープンモデル「Gemma 4」をApache 2.0ライセンスで公開した。エージェント型ワークフローに特化し、最大25.6万トークンのコンテキストウィンドウに対応。モバイル向けの軽量版から31Bの大型モデルまで4種を展開する。AndroidやNVIDIAのGPUにも最適化され、ローカル環境での高度な推論を支援する。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Google、エージェント特化の「Gemma 4」をApache 2.0で公開",
+    "summary": "Googleは、高性能オープンモデル「Gemma 4」をApache 2.0ライセンスで公開した。エージェント型ワークフローに特化し、最大25.6万トークンのコンテキストウィンドウに対応。モバイル向けの軽量版から31Bの大型モデルまで4種を展開する。AndroidやNVIDIAのGPUにも最適化され、ローカル環境での高度な推論を支援する。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Google、エージェント特化の「Gemma 4」をApache 2.0で公開",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2604/03/news062.html",
+      "published": "2026-04-03 08:58:00+09:00",
+      "summary": "Googleは、高性能オープンモデル「Gemma 4」をApache 2.0ライセンスで公開した。エージェント型ワークフローに特化し、最大25.6万トークンのコンテキストウィンドウに対応。モバイル向けの軽量版から31Bの大型モデルまで4種を展開する。AndroidやNVIDIAのGPUにも最適化され、ローカル環境での高度な推論を支援する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "GeminiがGoogleスライドで「編集可能なスライド」生成可能に　日本語版も順次対応予定",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2604/03/news051.html",
+      "published": "2026-04-03 08:00:00+09:00",
+      "summary": "Google スライドのGeminiで「編集可能なスライド」を生成できるようになった。リリース当初は米国など一部の地域で利用でき、日本語にも順次対応予定だ。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "LLMの学習データ「枯渇元年」にどう立ち向かうか　国・組織を横断したデータ連携の仕組み実現へ、IPAが成果物公開",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2604/02/news085.html",
+      "published": "2026-04-02 11:48:00+09:00",
+      "summary": "AIの進化を支える高品質なデータの不足が懸念される中、IPAは2026年は「データ枯渇元年」になると説く。企業に眠る情報の活用が急務となる今、国境や組織を越えた新たなデータ連携の形「データスペース」を実現するための成果物が公開された。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
+      "link": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
+      "published": "2026-04-03 04:21:00+09:00",
+      "summary": "TBPN, Silicon Valley's cult-favorite tech podcast, will operate independently, even as it's overseen by chief political operative Chris Lehane.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Microsoft takes on AI rivals with three new foundational models",
+      "link": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
+      "published": "2026-04-03 01:48:16+09:00",
+      "summary": "MAI released models that can transcribe voice into text as well as generate audio and images after the group's formation six months ago.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
