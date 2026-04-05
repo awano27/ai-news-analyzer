@@ -1,0 +1,62 @@
+{
+  "article": {
+    "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
+    "link": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
+    "published": "2026-04-05 01:32:22+09:00",
+    "summary": "It’s about to become more expensive for Claude Code subscribers to use Anthropic’s coding assistant with OpenClaw and other third-party tools.",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 0
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
+    "summary": "It’s about to become more expensive for Claude Code subscribers to use Anthropic’s coding assistant with OpenClaw and other third-party tools.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 0,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
+      "link": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
+      "published": "2026-04-05 01:32:22+09:00",
+      "summary": "It’s about to become more expensive for Claude Code subscribers to use Anthropic’s coding assistant with OpenClaw and other third-party tools.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
+      "link": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
+      "published": "2026-04-04 10:31:00+09:00",
+      "summary": "Glen Anderson, president of Rainmaker Securities, says the secondary market for private shares has never been more active — with Anthropic the hottest trade around, OpenAI losing ground, and SpaceX's looming IPO poised to reshape the landscape for everyone.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "「Claude」で「OpenClaw」などの利用がサブスク対象外に　API利用や追加使用量購入が必要",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2604/05/news018.html",
+      "published": "2026-04-05 07:42:00+09:00",
+      "summary": "Anthropicは、「Claude」のサブスクリプションが「OpenClaw」等のサードパーティツール利用をカバーしなくなると告知した。需要増加に伴うリソース管理の適正化が目的としている。影響を受けるユーザーには、1回限りのクレジット付与や割引、希望者への全額返金で対応する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 0
+    },
+    {
+      "title": "企業が生成AIを導入する方法を7ステップで解説！PoC設計・社内ルール・KPIテンプレートも",
+      "link": "https://ainow.ai/2026/04/04/277865/?utm_source=rss&utm_medium=rss&utm_campaign=%25e4%25bc%2581%25e6%25a5%25ad%25e3%2581%258c%25e7%2594%259f%25e6%2588%2590ai%25e5%25b0%258e%25e5%2585%25a5%25e3%2582%2592%25e9%2580%25b2%25e3%2582%2581%25e3%2582%258b%25e6%2596%25b9%25e6%25b3%2595%25e3%2582%25927%25e3%2582%25b9%25e3%2583%2586%25e3%2583%2583%25e3%2583%2597%25e3%2581%25a7%25e8%25a7%25a3%25e8%25aa%25ac",
+      "published": "2026-04-04 11:36:30+09:00",
+      "summary": "「来期までに生成AI活用の計画提示を求められたものの、どの業務から始めればよいか、どんな順番で進めればつまずかないかが見えない…」 「現場からはChatGPTを業務で使ってよいのか、どんなルールが必要なのかと聞かれても、... The post 企業が生成AIを導入する方法を7ステップで解説！PoC設計・社内ルール・KPIテンプレートも first appeared on AI専門ニュースメディア AINOW .",
+      "source": "AINOW",
+      "language": "ja",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
