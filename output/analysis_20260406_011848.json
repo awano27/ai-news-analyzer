@@ -1,0 +1,53 @@
+{
+  "article": {
+    "title": "OpenAIの“AGI担当CEO”シモ氏が療養休職　ライトキャップCOOが“特別プロジェクト”担当に",
+    "link": "https://www.itmedia.co.jp/news/articles/2604/05/news019.html",
+    "published": "2026-04-05 10:33:00+09:00",
+    "summary": "OpenAIのAGI導入担当CEO、フィジ・シモ氏が、病気療養のため数週間休職すると発表した。休職中はグレッグ・ブロックマン社長が製品管理を代行する。また、ブラッド・ライトキャップCOOが特別プロジェクト担当の新職務へ異動し、CMOのケイト・ラウチ氏はがん治療のため辞任。ゲイリー・ブリッグス氏が暫定CMOに就任する。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "OpenAIの“AGI担当CEO”シモ氏が療養休職　ライトキャップCOOが“特別プロジェクト”担当に",
+    "summary": "OpenAIのAGI導入担当CEO、フィジ・シモ氏が、病気療養のため数週間休職すると発表した。休職中はグレッグ・ブロックマン社長が製品管理を代行する。また、ブラッド・ライトキャップCOOが特別プロジェクト担当の新職務へ異動し、CMOのケイト・ラウチ氏はがん治療のため辞任。ゲイリー・ブリッグス氏が暫定CMOに就任する。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "OpenAIの“AGI担当CEO”シモ氏が療養休職　ライトキャップCOOが“特別プロジェクト”担当に",
+      "link": "https://www.itmedia.co.jp/news/articles/2604/05/news019.html",
+      "published": "2026-04-05 10:33:00+09:00",
+      "summary": "OpenAIのAGI導入担当CEO、フィジ・シモ氏が、病気療養のため数週間休職すると発表した。休職中はグレッグ・ブロックマン社長が製品管理を代行する。また、ブラッド・ライトキャップCOOが特別プロジェクト担当の新職務へ異動し、CMOのケイト・ラウチ氏はがん治療のため辞任。ゲイリー・ブリッグス氏が暫定CMOに就任する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use",
+      "link": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
+      "published": "2026-04-06 03:51:37+09:00",
+      "summary": "AI skeptics aren’t the only ones warning users not to unthinkingly trust models’ outputs — that’s what the AI companies say themselves in their terms of service.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "In Japan, the robot isn’t coming for your job; it’s filling the one nobody wants",
+      "link": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
+      "published": "2026-04-05 23:00:00+09:00",
+      "summary": "Driven by labor shortages, Japan is pushing physical AI from pilot projects into real-world deployment.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
