@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "OpenAI、「超知能時代」の産業政策を提言──週休3日制や富の分配など、アルトマンCEOが語る新たな社会契約",
+    "link": "https://www.itmedia.co.jp/aiplus/articles/2604/07/news053.html",
+    "published": "2026-04-07 06:53:00+09:00",
+    "summary": "OpenAIは、「超知能」時代の到来に向けた政策提言書を公開した。国民全員が恩恵を享受する「公共富裕基金」の創設や、週休3日制への移行、AIへのアクセス権保障など、野心的な構想を盛り込んでいる。アルトマンCEOは、破壊的な変化に備え、ニューディール政策に匹敵する新たな社会契約と民主的な議論の必要性を訴えている。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "OpenAI、「超知能時代」の産業政策を提言──週休3日制や富の分配など、アルトマンCEOが語る新たな社会契約",
+    "summary": "OpenAIは、「超知能」時代の到来に向けた政策提言書を公開した。国民全員が恩恵を享受する「公共富裕基金」の創設や、週休3日制への移行、AIへのアクセス権保障など、野心的な構想を盛り込んでいる。アルトマンCEOは、破壊的な変化に備え、ニューディール政策に匹敵する新たな社会契約と民主的な議論の必要性を訴えている。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "OpenAI、「超知能時代」の産業政策を提言──週休3日制や富の分配など、アルトマンCEOが語る新たな社会契約",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2604/07/news053.html",
+      "published": "2026-04-07 06:53:00+09:00",
+      "summary": "OpenAIは、「超知能」時代の到来に向けた政策提言書を公開した。国民全員が恩恵を享受する「公共富裕基金」の創設や、週休3日制への移行、AIへのアクセス権保障など、野心的な構想を盛り込んでいる。アルトマンCEOは、破壊的な変化に備え、ニューディール政策に匹敵する新たな社会契約と民主的な議論の必要性を訴えている。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "初の“長考できる”国産LLM、どう開発？　「PLaMo 3.0 Prime」の資料公開、PFN",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2604/06/news105.html",
+      "published": "2026-04-06 20:16:00+09:00",
+      "summary": "Preferred Networksは、フルスクラッチで開発したLLM「PLaMo 3.0 Prime」β版の開発に関する資料を公開した。同モデルの開発手法の一部や、同社が国産LLMを開発する理由などを紹介している。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "松任谷由実、AIボイスで声優に　マンガ「火の鳥」原作の公演で",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2604/06/news090.html",
+      "published": "2026-04-06 16:00:00+09:00",
+      "summary": "ユニバーサル ミュージックは、公演「MANGALOGUE（マンガローグ）：火の鳥」で、松任谷由実さんのAI音声「Yumi AraI」が声優を担当すると発表した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "生成AI利用率、1年で27％→51％に急増　ドコモ調査",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2604/06/news078.html",
+      "published": "2026-04-06 15:38:00+09:00",
+      "summary": "全国の15歳から69歳の過半数が生成AIを利用している――NTTドコモのモバイル社会研究所は、このような調査結果を発表した。2025年2月時点のAI利用率27％から、26年2月には51％まで急増したという。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "OpenAI alums have been quietly investing from a new, potentially $100M fund",
+      "link": "https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/",
+      "published": "2026-04-07 06:54:26+09:00",
+      "summary": "Zero Shot, a new venture capital fund with deep ties to OpenAI, is aiming to raise $100 million for its first fund. It has already written some checks.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
