@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "AIコーディングエディタ「Cursor 3」リリース AIエージェントを中心に新たに構築",
+    "link": "https://www.itmedia.co.jp/news/articles/2604/08/news070.html",
+    "published": "2026-04-08 10:59:00+09:00",
+    "summary": "AIコーディングエディタ「Cursor」の開発元であるAnysphereは、Cursorの最新版となる「Cursor 3」のリリースを発表しました。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 4
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "AIコーディングエディタ「Cursor 3」リリース AIエージェントを中心に新たに構築",
+    "summary": "AIコーディングエディタ「Cursor」の開発元であるAnysphereは、Cursorの最新版となる「Cursor 3」のリリースを発表しました。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 4,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "AIコーディングエディタ「Cursor 3」リリース AIエージェントを中心に新たに構築",
+      "link": "https://www.itmedia.co.jp/news/articles/2604/08/news070.html",
+      "published": "2026-04-08 10:59:00+09:00",
+      "summary": "AIコーディングエディタ「Cursor」の開発元であるAnysphereは、Cursorの最新版となる「Cursor 3」のリリースを発表しました。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "OpenAI releases a new safety blueprint to address the rise in child sexual exploitation",
+      "link": "https://techcrunch.com/2026/04/08/openai-releases-a-new-safety-blueprint-to-address-the-rise-in-child-sexual-exploitation/",
+      "published": "2026-04-09 00:23:44+09:00",
+      "summary": "OpenAI's new Child Safety Blueprint aims to tackle the alarming rise in child sexual exploitation linked to advancements in AI.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Atlassian launches visual AI tools and third-party agents in Confluence",
+      "link": "https://techcrunch.com/2026/04/08/atlassian-confluence-visual-ai-tools-agents/",
+      "published": "2026-04-08 22:00:00+09:00",
+      "summary": "Confluence users can now create visual assets within the software in addition to new third-party agents working with Lovable, Replit, and Gamma.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Meta、視覚で世界を理解する新AI「Muse Spark」発表　「Llama」より高効率でAIメガネにも統合へ",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2604/09/news059.html",
+      "published": "2026-04-09 07:45:00+09:00",
+      "summary": "Metaは、Superintelligence Labs設立後初のAIモデル「Muse Spark」を発表した。軽量ながら視覚認識に長けたマルチモーダル推論モデルで、「Llama 4 Maverick」と同等の能力を低コストで実現する。AIメガネへの統合や、医師の監修による健康相談、複雑なタスクを並行処理する機能も備える。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "AIに頼ると「粘り強さ」が失われる――研究チームが警鐘「AIも“助けない”判断をすべき」",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2604/08/news109.html",
+      "published": "2026-04-08 18:15:00+09:00",
+      "summary": "AIの利用が人間の「粘り強さ」を損なうという研究結果が公開された。AIに頼ると短期的には成果が向上するが、自力での試行錯誤の機会が奪われ、非利用時のパフォーマンスが低下する恐れがあるという。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
