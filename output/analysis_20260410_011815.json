@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "本番環境のAIエージェント開発を「10倍」高速化――「Claude Managed Agents」発表",
+    "link": "https://www.itmedia.co.jp/aiplus/articles/2604/09/news067.html",
+    "published": "2026-04-09 12:25:00+09:00",
+    "summary": "Anthropicは、本番運用向けAIエージェントの構築、運用を効率化する「Claude Managed Agents」のパブリックβ版を公開した。実行環境やマルチエージェント協調機能を備え、開発の「10倍」高速化をうたう。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 4
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "本番環境のAIエージェント開発を「10倍」高速化――「Claude Managed Agents」発表",
+    "summary": "Anthropicは、本番運用向けAIエージェントの構築、運用を効率化する「Claude Managed Agents」のパブリックβ版を公開した。実行環境やマルチエージェント協調機能を備え、開発の「10倍」高速化をうたう。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 4,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "本番環境のAIエージェント開発を「10倍」高速化――「Claude Managed Agents」発表",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2604/09/news067.html",
+      "published": "2026-04-09 12:25:00+09:00",
+      "summary": "Anthropicは、本番運用向けAIエージェントの構築、運用を効率化する「Claude Managed Agents」のパブリックβ版を公開した。実行環境やマルチエージェント協調機能を備え、開発の「10倍」高速化をうたう。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
+      "link": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/",
+      "published": "2026-04-10 05:11:55+09:00",
+      "summary": "ChatGPT had reportedly been used to plan the attack that killed two and injured five at Florida State University last April. The family of one victim has said that they plan to sue OpenAI over the incident.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "「AIはあくまで補助」――朝日新聞、「社長『AI全振り』宣言」との日経記事巡り声明",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2604/09/news116.html",
+      "published": "2026-04-09 19:38:00+09:00",
+      "summary": "朝日新聞社は、日本経済新聞が公開した記事「朝日新聞社長『AI全振り』宣言　スーパー記者構想の狙いは」を巡り声明を出した。「AIはあくまで人間を補助する役割とし、最終的な判断と責任は人間が担う」としている。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "東京都、内製のAI基盤「A1」（えいいち）　ノーコードでアプリ開発→共有　名前の由来は……",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2604/09/news109.html",
+      "published": "2026-04-09 19:22:00+09:00",
+      "summary": "東京都は、内製のAIプラットフォーム「A1」（えいいち）の本格運用を始めたと発表した。職員がノーコードで業務に活用できるアプリを開発・共有できるという。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "OpenAIとAWSが共同開発する「ステートフルランタイム」でAI開発はどう変わる？",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2604/09/news048.html",
+      "published": "2026-04-09 13:00:00+09:00",
+      "summary": "Microsoft以外のクラウドベンダーとも協業を進めるOpenAIが、AWSとの協業強化を発表した。ステートフルランタイムの共同開発や「OpenAI Frontier」を取り巻く動きなど、AI開発者に影響を及ぼす内容を整理する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
