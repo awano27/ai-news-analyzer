@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "経産省、30社を「DX銘柄2026」に認定　3年連続選出のSMBCは500億円超投資、成果は？",
+    "link": "https://www.itmedia.co.jp/business/articles/2604/11/news018.html",
+    "published": "2026-04-11 08:00:00+09:00",
+    "summary": "経済産業省が「DX銘柄2026」を発表した。SMBCグループなど30社が選定されており、特にAI活用の取り組みが評価された。その取り組み内容とは。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "経産省、30社を「DX銘柄2026」に認定　3年連続選出のSMBCは500億円超投資、成果は？",
+    "summary": "経済産業省が「DX銘柄2026」を発表した。SMBCグループなど30社が選定されており、特にAI活用の取り組みが評価された。その取り組み内容とは。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "経産省、30社を「DX銘柄2026」に認定　3年連続選出のSMBCは500億円超投資、成果は？",
+      "link": "https://www.itmedia.co.jp/business/articles/2604/11/news018.html",
+      "published": "2026-04-11 08:00:00+09:00",
+      "summary": "経済産業省が「DX銘柄2026」を発表した。SMBCグループなど30社が選定されており、特にAI活用の取り組みが評価された。その取り組み内容とは。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "AI代替で消える新卒枠……中途も影響半数で「売り手市場」に暗雲",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2604/11/news019.html",
+      "published": "2026-04-11 07:00:00+09:00",
+      "summary": "2026年4月6～10日に公開された記事の中から、MONOist編集部が厳選した今週の注目ニュースをお届けします。今週のキーワードは「AIと雇用」です。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Claudeを“コスパ良く”利用可能に　性能の異なるモデルが“適材適所”で稼働、Anthropicの新ツール",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2604/10/news130.html",
+      "published": "2026-04-10 19:19:00+09:00",
+      "summary": "米Anthropicは、性能が異なるAIモデルを“適材適所”で稼働させ、自律的にタスクをこなす際のコストパフォーマンスを高める「The advisor strategy」（アドバイザー戦略）を発表した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "アニメ「本好きの下剋上」OP映像差し替え　“AI禁止”のはずが「AI使用と判明」、制作会社が謝罪",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2604/10/news129.html",
+      "published": "2026-04-10 19:05:00+09:00",
+      "summary": "アニメ制作会社のウィットスタジオは、同社が制作するアニメ「本好きの下剋上 領主の養女」のオープニング映像を差し替えると発表した。同社では、映像制作における生成AIの使用を原則認めていないにもかかわらず、同オープニング映像の一部でAIを使用していたことが判明したという。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "無料で読めるAIエージェントの実践ガイド、Googleが公開　基礎から本番実装まで学べる",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2604/10/news057.html",
+      "published": "2026-04-10 13:00:00+09:00",
+      "summary": "AIエージェントの基礎から本番実装まで学べる5つのガイドをGoogleが無償公開した。Kaggleと共同で実施した研修プログラムを基にした内容で、開発者の実務に直結する知識を習得できる。各ガイドが扱う内容とは。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
