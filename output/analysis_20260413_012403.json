@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Trump officials may be encouraging banks to test Anthropic’s Mythos model",
+    "link": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
+    "published": "2026-04-13 06:14:38+09:00",
+    "summary": "The report is particularly surprising since the Department of Defense recently declared Anthropic a supply-chain risk.",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 0
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Trump officials may be encouraging banks to test Anthropic’s Mythos model",
+    "summary": "The report is particularly surprising since the Department of Defense recently declared Anthropic a supply-chain risk.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 0,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Trump officials may be encouraging banks to test Anthropic’s Mythos model",
+      "link": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
+      "published": "2026-04-13 06:14:38+09:00",
+      "summary": "The report is particularly surprising since the Department of Defense recently declared Anthropic a supply-chain risk.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "From LLMs to hallucinations, here’s a simple guide to common AI terms",
+      "link": "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "published": "2026-04-13 00:07:08+09:00",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "At the HumanX conference, everyone was talking about Claude",
+      "link": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/",
+      "published": "2026-04-13 00:00:00+09:00",
+      "summary": "Anthropic was the star of the show at San Francisco's AI-centric conference.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "産総研のフィジカルAIプロジェクトに迫る　10万年ギャップを超えろ！",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2604/13/news006.html",
+      "published": "2026-04-13 07:00:00+09:00",
+      "summary": "産業技術総合研究所（産総研）が「フィジカル領域の生成AI基盤モデルに関する研究開発」プロジェクトについて解説するウェビナーを開催。同プロジェクトを構成する6つのグループから最新の研究成果が報告された。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 0
+    },
+    {
+      "title": "そのPC作業、まだ“手動”でやっているんですか？　チャットの次は「AIに作業を任せる」時代へ（Cowork活用編）",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2604/13/news014.html",
+      "published": "2026-04-13 05:00:00+09:00",
+      "summary": "最新のAIでは、PC上の作業をAIに任せられるようになりました。ファイル整理や情報のまとめ、繰り返し作業の自動化など、AI活用の発想を大きく変える5つの活用シーンを具体例で紹介します。Claude Coworkをまだ使っていない人でも、自分の業務に当てはめて使いどころを考えられる内容です。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
