@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "日産、「AIドライブ」搭載車を9割に　長期ビジョン発表　ジュークEVと新型エクストレイルを初公開",
+    "link": "https://www.itmedia.co.jp/news/articles/2604/14/news140.html",
+    "published": "2026-04-14 21:45:00+09:00",
+    "summary": "日産自動車が、今後の戦略の道標となる長期ビジョンを発表した。AIを核に据えた次世代車両コンセプト「AIディファインドビークル」（AIDV）を主軸とし、将来的にラインアップの約9割にAI自動運転技術を搭載する方針だ。また、新型「エクストレイル／ローグ e-POWER」と「ジュークEV」を初公開した。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 4
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "日産、「AIドライブ」搭載車を9割に　長期ビジョン発表　ジュークEVと新型エクストレイルを初公開",
+    "summary": "日産自動車が、今後の戦略の道標となる長期ビジョンを発表した。AIを核に据えた次世代車両コンセプト「AIディファインドビークル」（AIDV）を主軸とし、将来的にラインアップの約9割にAI自動運転技術を搭載する方針だ。また、新型「エクストレイル／ローグ e-POWER」と「ジュークEV」を初公開した。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 4,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "日産、「AIドライブ」搭載車を9割に　長期ビジョン発表　ジュークEVと新型エクストレイルを初公開",
+      "link": "https://www.itmedia.co.jp/news/articles/2604/14/news140.html",
+      "published": "2026-04-14 21:45:00+09:00",
+      "summary": "日産自動車が、今後の戦略の道標となる長期ビジョンを発表した。AIを核に据えた次世代車両コンセプト「AIディファインドビークル」（AIDV）を主軸とし、将来的にラインアップの約9割にAI自動運転技術を搭載する方針だ。また、新型「エクストレイル／ローグ e-POWER」と「ジュークEV」を初公開した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "Coming soon: 10 Things That Matter in AI Right Now",
+      "link": "https://www.technologyreview.com/2026/04/14/1135298/coming-soon-10-things-that-matter-in-ai-right-now/",
+      "published": "2026-04-14 20:00:00+09:00",
+      "summary": "Each year we compile our 10 Breakthrough Technologies list, featuring our educated predictions for which technologies will have the biggest impact on how we live and work. This year, however, we had a dilemma. While our final picks encompass all our core coverage areas (energy, AI, and biotech, plus a few more), our 2026 list…",
+      "source": "MIT Technology Review AI",
+      "language": "en",
+      "preliminary_score": 3
+    },
+    {
+      "title": "Redefining the future of software engineering",
+      "link": "https://www.technologyreview.com/2026/04/14/1134397/redefining-the-future-of-software-engineering/",
+      "published": "2026-04-15 03:00:00+09:00",
+      "summary": "Software engineering has experienced two seismic shifts this century. First was the rise of the open source movement, which gradually made code accessible to developers and engineers everywhere. Second, the adoption of development operations (DevOps) and agile methodologies took software from siloed to collaborative development and from batch to continuous delivery. Now, a third such…",
+      "source": "MIT Technology Review AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Geminiの「パーソナルインテリジェンス」、日本でも　Gmailやカレンダーを横断して抽出→推論→回答",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2604/15/news070.html",
+      "published": "2026-04-15 07:35:00+09:00",
+      "summary": "Googleは、1月に米国で導入した「パーソナルインテリジェンス」を日本でも提供開始した。GeminiがGmailやGoogleフォトなどのデータを横断的に検索・抽出（Retrieving）し、それらに基づいて推論（Reasoning）を行う。有料プランから順次展開され、数週間以内に無料版にも拡大する予定だ。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "SB Intuitions、自律的にTシャツを畳めるロボアーム　1枚約40秒で完了",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2604/14/news130.html",
+      "published": "2026-04-14 19:53:00+09:00",
+      "summary": "ソフトバンク傘下でAIを研究開発するSB Intuitionsは、自律的にTシャツを畳める2本のロボットアームの動画を公開した。1枚約40秒で畳み終える様子を確認できる。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
