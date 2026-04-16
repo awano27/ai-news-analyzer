@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "日立グループ企業、「貿易の安全保障リスク」をAIエージェントで管理　審査時間60％短縮　仕組みは？",
+    "link": "https://www.itmedia.co.jp/business/articles/2604/15/news105.html",
+    "published": "2026-04-15 15:30:00+09:00",
+    "summary": "日立ソリューションズは、安全保障貿易管理にAIエージェント導入することで審査時間を約60％短縮できると発表した。現場の負担をどのように解決するのか。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "日立グループ企業、「貿易の安全保障リスク」をAIエージェントで管理　審査時間60％短縮　仕組みは？",
+    "summary": "日立ソリューションズは、安全保障貿易管理にAIエージェント導入することで審査時間を約60％短縮できると発表した。現場の負担をどのように解決するのか。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "日立グループ企業、「貿易の安全保障リスク」をAIエージェントで管理　審査時間60％短縮　仕組みは？",
+      "link": "https://www.itmedia.co.jp/business/articles/2604/15/news105.html",
+      "published": "2026-04-15 15:30:00+09:00",
+      "summary": "日立ソリューションズは、安全保障貿易管理にAIエージェント導入することで審査時間を約60％短縮できると発表した。現場の負担をどのように解決するのか。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "「ジェットコースターで近大行ってみた」――公式の“AI動画”が話題、担当者に裏側を聞いた",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2604/15/news121.html",
+      "published": "2026-04-15 15:20:00+09:00",
+      "summary": "ジェットコースターで大阪市内の名所を巡りながら近畿大学に向かう――同大学が公開したこのようなAI動画が話題だ。同大学の担当者に話を聞いた。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "ロボットが計器読み取り可能に、Googleが産業現場向けAIモデル「Gemini Robotics-ER 1.6」発表　Boston Dynamicsとも連携",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2604/15/news108.html",
+      "published": "2026-04-15 13:36:00+09:00",
+      "summary": "Google DeepMindはロボット向けVLM「Gemini Robotics-ER 1.6」を発表。空間認識や計測器の読み取りなど、産業現場で求められる能力を高めたモデルだとうたう。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Anthropic、「Claude Code」デスクトップ版を刷新　並列エージェント対応でマルチタスクを強化",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2604/15/news080.html",
+      "published": "2026-04-15 10:51:00+09:00",
+      "summary": "Anthropicは「Claude Code」のデスクトップアプリを刷新し、並列エージェントのサポートなど複数の新機能を発表した。複数タスクの同時処理が可能になったほか、メインスレッドを維持したまま会話できるサイドチャットや統合ターミナルを搭載。ローカルおよびクラウドでの柔軟なセッション実行により、開発効率の向上を図る。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
+      "link": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
+      "published": "2026-04-16 04:28:36+09:00",
+      "summary": "OpenAI has expanded the capabilities of its agent-building toolkit, as agentic AI continues to grow in popularity.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
