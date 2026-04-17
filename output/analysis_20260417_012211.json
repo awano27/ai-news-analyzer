@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Luma launches AI-powered production studio with faith-focused Wonder Project",
+    "link": "https://techcrunch.com/2026/04/16/luma-launches-ai-powered-production-studio-with-faith-focused-wonder-project/",
+    "published": "2026-04-17 06:58:08+09:00",
+    "summary": "The studio's first project will be about Moses and star Academy Award-winner Ben Kingsley, to be released this spring on Prime Video.",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Luma launches AI-powered production studio with faith-focused Wonder Project",
+    "summary": "The studio's first project will be about Moses and star Academy Award-winner Ben Kingsley, to be released this spring on Prime Video.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Luma launches AI-powered production studio with faith-focused Wonder Project",
+      "link": "https://techcrunch.com/2026/04/16/luma-launches-ai-powered-production-studio-with-faith-focused-wonder-project/",
+      "published": "2026-04-17 06:58:08+09:00",
+      "summary": "The studio's first project will be about Moses and star Academy Award-winner Ben Kingsley, to be released this spring on Prime Video.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "OpenAI、「Codex」刷新　PCの直接操作に対応し汎用作業エージェントへ",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2604/17/news071.html",
+      "published": "2026-04-17 09:38:00+09:00",
+      "summary": "OpenAIは、コーディングエージェント「Codex」の大幅アップデートを発表した。画面認識によるPCの直接操作や、90以上の外部ツール連携に対応し、「汎用作業エージェント」へと進化。画像生成モデルとの統合やメモリ機能も追加され、UI設計から開発ワークフローの自動化まで、広範なタスク実行を支援する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Google、次世代音声AI「Gemini 3.1 Flash TTS」　自然言語で表現を制御可能に",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2604/16/news090.html",
+      "published": "2026-04-16 14:21:00+09:00",
+      "summary": "Googleは、自然な音声を生成するAIモデル「Gemini 3 Flash TTS」を発表した。新たに導入された「音声タグ」機能により、自然言語の指示で話速や感情を細かく制御できるのが特徴だ。生成音声には電子透かし「SynthID」が適用され、安全性を確保。高品質で低コストな音声生成によって、次世代の音声アプリ構築を支援する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Factory hits $1.5B valuation to build AI coding for enterprises",
+      "link": "https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/",
+      "published": "2026-04-17 07:55:30+09:00",
+      "summary": "The three-year-old startup raised $150 million led by Khosla Ventures.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Upscale AI in talks to raise at $2B valuation, says report",
+      "link": "https://techcrunch.com/2026/04/16/upscale-ai-in-talks-to-raise-at-2b-valuation-says-report/",
+      "published": "2026-04-17 05:41:13+09:00",
+      "summary": "AI infrastructure company Upscale AI is reportedly in talks to raise its third funding round since launching just seven months ago.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
