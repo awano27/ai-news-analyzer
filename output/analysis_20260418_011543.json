@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Anthropic、AIデザインツール「Claude Design」プレビュー公開──「Opus 4.7」搭載でコーディングツールとの連携も",
+    "link": "https://www.itmedia.co.jp/aiplus/articles/2604/18/news022.html",
+    "published": "2026-04-18 07:13:00+09:00",
+    "summary": "Anthropicは、AIデザインツール「Claude Designer」を発表した。最新モデル「Claude Opus 4.7」をベースに、テキストや既存コードからプロトタイプを生成できる。デザインシステムとの一貫性保持や共同編集、直感的な微調整機能を備え、コーディングツール「Claude Code」との連携により実装までをシームレスに完結させる。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 4
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Anthropic、AIデザインツール「Claude Design」プレビュー公開──「Opus 4.7」搭載でコーディングツールとの連携も",
+    "summary": "Anthropicは、AIデザインツール「Claude Designer」を発表した。最新モデル「Claude Opus 4.7」をベースに、テキストや既存コードからプロトタイプを生成できる。デザインシステムとの一貫性保持や共同編集、直感的な微調整機能を備え、コーディングツール「Claude Code」との連携により実装までをシームレスに完結させる。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 4,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Anthropic、AIデザインツール「Claude Design」プレビュー公開──「Opus 4.7」搭載でコーディングツールとの連携も",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2604/18/news022.html",
+      "published": "2026-04-18 07:13:00+09:00",
+      "summary": "Anthropicは、AIデザインツール「Claude Designer」を発表した。最新モデル「Claude Opus 4.7」をベースに、テキストや既存コードからプロトタイプを生成できる。デザインシステムとの一貫性保持や共同編集、直感的な微調整機能を備え、コーディングツール「Claude Code」との連携により実装までをシームレスに完結させる。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "Anthropic launches Claude Design, a new product for creating quick visuals",
+      "link": "https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/",
+      "published": "2026-04-18 00:00:00+09:00",
+      "summary": "The company says Claude Design is intended to help people like founders and product managers without a design background share their ideas more easily.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "「なぜSalesforceにログインする必要があるのか」　“エージェント向けSalesforce”「Headless 360」発表",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2604/17/news118.html",
+      "published": "2026-04-17 16:00:00+09:00",
+      "summary": "Salesforceは同社サービスをAIエージェントを介して操作できるようにした「Salesforce Headless 360」を発表した。発表同日から複数機能を利用できる。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "ソフトバンク、米新興のAIスマホを1年間の国内独占販売　“ユーザーの行動先読み”うたう「Natural AI Phone」",
+      "link": "https://www.itmedia.co.jp/news/articles/2604/17/news109.html",
+      "published": "2026-04-17 14:20:00+09:00",
+      "summary": "ソフトバンクは4月17日、AI機能搭載スマートフォン「Natural AI Phone」を国内で販売すると発表した。同日に予約受付を始め、24日から国内で1年間独占販売する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "ソフトバンク、国産LLM「Sarashina」の業務支援サービスを6月開始　Oracleサービス使い自社DCで構築、“ソブリン性確保”うたう",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2604/17/news093.html",
+      "published": "2026-04-17 12:20:00+09:00",
+      "summary": "ソフトバンクはLLM「Sarashina」を活用した企業向けサービスを6月に提供開始する。国内データセンターで運用することで、データ主権を確保した環境でAIを機密情報と連携させられるという。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
