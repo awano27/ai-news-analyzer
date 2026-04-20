@@ -1,0 +1,62 @@
+{
+  "article": {
+    "title": "1300ページを読んでExcelに整理――地道な開示作業、AIで工数93％削減　NEC流の業務改革方法とは",
+    "link": "https://www.itmedia.co.jp/business/articles/2604/20/news021.html",
+    "published": "2026-04-20 07:00:00+09:00",
+    "summary": "有価証券報告書における「サステナビリティー情報」の開示業務が義務化されるのを前に、NECはAI活用によって開示業務の工数を93％削減したと発表した。その仕組みとは。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "1300ページを読んでExcelに整理――地道な開示作業、AIで工数93％削減　NEC流の業務改革方法とは",
+    "summary": "有価証券報告書における「サステナビリティー情報」の開示業務が義務化されるのを前に、NECはAI活用によって開示業務の工数を93％削減したと発表した。その仕組みとは。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "1300ページを読んでExcelに整理――地道な開示作業、AIで工数93％削減　NEC流の業務改革方法とは",
+      "link": "https://www.itmedia.co.jp/business/articles/2604/20/news021.html",
+      "published": "2026-04-20 07:00:00+09:00",
+      "summary": "有価証券報告書における「サステナビリティー情報」の開示業務が義務化されるのを前に、NECはAI活用によって開示業務の工数を93％削減したと発表した。その仕組みとは。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "OpenAI’s existential questions",
+      "link": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
+      "published": "2026-04-20 06:24:06+09:00",
+      "summary": "On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address \"two big existential problems\" for the company.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "The 12-month window",
+      "link": "https://techcrunch.com/2026/04/19/the-12-month-window/",
+      "published": "2026-04-20 04:30:00+09:00",
+      "summary": "A lot of AI startups exist partly because the foundation models haven't expanded into their category yet. As many jokingly acknowledge, that won't last forever.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "TechCrunch Mobility: Uber enters its assetmaxxing era",
+      "link": "https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/",
+      "published": "2026-04-20 01:01:00+09:00",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
