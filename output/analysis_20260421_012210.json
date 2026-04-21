@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "LINEヤフー、新AIエージェントを発表　Gemini、ChatGPTに「負けない強み」とは？",
+    "link": "https://www.itmedia.co.jp/business/articles/2604/21/news048.html",
+    "published": "2026-04-21 07:00:00+09:00",
+    "summary": "LINEヤフーは4月20日、AIエージェント「Agent i」の提供を始めた。ChatGPTやGeminiに負けない強みとは何なのか。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "LINEヤフー、新AIエージェントを発表　Gemini、ChatGPTに「負けない強み」とは？",
+    "summary": "LINEヤフーは4月20日、AIエージェント「Agent i」の提供を始めた。ChatGPTやGeminiに負けない強みとは何なのか。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "LINEヤフー、新AIエージェントを発表　Gemini、ChatGPTに「負けない強み」とは？",
+      "link": "https://www.itmedia.co.jp/business/articles/2604/21/news048.html",
+      "published": "2026-04-21 07:00:00+09:00",
+      "summary": "LINEヤフーは4月20日、AIエージェント「Agent i」の提供を始めた。ChatGPTやGeminiに負けない強みとは何なのか。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
+      "link": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
+      "published": "2026-04-21 08:10:27+09:00",
+      "summary": "Amazon has made another circular AI deal: It's investing another $5 billion in Anthropic. Anthropic has agreed to spend $100 billion on AWS in return.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Google rolls out Gemini in Chrome in 7 new countries",
+      "link": "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/",
+      "published": "2026-04-21 07:00:00+09:00",
+      "summary": "Google is rolling out Gemini in Chrome in Australia, Indonesia, Japan, the Philippines, Singapore, South Korea, and Vietnam. The company is rolling this feature out to both desktop and iOS in all of these countries except Japan.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "It’s not just one thing — it’s another thing",
+      "link": "https://techcrunch.com/2026/04/20/ai-writing-its-not-just-this-its-that-barrons/",
+      "published": "2026-04-21 04:37:07+09:00",
+      "summary": "This sentence construction (\"It's not just this — it's that\") has become so common in AI-generated writing that it's no longer just a clue that a piece of writing may be synthetic — it's almost a guarantee.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "NSA spies are reportedly using Anthropic’s Mythos, despite Pentagon feud",
+      "link": "https://techcrunch.com/2026/04/20/nsa-spies-are-reportedly-using-anthropics-mythos-despite-pentagon-feud/",
+      "published": "2026-04-21 01:06:21+09:00",
+      "summary": "NSA is said to be using Anthropic's restricted Mythos AI model.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
