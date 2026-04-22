@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "OpenAI、“視覚的思考パートナー”「ChatGPT Images 2.0」発表　Web検索結果を反映する画像生成も可能に",
+    "link": "https://www.itmedia.co.jp/aiplus/articles/2604/22/news057.html",
+    "published": "2026-04-22 07:19:00+09:00",
+    "summary": "OpenAIは、画像生成AI「ChatGPT Images 2.0」をリリースした。新機能「Thinking capabilities」（思考モード）により、Web検索と推論が可能になり、図解や地図の正確性が向上。日本語を含む多言語テキストの描画能力も大幅に強化された。1度の指示で最大10枚の連続画像を生成でき、実写からマンガまで幅広い用途に対応する。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 4
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "OpenAI、“視覚的思考パートナー”「ChatGPT Images 2.0」発表　Web検索結果を反映する画像生成も可能に",
+    "summary": "OpenAIは、画像生成AI「ChatGPT Images 2.0」をリリースした。新機能「Thinking capabilities」（思考モード）により、Web検索と推論が可能になり、図解や地図の正確性が向上。日本語を含む多言語テキストの描画能力も大幅に強化された。1度の指示で最大10枚の連続画像を生成でき、実写からマンガまで幅広い用途に対応する。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 4,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "OpenAI、“視覚的思考パートナー”「ChatGPT Images 2.0」発表　Web検索結果を反映する画像生成も可能に",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2604/22/news057.html",
+      "published": "2026-04-22 07:19:00+09:00",
+      "summary": "OpenAIは、画像生成AI「ChatGPT Images 2.0」をリリースした。新機能「Thinking capabilities」（思考モード）により、Web検索と推論が可能になり、図解や地図の正確性が向上。日本語を含む多言語テキストの描画能力も大幅に強化された。1度の指示で最大10枚の連続画像を生成でき、実写からマンガまで幅広い用途に対応する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "AI Dungeon maker Latitude unveils Voyage, a platform for creating AI-powered RPGs",
+      "link": "https://techcrunch.com/2026/04/21/voyage-is-an-ai-rpg-platform-for-creating-custom-gaming-worlds-with-ai-generated-npc-interactions/",
+      "published": "2026-04-22 01:00:00+09:00",
+      "summary": "Latitude's new AI-native platform, Voyage, aims to help gamers create their very own role-playing game.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "エンジニアリング業務を自律実行、シーメンスが産業AIを新たな段階に",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2604/21/news064.html",
+      "published": "2026-04-21 13:30:00+09:00",
+      "summary": "産業用AIが、単なるアドバイスを超え、自律的にエンジニアリング業務を実行する新たな局面に入った。シーメンスが「ハノーバーメッセ 2026」において、実際のエンジニアリングシステム内で動作し、タスクの計画、実行、検証をエンドツーエンドで実行する新たなAI製品「Eigen Engineering Agent」を発表した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Meta will record employees’ keystrokes and use it to train its AI models",
+      "link": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
+      "published": "2026-04-22 08:45:21+09:00",
+      "summary": "Meta says that it has a new internal tool that is converting mouse movements and button clicks into data that can train its AI models.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims",
+      "link": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/",
+      "published": "2026-04-22 08:26:45+09:00",
+      "summary": "Anthropic told TechCrunch it is investigating the claims, but maintains that there is no evidence that its systems have been impacted.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
