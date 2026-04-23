@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "トヨタ、独自の「ウーブンAI」初公開　世界最高水準の動画理解性能で事象の変化を先読み",
+    "link": "https://www.itmedia.co.jp/news/articles/2604/22/news139.html",
+    "published": "2026-04-22 19:54:00+09:00",
+    "summary": "トヨタ自動車は4月22日、カメラ映像から人や車の動きなど実際の街・空間の中で起きている事象を言語化して高精度で理解できる独自のAIを発表した。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 4
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "トヨタ、独自の「ウーブンAI」初公開　世界最高水準の動画理解性能で事象の変化を先読み",
+    "summary": "トヨタ自動車は4月22日、カメラ映像から人や車の動きなど実際の街・空間の中で起きている事象を言語化して高精度で理解できる独自のAIを発表した。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 4,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "トヨタ、独自の「ウーブンAI」初公開　世界最高水準の動画理解性能で事象の変化を先読み",
+      "link": "https://www.itmedia.co.jp/news/articles/2604/22/news139.html",
+      "published": "2026-04-22 19:54:00+09:00",
+      "summary": "トヨタ自動車は4月22日、カメラ映像から人や車の動きなど実際の街・空間の中で起きている事象を言語化して高精度で理解できる独自のAIを発表した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "Google Cloud launches two new AI chips to compete with Nvidia",
+      "link": "https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia/",
+      "published": "2026-04-23 03:39:27+09:00",
+      "summary": "Google's newest TPUs are faster and cheaper than the previous versions. But the company is still embracing Nvidia in its cloud — for now.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "AI支援やノーコード自動化など、設計ワークフローを変革する「Inventor 2027」",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2604/23/news018.html",
+      "published": "2026-04-23 09:00:00+09:00",
+      "summary": "オートデスクは、プロフェッショナル向け3D CADソフトウェアの最新バージョン「Autodesk Inventor 2027」を発表した。AI支援、ノーコード自動化、設計資産の再利用などの強化により、設計プロセスの無駄を削減し、生産性向上と創造的活動の促進に寄与する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Google Cloud Next 2026での発表内容まとめ　自律型AIエージェントへ",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2604/23/news061.html",
+      "published": "2026-04-23 08:19:00+09:00",
+      "summary": "Google Cloudは年次イベントで、自律型AIエージェントが主導する「Agentic Enterprise」への移行を提唱した。「Gemini 3.1」や「Nano Banana 2」を統合した開発基盤、第8世代TPU、Wiz統合によるセキュリティ機能などを発表。インフラからアプリまでフルスタックで、AIが自律行動する企業環境の構築を支援する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Google、第8世代TPU「8t」と「8i」を発表──学習と推論の分離で効率を最大化",
+      "link": "https://www.itmedia.co.jp/news/articles/2604/23/news059.html",
+      "published": "2026-04-23 06:53:00+09:00",
+      "summary": "Googleは、独自開発のAIチップ「TPU」の第8世代となる、学習特化型「8t」と推論特化型「8i」を発表した。用途に合わせてチップを使い分ける新アプローチを採用し、前世代比で処理能力や電力効率が大幅に向上。NVIDIAの次世代GPU等とともに、最先端のAI研究や業務を支える強力なインフラとして今年後半から提供していく計画だ。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
