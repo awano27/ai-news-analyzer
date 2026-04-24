@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘super app’",
+    "link": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
+    "published": "2026-04-24 03:29:29+09:00",
+    "summary": "OpenAI says its latest model offers increased capabilities across a broad variety of categories.",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘super app’",
+    "summary": "OpenAI says its latest model offers increased capabilities across a broad variety of categories.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘super app’",
+      "link": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
+      "published": "2026-04-24 03:29:29+09:00",
+      "summary": "OpenAI says its latest model offers increased capabilities across a broad variety of categories.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "NEC、Anthropicと協業　「Claude Cowork」活用の業務特化型ソリューションを共同開発",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2604/24/news072.html",
+      "published": "2026-04-24 09:20:00+09:00",
+      "summary": "NECがAnthropicとの協業開始を発表した。「Claude Cowork」を活用した業種別、業務特化型のAIソリューションを共同で開発する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Anthropic、「Claude Code」の品質低下問題を修正　全サブスクユーザーの使用制限枠をリセット",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2604/24/news073.html",
+      "published": "2026-04-24 09:16:00+09:00",
+      "summary": "Anthropicは、「Claude Code」の品質低下を招いた3つの技術的要因を特定し、修正したと発表した。デフォルトの推論エフォート変更、キャッシュ最適化のバグ、システムプロンプトによる過度な文字数制限が原因だった。全サブスクユーザーの使用制限枠をリセットし、今後はテスト体制の強化と透明性の高い情報発信に努める方針だ。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "“ドラえもんのような世界”目指す　富士通が米中に伍するための“フィジカルAI”戦略の正体",
+      "link": "https://www.itmedia.co.jp/business/articles/2604/24/news057.html",
+      "published": "2026-04-24 07:00:00+09:00",
+      "summary": "富士通が「フィジカルAI」の研究戦略を発表した。2030年に“ドラえもんのような世界”を目指すという。激化するフィジカルAI開発競争をどう乗り越えるのか。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "「開発時間70％削減」「新機能リリース24→5日に短縮」　Claude Codeが開発者に選ばれる、納得の理由",
+      "link": "https://www.itmedia.co.jp/business/articles/2604/24/news018.html",
+      "published": "2026-04-24 07:00:00+09:00",
+      "summary": "OpenAIに代わって台頭し始めたAnthropic。同社の生成AI「Claude Code」によって成果を上げる企業が登場している。本稿では、楽天とマネーフォワードの活用方法を紹介する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
