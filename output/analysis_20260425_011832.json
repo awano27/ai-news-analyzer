@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "政府AI「源内」オープンソース化　GitHubで公開、商用利用もOK　民間と共創へ",
+    "link": "https://www.itmedia.co.jp/aiplus/articles/2604/24/news103.html",
+    "published": "2026-04-24 14:42:00+09:00",
+    "summary": "民間の提案を積極的に取り入れつつ、政府機関などでの重複開発を抑制する。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 4
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "政府AI「源内」オープンソース化　GitHubで公開、商用利用もOK　民間と共創へ",
+    "summary": "民間の提案を積極的に取り入れつつ、政府機関などでの重複開発を抑制する。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 4,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "政府AI「源内」オープンソース化　GitHubで公開、商用利用もOK　民間と共創へ",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2604/24/news103.html",
+      "published": "2026-04-24 14:42:00+09:00",
+      "summary": "民間の提案を積極的に取り入れつつ、政府機関などでの重複開発を抑制する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "Three reasons why DeepSeek’s new model matters",
+      "link": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
+      "published": "2026-04-25 06:40:58+09:00",
+      "summary": "On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts than its last generation, thanks to a new design that helps it handle large amounts of text more efficiently. Like DeepSeek’s previous models, V4 is open source, meaning it is available…",
+      "source": "MIT Technology Review AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "発表の2日前に決まった――NECとAnthropicが“電撃的協業”　3週間のスピード協議の舞台裏",
+      "link": "https://www.itmedia.co.jp/business/articles/2604/24/news111.html",
+      "published": "2026-04-24 16:30:00+09:00",
+      "summary": "NECとAI企業Anthropicが協業を発表した。具体的な内容が決まったのは、発表の2日前だという。電撃的な協業の舞台裏をのぞく。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "「DeepSeek-V4」登場　オープンながら“世界トップのクローズドモデルに匹敵”うたう",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2604/24/news100.html",
+      "published": "2026-04-24 14:03:00+09:00",
+      "summary": "中国DeepSeekは、オープンウェイトのAIモデル「DeepSeek-V4」プレビュー版を公開した。「世界トップクラスのクローズドモデルに匹敵するパフォーマンス」をうたう。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "「もうAIブラウザはいらない」　プロンプト要らずのブラウザ操作AI「Copelf」リリース",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2604/24/news049.html",
+      "published": "2026-04-24 13:00:00+09:00",
+      "summary": "コーレは、プロンプトを使わずにAIが操作手順を生成し、Webブラウザ操作を自動実行するツール「Copelf」をリリースした。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
