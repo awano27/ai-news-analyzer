@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "To buy this Bay Area home, you’ll need Anthropic equity",
+    "link": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
+    "published": "2026-04-27 00:30:00+09:00",
+    "summary": "Someone’s offering an unusual deal for a 13-acre property in Mill Valley, just north of South Francisco.",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 0
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "To buy this Bay Area home, you’ll need Anthropic equity",
+    "summary": "Someone’s offering an unusual deal for a 13-acre property in Mill Valley, just north of South Francisco.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 0,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "To buy this Bay Area home, you’ll need Anthropic equity",
+      "link": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
+      "published": "2026-04-27 00:30:00+09:00",
+      "summary": "Someone’s offering an unusual deal for a 13-acre property in Mill Valley, just north of South Francisco.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Our principles",
+      "link": "https://openai.com/index/our-principles",
+      "published": "2026-04-27 01:00:00+09:00",
+      "summary": "Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares five principles that guide our work.",
+      "source": "OpenAI Blog",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "空前のAIブーム！「猫も杓子もAI」な現状は今後も続くのか？【前編】",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2604/27/news010.html",
+      "published": "2026-04-27 08:00:00+09:00",
+      "summary": "近年「製品セキュリティ」と呼ばれ始めたセキュリティの新分野に関する事象を紹介し考察する本連載。今回は、連載テーマである「製品セキュリティ」から多少は逸脱するが、IT革命以来の世界を革新するものと世論に目されているAIのこれまでと今後について述べる。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 0
+    },
+    {
+      "title": "まるで外商？　三越伊勢丹がECで強化する「パーソナライズAI」　効果は？",
+      "link": "https://www.itmedia.co.jp/business/articles/2604/27/news018.html",
+      "published": "2026-04-27 08:00:00+09:00",
+      "summary": "三越伊勢丹のEC強化施策の一つにパーソナライズAI機能がある。AIを活用し、これまでのよくあるおすすめ機能から、百貨店の強みを生かした機能へと進化させたという。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 0
+    },
+    {
+      "title": "「年間120万時間削減」　丸紅の生成AI活用が成果を出せる「4つの理由」",
+      "link": "https://www.itmedia.co.jp/business/articles/2604/27/news046.html",
+      "published": "2026-04-27 08:00:00+09:00",
+      "summary": "総合商社・丸紅がDXに取り組む理由は「事業を成長させるため」と、とてもシンプルだ。情報、物流、食料、金属、エネルギーなど事業領域は多岐にわたる同社がDXで成果を出せる理由を語る。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
