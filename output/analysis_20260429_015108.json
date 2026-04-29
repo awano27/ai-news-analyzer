@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Amazon launches an AI-powered audio Q&A experience on product pages",
+    "link": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/",
+    "published": "2026-04-29 03:49:54+09:00",
+    "summary": "Amazon's new \"Join the chat\" feature lets you ask questions about products and receive AI-powered audio responses.",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Amazon launches an AI-powered audio Q&A experience on product pages",
+    "summary": "Amazon's new \"Join the chat\" feature lets you ask questions about products and receive AI-powered audio responses.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Amazon launches an AI-powered audio Q&A experience on product pages",
+      "link": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/",
+      "published": "2026-04-29 03:49:54+09:00",
+      "summary": "Amazon's new \"Join the chat\" feature lets you ask questions about products and receive AI-powered audio responses.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "ClaudeでBlenderやPhotoshopを直接制御　Anthropicがクリエイティブ向け新コネクタ8件公開",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2604/29/news027.html",
+      "published": "2026-04-29 09:01:00+09:00",
+      "summary": "Anthropicは、ClaudeにAdobe PhotoshopやBlenderなどと連携する8種類のクリエイティブ系「コネクタ」を導入した。AIが反復作業やデータ同期を担うことで、クリエイターは手動の工程を省き、迅速なアイデア創出が可能になるとしている。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "DeNAやGOなど、AI勉強会の資料を無料公開中　累計100件超",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2604/28/news106.html",
+      "published": "2026-04-28 17:48:00+09:00",
+      "summary": "ディー・エヌ・エー（DeNA）と、GO、GOドライブは、3社のAIエンジニアが集うAI勉強会の資料を無料公開している。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "At his OpenAI trial, Musk relitigates an old friendship",
+      "link": "https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/",
+      "published": "2026-04-29 09:40:16+09:00",
+      "summary": "It's a story Musk has told before -- in interviews and to author Walter Isaacson for his bestselling biography of Musk -- but Tuesday was the first time he said it under oath.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Amazon is already offering new OpenAI products on AWS",
+      "link": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
+      "published": "2026-04-29 04:48:02+09:00",
+      "summary": "A day after OpenAI got Microsoft to agree to end exclusive rights, AWS announced a slate of OpenAI model offerings, including a new agent service.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
