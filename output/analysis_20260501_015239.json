@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico",
+    "link": "https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico/",
+    "published": "2026-05-01 03:20:03+09:00",
+    "summary": "OpenAI is launching additional opt-in protections for ChatGPT accounts. The new security initiative includes a new partnership with security key provider Yubico.",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico",
+    "summary": "OpenAI is launching additional opt-in protections for ChatGPT accounts. The new security initiative includes a new partnership with security key provider Yubico.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico",
+      "link": "https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico/",
+      "published": "2026-05-01 03:20:03+09:00",
+      "summary": "OpenAI is launching additional opt-in protections for ChatGPT accounts. The new security initiative includes a new partnership with security key provider Yubico.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "X announces a rebuilt ad platform powered by AI",
+      "link": "https://techcrunch.com/2026/04/30/x-announces-a-rebuilt-ad-platform-powered-by-ai/",
+      "published": "2026-05-01 00:14:55+09:00",
+      "summary": "X is rolling out a rebuilt ads platform powered by AI as it works to grow revenue again.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Spotifyが人間アーティスト認証バッジ導入──AI生成コンテンツとの識別を強化",
+      "link": "https://www.itmedia.co.jp/news/articles/2605/01/news065.html",
+      "published": "2026-05-01 09:30:00+09:00",
+      "summary": "Spotifyは、人間のアーティストであることを示す認証バッジ「Verified by Spotify」の導入を発表した。認証にはリスナーの持続的な支持などの実在証跡が必要で、AIアーティストは対象外。判定にはアルゴリズムと人間によるレビューを組み合わせる。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Google搭載車でも「Gemini」　自然な会話でナビやメッセージ送信が可能に",
+      "link": "https://www.itmedia.co.jp/news/articles/2605/01/news063.html",
+      "published": "2026-05-01 08:51:00+09:00",
+      "summary": "Googleは、「Android OS」を車両に直接組み込んだ「Google搭載車」向けに、AIアシスタント「Gemini」の提供を開始すると発表した。従来のGoogleアシスタントに代わり、自然な会話形式でナビやメッセージ管理、音楽再生、車両設定の変更などが行えるようになる。まずは米国の英語ユーザーから展開し、順次拡大していく計画だ。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "クレカ番号入力なし、エージェントがドメイン購入からデプロイまでこなす時代へ　Cloudflare新機能",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2604/30/news105.html",
+      "published": "2026-04-30 15:42:00+09:00",
+      "summary": "Cloudflareは、AIエージェントが同サービスアカウントの作成や課金、ドメイン登録、デプロイまで実行できるようになる新機能を発表。規約への同意などを除き、手作業が不要になるという。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
