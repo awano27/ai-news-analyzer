@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "AI-generated actors and scripts are now ineligible for Oscars",
+    "link": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
+    "published": "2026-05-03 06:54:58+09:00",
+    "summary": "Bad news for Tilly Norwood.",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 0
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "AI-generated actors and scripts are now ineligible for Oscars",
+    "summary": "Bad news for Tilly Norwood.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 0,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "AI-generated actors and scripts are now ineligible for Oscars",
+      "link": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
+      "published": "2026-05-03 06:54:58+09:00",
+      "summary": "Bad news for Tilly Norwood.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "The best AI dictation apps, tested and ranked",
+      "link": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
+      "published": "2026-05-03 01:00:00+09:00",
+      "summary": "AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "アクセンチュアが日本精工と戦略提携　AIで間接業務改革、製造現場の自動化も",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2605/03/news018.html",
+      "published": "2026-05-03 08:00:00+09:00",
+      "summary": "アクセンチュアがベアリングに強みを持つ日本精工と戦略的パートナーシップ契約を結んだ。間接業務をAIで効率化しつつ、新商品開発や製造現場の自動化に取り組む。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 0
+    },
+    {
+      "title": "生成AI導入の失敗パターン10選！回避チェックリストも紹介",
+      "link": "https://ainow.ai/2026/05/02/278034/?utm_source=rss&utm_medium=rss&utm_campaign=%25e7%2594%259f%25e6%2588%2590ai%25e5%25b0%258e%25e5%2585%25a5%25e3%2581%25ae%25e5%25a4%25b1%25e6%2595%2597%25e3%2583%2591%25e3%2582%25bf%25e3%2583%25bc%25e3%2583%25b310%25e9%2581%25b8%25ef%25bc%2581%25e5%259b%259e%25e9%2581%25bf%25e3%2583%2581%25e3%2582%25a7%25e3%2583%2583%25e3%2582%25af%25e3%2583%25aa%25e3%2582%25b9",
+      "published": "2026-05-02 23:22:22+09:00",
+      "summary": "生成AI導入の失敗は、戦略・組織・技術・運用の4層で連鎖的に発生し、10のパターンに整理できます。 MIT Project NANDAが2025年7月に公表した「The GenAI Divide」レポートでは、企業の生成... The post 生成AI導入の失敗パターン10選！回避チェックリストも紹介 first appeared on AI専門ニュースメディア AINOW .",
+      "source": "AINOW",
+      "language": "ja",
+      "preliminary_score": 0
+    },
+    {
+      "title": "生成AI導入のフォローアップを成功させる7施策！期間別ロードマップも紹介",
+      "link": "https://ainow.ai/2026/05/02/278030/?utm_source=rss&utm_medium=rss&utm_campaign=%25e7%2594%259f%25e6%2588%2590ai%25e5%25b0%258e%25e5%2585%25a5%25e3%2581%25ae%25e3%2583%2595%25e3%2582%25a9%25e3%2583%25ad%25e3%2583%25bc%25e3%2582%25a2%25e3%2583%2583%25e3%2583%2597%25e3%2582%2592%25e6%2588%2590%25e5%258a%259f%25e3%2581%2595%25e3%2581%259b%25e3%2582%258b7%25e6%2596%25bd%25e7%25ad%2596%25ef%25bc%2581",
+      "published": "2026-05-02 22:42:09+09:00",
+      "summary": "生成AI導入のフォローアップとは、研修やライセンス配布で終わらせず、利用率と業務成果を上げ続けるための継続支援です。 マクロミル調査では生成AIを導入した企業の62.9%が「期待した効果を得られていない」と回答しており、... The post 生成AI導入のフォローアップを成功させる7施策！期間別ロードマップも紹介 first appeared on AI専門ニュースメディア AINOW .",
+      "source": "AINOW",
+      "language": "ja",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
