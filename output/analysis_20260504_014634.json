@@ -1,0 +1,53 @@
+{
+  "article": {
+    "title": "‘This is fine’ creator says AI startup stole his art",
+    "link": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
+    "published": "2026-05-04 05:16:51+09:00",
+    "summary": "The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\"",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 0
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "‘This is fine’ creator says AI startup stole his art",
+    "summary": "The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\"",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 0,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "‘This is fine’ creator says AI startup stole his art",
+      "link": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
+      "published": "2026-05-04 05:16:51+09:00",
+      "summary": "The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\"",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
+      "link": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
+      "published": "2026-05-04 03:00:09+09:00",
+      "summary": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one model seemed to be more accurate than human doctors.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "生成AI導入の予算申請を通す7ステップ！ROI計算・稟議書テンプレも",
+      "link": "https://ainow.ai/2026/05/03/278038/?utm_source=rss&utm_medium=rss&utm_campaign=%25e7%2594%259f%25e6%2588%2590ai%25e5%25b0%258e%25e5%2585%25a5%25e3%2581%25ae%25e4%25ba%2588%25e7%25ae%2597%25e7%2594%25b3%25e8%25ab%258b%25e3%2582%2592%25e9%2580%259a%25e3%2581%25997%25e3%2582%25b9%25e3%2583%2586%25e3%2583%2583%25e3%2583%2597%25ef%25bc%2581roi%25e8%25a8%2588%25e7%25ae%2597%25e3%2583%25bb%25e7%25a8%259f",
+      "published": "2026-05-03 15:00:00+09:00",
+      "summary": "「生成AIの予算を取ってこい」と経営層から指示されたものの、項目の積算方法・ROI試算・稟議書の書き方の型が分からず、提案資料の作成が止まっている推進担当者は少なくありません。 稟議書の書き方を誤ると、財務部門・経営層か... The post 生成AI導入の予算申請を通す7ステップ！ROI計算・稟議書テンプレも first appeared on AI専門ニュースメディア AINOW .",
+      "source": "AINOW",
+      "language": "ja",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
