@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Anthropic、金融業界向けに10種のAIエージェントテンプレートを公開",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/06/news023.html",
+    "published": "2026-05-06 07:53:00+09:00",
+    "summary": "Anthropicは、金融サービス企業向けに10種類のAIエージェントテンプレートを公開した。投資銀行などの専門家を対象に、ピッチブック作成や監査などの業務を支援する。Microsoft 365との連携強化や、外部データプロバイダーとの接続も発表した。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 4
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Anthropic、金融業界向けに10種のAIエージェントテンプレートを公開",
+    "summary": "Anthropicは、金融サービス企業向けに10種類のAIエージェントテンプレートを公開した。投資銀行などの専門家を対象に、ピッチブック作成や監査などの業務を支援する。Microsoft 365との連携強化や、外部データプロバイダーとの接続も発表した。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 4,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Anthropic、金融業界向けに10種のAIエージェントテンプレートを公開",
+      "link": "https://www.itmedia.co.jp/news/articles/2605/06/news023.html",
+      "published": "2026-05-06 07:53:00+09:00",
+      "summary": "Anthropicは、金融サービス企業向けに10種類のAIエージェントテンプレートを公開した。投資銀行などの専門家を対象に、ピッチブック作成や監査などの業務を支援する。Microsoft 365との連携強化や、外部データプロバイダーとの接続も発表した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
+      "link": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
+      "published": "2026-05-06 02:00:00+09:00",
+      "summary": "The company said the model reduces hallucination in sensitive areas such as law, medicine, and finance, while maintaining the low latency of its predecessor.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Etsy launches its app within ChatGPT as it continues its AI push",
+      "link": "https://techcrunch.com/2026/05/05/etsy-launches-its-app-within-chatgpt-as-it-continues-its-ai-push/",
+      "published": "2026-05-06 00:31:37+09:00",
+      "summary": "Etsy's new native app within ChatGPT aims to be a conversational  shopping experience for users.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "OpenAI、ChatGPTの新デフォルトモデル「GPT-5.5 Instant」　回答の根拠をユーザーが確認・管理可能に",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2605/06/news022.html",
+      "published": "2026-05-06 07:00:00+09:00",
+      "summary": "OpenAIは次世代の標準モデル「GPT-5.5 Instant」をリリースした。前モデルの低遅延を維持しつつ、専門分野でのハルシネーションを大幅に削減。過去のチャットやGmail等を活用した高度なパーソナライズ機能や、回答の根拠を確認する新機能も導入された。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
+      "link": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
+      "published": "2026-05-06 08:50:10+09:00",
+      "summary": "SAP plans to buy German AI startup Prior Labs and invest heavily in it. It is also prohibiting customers' agents use to a select few like Nvidia's NemoClaw.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
