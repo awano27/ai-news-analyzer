@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "xAIはSpaceXのAI部門「SpaceXAI」に　イーロン・マスク氏がXで明らかに",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/07/news049.html",
+    "published": "2026-05-07 07:49:00+09:00",
+    "summary": "イーロン・マスク氏は、xAIを独立した会社として解散し、SpaceXのAI部門「SpaceXAI」へ統合すると発表した。Anthropicにデータセンター「Colossus 1」を利用させる契約の発表も、SpaceXAIが主体になっている。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "xAIはSpaceXのAI部門「SpaceXAI」に　イーロン・マスク氏がXで明らかに",
+    "summary": "イーロン・マスク氏は、xAIを独立した会社として解散し、SpaceXのAI部門「SpaceXAI」へ統合すると発表した。Anthropicにデータセンター「Colossus 1」を利用させる契約の発表も、SpaceXAIが主体になっている。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "xAIはSpaceXのAI部門「SpaceXAI」に　イーロン・マスク氏がXで明らかに",
+      "link": "https://www.itmedia.co.jp/news/articles/2605/07/news049.html",
+      "published": "2026-05-07 07:49:00+09:00",
+      "summary": "イーロン・マスク氏は、xAIを独立した会社として解散し、SpaceXのAI部門「SpaceXAI」へ統合すると発表した。Anthropicにデータセンター「Colossus 1」を利用させる契約の発表も、SpaceXAIが主体になっている。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.",
+      "link": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
+      "published": "2026-05-07 06:57:56+09:00",
+      "summary": "Barry Diller defended OpenAI CEO Sam Altman, while warning that AGI remains an unpredictable force needing guardrails.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Snap says its $400M deal with Perplexity ‘amicably ended’",
+      "link": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
+      "published": "2026-05-07 06:43:24+09:00",
+      "summary": "The deal, announced last November, would have seen Perplexity's AI search engine integrated directly into Snapchat.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Is xAI a neocloud now?",
+      "link": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
+      "published": "2026-05-07 06:32:55+09:00",
+      "summary": "xAI's real business may be more about building data centers than training AI models.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "How Elon Musk left OpenAI, according to Greg Brockman",
+      "link": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/",
+      "published": "2026-05-07 03:23:54+09:00",
+      "summary": "Cutthroat negotiations between startup founders are rarely shared so publicly, especially when a company becomes as world-changing as OpenAI.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
