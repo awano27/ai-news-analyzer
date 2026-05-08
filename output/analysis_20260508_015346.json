@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "OpenAI launches new voice intelligence features in its API",
+    "link": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
+    "published": "2026-05-08 07:24:50+09:00",
+    "summary": "The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fields, including education and creator platforms.",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "OpenAI launches new voice intelligence features in its API",
+    "summary": "The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fields, including education and creator platforms.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "OpenAI launches new voice intelligence features in its API",
+      "link": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
+      "published": "2026-05-08 07:24:50+09:00",
+      "summary": "The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fields, including education and creator platforms.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "China’s Moonshot AI raises $2B at $20B valuation as demand for open source AI skyrockets",
+      "link": "https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/",
+      "published": "2026-05-07 22:44:25+09:00",
+      "summary": "Moonshot's annualized recurring revenue topped $200 million in April, driven by rapid growth in paid subscriptions and API usage.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "OpenAI、次世代音声API群を発表──推論・翻訳・文字起こしをリアルタイムで処理",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2605/08/news057.html",
+      "published": "2026-05-08 09:08:00+09:00",
+      "summary": "OpenAIは、Realtime API向けの次世代音声機能群を発表した。GPT-5クラスの推論力を備えた「GPT-Realtime-2」、多言語同時通訳の「GPT-Realtime-Translate」、即時文字起こしの「GPT-Realtime-Whisper」が含まれる。音声を自然なインタフェースとして普及させ、高度な音声アシスタント構築を支援する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "「ChatGPT」に緊急連絡先機能「Trusted Contact」登場　自殺リスク検知で通知",
+      "link": "https://www.itmedia.co.jp/news/articles/2605/08/news054.html",
+      "published": "2026-05-08 08:05:00+09:00",
+      "summary": "OpenAIは、「ChatGPT」にメンタルヘルスの懸念が生じた際に信頼できる人物へ通知する安全機能「Trusted Contact」を追加した。18歳以上の個人ユーザーが対象で、AIと人間が深刻なリスクを検知した場合にのみユーザーが指定した連絡先へ安否確認を促す。会話の詳細は非公開で、現実のサポートへの橋渡しを目的とする。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "AIの影響で約14％の人員削減、暗号資産取引の米Coinbase",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2605/08/news044.html",
+      "published": "2026-05-08 07:00:00+09:00",
+      "summary": "暗号資産取引所を運営する米Coinbaseは、約14％の人員を削減すると発表した。AIによって働き方が変化したことなどを理由に挙げている。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
