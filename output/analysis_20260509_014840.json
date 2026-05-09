@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Spotify、AI生成の音声コンテンツを保存できるCLIツール「Save to Spotify」公開",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/08/news059.html",
+    "published": "2026-05-08 10:55:00+09:00",
+    "summary": "Spotifyは、AIエージェントが生成した音声コンテンツをライブラリに保存・再生できる新機能「Save to Spotify」を発表した。CLIツールを利用し、AIによる要約やメモを非公開のポッドキャストとしてライブラリに追加できる。「OpenClaw」「Claude Code」「OpenAI Codex」などと連携し、アップロードやメタデータ付与までを自動で行う機能だ。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 4
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Spotify、AI生成の音声コンテンツを保存できるCLIツール「Save to Spotify」公開",
+    "summary": "Spotifyは、AIエージェントが生成した音声コンテンツをライブラリに保存・再生できる新機能「Save to Spotify」を発表した。CLIツールを利用し、AIによる要約やメモを非公開のポッドキャストとしてライブラリに追加できる。「OpenClaw」「Claude Code」「OpenAI Codex」などと連携し、アップロードやメタデータ付与までを自動で行う機能だ。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 4,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Spotify、AI生成の音声コンテンツを保存できるCLIツール「Save to Spotify」公開",
+      "link": "https://www.itmedia.co.jp/news/articles/2605/08/news059.html",
+      "published": "2026-05-08 10:55:00+09:00",
+      "summary": "Spotifyは、AIエージェントが生成した音声コンテンツをライブラリに保存・再生できる新機能「Save to Spotify」を発表した。CLIツールを利用し、AIによる要約やメモを非公開のポッドキャストとしてライブラリに追加できる。「OpenClaw」「Claude Code」「OpenAI Codex」などと連携し、アップロードやメタデータ付与までを自動で行う機能だ。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "国立国会図書館、「AI動向」に関する調査資料を無料公開中",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2605/08/news109.html",
+      "published": "2026-05-08 17:28:00+09:00",
+      "summary": "国立国会図書館が公式Xアカウントで、「AIを巡る動き」をテーマに、関連する調査資料をまとめて紹介している。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Apple、390億円の和解金支払いで合意　AI機能の開発遅れに関する集団訴訟で",
+      "link": "https://www.itmedia.co.jp/news/articles/2605/08/news100.html",
+      "published": "2026-05-08 17:05:00+09:00",
+      "summary": "音声アシスタント「Siri」のAI機能の誇大広告を巡る集団訴訟について、米Appleが2億5000万ドル（約390億円）の支払いで合意する和解案を米国の裁判所へ提出した。2024年に発表したAIプラットフォーム「Apple Intelligence」の開発遅れに関するもので、同社は今後、和解の対象となる米国の消費者に対して端末1台につき基本25ドルを支払うとしている。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "メローニ伊首相がAI生成とみられる自身の下着姿投稿　捏造画像通し「危険なツール」と警告",
+      "link": "https://www.itmedia.co.jp/news/articles/2605/08/news086.html",
+      "published": "2026-05-08 14:00:00+09:00",
+      "summary": "イタリアのメローニ首相が、AIの合成で作られたとみられる自身の下着姿の写真を、自らのSNSで公開し、虚偽画像が捏造される危険性について警告した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "「ウォーターマークを入れたい絵描きなんていない」──AI推進企業のコロプラがクリエイター保護ツール「CCP」を作ったワケ",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2605/08/news073.html",
+      "published": "2026-05-08 12:30:00+09:00",
+      "summary": "AI活用を推進するコロプラが、クリエイター作品を生成AIの“無断学習”から保護する無料アプリ「COLOPL Contents Protector（CCP）」をリリースした。AIを積極的に使いながら、同時にAIから作品を守るツールも作る。この背景にある考え方を、菅井健太CIO（上席執行役員）と、CCPの開発を担当した工藤剛氏に聞いた。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
