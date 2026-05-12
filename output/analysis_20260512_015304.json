@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "“ChatGPT以後”に公開のWebサイト、35％がAI生成に？　米スタンフォード大などが調査　広まる「不自然に明るい文章」",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/11/news027.html",
+    "published": "2026-05-11 12:50:00+09:00",
+    "summary": "英インペリアル・カレッジ・ロンドンや米国の非営利団体Internet Archive、米スタンフォード大学に所属する研究者らが発表した論文「The Impact of AI-Generated Text on the Internet」は、インターネット上のAI生成テキストの割合と、それがもたらす真の影響を明らかにした研究報告だ。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 4
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "“ChatGPT以後”に公開のWebサイト、35％がAI生成に？　米スタンフォード大などが調査　広まる「不自然に明るい文章」",
+    "summary": "英インペリアル・カレッジ・ロンドンや米国の非営利団体Internet Archive、米スタンフォード大学に所属する研究者らが発表した論文「The Impact of AI-Generated Text on the Internet」は、インターネット上のAI生成テキストの割合と、それがもたらす真の影響を明らかにした研究報告だ。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 4,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "“ChatGPT以後”に公開のWebサイト、35％がAI生成に？　米スタンフォード大などが調査　広まる「不自然に明るい文章」",
+      "link": "https://www.itmedia.co.jp/news/articles/2605/11/news027.html",
+      "published": "2026-05-11 12:50:00+09:00",
+      "summary": "英インペリアル・カレッジ・ロンドンや米国の非営利団体Internet Archive、米スタンフォード大学に所属する研究者らが発表した論文「The Impact of AI-Generated Text on the Internet」は、インターネット上のAI生成テキストの割合と、それがもたらす真の影響を明らかにした研究報告だ。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "Fostering breakthrough AI innovation through customer-back engineering",
+      "link": "https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/",
+      "published": "2026-05-11 22:33:06+09:00",
+      "summary": "Despite years of digitization, organizations capture less than one-third of the value expected from digital investments, according to McKinsey research. That’s because most big companies begin with technological capabilities and bolt applications onto them, rather than starting with customer needs and working backward to technology solutions. Not prioritizing the customer can create fragmented solutions; disjointed…",
+      "source": "MIT Technology Review AI",
+      "language": "en",
+      "preliminary_score": 3
+    },
+    {
+      "title": "NECが独自AIを活用した「世界初」の変換技術を開発　3D点群データを90％軽量化",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2605/12/news045.html",
+      "published": "2026-05-12 09:00:00+09:00",
+      "summary": "NECは、独自AIとガウシアンスプラッティングを活用し、データ容量が大きく細部を把握しづらい3D点群データを、軽量で高精細な3Dデータへ容易に変換する「世界初」（同社）の技術を開発した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 3
+    },
+    {
+      "title": "OpenAI launches DeployCo to help businesses build around intelligence",
+      "link": "https://openai.com/index/openai-launches-the-deployment-company",
+      "published": "2026-05-11 15:00:00+09:00",
+      "summary": "OpenAI launches DeployCo, a new enterprise deployment company built to help organizations bring frontier AI into production and turn it into measurable business impact.",
+      "source": "OpenAI Blog",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "AIの「倫理的に不適切な選択」はSF作品の暴走AIを模倣していた──Anthropicが解決手法を公開",
+      "link": "https://www.itmedia.co.jp/news/articles/2605/11/news080.html",
+      "published": "2026-05-11 21:40:00+09:00",
+      "summary": "AIが指示された目標を達成するために不適切な手段を選択する事象について、Anthropicが発生要因と事象を抑制するための新たな訓練手法を公開した。AIがエンジニアを脅迫してシステムの停止を回避するなどといった問題行動に対し「なぜその行動が正しいのか」という倫理的な理由を教えることで発生率を低減させた。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
