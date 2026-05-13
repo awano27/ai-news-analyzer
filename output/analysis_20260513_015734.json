@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "高度なkintoneカスタマイズを専門知識なしで　AIでシステム改善できる新サービス",
+    "link": "https://kn.itmedia.co.jp/kn/articles/2605/13/news057.html",
+    "published": "2026-05-13 07:00:00+09:00",
+    "summary": "ジョイゾーは、生成AI活用サービス「スキル39」を発表した。業務部門の担当者がAIに直接指示を出しながら、kintoneの改修やシステム連携を自ら継続的に進められる仕組みを提供する。併せて、先行実証モニター企業2社の募集も開始した。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "高度なkintoneカスタマイズを専門知識なしで　AIでシステム改善できる新サービス",
+    "summary": "ジョイゾーは、生成AI活用サービス「スキル39」を発表した。業務部門の担当者がAIに直接指示を出しながら、kintoneの改修やシステム連携を自ら継続的に進められる仕組みを提供する。併せて、先行実証モニター企業2社の募集も開始した。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "高度なkintoneカスタマイズを専門知識なしで　AIでシステム改善できる新サービス",
+      "link": "https://kn.itmedia.co.jp/kn/articles/2605/13/news057.html",
+      "published": "2026-05-13 07:00:00+09:00",
+      "summary": "ジョイゾーは、生成AI活用サービス「スキル39」を発表した。業務部門の担当者がAIに直接指示を出しながら、kintoneの改修やシステム連携を自ら継続的に進められる仕組みを提供する。併せて、先行実証モニター企業2社の募集も開始した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "OpenAI、企業のAI導入を支援する新会社設立　6000億円投資とAIコンサル買収で資金と人員を確保",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2605/12/news064.html",
+      "published": "2026-05-12 11:01:00+09:00",
+      "summary": "OpenAIが企業のAI導入を支援する新会社「OpenAI Deployment Company」の設立を発表した。19社の設立パートナーと共にAIの社会実装を加速させる狙いだ。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Medicare’s new payment model is built for AI, and most of the tech world has no idea",
+      "link": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
+      "published": "2026-05-13 09:26:48+09:00",
+      "summary": "There is no governmental mechanism to pay for an AI agent that monitors a patient between visits, calls to check in, coordinates a housing referral, or makes sure someone picks up their medication. ACCESS creates that mechanism for the first time.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Musk mulled handing OpenAI to his children, Altman testifies",
+      "link": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
+      "published": "2026-05-13 03:05:15+09:00",
+      "summary": "Altman said that Musk's focus on controlling the initial for-profit gave him pause because OpenAI was dedicated to keeping advanced AI out of the hands of a single person, and Altman, with his experience running the prominent startup accelerator Y Combinator, knew \"founders who had control usually did not give it up.\"",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Anthropic warns investors against secondary platforms offering access to its shares",
+      "link": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/",
+      "published": "2026-05-13 02:36:34+09:00",
+      "summary": "\"Any sale or transfer of Anthropic stock, or any interest in Anthropic stock, offered by these firms is void and will not be recognized on our books and records,\" the company's support page reads.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
