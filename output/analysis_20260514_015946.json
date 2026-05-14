@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Amazon launches an AI shopping assistant for the search bar, powered by Alexa+",
+    "link": "https://techcrunch.com/2026/05/13/amazon-launches-an-ai-shopping-assistant-for-the-search-bar-powered-by-alexa/",
+    "published": "2026-05-13 23:59:32+09:00",
+    "summary": "Alexa for Shopping offers a voice- and touch-enabled shopping experience across mobile, desktop, and Echo Show smart displays. Alexa for Shopping provides more personalized recommendations and automates the shopping experience across Amazon and other online retailers.",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Amazon launches an AI shopping assistant for the search bar, powered by Alexa+",
+    "summary": "Alexa for Shopping offers a voice- and touch-enabled shopping experience across mobile, desktop, and Echo Show smart displays. Alexa for Shopping provides more personalized recommendations and automates the shopping experience across Amazon and other online retailers.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Amazon launches an AI shopping assistant for the search bar, powered by Alexa+",
+      "link": "https://techcrunch.com/2026/05/13/amazon-launches-an-ai-shopping-assistant-for-the-search-bar-powered-by-alexa/",
+      "published": "2026-05-13 23:59:32+09:00",
+      "summary": "Alexa for Shopping offers a voice- and touch-enabled shopping experience across mobile, desktop, and Echo Show smart displays. Alexa for Shopping provides more personalized recommendations and automates the shopping experience across Amazon and other online retailers.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "AIブームでクラウドインフラ市場が年35％の急成長　上位3社のシェアには変動なし　2026年第1四半期、Synergy Research調査",
+      "link": "https://www.itmedia.co.jp/news/articles/2605/14/news077.html",
+      "published": "2026-05-14 10:41:00+09:00",
+      "summary": "調査会社の米Synergy Research Groupは、グローバルにおける2026年第1四半期のクラウドインフラの市場状況について調査結果を発表しました。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "OpenAI、Codexへの“乗り換えキャンペーン”開始　新規企業ユーザーは2カ月間無料",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2605/14/news075.html",
+      "published": "2026-05-14 10:39:00+09:00",
+      "summary": "OpenAIは「Codex」を新規で契約する企業向けに2カ月間の無料利用権を付与すると発表。新規契約だけでなく他社製品からの乗り換えを促すキャンペーンだと思われる。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Geminiがスマホを“自動操縦”　Google、Android向けAIエージェント「Gemini Intelligence」発表",
+      "link": "https://www.itmedia.co.jp/news/articles/2605/13/news136.html",
+      "published": "2026-05-13 20:45:00+09:00",
+      "summary": "Googleは5月12日、Androidの最新情報を紹介するイベント「The Android Show: I/O Edition」において、複数のスマートフォンアプリを横断してタスクを処理するAIエージェント「Gemini Intelligence」を公表した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "ソフトバンクG、最終利益5兆円超　「日本企業として史上最高」　OpenAIへの投資利益などけん引",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2605/13/news128.html",
+      "published": "2026-05-13 17:29:00+09:00",
+      "summary": "ソフトバンクグループ（SBG）は5月13日、同社の2026年3月期連結決算（25年4月1日～26年3月31日）の純利益が5兆22億7100万円（前年同期比333.7％増）だったと発表した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
