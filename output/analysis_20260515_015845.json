@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
+    "link": "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/",
+    "published": "2026-05-15 04:05:01+09:00",
+    "summary": "A new open source gadget called Clawdmeter turns Claude Code usage stats into a tiny desktop dashboard for AI coding power users.",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
+    "summary": "A new open source gadget called Clawdmeter turns Claude Code usage stats into a tiny desktop dashboard for AI coding power users.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
+      "link": "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/",
+      "published": "2026-05-15 04:05:01+09:00",
+      "summary": "A new open source gadget called Clawdmeter turns Claude Code usage stats into a tiny desktop dashboard for AI coding power users.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "AIデータセンター建設に米国民の7割が反対──Gallup調べ",
+      "link": "https://www.itmedia.co.jp/news/articles/2605/15/news066.html",
+      "published": "2026-05-15 09:44:00+09:00",
+      "summary": "米世論調査企業のGallupは、居住地域でのAIデータセンター建設に対し、米国民の7割以上が反対しているとの調査結果を発表した。反対理由として資源の過剰消費や公共料金への影響が挙げられ、支持派を大きく上回っている。この強い反対姿勢は今後のインフラ拡大における大きな障壁となると分析している。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "AIエージェントが2D図面を読図して3D化、renueが図面SaaSを機能強化",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2605/15/news019.html",
+      "published": "2026-05-15 09:00:00+09:00",
+      "summary": "renueは、図面SaaS「Drawing Agent」の機能アップデートを発表した。AIエージェントが図面ごとに適したツールを選択して読図し、2D図面から3Dモデルを生成する。さらに、最小限の設計情報から2D図面を自動生成する基盤も実装し、図面データが少ない領域への対応も進める。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Anthropicとゲイツ財団が提携　AIによる社会貢献に2億ドル拠出",
+      "link": "https://www.itmedia.co.jp/news/articles/2605/15/news064.html",
+      "published": "2026-05-15 08:42:00+09:00",
+      "summary": "AnthropicとGates Foundationは、AI関連のインフラやヘルスケア、教育分野を支援するため2億ドルを拠出すると発表した。市場原理ではAIが届きにくい低中所得国に対し、AIモデル「Claude」の利用クレジットや技術支援を提供する。ワクチン開発の加速や学習支援アプリの開発を通じ、AIを公平に活用できる環境を整える。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "アクセンチュアとGoogleが新プログラム　AI全社展開で「つまづく」企業を支援へ",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2605/15/news050.html",
+      "published": "2026-05-15 08:00:00+09:00",
+      "summary": "AIの試験導入が容易になる一方で、全社での展開には依然として「壁」がある。アクセンチュアとGoogle Cloudはこの「壁」を突破するための新プログラムを発表した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
