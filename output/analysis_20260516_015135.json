@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
+    "link": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
+    "published": "2026-05-16 01:00:00+09:00",
+    "summary": "Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments.",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
+    "summary": "Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
+      "link": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
+      "published": "2026-05-16 01:00:00+09:00",
+      "summary": "Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "OpenAI、「ChatGPT」に個人向け資産管理機能　金融口座と連携",
+      "link": "https://www.itmedia.co.jp/news/articles/2605/16/news027.html",
+      "published": "2026-05-16 07:59:00+09:00",
+      "summary": "OpenAIは、ChatGPTの新機能として個人向け資産管理機能のプレビュー版を米国のProプランユーザー向けにリリースした。金融データネットワークPlaidを介して銀行や証券などの口座と連携し、ダッシュボードでの資産管理や、実際の財務状況に基づいたパーソナライズされた相談が可能。将来的に全ユーザーへの拡大を計画している。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "動画生成AIのRunwayが日本進出、60億円超を投資　「日本は世界で最も洗練されたクリエイティブ産業持つ」とCEO",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2605/15/news108.html",
+      "published": "2026-05-15 20:18:00+09:00",
+      "summary": "動画生成AIなどを開発する米Runwayは5月14日（現地時間）、日本市場に本格進出すると発表した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "「中小企業向けClaude」登場　各種SaaSと連携し業務を代行",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2605/15/news094.html",
+      "published": "2026-05-15 15:03:00+09:00",
+      "summary": "Anthropicは「Claude Cowork」で利用できるプラグイン「Claude for Small Business」を発表。さまざまなSaaSと連携し、それらの操作を代行する機能を提供する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "「テキスト検索では限界」　リコーLMMは図表も扱える、“大型商用モデル並み”の実力",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2605/15/news038.html",
+      "published": "2026-05-15 13:00:00+09:00",
+      "summary": "リコーは、経済産業省とNEDOが実施するプロジェクト「GENIAC」第3期において、リーズニング性能を備えたマルチモーダル大規模言語モデルの開発を完了した。軽量モデルをHugging Faceで無償公開している。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
