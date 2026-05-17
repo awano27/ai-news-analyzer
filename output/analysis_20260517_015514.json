@@ -1,0 +1,53 @@
+{
+  "article": {
+    "title": "The haves and have nots of the AI gold rush",
+    "link": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
+    "published": "2026-05-17 05:17:16+09:00",
+    "summary": "The vibes around the current AI boom aren't great, even in the tech industry.",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 0
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "The haves and have nots of the AI gold rush",
+    "summary": "The vibes around the current AI boom aren't great, even in the tech industry.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 0,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "The haves and have nots of the AI gold rush",
+      "link": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
+      "published": "2026-05-17 05:17:16+09:00",
+      "summary": "The vibes around the current AI boom aren't great, even in the tech industry.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
+      "link": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
+      "published": "2026-05-17 03:54:28+09:00",
+      "summary": "ArXiv is doing more to crack down on the careless use of large language models in scientific papers.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
+      "link": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
+      "published": "2026-05-17 00:33:33+09:00",
+      "summary": "OpenAI's latest shakeup comes as the company reportedly plans to combine ChatGPT and its programming product Codex.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
