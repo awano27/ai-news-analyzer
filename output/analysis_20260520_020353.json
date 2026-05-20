@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Google、“動画版Nano Banana”こと「Gemini Omni」公開　会話で映像を生成・編集",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/20/news063.html",
+    "published": "2026-05-20 03:38:00+09:00",
+    "summary": "米Googleが開発者会議「Google I/O 2026」で、動画の生成・編集に対応するAIモデル「Gemini Omni」を発表した。自然言語による指示で動画を作成・編集でき、同社は「世界モデル」や画像生成モデル「Nano Banana」の動画版とうたう。最初のモデル「Gemini Omni Flash」の提供も開始した。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 4
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Google、“動画版Nano Banana”こと「Gemini Omni」公開　会話で映像を生成・編集",
+    "summary": "米Googleが開発者会議「Google I/O 2026」で、動画の生成・編集に対応するAIモデル「Gemini Omni」を発表した。自然言語による指示で動画を作成・編集でき、同社は「世界モデル」や画像生成モデル「Nano Banana」の動画版とうたう。最初のモデル「Gemini Omni Flash」の提供も開始した。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 4,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Google、“動画版Nano Banana”こと「Gemini Omni」公開　会話で映像を生成・編集",
+      "link": "https://www.itmedia.co.jp/news/articles/2605/20/news063.html",
+      "published": "2026-05-20 03:38:00+09:00",
+      "summary": "米Googleが開発者会議「Google I/O 2026」で、動画の生成・編集に対応するAIモデル「Gemini Omni」を発表した。自然言語による指示で動画を作成・編集でき、同社は「世界モデル」や画像生成モデル「Nano Banana」の動画版とうたう。最初のモデル「Gemini Omni Flash」の提供も開始した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "Google takes a page out of Meta’s book, announces new audio-powered smart glasses at IO 2026",
+      "link": "https://techcrunch.com/2026/05/19/google-takes-a-page-out-of-metas-book-announces-new-audio-powered-smart-glasses-at-io-2026/",
+      "published": "2026-05-20 04:15:31+09:00",
+      "summary": "Google is calling the new devices \"audio glasses,\" in that users will be able to issue verbal commands to them and get things done via its ecosystem of apps and services, including Gemini.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Google launches Antigravity 2.0 with an updated desktop app and CLI tool at IO 2026",
+      "link": "https://techcrunch.com/2026/05/19/google-launches-antigravity-2-0-with-an-updated-desktop-app-and-cli-tool-at-io-2026/",
+      "published": "2026-05-20 02:45:00+09:00",
+      "summary": "Google is debuting a new AI Ultra plan priced at $100, which will give users 5x more usage limit than the AI Pro plan alongside the Antigravity 2.0 launch.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Appleが5年がかりで開発したセキュリティ対策を5日で突破　「Mythos」が見せつけた脆弱性攻撃の威力",
+      "link": "https://www.itmedia.co.jp/news/articles/2605/19/news100.html",
+      "published": "2026-05-20 06:00:00+09:00",
+      "summary": "米セキュリティ企業のCalifが、米Appleが5年がかりで開発した最先端のセキュリティ対策「MIE」を突破するエクスプロイト（攻撃プログラム）を、わずか5日間で開発したと発表した。利用したのはAnthropicのAIモデル「Mythos」のプレビュー版だった。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "日立、Anthropicと提携　グループ29万人に「Claude」などAI導入　社会インフラ分野にも展開へ",
+      "link": "https://www.itmedia.co.jp/news/articles/2605/19/news120.html",
+      "published": "2026-05-19 21:30:00+09:00",
+      "summary": "日立製作所と米Anthropicが戦略的パートナーシップを締結した。Anthropicの生成AIサービス「Claude」など先進AIを日立グループ約29万人の全ビジネスプロセスに導入するほか、同社の社会インフラ向けソリューション群「HMAX by Hitachi」（HMAX）にも展開する。Anthropicを巡っては、4月にNECとの協業を発表。国内ITとの提携を進めている。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
