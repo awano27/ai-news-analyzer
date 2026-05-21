@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Stability AI releases a new audio model that can create 6-minute songs",
+    "link": "https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/",
+    "published": "2026-05-21 00:00:00+09:00",
+    "summary": "Stability Audio 3.0 small model can run on-device and generate two-minute long tracks.",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Stability AI releases a new audio model that can create 6-minute songs",
+    "summary": "Stability Audio 3.0 small model can run on-device and generate two-minute long tracks.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Stability AI releases a new audio model that can create 6-minute songs",
+      "link": "https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/",
+      "published": "2026-05-21 00:00:00+09:00",
+      "summary": "Stability Audio 3.0 small model can run on-device and generate two-minute long tracks.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Google「25年で最大の刷新」　AI検索、新モデルで“OpenAI対抗”鮮明に【発表まとめ】",
+      "link": "https://www.itmedia.co.jp/business/articles/2605/20/news107.html",
+      "published": "2026-05-20 16:35:00+09:00",
+      "summary": "Googleは「新AIモデル『Gemini 3.5』」「AI検索の機能強化」「AIエージェントツール」などを発表した。OpenAIらへの対抗姿勢が鮮明となった発表をまとめた。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
+      "link": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
+      "published": "2026-05-21 09:28:31+09:00",
+      "summary": "The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Anthropic says it’s about to have its first profitable quarter",
+      "link": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
+      "published": "2026-05-21 09:21:21+09:00",
+      "summary": "Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Clouted wants to take the guesswork out of making short videos go viral",
+      "link": "https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/",
+      "published": "2026-05-21 07:30:45+09:00",
+      "summary": "The video clipping startup raised a $7 million seed round led by Slow Ventures.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
