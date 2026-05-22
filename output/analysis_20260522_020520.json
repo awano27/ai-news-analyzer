@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "OpenAIの内部モデルが数学の未解決問題を証明──OpenAIは「重要な転換点」、フィールズ賞受賞数学者は「画期的な成果」と評価",
+    "link": "https://www.itmedia.co.jp/aiplus/article/2605/21/2000000013/",
+    "published": "2026-05-22 01:33:33+09:00",
+    "summary": "OpenAIは、約80年未解決だった離散幾何学の問題について、同社のAIがこれまでの予想を反証し、その証明が正しいことを外部の数学者らが検証したと発表。今回の成果を数学とAIの両分野にとっての「重要な転換点」だと位置付ける。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 5
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "OpenAIの内部モデルが数学の未解決問題を証明──OpenAIは「重要な転換点」、フィールズ賞受賞数学者は「画期的な成果」と評価",
+    "summary": "OpenAIは、約80年未解決だった離散幾何学の問題について、同社のAIがこれまでの予想を反証し、その証明が正しいことを外部の数学者らが検証したと発表。今回の成果を数学とAIの両分野にとっての「重要な転換点」だと位置付ける。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 5,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "OpenAIの内部モデルが数学の未解決問題を証明──OpenAIは「重要な転換点」、フィールズ賞受賞数学者は「画期的な成果」と評価",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2605/21/2000000013/",
+      "published": "2026-05-22 01:33:33+09:00",
+      "summary": "OpenAIは、約80年未解決だった離散幾何学の問題について、同社のAIがこれまでの予想を反証し、その証明が正しいことを外部の数学者らが検証したと発表。今回の成果を数学とAIの両分野にとっての「重要な転換点」だと位置付ける。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 5
+    },
+    {
+      "title": "Spotify launches an ElevenLabs-powered audiobook creation tool",
+      "link": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/",
+      "published": "2026-05-22 00:27:00+09:00",
+      "summary": "The AI-powered audiobook generation won't bind authors to an exclusive contract, meaning they are free to publish their generated audiobooks anywhere.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "「仮面ライダーアギト」最新映画、“AI動画”で宣伝　担当者が明かすねらい",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2605/21/2000000011/",
+      "published": "2026-05-21 11:31:50+09:00",
+      "summary": "有名俳優が演じる登場人物たちが過去から現在の姿に変化する――公開中の映画「アギトー超能力戦争ー」の公式SNSアカウントが4月27日に投稿したこのような宣伝動画が注目を集めた。同映画の宣伝を手掛けるシュナイトに詳細を聞いた。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
+      "link": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
+      "published": "2026-05-22 04:45:00+09:00",
+      "summary": "Spotify is partnering with  Universal Music Group￼ to let Premium subscribers create AI-generated song covers and remixes, with participating artists receiving a share of the revenue.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Six search engines worth trying now that Google isn’t really Google anymore",
+      "link": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
+      "published": "2026-05-22 04:19:05+09:00",
+      "summary": "Google is about to look really different, and if you're not a fan of the AI overview feature, then you're not going to like what's coming.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
