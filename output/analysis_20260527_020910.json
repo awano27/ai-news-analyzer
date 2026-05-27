@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "「小説家になろう」、AI利用状況を報告必須に　未設定だと9月から投稿不可",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/27/news071.html",
+    "published": "2026-05-27 10:30:00+09:00",
+    "summary": "Web小説投稿サイト「小説家になろう」の運営は5月26日、作品創作におけるAI利用状況の設定を必須化すると発表した。6月9日に新設する設定項目で、AIの関与度に応じた4区分から選ばせる。利用度が高い作品はキーワード欄などで開示する。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "「小説家になろう」、AI利用状況を報告必須に　未設定だと9月から投稿不可",
+    "summary": "Web小説投稿サイト「小説家になろう」の運営は5月26日、作品創作におけるAI利用状況の設定を必須化すると発表した。6月9日に新設する設定項目で、AIの関与度に応じた4区分から選ばせる。利用度が高い作品はキーワード欄などで開示する。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "「小説家になろう」、AI利用状況を報告必須に　未設定だと9月から投稿不可",
+      "link": "https://www.itmedia.co.jp/news/articles/2605/27/news071.html",
+      "published": "2026-05-27 10:30:00+09:00",
+      "summary": "Web小説投稿サイト「小説家になろう」の運営は5月26日、作品創作におけるAI利用状況の設定を必須化すると発表した。6月9日に新設する設定項目で、AIの関与度に応じた4区分から選ばせる。利用度が高い作品はキーワード欄などで開示する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
+      "link": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
+      "published": "2026-05-27 07:32:56+09:00",
+      "summary": "Google overhauled Search at I/O 2026, replacing blue links with AI agents. The backlash has been swift. DuckDuckGo app installs spiked 30% as users seek a way out.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "OpenRouter more than doubles valuation to $1.3B in a year",
+      "link": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
+      "published": "2026-05-27 03:33:01+09:00",
+      "summary": "OpenRouter has raised a $113 million Series B led by CapitalG. Its 5x growth in usage over six months indicates the multi-AI-model future is here.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "This startup is betting India’s gig economy can train the world’s robots",
+      "link": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
+      "published": "2026-05-27 01:00:00+09:00",
+      "summary": "Human Archive, a startup founded by UC Berkeley and Stanford researchers, is paying gig workers in India to wear camera-equipped caps and sensor devices to collect the real-world physical training data that AI and robotics labs are racing to acquire.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Universal Music Group and TikTok renew agreement to combat unauthorized AI music",
+      "link": "https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/",
+      "published": "2026-05-26 23:55:05+09:00",
+      "summary": "For years, UMG has pushed platforms, streaming services, and AI companies to implement stricter content moderation policies.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
