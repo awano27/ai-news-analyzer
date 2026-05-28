@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Notion、新開発基盤をリリース　ナレッジ共有から「AIと協働する基盤」へ",
+    "link": "https://kn.itmedia.co.jp/kn/articles/2605/27/news081.html",
+    "published": "2026-05-27 11:55:00+09:00",
+    "summary": "Notion Labsは、開発者向け機能群「Notion Developer Platform」を発表した。CLIや実行環境「Workers」、外部エージェント連携APIなどを提供し、NotionでAIエージェントや業務ワークフローを構築できる開発基盤だ。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 4
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Notion、新開発基盤をリリース　ナレッジ共有から「AIと協働する基盤」へ",
+    "summary": "Notion Labsは、開発者向け機能群「Notion Developer Platform」を発表した。CLIや実行環境「Workers」、外部エージェント連携APIなどを提供し、NotionでAIエージェントや業務ワークフローを構築できる開発基盤だ。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 4,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Notion、新開発基盤をリリース　ナレッジ共有から「AIと協働する基盤」へ",
+      "link": "https://kn.itmedia.co.jp/kn/articles/2605/27/news081.html",
+      "published": "2026-05-27 11:55:00+09:00",
+      "summary": "Notion Labsは、開発者向け機能群「Notion Developer Platform」を発表した。CLIや実行環境「Workers」、外部エージェント連携APIなどを提供し、NotionでAIエージェントや業務ワークフローを構築できる開発基盤だ。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans",
+      "link": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
+      "published": "2026-05-28 03:00:00+09:00",
+      "summary": "Meta is rolling out paid subscription plans for Instagram, Facebook, and WhatsApp worldwide, while also testing new AI, creator, and business-focused offerings under its broader “Meta One” subscription brand.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "OpenAI Foundation、AIによる経済激変から労働者を守るため2.5億ドルを拠出へ",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2605/28/2000000031/",
+      "published": "2026-05-28 00:08:36+09:00",
+      "summary": "OpenAI Foundationは、AIの普及に伴う労働市場や経済への急激な変化に対応するため、初期資金として2億5000万ドルを拠出すると発表した。この資金は、経済への影響測定、労働者の移行支援、新たな経済的安定モデルの構築の3領域に充てられる。組織再編を経た同財団が、ガバナンスと公益目的の追求を担う。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "NEC、日立、富士通が“Anthropic協業”でそろい踏み　狙いは？　【3社の幹部コメントまとめ】",
+      "link": "https://www.itmedia.co.jp/business/articles/2605/27/news119.html",
+      "published": "2026-05-27 18:25:00+09:00",
+      "summary": "わずか1カ月の間にNEC、日立製作所、富士通がAnthropicとの協業を発表した。各社の狙いはどこにあるのか。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "「AIに任せ過ぎて本番データ消失」　活用率98％のGMOが導き出した、生成AIを使いこなせる人の5つの特徴",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2605/28/news020.html",
+      "published": "2026-05-27 13:00:00+09:00",
+      "summary": "GMOインターネットグループが、同グループ内における生成AIの業務活用に関する定点調査の結果を発表した。グループ全体での活用率が97.8％に達した他、AIエージェントの活用率が急激に高まっていることが明らかとなった。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
