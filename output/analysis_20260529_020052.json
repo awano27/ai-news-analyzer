@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Docker専用のAIエージェント「Gordon」が正式リリース　無料アカウントでも利用可能",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/28/news090.html",
+    "published": "2026-05-28 12:00:00+09:00",
+    "summary": "米Docker社は、Docker DesktopとDocker CLIの新機能として、Dockerに関する質問への回答やベストプラクティスの提案、エラーの修正対応などを行ってくれるAIエージェント「Gordon」が正式版になったと発表しました。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 4
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Docker専用のAIエージェント「Gordon」が正式リリース　無料アカウントでも利用可能",
+    "summary": "米Docker社は、Docker DesktopとDocker CLIの新機能として、Dockerに関する質問への回答やベストプラクティスの提案、エラーの修正対応などを行ってくれるAIエージェント「Gordon」が正式版になったと発表しました。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 4,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Docker専用のAIエージェント「Gordon」が正式リリース　無料アカウントでも利用可能",
+      "link": "https://www.itmedia.co.jp/news/articles/2605/28/news090.html",
+      "published": "2026-05-28 12:00:00+09:00",
+      "summary": "米Docker社は、Docker DesktopとDocker CLIの新機能として、Dockerに関する質問への回答やベストプラクティスの提案、エラーの修正対応などを行ってくれるAIエージェント「Gordon」が正式版になったと発表しました。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "Anthropic releases Opus 4.8 with new ‘dynamic workflow’ tool",
+      "link": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/",
+      "published": "2026-05-29 02:00:09+09:00",
+      "summary": "The new Opus model comes with a tool called Dynamic Workflows, for coordinating swarms of subagents.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Sesame, the conversational AI startup from Oculus founders, launches its iOS app",
+      "link": "https://techcrunch.com/2026/05/28/sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app/",
+      "published": "2026-05-29 00:35:43+09:00",
+      "summary": "Sesame’s new iOS app brings its conversational AI agents to the public, offering more natural back-and-forth interactions designed to feel less like traditional chatbots and more like talking to a person.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880",
+      "link": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
+      "published": "2026-05-28 16:00:00+09:00",
+      "summary": "Built on top of the open source Hermes project, Vertu's new foldable combines AI-agent workflows, enterprise integrations, and ultra-premium luxury finishes.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "「Mythos級モデル」一般提供、数週間以内に　米Anthropic「Opus 4.8」リリース",
+      "link": "https://www.itmedia.co.jp/news/articles/2605/29/news084.html",
+      "published": "2026-05-29 09:55:00+09:00",
+      "summary": "より強力な安全策を講じた上で、数週間以内に全顧客に提供するとの見通しだという。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
