@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "「Nano Banana 2」「Nano Banana Pro」が一般提供開始　「2」は動画からの画像生成もサポート",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/29/news146.html",
+    "published": "2026-05-29 20:30:00+09:00",
+    "summary": "米Googleは5月29日、「Nano Banana 2」（Gemini 3.1 Flash Image）と「Nano Banana Pro」（Gemini 3 Pro Image）の一般提供を開始すると発表した。加えて、動画入力に対応する新機能をNano Banana 2でプレビュー公開する。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 6
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "「Nano Banana 2」「Nano Banana Pro」が一般提供開始　「2」は動画からの画像生成もサポート",
+    "summary": "米Googleは5月29日、「Nano Banana 2」（Gemini 3.1 Flash Image）と「Nano Banana Pro」（Gemini 3 Pro Image）の一般提供を開始すると発表した。加えて、動画入力に対応する新機能をNano Banana 2でプレビュー公開する。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 6,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "「Nano Banana 2」「Nano Banana Pro」が一般提供開始　「2」は動画からの画像生成もサポート",
+      "link": "https://www.itmedia.co.jp/news/articles/2605/29/news146.html",
+      "published": "2026-05-29 20:30:00+09:00",
+      "summary": "米Googleは5月29日、「Nano Banana 2」（Gemini 3.1 Flash Image）と「Nano Banana Pro」（Gemini 3 Pro Image）の一般提供を開始すると発表した。加えて、動画入力に対応する新機能をNano Banana 2でプレビュー公開する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 6
+    },
+    {
+      "title": "Strengthening societal resilience with Rosalind Biodefense",
+      "link": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+      "published": "2026-05-29 12:00:00+09:00",
+      "summary": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.",
+      "source": "OpenAI Blog",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "OpenAIが生命科学推論AI「GPT-Rosalind」をバイオディフェンスに開放　デュアルユースリスクに懸念も",
+      "link": "https://www.itmedia.co.jp/news/articles/2605/30/news031.html",
+      "published": "2026-05-30 06:48:00+09:00",
+      "summary": "OpenAIは、生命科学研究に特化したフロンティア推論モデル「GPT-Rosalind」を活用した「Rosalind Biodefense」プログラムを発表した。生物脅威の検知など防衛目的に限定し、審査済みの開発者や米政府機関および同盟国のパートナー組織にAPIを無償提供する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "OpenAI、日本政府とサイバーセキュリティで協力　最新AI「GPT-5.5-Cyber」を金融機関に提供",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2605/29/2000000037/",
+      "published": "2026-05-29 13:12:36+09:00",
+      "summary": "米OpenAIは、日本政府とサイバーセキュリティで協力する取り組み「日本サイバー・アクションプラン」を発表した。まずは、金融機関にサイバーセキュリティに特化した最新AIモデル「GPT-5.5-Cyber」を提供する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Coders are refusing to work without AI — and that could come back to bite them",
+      "link": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
+      "published": "2026-05-30 07:14:22+09:00",
+      "summary": "While AI is helping coders produce code faster, it may not be producing better code, researchers warn. And that could cause problems down the road for them.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
