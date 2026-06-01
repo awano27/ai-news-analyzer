@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "富士通が認めた「人月モデル」の限界　時田社長「労働集約型SIモデルからの転換を」",
+    "link": "https://www.itmedia.co.jp/business/articles/2606/01/news040.html",
+    "published": "2026-06-01 07:00:00+09:00",
+    "summary": "富士通が「中長期経営ビジョン2035」を発表した。AI時代に突入した今、同社の時田隆仁社長CEOは、従来型の「人月モデル」には限界があると認めた。その真意とは。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "富士通が認めた「人月モデル」の限界　時田社長「労働集約型SIモデルからの転換を」",
+    "summary": "富士通が「中長期経営ビジョン2035」を発表した。AI時代に突入した今、同社の時田隆仁社長CEOは、従来型の「人月モデル」には限界があると認めた。その真意とは。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "富士通が認めた「人月モデル」の限界　時田社長「労働集約型SIモデルからの転換を」",
+      "link": "https://www.itmedia.co.jp/business/articles/2606/01/news040.html",
+      "published": "2026-06-01 07:00:00+09:00",
+      "summary": "富士通が「中長期経営ビジョン2035」を発表した。AI時代に突入した今、同社の時田隆仁社長CEOは、従来型の「人月モデル」には限界があると認めた。その真意とは。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Erin Brockovich takes aim at data center secrecy",
+      "link": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
+      "published": "2026-06-01 06:05:14+09:00",
+      "summary": "Environmental activist Erin Brockovich has a new mission.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Making sense of the debate over AI psychosis",
+      "link": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
+      "published": "2026-06-01 00:30:00+09:00",
+      "summary": "On the latest episode of Equity, we debate whether tech CEOs are \"uniquely prone to AI psychosis.\"",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "「ハーネス」って結局、何？　みんな使い方が違うAIエージェント用語をHugging Faceが整理",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2606/01/news016.html",
+      "published": "2026-06-01 05:00:00+09:00",
+      "summary": "AIエージェント分野で人によって意味が揺れる「ハーネス」「スキャフォールド」などの用語を、Hugging Faceが整理した。AIエージェントを正しく理解し議論するために押さえておきたい基本用語を初心者向けに解説する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 0
+    },
+    {
+      "title": "「FDE」って結局、客先常駐SEのリブランディングじゃないの？　アクセンチュアに聞いてみた",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2606/01/2000000039/",
+      "published": "2026-05-31 23:00:00+09:00",
+      "summary": "AIプラットフォーム企業が掲げる新職業「FDE」（フォワード・デプロイド・エンジニア）は、客先常駐SEの焼き直しなのか。Microsoftと共同でFDE組織を立ち上げ、独自の「RDE」も打ち出すアクセンチュアの保科学世氏と片岡俊行氏に疑問をぶつけてみた。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
