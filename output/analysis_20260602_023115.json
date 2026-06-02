@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "インテルがロボット開発の課題を解決、オープンなロボティクスライブラリで",
+    "link": "https://monoist.itmedia.co.jp/mn/articles/2606/01/news082.html",
+    "published": "2026-06-01 12:45:00+09:00",
+    "summary": "インテルは、ロボット開発のための統合ソフトウェア開発キット「Robotics AI Suite」に、インテル製プロセッサに最適化された推論ランタイムを備えるオープンソースのロボティクスライブラリ「OpenVINO Physical AI Framework」を追加すると発表した。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 4
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "インテルがロボット開発の課題を解決、オープンなロボティクスライブラリで",
+    "summary": "インテルは、ロボット開発のための統合ソフトウェア開発キット「Robotics AI Suite」に、インテル製プロセッサに最適化された推論ランタイムを備えるオープンソースのロボティクスライブラリ「OpenVINO Physical AI Framework」を追加すると発表した。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 4,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "インテルがロボット開発の課題を解決、オープンなロボティクスライブラリで",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2606/01/news082.html",
+      "published": "2026-06-01 12:45:00+09:00",
+      "summary": "インテルは、ロボット開発のための統合ソフトウェア開発キット「Robotics AI Suite」に、インテル製プロセッサに最適化された推論ランタイムを備えるオープンソースのロボティクスライブラリ「OpenVINO Physical AI Framework」を追加すると発表した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "DuckDuckGo makes its ‘no-AI’ search engine easier to access as its traffic booms",
+      "link": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
+      "published": "2026-06-01 23:49:10+09:00",
+      "summary": "Alternative search engine DuckDuckGo launches 'no AI' web extensions for Chrome and Firefox users.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "NVIDIAの“狐”は工場自律管理AIエージェント、台湾メーカーが導入効果を確認",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2606/02/news058.html",
+      "published": "2026-06-02 07:45:00+09:00",
+      "summary": "NVIDIAは、工場を自律的に管理するAIエージェントのレファレンスデザイン「NVIDIA Factory Operations Blueprint（FOX）」を発表した。FOXを用いれば、工場内のさまざまなデータをリアルタイムに監視／分析し、複数のAIエージェントと機器を連携させることで問題を迅速に解決するAIアプリケーションを容易に構築できるという。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "NVIDIAの「NemoClaw」でエッジAIを統合管理、アドバンテックが「WEDA」を発表",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2606/02/news057.html",
+      "published": "2026-06-02 06:45:00+09:00",
+      "summary": "アドバンテックは、パートナー向けイベント「2026 Advantech World Partner Conference（WPC）」において、エッジAIの開発から導入、運用までを統合的に管理するソリューション「WEDA」について説明した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Claudeのレート制限を“詫びリセット”、ProとMaxプラン向け　一部で「想定より速く使用量消費」",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2606/02/2000000042/",
+      "published": "2026-06-02 02:07:19+09:00",
+      "summary": "米Anthropicは、チャットAI「Claude」の有料プラン「Pro」「Max」のユーザーを対象に、5時間および週次のレート制限をリセットしたと発表した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
