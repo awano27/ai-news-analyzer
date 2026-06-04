@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
+    "link": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
+    "published": "2026-06-04 04:38:32+09:00",
+    "summary": "If Alphabet's record-breaking $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow.",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 3
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
+    "summary": "If Alphabet's record-breaking $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 3,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
+      "link": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
+      "published": "2026-06-04 04:38:32+09:00",
+      "summary": "If Alphabet's record-breaking $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 3
+    },
+    {
+      "title": "オートデスク、主要製品向けにAIアシスタント機能を展開　Fusion向けMCPも",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2606/04/news037.html",
+      "published": "2026-06-04 09:00:00+09:00",
+      "summary": "Autodeskは、主要製品向けに「Autodesk Assistant」のテックプレビュー版を提供する他、Fusion向けのMCPを公開した。設計データや業務コンテキストを理解するAIアシスタントに加え、外部AIとの連携を可能にする機能も提供し、設計／製造業務におけるAI活用の拡大を図る。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
+      "link": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
+      "published": "2026-06-04 07:56:51+09:00",
+      "summary": "Lovable and Google signed an expanded multiyear deal that involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon",
+      "link": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
+      "published": "2026-06-04 04:07:42+09:00",
+      "summary": "Dreambeans is a curated list of AI-illustrated \"stories\" culled from the personal data in your Google account.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Amazon will show AI product images when you search for some reason",
+      "link": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
+      "published": "2026-06-04 00:50:26+09:00",
+      "summary": "Amazon will use visual search and AI to show AI-generated product images that match your search queries. The retailer says it will help guide users to products.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
