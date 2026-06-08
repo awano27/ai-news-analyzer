@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "NEC、富士通に先手!?　日立が「Claude Mythos」アクセス権を取得した背景",
+    "link": "https://www.itmedia.co.jp/business/articles/2606/08/news058.html",
+    "published": "2026-06-08 07:00:00+09:00",
+    "summary": "日立製作所が、Anthropicの先進AI「Claude Mythos」のアクセス権を取得した。Anthropicを巡っては、NECや富士通も協業を発表している。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "NEC、富士通に先手!?　日立が「Claude Mythos」アクセス権を取得した背景",
+    "summary": "日立製作所が、Anthropicの先進AI「Claude Mythos」のアクセス権を取得した。Anthropicを巡っては、NECや富士通も協業を発表している。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "NEC、富士通に先手!?　日立が「Claude Mythos」アクセス権を取得した背景",
+      "link": "https://www.itmedia.co.jp/business/articles/2606/08/news058.html",
+      "published": "2026-06-08 07:00:00+09:00",
+      "summary": "日立製作所が、Anthropicの先進AI「Claude Mythos」のアクセス権を取得した。Anthropicを巡っては、NECや富士通も協業を発表している。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Is this the dawn of the Tokenpocalypse?",
+      "link": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
+      "published": "2026-06-08 05:26:13+09:00",
+      "summary": "We're likely to see more price increases as the big AI companies plan to go public.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Notion restores access to Anthropic after service disruption",
+      "link": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
+      "published": "2026-06-08 02:56:22+09:00",
+      "summary": "Notion's head of product said he was \"astonished\" at “the amount of people RT-ing this.\"",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "OpenAI is still working on that ‘super app’",
+      "link": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
+      "published": "2026-06-08 01:23:22+09:00",
+      "summary": "\"Chat is dead\" — at least, according to a senior OpenAI employee.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Amazing Digital Dentures (a failed project)",
+      "link": "https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures",
+      "published": "2026-06-08 04:44:27+09:00",
+      "summary": "",
+      "source": "Hugging Face Blog",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
