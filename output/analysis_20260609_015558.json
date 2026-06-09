@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "「Siri AI」新登場　「Apple Intelligence」大幅刷新、Googleと共同開発　年内に英語版",
+    "link": "https://www.itmedia.co.jp/aiplus/article/2606/09/2000000069/",
+    "published": "2026-06-08 19:14:58+09:00",
+    "summary": "Appleは6月8日（現地時間）のWWDCで新たな音声アシスタント「Siri AI」を発表。Googleと提携して開発したマルチモーダルのAIモデル「Apple Foundation Model」を基盤に「Apple Intelligence」をアップデートし、「Siri」に組み込んだ。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "「Siri AI」新登場　「Apple Intelligence」大幅刷新、Googleと共同開発　年内に英語版",
+    "summary": "Appleは6月8日（現地時間）のWWDCで新たな音声アシスタント「Siri AI」を発表。Googleと提携して開発したマルチモーダルのAIモデル「Apple Foundation Model」を基盤に「Apple Intelligence」をアップデートし、「Siri」に組み込んだ。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "「Siri AI」新登場　「Apple Intelligence」大幅刷新、Googleと共同開発　年内に英語版",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2606/09/2000000069/",
+      "published": "2026-06-08 19:14:58+09:00",
+      "summary": "Appleは6月8日（現地時間）のWWDCで新たな音声アシスタント「Siri AI」を発表。Googleと提携して開発したマルチモーダルのAIモデル「Apple Foundation Model」を基盤に「Apple Intelligence」をアップデートし、「Siri」に組み込んだ。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "「AI＝質問」は遅れてる　エージェント型AI「Claude Cowork」、組織展開に向けた管理機能を拡充",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2606/08/news062.html",
+      "published": "2026-06-08 13:00:00+09:00",
+      "summary": "Anthropicは、AIエージェントによる業務支援機能「Claude Cowork」を全ての有料プランで一般提供すると発表した。組織全体への展開に向けた管理機能も同時に拡充する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "生成AIを広報業務に活用する方法7選！プロンプト例も紹介",
+      "link": "https://ainow.ai/2026/06/09/278147/?utm_source=rss&utm_medium=rss&utm_campaign=%25e7%2594%259f%25e6%2588%2590ai%25e3%2582%2592%25e5%25ba%2583%25e5%25a0%25b1%25e6%25a5%25ad%25e5%258b%2599%25e3%2581%25ab%25e6%25b4%25bb%25e7%2594%25a8%25e3%2581%2599%25e3%2582%258b%25e6%2596%25b9%25e6%25b3%25957%25e9%2581%25b8%25ef%25bc%2581%25e3%2583%2597%25e3%2583%25ad%25e3%2583%25b3%25e3%2583%2597%25e3%2583%2588",
+      "published": "2026-06-09 02:29:53+09:00",
+      "summary": "ひとり広報や少人数体制で、プレスリリースの作成やSNS運用、メディア対応に追われ、本来注力したい企画に手が回らない方は少なくありません。生成AIを広報業務に取り入れれば、こうした定型作業を圧縮し、企画やメディアリレーショ... The post 生成AIを広報業務に活用する方法7選！プロンプト例も紹介 first appeared on AI専門ニュースメディア AINOW .",
+      "source": "AINOW",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says",
+      "link": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
+      "published": "2026-06-09 07:41:45+09:00",
+      "summary": "Tools for Humanity, Sam Altman's identity verification company, is reportedly struggling to generate revenue and will downsize its staff.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Apple’s WWDC AI demos looked more real after $250M false ad settlement",
+      "link": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/",
+      "published": "2026-06-09 07:39:57+09:00",
+      "summary": "The vibe of Apple's 2026 WWDC keynote felt like a spouse proudly listing all the honey-do-list items tackled. One subtle example: the many AI demos of someone standing, phone in hand.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
