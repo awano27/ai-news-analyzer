@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "公式がワンコーラス公開→AIで無断フルコーラス化、拡散　大原ゆい子氏「無職転生III」OPが被害",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/11/news075.html",
+    "published": "2026-06-11 10:10:00+09:00",
+    "summary": "公式が公開したワンコーラスだけの音源を基に、生成AIを使って無断でフルコーラス化し、本人クレジット入りで公開する――こんな悪質な行為が明るみに出た。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "公式がワンコーラス公開→AIで無断フルコーラス化、拡散　大原ゆい子氏「無職転生III」OPが被害",
+    "summary": "公式が公開したワンコーラスだけの音源を基に、生成AIを使って無断でフルコーラス化し、本人クレジット入りで公開する――こんな悪質な行為が明るみに出た。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "公式がワンコーラス公開→AIで無断フルコーラス化、拡散　大原ゆい子氏「無職転生III」OPが被害",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/11/news075.html",
+      "published": "2026-06-11 10:10:00+09:00",
+      "summary": "公式が公開したワンコーラスだけの音源を基に、生成AIを使って無断でフルコーラス化し、本人クレジット入りで公開する――こんな悪質な行為が明るみに出た。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "「DX銘柄2026」事例レポート公開　51社のAI活用事例を掲載",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2606/11/news020.html",
+      "published": "2026-06-11 08:00:00+09:00",
+      "summary": "IPAが「DX銘柄2026」選定企業のDX事例をまとめたレポートを公開した。グランプリ企業3社をはじめとするDX事例の他、東証上場企業289社を対象とした調査結果も紹介している。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "AIエージェントもフィッシング詐欺に引っかかる？　米セキュリティ企業がOpenClawで検証　結果は……",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/10/news126.html",
+      "published": "2026-06-10 19:42:00+09:00",
+      "summary": "AIエージェントが話題になる昨今。ローカル環境で動作するエージェントにPCを操作させ、作業を効率化しようと試みる人も散見される。ただ、AIエージェントがフィッシング詐欺に引っ掛かったら、大変なことになるかもしれない。米セキュリティ企業Varonisが6月9日（現地時間）に発表した検証レポートによれば、エージェントもフィッシングに引っかかる場合があったという。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Apple「Siri AI」、13億台超が“利用不能”か？　新機能の拡大阻む“弱点”とは",
+      "link": "https://www.itmedia.co.jp/business/articles/2606/10/news117.html",
+      "published": "2026-06-10 18:58:00+09:00",
+      "summary": "米Morgan Stanleyは調査レポートで、米Appleが新たに発表した「Siri AI」について、新機能の拡大を阻む、ある弱点を指摘した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Anthropic、最上位「ミュトス」級モデルを一般提供　悪用防ぐ保護機能を備えた「Claude Fable 5」",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2606/10/2000000073/",
+      "published": "2026-06-10 12:22:48+09:00",
+      "summary": "米Anthropicは6月9日（現地時間）、新AIモデル「Claude Fable 5」の一般提供を始めた。同社がOpusクラスを上回る能力を持つと位置付ける最上位の「Mythos（ミュトス）クラス」に属するモデルで、これまでセキュリティ上の懸念から一般公開を見送ってきた水準の能力を、悪用を防ぐ保護機能（セーフガード）とともに初めて全ユーザーに開放した。同時に、保護機能の一部を解除した上位版「Claude Mythos 5」を、サイバー防衛などの信頼できる限られたパートナー向けに提供する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
