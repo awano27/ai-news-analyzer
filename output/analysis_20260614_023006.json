@@ -1,0 +1,62 @@
+{
+  "article": {
+    "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+    "link": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+    "published": "2026-06-14 05:42:31+09:00",
+    "summary": "Once again, AI proves to be an unreliable source of information about AI.",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 0
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "KPMG pulls report on AI usage due to apparent hallucinations",
+    "summary": "Once again, AI proves to be an unreliable source of information about AI.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 0,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+      "link": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+      "published": "2026-06-14 05:42:31+09:00",
+      "summary": "Once again, AI proves to be an unreliable source of information about AI.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+      "link": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+      "published": "2026-06-14 04:11:41+09:00",
+      "summary": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "OpenAI faces investigation from state attorneys general",
+      "link": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+      "published": "2026-06-14 01:47:18+09:00",
+      "summary": "It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "生成AIガバナンスとは？構築手順5ステップと企業の体制づくりを解説",
+      "link": "https://ainow.ai/2026/06/13/278169/?utm_source=rss&utm_medium=rss&utm_campaign=%25e7%2594%259f%25e6%2588%2590ai%25e3%2582%25ac%25e3%2583%2590%25e3%2583%258a%25e3%2583%25b3%25e3%2582%25b9%25e3%2581%25a8%25e3%2581%25af%25ef%25bc%259f%25e6%25a7%258b%25e7%25af%2589%25e6%2589%258b%25e9%25a0%25865%25e3%2582%25b9%25e3%2583%2586%25e3%2583%2583%25e3%2583%2597%25e3%2581%25a8%25e4%25bc%2581%25e6%25a5%25ad",
+      "published": "2026-06-13 15:00:00+09:00",
+      "summary": "生成AIガバナンスとは、AI利用にともなうリスクを管理しながら、全社で安全に活用するための統制の仕組みです。 「全社で生成AIを使えと号令はかかったが、ルールや体制づくりが追いつかない」と頭を抱える担当者は少なくありませ... The post 生成AIガバナンスとは？構築手順5ステップと企業の体制づくりを解説 first appeared on AI専門ニュースメディア AINOW .",
+      "source": "AINOW",
+      "language": "ja",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
