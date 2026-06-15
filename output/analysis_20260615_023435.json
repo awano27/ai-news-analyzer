@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Introducing the OpenAI Partner Network",
+    "link": "https://openai.com/index/introducing-openai-partner-network",
+    "published": "2026-06-15 02:00:00+09:00",
+    "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+    "source": "OpenAI Blog",
+    "language": "en",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Introducing the OpenAI Partner Network",
+    "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Introducing the OpenAI Partner Network",
+      "link": "https://openai.com/index/introducing-openai-partner-network",
+      "published": "2026-06-15 02:00:00+09:00",
+      "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+      "source": "OpenAI Blog",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "ChatGPT vs. Google検索──どっちで調べるのが学習効果が高い？　8日間の実験で検証した研究",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/15/news028.html",
+      "published": "2026-06-15 08:00:00+09:00",
+      "summary": "米ジョージア工科大学やミシガン大学などに所属する研究者らが発表した論文「Learning by Chatting? Investigating the Impact of Generative AI on Information Seeking and Learning」は、AIチャットbotと検索エンジンではどちらが学習効果が高いかを検証した研究報告だ。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "As AI companies race to go public, who else is along for the ride?",
+      "link": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
+      "published": "2026-06-15 01:38:09+09:00",
+      "summary": "Startups are trying to \"ride that SpaceX IPO wave.\"",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "As Anthropic suspends access to new models, India debates its AI future",
+      "link": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+      "published": "2026-06-14 12:00:00+09:00",
+      "summary": "Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "AI・ロボット人材は約340万人不足　労働市場のスキル需給、AIでどう可視化する？",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2606/15/news024.html",
+      "published": "2026-06-15 08:00:00+09:00",
+      "summary": "産業構造の変化と人口減少が同時に進み、業種や職種の間で人材の過不足が広がると予測されている。経済産業省は事業を通じて、労働市場全体のスキル需給をAIなどで可視化する取り組みに乗り出した。受託したNRIは、具体的に何に取り組むのか。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
