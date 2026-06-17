@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
+    "link": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
+    "published": "2026-06-17 03:00:00+09:00",
+    "summary": "Google has released Android 17 and Wear OS 7, introducing new multitasking features, parental controls, security tools, and smartwatch upgrades. The launch is also accompanied by a Pixel Drop that brings Google’s latest AI models to its devices.",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Android 17 launches with new multitasking tools as Google expands Gemini features",
+    "summary": "Google has released Android 17 and Wear OS 7, introducing new multitasking features, parental controls, security tools, and smartwatch upgrades. The launch is also accompanied by a Pixel Drop that brings Google’s latest AI models to its devices.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
+      "link": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
+      "published": "2026-06-17 03:00:00+09:00",
+      "summary": "Google has released Android 17 and Wear OS 7, introducing new multitasking features, parental controls, security tools, and smartwatch upgrades. The launch is also accompanied by a Pixel Drop that brings Google’s latest AI models to its devices.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "OpenAIの高度AIでソフトバンクの脆弱性を1万件発見　孫正義氏「大変な危機」　日本の重要インフラ企業へ診断サービス提供",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2606/16/2000000095/",
+      "published": "2026-06-16 18:06:44+09:00",
+      "summary": "ソフトバンクグループは6月16日、米OpenAIの高度なAI技術を活用したサイバーセキュリティ対策サービス「Patching as a Service」を発表した。OpenAIのサイバーセキュリティに特化したAI「GPT-5.5 Cyber」などの技術とソフトバンクの運用ノウハウを組み合わせ、企業システムに疑似的に攻撃することで脆弱性を見つける。見つけた脆弱性に対し、修復方針の策定や実装の提案まで一気通貫で行うという。日本国内の重要インフラを支える一部の企業に対し優先的に提供する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
+      "link": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
+      "published": "2026-06-17 07:34:17+09:00",
+      "summary": "Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggests.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Sixty percent of US consumers say ‘AI’ in brand messaging is a turnoff, survey finds",
+      "link": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
+      "published": "2026-06-17 01:49:44+09:00",
+      "summary": "WordPress VIP’s latest survey suggests consumers are wary of AI-generated answers even as companies increasingly view AI search as an important referral channel.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "DOJ claims xAI’s unpermitted gas turbines are a matter of ‘national, economic, and energy security’",
+      "link": "https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/",
+      "published": "2026-06-17 00:05:03+09:00",
+      "summary": "The Justice department says the Pentagon needs xAI to keep using its unpermitted gas turbines.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
