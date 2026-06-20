@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "理研、AI for Science向けスパコンの名前を「理究」（りきゅう）に決定　由来は？",
+    "link": "https://www.itmedia.co.jp/aiplus/article/2606/19/2000000110/",
+    "published": "2026-06-19 17:00:51+09:00",
+    "summary": "理化学研究所は、AIを活用した科学研究「AI for Science」向けのスーパーコンピュータの名前を「理究」（りきゅう）に決定したと発表した。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "理研、AI for Science向けスパコンの名前を「理究」（りきゅう）に決定　由来は？",
+    "summary": "理化学研究所は、AIを活用した科学研究「AI for Science」向けのスーパーコンピュータの名前を「理究」（りきゅう）に決定したと発表した。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "理研、AI for Science向けスパコンの名前を「理究」（りきゅう）に決定　由来は？",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2606/19/2000000110/",
+      "published": "2026-06-19 17:00:51+09:00",
+      "summary": "理化学研究所は、AIを活用した科学研究「AI for Science」向けのスーパーコンピュータの名前を「理究」（りきゅう）に決定したと発表した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "GMO傘下、Unitreeの国内正規代理店に　人型ロボの導入から保守まで一気通貫で支援",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2606/19/2000000109/",
+      "published": "2026-06-19 16:16:24+09:00",
+      "summary": "GMOインターネットグループ傘下で、ロボティクス事業などを手掛けるGMO AI＆ロボティクス商事は、ロボット開発企業の中国Unitree Roboticsと日本国内正規代理店契約を締結したと発表した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "画面操作を“録画”→AIが作業代行　Codexに新機能「Record & Replay」",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/19/news102.html",
+      "published": "2026-06-19 14:15:00+09:00",
+      "summary": "米OpenAIは6月18日、「Codex」の新機能「Record & Replay」を公開した。利用者がMac上で作業を一度実演すると、Codexがその操作を再利用できる作業手順に変換・記憶する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "ChatGPTで広告テスト、日本でも開始　非表示にする方法は？",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2606/19/2000000108/",
+      "published": "2026-06-19 11:26:50+09:00",
+      "summary": "米OpenAIの日本法人は、ChatGPTでの広告表示テストを日本でも始めたと発表した。広告を非表示にする方法は？",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Encryption, spyware, and now Mythos: History shows why cyber export control doesn’t work",
+      "link": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+      "published": "2026-06-20 07:40:14+09:00",
+      "summary": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
