@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Sakana AI、一部「ミュトス越えの性能」うたうAIを提供　複数モデルの“集合知”を活用",
+    "link": "https://www.itmedia.co.jp/aiplus/article/2606/22/2000000111/",
+    "published": "2026-06-22 10:48:32+09:00",
+    "summary": "Sakana AIは、複数のAIモデルを組み合わせてタスクをこなすAIシステム「Sakana Fugu」の提供を始めると発表した。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Sakana AI、一部「ミュトス越えの性能」うたうAIを提供　複数モデルの“集合知”を活用",
+    "summary": "Sakana AIは、複数のAIモデルを組み合わせてタスクをこなすAIシステム「Sakana Fugu」の提供を始めると発表した。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Sakana AI、一部「ミュトス越えの性能」うたうAIを提供　複数モデルの“集合知”を活用",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2606/22/2000000111/",
+      "published": "2026-06-22 10:48:32+09:00",
+      "summary": "Sakana AIは、複数のAIモデルを組み合わせてタスクをこなすAIシステム「Sakana Fugu」の提供を始めると発表した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "日経のAI、NTTデータが販売契約　出典明示でハルシネーションに強い法人向け「NIKKEI KAI」",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/19/news121.html",
+      "published": "2026-06-22 09:00:00+09:00",
+      "summary": "日本経済新聞社とNTTデータが6月19日、日経の法人向け生成AIサービス「NIKKEI KAI」の販売契約を結んだと発表した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Anthropicへの500万ドル間接出資を解消、広告事業のイオレ　軸足移すAIデータセンター事業に資金投入",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/19/news138.html",
+      "published": "2026-06-22 08:00:00+09:00",
+      "summary": "イオレは6月19日、3月に決めた米Anthropicへの間接出資を解消し、出資金500万ドル（約7億9355万円）全額の返還を受けると発表した。返還資金は自社で開発を進めるAIDCへの投資に充てる。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "インテル「シリーズ3」はフィジカルAIでも力を発揮、“ヤマネコ”の実力は？",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2606/22/news051.html",
+      "published": "2026-06-22 06:15:00+09:00",
+      "summary": "インテルがメインストリームPC向け製品「インテル Core シリーズ3 プロセッサー」と、ハンドヘルドゲーミングPC向け製品「インテル Arc G3 プロセッサー」について説明。また、「COMPUTEX TAIPEI 2026」に併せて発表したエッジAI／フィジカルAI向けソリューションも紹介した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "When the Trump administration cracks down on Anthropic, who benefits?",
+      "link": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+      "published": "2026-06-22 00:28:17+09:00",
+      "summary": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
