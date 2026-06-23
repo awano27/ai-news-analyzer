@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "OpenAI launches new initiative to help find and patch open-source bugs",
+    "link": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+    "published": "2026-06-23 09:11:31+09:00",
+    "summary": "OpenAI is attempting to tackle the security issues of the open source software community.",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 4
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "OpenAI launches new initiative to help find and patch open-source bugs",
+    "summary": "OpenAI is attempting to tackle the security issues of the open source software community.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 4,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "OpenAI launches new initiative to help find and patch open-source bugs",
+      "link": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+      "published": "2026-06-23 09:11:31+09:00",
+      "summary": "OpenAI is attempting to tackle the security issues of the open source software community.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 4
+    },
+    {
+      "title": "国産フルスクラッチAI「PLaMo 3.0 Prime」提供開始、“高コスパ”うたう　無料のAPIプランも　PFN",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2606/22/2000000113/",
+      "published": "2026-06-22 13:18:48+09:00",
+      "summary": "Preferred Networksは、AIモデル「PLaMo 3.0 Prime」の提供を始めると発表した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
+      "link": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
+      "published": "2026-06-23 01:51:29+09:00",
+      "summary": "Reflection AI will pay $150 million a month beginning July 1, 2026 through 2029 for immediate access to Nvidia's latest GB300 AI chips and supporting hardware across SpaceX's Colossus 2 data center near Memphis, Tennessee.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "link": "https://openai.com/index/patch-the-planet",
+      "published": "2026-06-22 19:00:00+09:00",
+      "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+      "source": "OpenAI Blog",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "ダイハツがAI品質検査システムを共同開発、アルミ加工穴内部の目視検査を自動化",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2606/23/news046.html",
+      "published": "2026-06-23 06:15:00+09:00",
+      "summary": "ダイハツ工業は、滋賀（竜王）工場 第1地区にAIを用いた自動車部品の品質検査システムを導入したと発表した。製造業向けAIソリューションを提供するスタートアップのVRAIN Solutionと共同開発したもので、現場主導のDX推進の取り組みに位置付けられる。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
