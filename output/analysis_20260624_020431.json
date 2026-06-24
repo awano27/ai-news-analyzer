@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+    "link": "https://openai.com/index/gpt-5-immunology-mystery",
+    "published": "2026-06-24 02:00:00+09:00",
+    "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
+    "source": "OpenAI Blog",
+    "language": "en",
+    "preliminary_score": 3
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+    "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 3,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+      "link": "https://openai.com/index/gpt-5-immunology-mystery",
+      "published": "2026-06-24 02:00:00+09:00",
+      "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
+      "source": "OpenAI Blog",
+      "language": "en",
+      "preliminary_score": 3
+    },
+    {
+      "title": "Mistral、文書解析OCRの新版「OCR 4」公開　文字の位置や信頼度スコアを出力、日本語を含む170言語に対応",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2606/24/2000000122/",
+      "published": "2026-06-24 10:13:48+09:00",
+      "summary": "Mistral AIは、文書のテキストや構造を抽出するOCRモデルの最新版「Mistral OCR 4」を公開した。日本語を含む170言語に対応し、要望の多かったバウンディングボックスや信頼度スコアの出力に対応した。単一コンテナによる自己ホスティングも可能で、厳格なデータ主権やコンプライアンスが求められる組織でも活用できるとしている。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Anthropic、Slackで「＠Claude」を呼べる「Claude Tag」提供──チームの一員として非同期でタスク遂行",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2606/24/2000000120/",
+      "published": "2026-06-24 08:55:42+09:00",
+      "summary": "Anthropicは、チーム向け新機能「Claude Tag」を発表し、「Slack」での提供を開始した。チャンネル内で「@Claude」とメンションすることで、各種ツールやコードベースと連携し、非同期かつ自律的にタスクを遂行する。基盤モデルには「Opus 4.8」が採用され、厳格な権限管理のもとで組織的な自動化が可能である。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "業務でAIを使う人の約38％「禁止されても利用継続」　セキュリティ企業が調査",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2606/23/2000000119/",
+      "published": "2026-06-23 17:18:44+09:00",
+      "summary": "業務でAIを使っている人の37.8％が勤務先に禁止されても利用を継続する意向を示した――Webセキュリティサービスなどを手掛けるサイバーセキュリティクラウドは、このような調査結果を発表した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "AI導入を阻む「現状維持志向」は打破できるか　OpenAI・Anthropicの「業務現場支援」が与える影響",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2606/23/news069.html",
+      "published": "2026-06-23 13:00:00+09:00",
+      "summary": "ノークリサーチは、OpenAIの「Deploy Co」やAnthropicの新会社設立が日本のSIerビジネスに与える影響を分析したレポートを発表した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
