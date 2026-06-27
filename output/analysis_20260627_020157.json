@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
+    "link": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+    "published": "2026-06-27 10:01:37+09:00",
+    "summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
+    "summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
+      "link": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+      "published": "2026-06-27 10:01:37+09:00",
+      "summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "官民投資フィジカルAIに10.5兆円示す、「実証から実装へ」動き出す現場",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2606/27/news009.html",
+      "published": "2026-06-27 07:00:00+09:00",
+      "summary": "2026年6月22日～26日に公開された記事の中から、MONOist編集部が厳選した今週の注目ニュースをお届けします。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "防衛省は“認知戦”にどう挑む　ウクライナ脅かすAIフェイク、偽アカウントへの対応は　分析資料を公開",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/26/news091.html",
+      "published": "2026-06-26 13:35:00+09:00",
+      "summary": "防衛省は6月26日、「防衛力変革推進本部」での議論に関する資料を公表した。偽情報で相手の判断をゆさぶる「認知戦」への対応方針として、戦略的な情報発信機能やAI活用、情報関連機能の強化を打ち出した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
+      "link": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+      "published": "2026-06-27 03:32:14+09:00",
+      "summary": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.”",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
+      "link": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
+      "published": "2026-06-27 03:19:36+09:00",
+      "summary": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
