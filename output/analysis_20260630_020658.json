@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
+    "link": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
+    "published": "2026-06-29 23:00:08+09:00",
+    "summary": "The startup, Proception, is taking a unique approach to collecting training data to tackle one of the hardest problems in robotics: hands.",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
+    "summary": "The startup, Proception, is taking a unique approach to collecting training data to tackle one of the hardest problems in robotics: hands.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
+      "link": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
+      "published": "2026-06-29 23:00:08+09:00",
+      "summary": "The startup, Proception, is taking a unique approach to collecting training data to tackle one of the hardest problems in robotics: hands.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "あなたのAWS、コストの課題はどこにある？　AIが教えてくれる「AWS FinOps Agent」パブリックプレビュー開始",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/30/news097.html",
+      "published": "2026-06-30 10:41:00+09:00",
+      "summary": "米Amazon Web Services（AWS）は、使用中のAWSのコストに関する質問や、コストに異常が発生した場合にその原因を調査して特定してくれる「AWS FinOps Agent」のパブリックプレビュー開始を発表しました。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "自社の業務に合わせたAIエージェントを「10分で作成」　freeeが「AI戦略」を強化",
+      "link": "https://www.itmedia.co.jp/business/articles/2606/30/news064.html",
+      "published": "2026-06-30 07:00:00+09:00",
+      "summary": "クラウド会計システム「freee」の開発などを手掛けるフリーは、2月に発表したAI戦略の実現に向けた新たな取り組みとして「freee AIアシスタント」と「freee カスタムオーダー」の提供を6月に開始した。「AIから最も使いやすいSaaS」として、AI業界におけるリーディングカンパニーの地位確立を目指す。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "AIエージェントの投資優先順位、どう決める？　Gartnerが「投資スコア」の作り方を公開",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2606/29/news068.html",
+      "published": "2026-06-29 13:30:00+09:00",
+      "summary": "業務におけるAIエージェントの投資優先順位をどう決めればよいか。業務・業種別のAIエージェントはどう進化していくか。ガートナージャパンの著名アナリストである亦賀忠明氏のWebセミナーから探る。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "「AI活用が単発質問の企業は大敗」　楽天にコストと遅延の30％低下も達成させた、AIエージェント運用の勝ち筋",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2606/29/news061.html",
+      "published": "2026-06-29 13:00:00+09:00",
+      "summary": "Anthropicは、先進的な企業がどのようにAIエージェントを活用して業務を変革しているかを紹介するガイド「Building AI agents for the enterprise」を公開した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
