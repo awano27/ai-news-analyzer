@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Meta quietly launches vibe-coded gaming app Pocket",
+    "link": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+    "published": "2026-07-03 03:44:02+09:00",
+    "summary": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts.",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Meta quietly launches vibe-coded gaming app Pocket",
+    "summary": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Meta quietly launches vibe-coded gaming app Pocket",
+      "link": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+      "published": "2026-07-03 03:44:02+09:00",
+      "summary": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
+      "link": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+      "published": "2026-07-02 22:53:00+09:00",
+      "summary": "Microsoft follows Amazon, OpenAI, and Anthropic with its new AI deployment group.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "復活した「Fable 5」　米政府からのオーダーに対して、Anthropicはどう対策したのか",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/02/news095.html",
+      "published": "2026-07-02 16:40:00+09:00",
+      "summary": "米AnthropicのAIモデル「Claude Fable 5」が世界的にサービスを再開した。Anthropicは復活に向けてどういった経緯と対策を行ったのか、モデル再開にあわせて詳細を公開した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "国内大手ロボットメーカー3社が協力、「フィジカルAI」向けデータセット構築へ",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/02/2000000152/",
+      "published": "2026-07-02 14:15:42+09:00",
+      "summary": "川崎重工業は、ロボットメーカー大手のファナックや安川電機などと協力し、「フィジカルAI」向けのデータセットを構築すると発表した。「GENIAC」の公募に採択された。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "「賢さよりツール連携力が重要」　Microsoftが実験的な小型AIエージェント基盤を公開",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2607/02/news050.html",
+      "published": "2026-07-02 13:00:00+09:00",
+      "summary": "MicrosoftのAI研究チームであるMicrosoft Research AI Frontiersは、小型モデル向けに最適化したエージェント基盤「MagenticLite」を公開した。「エージェント能力は知識量ではなくツール統合と実行ハーネスで決まる」という仮説に基づき構成されており、小型モデルでも実用的なエージェント性能を引き出すという。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
