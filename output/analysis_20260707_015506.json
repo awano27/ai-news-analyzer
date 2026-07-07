@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Anthropic、AIの“内なる思考”が宿る「J-space」を発見──新手法「J-lens」で可視化、安全性監視に応用",
+    "link": "https://www.itmedia.co.jp/aiplus/article/2607/07/2000000162/",
+    "published": "2026-07-07 09:48:03+09:00",
+    "summary": "Anthropicは、LLMの内部に人間の意識研究における「グローバルワークスペース」に類する構造「J-space」が自然発生していることを発見し、新手法「Jacobian lens」を公開した。モデルが言語化しない隠れた思考を一部観測でき、評価への気づきや不正コードの意図を検知できるため、AIの安全性監視に応用できるとしている。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Anthropic、AIの“内なる思考”が宿る「J-space」を発見──新手法「J-lens」で可視化、安全性監視に応用",
+    "summary": "Anthropicは、LLMの内部に人間の意識研究における「グローバルワークスペース」に類する構造「J-space」が自然発生していることを発見し、新手法「Jacobian lens」を公開した。モデルが言語化しない隠れた思考を一部観測でき、評価への気づきや不正コードの意図を検知できるため、AIの安全性監視に応用できるとしている。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Anthropic、AIの“内なる思考”が宿る「J-space」を発見──新手法「J-lens」で可視化、安全性監視に応用",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/07/2000000162/",
+      "published": "2026-07-07 09:48:03+09:00",
+      "summary": "Anthropicは、LLMの内部に人間の意識研究における「グローバルワークスペース」に類する構造「J-space」が自然発生していることを発見し、新手法「Jacobian lens」を公開した。モデルが言語化しない隠れた思考を一部観測でき、評価への気づきや不正コードの意図を検知できるため、AIの安全性監視に応用できるとしている。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "The ‘first’ AI-run ransomware attack still needed a human",
+      "link": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+      "published": "2026-07-07 08:56:14+09:00",
+      "summary": "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and supplied stolen credentials — meaning it wasn't quite the fully autonomous cybercrime debut that last week's headlines suggested.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
+      "link": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
+      "published": "2026-07-07 08:21:03+09:00",
+      "summary": "SK Hynix is experiencing a boom credited to AI. It will ride that to a multibillion-dollar U.S. IPO, expected to take place on Friday.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
+      "link": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
+      "published": "2026-07-07 04:01:59+09:00",
+      "summary": "The update is part of Apple's broader effort to make Siri feel more natural and personal, as it rebuilds the assistant around generative AI.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Every major tech layoff in 2026 that has name-checked AI",
+      "link": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "published": "2026-07-07 03:35:00+09:00",
+      "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
