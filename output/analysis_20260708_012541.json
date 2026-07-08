@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "ガバメントAI「源内」は自治体で本当に使えるのか？　クラウド依存による“3つの落とし穴”",
+    "link": "https://www.itmedia.co.jp/business/articles/2607/08/news016.html",
+    "published": "2026-07-08 07:00:00+09:00",
+    "summary": "デジタル庁が公開したガバメントAI「源内」（GENAI）は、政府によるAIプラットフォームの公開という点で画期的な取り組みだ。一方で、自治体での実運用を考える上で無視できない論点も見えてくると、CIO補佐官として自治体DXに携わる筆者が解説する。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 5
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "ガバメントAI「源内」は自治体で本当に使えるのか？　クラウド依存による“3つの落とし穴”",
+    "summary": "デジタル庁が公開したガバメントAI「源内」（GENAI）は、政府によるAIプラットフォームの公開という点で画期的な取り組みだ。一方で、自治体での実運用を考える上で無視できない論点も見えてくると、CIO補佐官として自治体DXに携わる筆者が解説する。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 5,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "ガバメントAI「源内」は自治体で本当に使えるのか？　クラウド依存による“3つの落とし穴”",
+      "link": "https://www.itmedia.co.jp/business/articles/2607/08/news016.html",
+      "published": "2026-07-08 07:00:00+09:00",
+      "summary": "デジタル庁が公開したガバメントAI「源内」（GENAI）は、政府によるAIプラットフォームの公開という点で画期的な取り組みだ。一方で、自治体での実運用を考える上で無視できない論点も見えてくると、CIO補佐官として自治体DXに携わる筆者が解説する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 5
+    },
+    {
+      "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
+      "link": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+      "published": "2026-07-08 05:04:32+09:00",
+      "summary": "Open source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "「Claude Fable 5」サブスク、突如5日間延長　ユーザー悲喜こもごも「寝ずに頑張ったのに」「制限リセットして」",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/08/news070.html",
+      "published": "2026-07-08 09:29:00+09:00",
+      "summary": "歓迎の声もある一方で、「睡眠と健康を犠牲にして使い切った直後に延長を知った」「最後の最後で発表するのはやめてくれ」といった恨み節も。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Meta、初のエージェント型画像生成AI「Muse Image」公開　動画生成AI「Muse Video」もプレビュー",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/08/2000000169/",
+      "published": "2026-07-08 08:42:08+09:00",
+      "summary": "Metaは、Meta Superintelligence Labs（MSL）初のメディア生成モデルとなる画像生成AI「Muse Image」を公開した。検索やコーディングなどのツールを自律的に呼び出し、生成した画像を自己修正するエージェント型だ。「Meta AI」アプリやInstagramなどで利用できる。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "AIが破壊するIT業界の“人月商売”　「SIerの死」後に“生き残る者”の正体",
+      "link": "https://www.itmedia.co.jp/business/articles/2607/08/news043.html",
+      "published": "2026-07-08 07:00:00+09:00",
+      "summary": "米Anthropicの機能発表で約8300億ドルの時価総額が消し飛んだ「AIショック」。画面の使いやすさで稼いできたSaaSや、時間と人数を積み上げるSIerの「人月商売」が崩壊の危機に直面している。だが、業界ルールにのっとった複雑な計算（ビジネスロジック）を握る企業は依然として強い。真の構造変化はどこで起きているのか。AIに仕事を任せるための「安全管理」の難所と、「現場派遣型エンジニア」（FDE）の正体に迫る。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
