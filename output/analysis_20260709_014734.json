@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Claude「サブスク最上位プラン」6カ月間無料で提供　OSS開発者向けキャンペーン、対象を拡大",
+    "link": "https://www.itmedia.co.jp/aiplus/article/2607/08/2000000172/",
+    "published": "2026-07-08 18:54:06+09:00",
+    "summary": "米Anthropicは、オープンソースソフトウェア（OSS）開発者向けのキャンペーン「Claude for Open Source」の対象範囲を拡大したと発表した。認定した対象者には、最上位のサブスクリプションプラン「Claude Max 20x」を6カ月間無料で提供する。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 6
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Claude「サブスク最上位プラン」6カ月間無料で提供　OSS開発者向けキャンペーン、対象を拡大",
+    "summary": "米Anthropicは、オープンソースソフトウェア（OSS）開発者向けのキャンペーン「Claude for Open Source」の対象範囲を拡大したと発表した。認定した対象者には、最上位のサブスクリプションプラン「Claude Max 20x」を6カ月間無料で提供する。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 6,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Claude「サブスク最上位プラン」6カ月間無料で提供　OSS開発者向けキャンペーン、対象を拡大",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/08/2000000172/",
+      "published": "2026-07-08 18:54:06+09:00",
+      "summary": "米Anthropicは、オープンソースソフトウェア（OSS）開発者向けのキャンペーン「Claude for Open Source」の対象範囲を拡大したと発表した。認定した対象者には、最上位のサブスクリプションプラン「Claude Max 20x」を6カ月間無料で提供する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 6
+    },
+    {
+      "title": "OpenAI、リアルタイム音声モデル「GPT-Live」公開　相づちも割り込みも、より人間らしい会話に",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/09/2000000174/",
+      "published": "2026-07-09 06:53:09+09:00",
+      "summary": "OpenAIは、新世代のリアルタイム音声モデル「GPT-Live」を発表した。会話の最中に相手の話を聞きながら同時に話せる全二重方式を採用し、ChatGPTの音声機能を刷新する。深い推論や検索が必要な場合はバックグラウンドで「GPT-5.5」に処理を委ねる仕組みを備え、有料・無料の各プランに順次展開する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "OpenAIの最新AI「GPT-5.6」シリーズ、今週木曜日に一般公開へ",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/08/2000000170/",
+      "published": "2026-07-08 13:48:33+09:00",
+      "summary": "米OpenAIは7月7日（現地時間、以下同）、最新のAIモデル「GPT-5.6」シリーズを「今週の木曜日に一般公開する」と発表した。日本時間では10日（金）になるとみられる。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
+      "link": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+      "published": "2026-07-09 04:30:16+09:00",
+      "summary": "Elon Musk's tech company released the newest version of Grok on Wednesday, promising a cheaper, more efficient alternative to other powerful AI models.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "OpenAI releases new voice models for more natural live conversations",
+      "link": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
+      "published": "2026-07-09 02:00:00+09:00",
+      "summary": "OpenAI says its new voice mode can speak and listen at the same time, a key ability for live translation.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
