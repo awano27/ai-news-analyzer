@@ -1,0 +1,53 @@
+{
+  "article": {
+    "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+    "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+    "published": "2026-07-11 23:13:00+09:00",
+    "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 0
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "OpenAI bets on families as ChatGPT goes deeper into households",
+    "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 0,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+      "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "published": "2026-07-11 23:13:00+09:00",
+      "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "AIエージェントの活用事例12選！業務別・業界別に導入企業の取り組みを解説",
+      "link": "https://ainow.ai/2026/07/12/278249/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e6%25b4%25bb%25e7%2594%25a8%25e4%25ba%258b%25e4%25be%258b12%25e9%2581%25b8%25ef%25bc%2581%25e6%25a5%25ad%25e5%258b%2599%25e5%2588%25a5%25e3%2583%25bb%25e6%25a5%25ad%25e7%2595%258c%25e5%2588%25a5%25e3%2581%25ab",
+      "published": "2026-07-12 00:49:39+09:00",
+      "summary": "AIエージェントの導入を検討しているものの、自社の業務にどう当てはまるのか具体的なイメージを描けずにいる担当者は少なくありません。 AIエージェントとは、生成AIと連携しながら目標達成に向けたタスクを自律的に実行するAI... The post AIエージェントの活用事例12選！業務別・業界別に導入企業の取り組みを解説 first appeared on AI専門ニュースメディア AINOW .",
+      "source": "AINOW",
+      "language": "ja",
+      "preliminary_score": 0
+    },
+    {
+      "title": "AIエージェントで何ができる？できること・活用事例を解説",
+      "link": "https://ainow.ai/2026/07/12/278246/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a7%25e4%25bd%2595%25e3%2581%258c%25e3%2581%25a7%25e3%2581%258d%25e3%2582%258b%25ef%25bc%259f%25e3%2581%25a7%25e3%2581%258d%25e3%2582%258b%25e3%2581%2593%25e3%2581%25a8%25e3%2583%25bb%25e6%25b4%25bb%25e7%2594%25a8%25e4%25ba%258b",
+      "published": "2026-07-12 00:11:13+09:00",
+      "summary": "AIエージェントという言葉を耳にする機会が増えたものの、生成AIと何が違うのかを説明できない担当者は少なくありません。具体的に何を任せられるのかがわからないまま、導入検討だけを任されているケースも見られます。 AIエージ... The post AIエージェントで何ができる？できること・活用事例を解説 first appeared on AI専門ニュースメディア AINOW .",
+      "source": "AINOW",
+      "language": "ja",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
