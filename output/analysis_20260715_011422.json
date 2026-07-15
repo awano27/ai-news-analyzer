@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Google DeepMindのハサビスCEO、米国主導の「フロンティアAI標準化機関」設立を提唱",
+    "link": "https://www.itmedia.co.jp/aiplus/article/2607/15/2000000192/",
+    "published": "2026-07-15 07:25:13+09:00",
+    "summary": "Google DeepMindのデミス・ハサビスCEOは、AGIの実現は「おそらくあと数年」だとして、米国主導でフロンティアAIモデルをリリース前に審査する標準化機関の設立を提唱するエッセイを公開した。金融業界の自主規制機関FINRAをモデルとし、将来的には審査通過を米国市場での展開の条件とする構想だ。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 4
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Google DeepMindのハサビスCEO、米国主導の「フロンティアAI標準化機関」設立を提唱",
+    "summary": "Google DeepMindのデミス・ハサビスCEOは、AGIの実現は「おそらくあと数年」だとして、米国主導でフロンティアAIモデルをリリース前に審査する標準化機関の設立を提唱するエッセイを公開した。金融業界の自主規制機関FINRAをモデルとし、将来的には審査通過を米国市場での展開の条件とする構想だ。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 4,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Google DeepMindのハサビスCEO、米国主導の「フロンティアAI標準化機関」設立を提唱",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/15/2000000192/",
+      "published": "2026-07-15 07:25:13+09:00",
+      "summary": "Google DeepMindのデミス・ハサビスCEOは、AGIの実現は「おそらくあと数年」だとして、米国主導でフロンティアAIモデルをリリース前に審査する標準化機関の設立を提唱するエッセイを公開した。金融業界の自主規制機関FINRAをモデルとし、将来的には審査通過を米国市場での展開の条件とする構想だ。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
+      "link": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
+      "published": "2026-07-15 09:27:04+09:00",
+      "summary": "The funding discussions point to investor interest in applying AI to make breakthroughs in life sciences.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 3
+    },
+    {
+      "title": "Reflection inks $1B compute deal with Nebius",
+      "link": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/",
+      "published": "2026-07-14 23:37:48+09:00",
+      "summary": "Reflection AI has signed a $1 billion deal to access Nebius' compute. Reflection was founded in 2024 and is developing open source AI technology.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "富士通がNVIDIA「Rubin」対応の国産AIサーバを今秋製造へ　ソブリン需要に対応",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2607/15/news045.html",
+      "published": "2026-07-15 06:15:00+09:00",
+      "summary": "富士通は、ソブリンAIの需要に応える国産ハイエンドAIサーバやオンプレミス向け生成AI基盤を公開した。国内工場での一貫生産が特徴だ。2026年秋にはNVIDIAの最新GPU「Rubin」対応の新モデルの製造開始であると明かした。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Lorde says AI glasses are ‘not sexy’",
+      "link": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
+      "published": "2026-07-15 08:10:02+09:00",
+      "summary": "\"Increasingly in our world, it gets harder and harder to know what is real,\" Lorde said onstage.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
