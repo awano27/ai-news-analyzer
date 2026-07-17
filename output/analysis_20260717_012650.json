@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
+    "link": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
+    "published": "2026-07-17 03:22:06+09:00",
+    "summary": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt.",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Roblox launches an AI-powered game-creation feature in its mobile app",
+    "summary": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
+      "link": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
+      "published": "2026-07-17 03:22:06+09:00",
+      "summary": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Google、「NotebookLM」を「Gemini Notebook」に改称　Geminiエコシステムへの統合を強化",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/17/news062.html",
+      "published": "2026-07-17 08:21:00+09:00",
+      "summary": "Googleは、AI搭載リサーチツール「NotebookLM」の名称を「Gemini Notebook」に変更すると発表した。機能は単体製品として維持しつつ、エコシステム全体で広く機能するようになる。安全なクラウドコンピュータの割り当てによるデータ分析機能などの大型アップデートも展開中で、この機能は今後全Proユーザーへ提供される見込みだ。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "「現場で使えるAIへ」、富士通が進める次世代CPUと自律型AIエージェント戦略",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2607/17/news044.html",
+      "published": "2026-07-17 06:30:00+09:00",
+      "summary": "富士通は自社イベント「Fujitsu Experience Day 2026」で、次世代CPUの「FUJITSU-MONAKA」をはじめ、AIチームを自律生成する技術や、実店舗で検証する店長業務支援AIなど企業変革を支援する最新AIソリューションを公開した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "富士通、国内ロボット大手3社と「フィジカルAI」で協業　NVIDIAの技術活用",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/16/2000000203/",
+      "published": "2026-07-16 19:43:39+09:00",
+      "summary": "富士通は、AIが自律的に考え、ロボットの体を動かす「フィジカルAI」の開発に関し、川崎重工業とファナック、安川電機の各社と協業すると発表した。米NVIDIAの技術を活用し、ロボットを協調的に制御するための基盤を開発する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "トンカツ食べながら語った――NVIDIA、富士通、安川電機ら“フィジカルAI連合”誕生、発表直前の裏話",
+      "link": "https://www.itmedia.co.jp/business/articles/2607/16/news090.html",
+      "published": "2026-07-16 17:15:00+09:00",
+      "summary": "富士通、ファナック、安川電機、川崎重工業とNVIDIAによる“フィジカルAI連合”が誕生した。5社のトップは、記者説明会の直前には「トンカツ」を食べながら語り合ったという。その一幕を富士通の時田社長が明かした。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
