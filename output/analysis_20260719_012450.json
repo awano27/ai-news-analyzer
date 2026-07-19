@@ -1,0 +1,62 @@
+{
+  "article": {
+    "title": "Kimi: Threat or menace?",
+    "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+    "published": "2026-07-19 03:51:07+09:00",
+    "summary": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 0
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Kimi: Threat or menace?",
+    "summary": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 0,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Kimi: Threat or menace?",
+      "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+      "published": "2026-07-19 03:51:07+09:00",
+      "summary": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Neil Rimer thinks the AI money is coming back out",
+      "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+      "published": "2026-07-18 13:47:25+09:00",
+      "summary": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "「スマホで動く」270億パラメーターLLM「Bonsai 27B」登場",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/17/2000000202/",
+      "published": "2026-07-19 08:40:43+09:00",
+      "summary": "27BクラスのモデルをiPhoneで実行可能な容量に収めたとしている。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 0
+    },
+    {
+      "title": "「Claude Fable 5」サブスクに統合　Max・Team Premiumプラン対象",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/18/news019.html",
+      "published": "2026-07-18 12:50:00+09:00",
+      "summary": "米Anthropicは、最上位AIモデル「Claude Fable 5」を7月20日から有料プラン「Max」「Team Premium」の標準機能にする。利用上限の50%まで追加費用なしで利用でき、「Pro」「Team Standard」は「使用クレジット」での利用となり、100ドル分のクレジットを1回限り付与する。無償提供の期限を2度延長した末の方針転換となる。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
