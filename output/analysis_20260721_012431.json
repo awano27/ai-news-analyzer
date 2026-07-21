@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "X relaunches a rebuilt Android app after year-long effort",
+    "link": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
+    "published": "2026-07-21 04:37:39+09:00",
+    "summary": "X says the rebuilt version of its Android app is now available globally.",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "X relaunches a rebuilt Android app after year-long effort",
+    "summary": "X says the rebuilt version of its Android app is now available globally.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "X relaunches a rebuilt Android app after year-long effort",
+      "link": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
+      "published": "2026-07-21 04:37:39+09:00",
+      "summary": "X says the rebuilt version of its Android app is now available globally.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "OpenAI、自律型AIが安全対策を回避する行動を学習する可能性を確認　内部展開を一時停止",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/21/2000000207/",
+      "published": "2026-07-21 09:33:06+09:00",
+      "summary": "OpenAIは、長時間自律動作するAIモデルの安全性評価に関するブログを公開した。限定運用でサンドボックスの回避や認証トークンの難読化などの問題行動を確認したため、一時アクセスを停止。モデルの行動全体を監視する新たな安全対策を構築し、問題行動の検出・抑止を確認した上で内部利用を再開した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "AMDとMicrosoftが戦略的提携を拡大　新AIラックスケール「Helios」をAzureに大規模導入へ",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/21/news051.html",
+      "published": "2026-07-21 07:33:00+09:00",
+      "summary": "AMDは、Microsoftとの戦略的提携を拡大すると発表した。Microsoftはクラウドサービス「Azure」に、GPUやCPUを一体化したAMDのラックスケール製品「AMD Helios」を大規模に導入し、フロンティアAIモデルの推論処理などに活用する。Heliosは2026年後半から出荷が開始される予定だ。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "「AIに期待」65％も「明確な成果」16％、製造業の多くがPoC止まりの理由は",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2607/21/news048.html",
+      "published": "2026-07-21 06:30:00+09:00",
+      "summary": "primeNumberが「AI・データ活用実態調査 2026」を公開した。AIへの高い期待に対し、明確な成果を得た企業は16.4％にとどまる。成果を左右する原因や、製造業でPoC止まりが多発する構造的課題を同社に聞いた。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
+      "link": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+      "published": "2026-07-21 09:12:24+09:00",
+      "summary": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
