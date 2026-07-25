@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Anthropic launches Opus 5",
+    "link": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
+    "published": "2026-07-25 02:00:00+09:00",
+    "summary": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Anthropic launches Opus 5",
+    "summary": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Anthropic launches Opus 5",
+      "link": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
+      "published": "2026-07-25 02:00:00+09:00",
+      "summary": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Anthropic、「Claude Opus 5」公開　Fable 5に迫る性能を半額で――サイバー安全策は緩和、拒否時は自動フォールバックも",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/25/news016.html",
+      "published": "2026-07-25 07:28:00+09:00",
+      "summary": "Anthropicは、最新LLM「Claude Opus 5」を公開した。上位モデル「Claude Fable 5」に迫る知能を半額の価格で提供する。プログラミングやナレッジワークにおいて高い評価を獲得し、推論の深さを調整するパラメータや安全性分類器に連動する自動フォールバック機能などを備える。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "近畿大、入試にAIの利用認める　情報学部の総合型選抜で",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/24/2000000221/",
+      "published": "2026-07-24 17:45:19+09:00",
+      "summary": "近畿大学は、2027年度の情報学部の総合型選抜入学試験で、生成AIの利用を認めると発表した。提出する自己PR動画やプレゼンテーション資料などでのAIの利用方針を明示した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "メルカリ、「AI活用の最前線」明かす動画公開　「なぜCTOがCHRO兼CAIOになったのか」など13本",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/24/2000000220/",
+      "published": "2026-07-24 15:23:26+09:00",
+      "summary": "メルカリは、自社のAI活用について紹介する動画を公開した。7月8日に開催したイベント「Mercari AI Career Fes 2026」で実施したセッションのアーカイブ動画、全13本を公式YouTubeチャンネルで視聴できる。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Microsoft、GitHub CopilotやExcelで自社AIに切り替えへ――OpenAIやAnthropicのモデルは「引き続き併用」",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/24/2000000219/",
+      "published": "2026-07-24 12:03:56+09:00",
+      "summary": "Microsoftは、GitHub CopilotやExcelで自社開発AIモデル「MAI」シリーズの本格導入を開始したと発表した。既存のフロンティアモデルと併用しつつ、高頻度なタスクを低コストな自社モデルへ振り分けることでコストパフォーマンスを向上させる。今後も他サービスへ同様のアプローチを拡大する方針だ。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
