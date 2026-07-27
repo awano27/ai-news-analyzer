@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+    "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+    "published": "2026-07-27 01:33:13+09:00",
+    "summary": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 3
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+    "summary": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 3,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+      "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+      "published": "2026-07-27 01:33:13+09:00",
+      "summary": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 3
+    },
+    {
+      "title": "Are brain waves the next unlock for physical AI?",
+      "link": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+      "published": "2026-07-27 09:19:14+09:00",
+      "summary": "Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Making sense of the panic over Chinese AI",
+      "link": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+      "published": "2026-07-27 04:40:57+09:00",
+      "summary": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "スマホ映像から最短1分で高精細3Dモデル、NECが生成技術を開発",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2607/27/news011.html",
+      "published": "2026-07-27 09:00:00+09:00",
+      "summary": "NECは、スマートフォンなどの汎用カメラで撮影した映像から、高精細な3Dモデルを最短1分ほどで生成する技術を開発した。独自のAIが人物や一時的な障害物を自動で除去し、周囲の映像を基に背景を補完する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 0
+    },
+    {
+      "title": "「iPhone高騰」はこれからも続く？　中国CXMTに近づくApple、メモリ競合へのけん制が不発に終わりそうなワケ【後編】",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/27/news021.html",
+      "published": "2026-07-27 07:00:00+09:00",
+      "summary": "前編「Appleはもう『メモリのお得意様』ではない？　NVIDIAだけでiPhone数億台分、苦境に陥った”買いたたき王者”のいま」では、米Appleによる中華メモリメーカー・CXMTへの接近と、その対応にはあまり意味がないのでは？　という疑問を述べた。後編では筆者がそう考える背景をご紹介したい。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
