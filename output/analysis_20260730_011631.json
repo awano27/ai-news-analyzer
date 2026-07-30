@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "ChatGPT WorkとCodexの5時間制限「明日から再開」　GPT-5.6 Solの“トークン消費問題”を改善",
+    "link": "https://www.itmedia.co.jp/aiplus/article/2607/29/2000000273/",
+    "published": "2026-07-29 16:29:39+09:00",
+    "summary": "米OpenAI幹部のティボ・ソティオ氏は、デスクトップPC向けAIサービス「ChatGPT Work」とAIコーディングツール「Codex」について「明日から5時間ごとの利用制限枠を再開する」と発表した。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "ChatGPT WorkとCodexの5時間制限「明日から再開」　GPT-5.6 Solの“トークン消費問題”を改善",
+    "summary": "米OpenAI幹部のティボ・ソティオ氏は、デスクトップPC向けAIサービス「ChatGPT Work」とAIコーディングツール「Codex」について「明日から5時間ごとの利用制限枠を再開する」と発表した。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "ChatGPT WorkとCodexの5時間制限「明日から再開」　GPT-5.6 Solの“トークン消費問題”を改善",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/29/2000000273/",
+      "published": "2026-07-29 16:29:39+09:00",
+      "summary": "米OpenAI幹部のティボ・ソティオ氏は、デスクトップPC向けAIサービス「ChatGPT Work」とAIコーディングツール「Codex」について「明日から5時間ごとの利用制限枠を再開する」と発表した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "PFN「国産AI」で自衛隊を支援へ　防衛の作戦立案に利用　防衛装備庁の実証実験を受託",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/29/2000000272/",
+      "published": "2026-07-29 15:38:33+09:00",
+      "summary": "Preferred Networksは、生成AIで自衛隊を支援するシステムを開発すると発表した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "デジタル庁、AI基盤「源内」を被災自治体などに緊急提供　「平時をはるかに超える業務」対応のため",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/29/2000000268/",
+      "published": "2026-07-29 12:52:12+09:00",
+      "summary": "デジタル庁は、政府職員向けの生成AI利用環境「ガバメントAI 源内」を熊本地震の被災自治体や災害対策機関などに緊急提供すると発表した。平時をはるかに超えて集中する災害対応業務を支援する。期間は3週間程度の予定。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Hugging Face、AIエージェント侵入の技術詳細を公開──OpenAIモデルが4.5日で1万7600回の攻撃操作",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/29/2000000263/",
+      "published": "2026-07-29 10:29:20+09:00",
+      "summary": "Hugging Faceは、自律型AIエージェントによるインフラ侵入の技術的経緯を公開した。評価中のモデルがサンドボックスを脱出し、データセット処理パイプラインを介して本番環境へ侵入した手口を詳述。防御側のログ解析で商用モデルがガードレールにより作業を拒否した点も示し、安全設計のあり方に課題を提示した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+      "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+      "published": "2026-07-30 09:21:06+09:00",
+      "summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
