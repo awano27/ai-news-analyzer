@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+    "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+    "published": "2026-08-02 05:26:04+09:00",
+    "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 0
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+    "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 0,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+      "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+      "published": "2026-08-02 05:26:04+09:00",
+      "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+      "link": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+      "published": "2026-08-02 04:45:45+09:00",
+      "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Sam Altman is still making the case for parenting via ChatGPT",
+      "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+      "published": "2026-08-02 02:07:34+09:00",
+      "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "OpenAI、アクティブユーザー10億人超に　導入企業は200万社超",
+      "link": "https://www.itmedia.co.jp/news/article/2608/02/2000000346/",
+      "published": "2026-08-02 07:21:26+09:00",
+      "summary": "OpenAIは、アクティブユーザーが10億人、導入企業が200万社を突破したと公表した。推論の保持やコンテキスト管理の改善、本番ソフトウェアの最適化によりコスト削減やトークン生成効率の向上を実現。「GPT-5.6」の一部モデルの値下げはこれらの成果を顧客に還元したものであり、再投資の循環を強調した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 0
+    },
+    {
+      "title": "AIエージェントの作り方は3パターン！初心者向け実践5ステップを解説",
+      "link": "https://ainow.ai/2026/08/02/278291/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e4%25bd%259c%25e3%2582%258a%25e6%2596%25b9%25e3%2581%25af3%25e3%2583%2591%25e3%2582%25bf%25e3%2583%25bc%25e3%2583%25b3%25ef%25bc%2581%25e5%2588%259d%25e5%25bf%2583%25e8%2580%2585%25e5%2590%2591%25e3%2581%2591",
+      "published": "2026-08-02 02:00:21+09:00",
+      "summary": "AIエージェントという言葉を耳にする機会が増え、実際にどう作るのか、自分にも作れるのか知りたいと考えている方は多いのではないでしょうか。 作り方の選択を誤ると、必要以上の学習コストがかかったり、途中で挫折したりします。 ... The post AIエージェントの作り方は3パターン！初心者向け実践5ステップを解説 first appeared on AI専門ニュースメディア AINOW .",
+      "source": "AINOW",
+      "language": "ja",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
