@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "OpenAI、次期主力モデル「Astra」の存在を明らかに――未解決の数学問題10件を「解決」と発表",
+    "link": "https://www.itmedia.co.jp/news/article/2608/03/2000000348/",
+    "published": "2026-08-03 06:56:14+09:00",
+    "summary": "OpenAIは、次期主力モデル「Astra」の社内版により、数学や理論計算機科学の未解決問題10件で新たな結果を得たと発表した。「Astra」の名称公表は初とみられる。計算コストは「Sol」換算で約2000ドルに抑えられ、証明支援系「Lean」による形式証明もGitHubで公開。高度な数学研究への応用可能性を示した。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 4
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "OpenAI、次期主力モデル「Astra」の存在を明らかに――未解決の数学問題10件を「解決」と発表",
+    "summary": "OpenAIは、次期主力モデル「Astra」の社内版により、数学や理論計算機科学の未解決問題10件で新たな結果を得たと発表した。「Astra」の名称公表は初とみられる。計算コストは「Sol」換算で約2000ドルに抑えられ、証明支援系「Lean」による形式証明もGitHubで公開。高度な数学研究への応用可能性を示した。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 4,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "OpenAI、次期主力モデル「Astra」の存在を明らかに――未解決の数学問題10件を「解決」と発表",
+      "link": "https://www.itmedia.co.jp/news/article/2608/03/2000000348/",
+      "published": "2026-08-03 06:56:14+09:00",
+      "summary": "OpenAIは、次期主力モデル「Astra」の社内版により、数学や理論計算機科学の未解決問題10件で新たな結果を得たと発表した。「Astra」の名称公表は初とみられる。計算コストは「Sol」換算で約2000ドルに抑えられ、証明支援系「Lean」による形式証明もGitHubで公開。高度な数学研究への応用可能性を示した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "Sam Altman and AI’s decel debate",
+      "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+      "published": "2026-08-03 05:54:22+09:00",
+      "summary": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "【レベル14】生成AIを味方に、3D CADを使いこなそう！",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2608/03/news002.html",
+      "published": "2026-08-03 08:00:00+09:00",
+      "summary": "設計スキルのレベルアップを目指す設計者の皆さんを“冒険者”に見立て、さまざまな“問（モン）スター”に挑む「テルえもんクエストII」の世界へようこそ。【レベル14】のテーマは、生成AIを活用した3D CADデータの作成と操作です。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 0
+    },
+    {
+      "title": "月100億トークン使うビズリーチ　「AIコスト増」懸念の中、費用対効果どう判断しているのか",
+      "link": "https://www.itmedia.co.jp/business/articles/2608/03/news010.html",
+      "published": "2026-08-03 07:00:00+09:00",
+      "summary": "AI活用が広がる一方で、コスト増加への懸念が高まっている。月間約100億トークンを消費するというビズリーチCTOは、AIの費用対効果をどのように考えているのか。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 0
+    },
+    {
+      "title": "賞金1000万のAIコンテスト、でも「実現性は問わず」　サイバーエージェントのAI推進策",
+      "link": "https://kn.itmedia.co.jp/kn/articles/2608/03/news032.html",
+      "published": "2026-08-03 07:00:00+09:00",
+      "summary": "生成AIを導入しても、従業員に使われなければ成果にはつながらない。サイバーエージェントは、賞金1000万円のAIコンテストを開催し、あえて「実現性」を問わない仕掛けで社員の意識を変えた。その狙いとは。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
