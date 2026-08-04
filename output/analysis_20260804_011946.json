@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "「Qwen3.8-Max」登場、オープン化は「来週」　一部「Fable 5」「GPT-5.6 Sol」超えの性能うたう",
+    "link": "https://www.itmedia.co.jp/aiplus/article/2608/03/2000000353/",
+    "published": "2026-08-03 12:26:15+09:00",
+    "summary": "中国Alibaba傘下のAlibaba Cloudは8月3日、AIモデル「Qwen3.8-Max」を正式にリリースした。来週にはモデルの重みも公開する予定だ。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 4
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "「Qwen3.8-Max」登場、オープン化は「来週」　一部「Fable 5」「GPT-5.6 Sol」超えの性能うたう",
+    "summary": "中国Alibaba傘下のAlibaba Cloudは8月3日、AIモデル「Qwen3.8-Max」を正式にリリースした。来週にはモデルの重みも公開する予定だ。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 4,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "「Qwen3.8-Max」登場、オープン化は「来週」　一部「Fable 5」「GPT-5.6 Sol」超えの性能うたう",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/03/2000000353/",
+      "published": "2026-08-03 12:26:15+09:00",
+      "summary": "中国Alibaba傘下のAlibaba Cloudは8月3日、AIモデル「Qwen3.8-Max」を正式にリリースした。来週にはモデルの重みも公開する予定だ。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+      "link": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+      "published": "2026-08-04 03:43:43+09:00",
+      "summary": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. Yet it arrives at a moment when simply being a capable AI assistant no longer feels revolutionary.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 3
+    },
+    {
+      "title": "PC操作を録画→「Copilot」で作業を代理可能に　Microsoftがアプリを無料公開　主にmacOS向け、Windows対応も",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/04/2000000361/",
+      "published": "2026-08-04 08:00:00+09:00",
+      "summary": "Microsoftが、PCの画面操作を録画すると、その作業をAIが再現できるよう支援するデスクトップアプリ「Skill Recorder」を公開している。AIエージェントサービス「Microsoft Copilot Cowork」「Microsoft Scout」「Copilot Studio」向けのスキルを構築できる。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+      "link": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+      "published": "2026-08-04 08:19:50+09:00",
+      "summary": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
+      "link": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+      "published": "2026-08-04 04:28:57+09:00",
+      "summary": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
