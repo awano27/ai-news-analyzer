@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "AI予算の7割を食う「ITインフラ」、中でも予算超過しやすいのは？　医療機関調査",
+    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/04/news040.html",
+    "published": "2026-08-04 13:00:00+09:00",
+    "summary": "Wasabi Technologiesは、医療機関におけるAI活用に関する調査結果を発表した。AI予算の多くを占めるITインフラでは、どのような課題が生じているのか。調査結果から背景を探る。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "AI予算の7割を食う「ITインフラ」、中でも予算超過しやすいのは？　医療機関調査",
+    "summary": "Wasabi Technologiesは、医療機関におけるAI活用に関する調査結果を発表した。AI予算の多くを占めるITインフラでは、どのような課題が生じているのか。調査結果から背景を探る。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "AI予算の7割を食う「ITインフラ」、中でも予算超過しやすいのは？　医療機関調査",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/04/news040.html",
+      "published": "2026-08-04 13:00:00+09:00",
+      "summary": "Wasabi Technologiesは、医療機関におけるAI活用に関する調査結果を発表した。AI予算の多くを占めるITインフラでは、どのような課題が生じているのか。調査結果から背景を探る。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+      "link": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+      "published": "2026-08-05 05:05:26+09:00",
+      "summary": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and safeguards.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+      "link": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+      "published": "2026-08-05 04:48:40+09:00",
+      "summary": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
+      "link": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
+      "published": "2026-08-05 04:34:34+09:00",
+      "summary": "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
+      "link": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+      "published": "2026-08-05 04:28:49+09:00",
+      "summary": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
