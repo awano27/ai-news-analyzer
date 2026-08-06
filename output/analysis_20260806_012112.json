@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "オープンソースのAI機能付きオフィス登場　docx・xlsx・pptx・pdfに対応　Genspark",
+    "link": "https://www.itmedia.co.jp/aiplus/article/2608/06/2000000398/",
+    "published": "2026-08-06 08:00:00+09:00",
+    "summary": "AIサービスを開発する米Gensparkは、オープンソースのAI機能付きオフィススイート「GenOffice」を発表した。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 4
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "オープンソースのAI機能付きオフィス登場　docx・xlsx・pptx・pdfに対応　Genspark",
+    "summary": "AIサービスを開発する米Gensparkは、オープンソースのAI機能付きオフィススイート「GenOffice」を発表した。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 4,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "オープンソースのAI機能付きオフィス登場　docx・xlsx・pptx・pdfに対応　Genspark",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/06/2000000398/",
+      "published": "2026-08-06 08:00:00+09:00",
+      "summary": "AIサービスを開発する米Gensparkは、オープンソースのAI機能付きオフィススイート「GenOffice」を発表した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "Meta launches Muse Code, an AI agent for large code bases",
+      "link": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+      "published": "2026-08-06 06:21:28+09:00",
+      "summary": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Googleのジェフ・ディーン氏、独立してAI実験を大規模自動化する新会社Discovery Loop設立",
+      "link": "https://www.itmedia.co.jp/news/article/2608/06/2000000408/",
+      "published": "2026-08-06 07:49:24+09:00",
+      "summary": "Googleのチーフサイエンティスト、ジェフ・ディーン氏が退社し、新会社「Discovery Loop」を設立すると発表した。サンジェイ・ゲマワット氏らと共同創業する公益法人で、フロンティアAIモデルと計算基盤を活用して実験や検証などの研究プロセス全体を自動化することを目指す。Googleは初期出資者およびクラウドパートナーとして協力する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Google DeepMindのデミス・ハサビスCEOが退任して会長に　チーフサイエンティストのジェフ・ディーン氏は独立へ",
+      "link": "https://www.itmedia.co.jp/news/article/2608/06/2000000407/",
+      "published": "2026-08-06 07:08:01+09:00",
+      "summary": "Google DeepMindのCEOを務めてきたデミス・ハサビス氏が業務執行から退き、DeepMind会長兼Alphabetチーフサイエンティストに就任する。後任にはコーレイ・カブクチュオール氏が就く。また、チーフサイエンティストのジェフ・ディーン氏とGoogleシニアフェローのサンジェイ・ゲマワット氏が退社し、独立した公益法人を設立することも発表された。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Google DeepMindが描く「AGIの次」　超知能に至る4つの経路と6つのボトルネック",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/06/news015.html",
+      "published": "2026-08-06 05:00:00+09:00",
+      "summary": "Google DeepMindが、人間並みのAGIが実現した後にAIはどこまで進むのかを整理した論文を公開した。ASI（人工超知能）への4つの経路と6つのボトルネックという枠組みだけを抜き出し、初心者にも分かるように短く読み解く。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
