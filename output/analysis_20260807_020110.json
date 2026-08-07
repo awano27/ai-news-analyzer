@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "アプリが遅い原因をAIがトレースログから分析してくれる「Windows Performance Analyzer MCP」　Microsoftがプレビュー公開",
+    "link": "https://www.itmedia.co.jp/news/article/2608/06/2000000434/",
+    "published": "2026-08-06 19:54:46+09:00",
+    "summary": "米Microsoftが、Windowsアプリケーションが遅くなる原因の調査分析をAIに依頼できるツール「Windows Performance Analyzer MCP」（WPA MCP）のアーリープレビューを発表しました。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 4
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "アプリが遅い原因をAIがトレースログから分析してくれる「Windows Performance Analyzer MCP」　Microsoftがプレビュー公開",
+    "summary": "米Microsoftが、Windowsアプリケーションが遅くなる原因の調査分析をAIに依頼できるツール「Windows Performance Analyzer MCP」（WPA MCP）のアーリープレビューを発表しました。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 4,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "アプリが遅い原因をAIがトレースログから分析してくれる「Windows Performance Analyzer MCP」　Microsoftがプレビュー公開",
+      "link": "https://www.itmedia.co.jp/news/article/2608/06/2000000434/",
+      "published": "2026-08-06 19:54:46+09:00",
+      "summary": "米Microsoftが、Windowsアプリケーションが遅くなる原因の調査分析をAIに依頼できるツール「Windows Performance Analyzer MCP」（WPA MCP）のアーリープレビューを発表しました。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+      "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+      "published": "2026-08-07 00:06:15+09:00",
+      "summary": "",
+      "source": "DeepMind Blog",
+      "language": "en",
+      "preliminary_score": 3
+    },
+    {
+      "title": "あえて歩かせない――準国産ヒューマノイド「D1」登場、現場稼働で日本の勝ち筋へ",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2608/07/news039.html",
+      "published": "2026-08-07 06:45:00+09:00",
+      "summary": "ZEALSは日本の屋内環境に適応した準国産の台車型ヒューマノイド「D1」を発表した。医療や製造現場など実際の稼働を通じて独自の物理データを収集。フィジカルAIの社会実装を推進し、2026年度内に累計1万時間の現場稼働を目指す。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "「ChatGPT」のデフォルトモデル、PlusとProは「Sol」に、無料版は「Luna」でテキストチャット無制限に",
+      "link": "https://www.itmedia.co.jp/news/article/2608/07/2000000435/",
+      "published": "2026-08-07 06:32:08+09:00",
+      "summary": "OpenAIはChatGPTのデフォルトモデル変更を発表した。有料版には事実の正確性と応答速度を高めた改良版「GPT-5.6 Sol」を導入し、思考時間を選択できるスライダーを追加。無料版および「ChatGPT Go」には「GPT-5.6 Luna」を導入し、テキストチャットを無制限化するとともに推論を促す「Think」ボタンを提供する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "ソフトバンクG、投資利益1.8兆円を支えた「OpenAIではない“あの半導体メーカー”」の正体",
+      "link": "https://www.itmedia.co.jp/business/articles/2608/06/news084.html",
+      "published": "2026-08-06 19:30:00+09:00",
+      "summary": "ソフトバンクGは、第1四半期の投資利益が1兆8594億円だったと発表した。投資利益を押し上げたのは、OpenAIでもArmでもない。歴史的な経営難に陥っていた“あの半導体メーカー”だった。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
