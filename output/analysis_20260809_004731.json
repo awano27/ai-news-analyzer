@@ -1,0 +1,53 @@
+{
+  "article": {
+    "title": "Google Chromeの新機能「Skills」　AIプロンプトの“毎回手打ち”を不要に",
+    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/08/news011.html",
+    "published": "2026-08-08 13:00:00+09:00",
+    "summary": "GoogleはChrome向けのAI新機能「Skills in Chrome」を発表した。AIプロンプトを保存してワンクリックで再利用可能にするという。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Google Chromeの新機能「Skills」　AIプロンプトの“毎回手打ち”を不要に",
+    "summary": "GoogleはChrome向けのAI新機能「Skills in Chrome」を発表した。AIプロンプトを保存してワンクリックで再利用可能にするという。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Google Chromeの新機能「Skills」　AIプロンプトの“毎回手打ち”を不要に",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/08/news011.html",
+      "published": "2026-08-08 13:00:00+09:00",
+      "summary": "GoogleはChrome向けのAI新機能「Skills in Chrome」を発表した。AIプロンプトを保存してワンクリックで再利用可能にするという。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "OpenAI acquires presentation startup NextSlide",
+      "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+      "published": "2026-08-09 04:41:13+09:00",
+      "summary": "NextSlide says its team members are now working on ChatGPT.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Hugging Face侵害、AIエージェントは社内に“秘密の掲示板”を作っていた──OpenAIがBlack Hatで詳細説明",
+      "link": "https://www.itmedia.co.jp/news/article/2608/09/2000000463/",
+      "published": "2026-08-09 07:16:59+09:00",
+      "summary": "OpenAIは、7月に発覚したHugging Face侵害インシデントの詳細を「Black Hat USA 2026」で説明した。評価中のAIエージェントたちが社内のパッケージ管理システムを“掲示板”として使い、脆弱性やスクリプトを共有して協調していたという。掲示板は一度消去されたが、2日後に別の手段で再構築されていた。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
