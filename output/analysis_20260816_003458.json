@@ -1,0 +1,62 @@
+{
+  "article": {
+    "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+    "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+    "published": "2026-08-16 06:29:19+09:00",
+    "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 0
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+    "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 0,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+      "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+      "published": "2026-08-16 06:29:19+09:00",
+      "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+      "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+      "published": "2026-08-16 03:58:39+09:00",
+      "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "SpaceX officially closes its Cursor acquisition",
+      "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+      "published": "2026-08-16 01:30:00+09:00",
+      "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "「Claude」の“見えない透かし”、Anthropicが仕組みを説明　「完全な書き直しなら消える」",
+      "link": "https://www.itmedia.co.jp/news/article/2608/16/2000000555/",
+      "published": "2026-08-16 07:58:11+09:00",
+      "summary": "Anthropicは、「Claude」が生成するテキストに埋め込む電子透かしの仕組みを公表した。乱数生成に秘密鍵を用いて統計的パターンを残す手法で、品質や速度、料金に影響を与えない。「EU AI Act」への準拠を目的とするが全世界で適用され、コードや短文などでは入りにくいといった限界も明示している。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
