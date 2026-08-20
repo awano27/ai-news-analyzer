@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Googleや英政府、AIで飛行機雲を回避する大規模実証開始　航空業界の温暖化影響を減らす狙い",
+    "link": "https://www.itmedia.co.jp/news/article/2608/19/2000000613/",
+    "published": "2026-08-19 11:09:16+09:00",
+    "summary": "Googleは、英政府や航空管制大手NATSなどと共同で、AIを用いて飛行機雲を回避する実証プログラムを開始すると発表した。北大西洋のシャンウィック洋上空域を対象に、航路をわずかに変更して温暖化影響を抑える。空域規模での協調的回避の実証は世界初となり、Googleは計算基盤などを現物提供する。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 5
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Googleや英政府、AIで飛行機雲を回避する大規模実証開始　航空業界の温暖化影響を減らす狙い",
+    "summary": "Googleは、英政府や航空管制大手NATSなどと共同で、AIを用いて飛行機雲を回避する実証プログラムを開始すると発表した。北大西洋のシャンウィック洋上空域を対象に、航路をわずかに変更して温暖化影響を抑える。空域規模での協調的回避の実証は世界初となり、Googleは計算基盤などを現物提供する。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 5,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Googleや英政府、AIで飛行機雲を回避する大規模実証開始　航空業界の温暖化影響を減らす狙い",
+      "link": "https://www.itmedia.co.jp/news/article/2608/19/2000000613/",
+      "published": "2026-08-19 11:09:16+09:00",
+      "summary": "Googleは、英政府や航空管制大手NATSなどと共同で、AIを用いて飛行機雲を回避する実証プログラムを開始すると発表した。北大西洋のシャンウィック洋上空域を対象に、航路をわずかに変更して温暖化影響を抑える。空域規模での協調的回避の実証は世界初となり、Googleは計算基盤などを現物提供する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 5
+    },
+    {
+      "title": "Google、大学生向けに「Google AI Plus」を1年間無料提供　「Gemini」アプリに学生向け新機能も",
+      "link": "https://www.itmedia.co.jp/news/article/2608/20/2000000634/",
+      "published": "2026-08-20 07:58:36+09:00",
+      "summary": "Googleは米国の新学期に合わせ、大学生向けに「Google AI Plus」などを12カ月無料で提供するキャンペーンを発表した。あわせてGeminiアプリに学生向けハブを新設し、授業資料から学習プランを生成する学習ノートブックや、3Dモデルの表示、Gemini LiveでのDeep Researchなどの新機能の提供を開始した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "ChatGPTの反論で「道徳的判断」の3割超が覆る　高齢者が説得されやすい傾向　神戸大",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/19/2000000627/",
+      "published": "2026-08-19 17:00:48+09:00",
+      "summary": "生成AIの反論によって道徳的な判断の3割超が覆る――神戸大学がこのような研究結果を発表した。米OpenAIのチャットAI「ChatGPT」を利用し、AIの反論が正解のない道徳問題への回答に与える影響を調べた。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "「オープンな国産モデル」に33Bパラメータの新バージョン　国立情報学研究所",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/19/2000000626/",
+      "published": "2026-08-19 15:55:19+09:00",
+      "summary": "国立情報学研究所（NII）が、オープンな国産LLMの新バージョン「LLM-jp-4 33B」を公開。約332億パラメータのDense型モデルで、4種類のベンチマーク全てで従来モデルを上回るスコアを記録したという。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Claude Codeの週次制限枠「50％増」、8月31日まで延長　「恒久化したいものの……」",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/19/2000000611/",
+      "published": "2026-08-19 11:04:04+09:00",
+      "summary": "米Anthropicは、AIコーディング支援ツール「Claude Code」の週次利用制限枠を50％増やすキャンペーンを8月31日まで延長すると発表した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
