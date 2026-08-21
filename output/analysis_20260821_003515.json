@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+    "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+    "published": "2026-08-21 07:36:37+09:00",
+    "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "OpenAI is gaining on Anthropic with business users, new data indicates",
+    "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+      "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+      "published": "2026-08-21 07:36:37+09:00",
+      "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Ramp launches its own AI model router, called Router",
+      "link": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
+      "published": "2026-08-21 01:46:00+09:00",
+      "summary": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "macOS版ChatGPT、Appleの「メッセージ」と連携　会話検索や下書き、送信に対応",
+      "link": "https://www.itmedia.co.jp/news/article/2608/21/2000000669/",
+      "published": "2026-08-21 09:22:19+09:00",
+      "summary": "OpenAIは、macOS版ChatGPT向けにAppleの「メッセージ」アプリと連携するプラグインを公開した。CodexやChatGPT Workのチャット上で過去の会話検索や下書き作成、送信が可能になる。誤送信防止のため都度承認フローを備える。Appleシリコン搭載Mac向けだ。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "「チャピる」「ギュられる」って何？　今年流行った「就活用語」にAI関連ワード　マイナビ調査",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/21/2000000663/",
+      "published": "2026-08-21 07:55:00+09:00",
+      "summary": "マイナビは、2027年卒の就職活動で流行した用語を発表した。米OpenAIのチャットAI「ChatGPT」を示す「チャッピー」に加え、「チャピる」「ギュられる」といったAIに関する新語が登場した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "「孫さんはOpenAIだが、僕はAnthropic」　SBI北尾会長が語る「AI投資5億円→増収27億円」の勝算",
+      "link": "https://www.itmedia.co.jp/business/articles/2608/21/news038.html",
+      "published": "2026-08-21 07:00:00+09:00",
+      "summary": "SBIホールディングスが生成AI「Claude」を開発する米Anthropicとの全社提携を発表した。当面の最優先戦略にAI化を掲げ、社外から専門人材を起用。SBI証券では顧客対応のAIエージェント開発に5億円を投資し、口座再活性化などを通じて年27億円の増収を見込む。「孫正義氏はOpenAIだが僕はAnthropic」と語る北尾吉孝会長が、AIドリブン戦略の勝算を明かす。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
