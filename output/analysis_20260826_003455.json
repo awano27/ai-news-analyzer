@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "中国製AIが上位を占有、米国製AIに3倍差　Mozillaレポートが明かす「オープンモデル」の現在地",
+    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/25/news055.html",
+    "published": "2026-08-25 13:00:00+09:00",
+    "summary": "Mozillaは、オープンウェイトのAIモデルの利用動向など現状をまとめたレポート「The State of Open Source AI」を公開した。同社と調査会社SlashDataによる調査、「Chatbot Arena」やOpenRouterの公開データに基づいている。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 4
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "中国製AIが上位を占有、米国製AIに3倍差　Mozillaレポートが明かす「オープンモデル」の現在地",
+    "summary": "Mozillaは、オープンウェイトのAIモデルの利用動向など現状をまとめたレポート「The State of Open Source AI」を公開した。同社と調査会社SlashDataによる調査、「Chatbot Arena」やOpenRouterの公開データに基づいている。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 4,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "中国製AIが上位を占有、米国製AIに3倍差　Mozillaレポートが明かす「オープンモデル」の現在地",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/25/news055.html",
+      "published": "2026-08-25 13:00:00+09:00",
+      "summary": "Mozillaは、オープンウェイトのAIモデルの利用動向など現状をまとめたレポート「The State of Open Source AI」を公開した。同社と調査会社SlashDataによる調査、「Chatbot Arena」やOpenRouterの公開データに基づいている。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "AIエージェントがCAEを動かすとどうなる？　人に残る役割は？",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2608/26/news007.html",
+      "published": "2026-08-26 07:00:00+09:00",
+      "summary": "AIエージェントがCAEツールを操作し、解析作業を担うようになれば、人の役割はどう変わるのか。「CAEユニバーシティ 特別公開フォーラム 2026」で行われたサイバネットシステムの講演では、AIエージェントによるCAE解析の実験を通じて、AIに任せられることと人に残る仕事、CAE教育の在り方が紹介された。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "「Jetson Orin Nano 2」は推論性能が2倍、エッジ生成AIもリアルタイム処理可能",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2608/26/news048.html",
+      "published": "2026-08-26 06:15:00+09:00",
+      "summary": "NVIDIAは、組み込み機器向けAIモジュール「Jetson Orin」の新たなラインアップとなる「Jetson Orin Nano 2」を発表した。現行の「Jetson Orin Nano」のメモリ容量8GBモデルと比べて推論性能が2倍に向上した一方で、同じ推論性能であれば消費電力を40％削減できるという。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "話題のステルスモデル「Ox Alpha」はナニモノか　うわさをまとめてみた",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/25/2000000748/",
+      "published": "2026-08-25 16:50:42+09:00",
+      "summary": "開発元を伏せたまま米OpenRouterで無料公開されたAIモデル「Ox Alpha」が話題だ。一部の開発ツールでは利用シェア1位に。確認できる事実と、中国Z.aiの「GLM」系とみる有力なうわさを整理した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "シャープ、対話型AIロボ「ポケとも」に新モデル　あえて“全肯定しないキャラ”に　「暇だなー」と話しかけると……",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/25/2000000747/",
+      "published": "2026-08-25 15:56:11+09:00",
+      "summary": "シャープは対話型のAIロボット「ポケとも」の新モデルを発表した。従来のモデルとは性格を変え、あえてユーザーを“全肯定しないキャラクター”にした。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
