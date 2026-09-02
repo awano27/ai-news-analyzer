@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Anthropic、企業向け「Enterprise Frontier Safeguards」発表　ログは顧客のクラウドに保存し、人手による確認も顧客側で",
+    "link": "https://www.itmedia.co.jp/news/article/2609/02/2000001049/",
+    "published": "2026-09-02 08:06:30+09:00",
+    "summary": "Anthropicは、ゼロデータ保持（ZDR）と同等のプライバシーを確保しつつ不正利用を検知する企業向け新機能「Enterprise Frontier Safeguards」（EFS）を発表した。活動データを顧客自身のクラウドに保存し、フラグも顧客へ直接送信することで社外の人的レビューを排除する。今秋提供開始予定。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 4
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Anthropic、企業向け「Enterprise Frontier Safeguards」発表　ログは顧客のクラウドに保存し、人手による確認も顧客側で",
+    "summary": "Anthropicは、ゼロデータ保持（ZDR）と同等のプライバシーを確保しつつ不正利用を検知する企業向け新機能「Enterprise Frontier Safeguards」（EFS）を発表した。活動データを顧客自身のクラウドに保存し、フラグも顧客へ直接送信することで社外の人的レビューを排除する。今秋提供開始予定。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 4,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Anthropic、企業向け「Enterprise Frontier Safeguards」発表　ログは顧客のクラウドに保存し、人手による確認も顧客側で",
+      "link": "https://www.itmedia.co.jp/news/article/2609/02/2000001049/",
+      "published": "2026-09-02 08:06:30+09:00",
+      "summary": "Anthropicは、ゼロデータ保持（ZDR）と同等のプライバシーを確保しつつ不正利用を検知する企業向け新機能「Enterprise Frontier Safeguards」（EFS）を発表した。活動データを顧客自身のクラウドに保存し、フラグも顧客へ直接送信することで社外の人的レビューを排除する。今秋提供開始予定。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "Anthropic、「Claude Fable 5.1」と「Claude Mythos 5.1」発表　「監視の難しさ」への懸念も開示",
+      "link": "https://www.itmedia.co.jp/news/article/2609/02/2000001048/",
+      "published": "2026-09-02 07:23:30+09:00",
+      "summary": "Anthropicは新LLM「Claude Fable 5.1」と「Claude Mythos 5.1」を発表した。科学研究やコーディング性能が大幅に向上し、一般提供のFableに対し、Mythosは厳格な審査制を採用。System Cardでは高度な推論力に伴うエクスプロイト成功率や監視困難性などのリスクも報告されている。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "総務省、「AX・新技術戦略室」を新設　AI推進に注力",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/01/2000001044/",
+      "published": "2026-09-01 19:37:56+09:00",
+      "summary": "林芳正総務大臣は、9月1日の会見で、総務省に「AX・新技術戦略室」を新設すると発表した。同省におけるAI推進施策の取りまとめや、関係省庁との連携を担う。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "“軍事向けChatGPT”導入、米国防総省　「Gemini」「Grok」の計3モデルが利用可能に",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/01/2000001033/",
+      "published": "2026-09-01 16:31:21+09:00",
+      "summary": "米国防総省は、米OpenAIの「ChatGPT」のカスタマイズ版「ChatGPT Mil」を導入したと発表した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Instagram、「AIクリエイター」ラベルを「AI生成プロフィール」に改称　未設定なら表示を制限",
+      "link": "https://www.itmedia.co.jp/news/article/2609/01/2000001010/",
+      "published": "2026-09-01 12:19:28+09:00",
+      "summary": "Metaは、Instagramの「AIクリエイター」ラベルを「AI-generated profile」に改称すると発表した。実在の人物ではないAI生成プロフィールであることを明確にする狙い。AI生成人物を使用しながら未設定のアカウントは、おすすめ表示などのリーチを制限し、自主的な設定を促す。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
