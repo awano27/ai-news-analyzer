@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "「Claude」利用制限を“一括リセット”　「Fable 5.1」のリリースに伴い",
+    "link": "https://www.itmedia.co.jp/aiplus/article/2609/02/2000001056/",
+    "published": "2026-09-02 11:04:40+09:00",
+    "summary": "米Anthropicは、AIサービス「Claude」の5時間および1週間の利用制限枠をリセットしたと発表した。AIモデル「Claude Fable 5.1」の提供開始に伴うもの。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 6
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "「Claude」利用制限を“一括リセット”　「Fable 5.1」のリリースに伴い",
+    "summary": "米Anthropicは、AIサービス「Claude」の5時間および1週間の利用制限枠をリセットしたと発表した。AIモデル「Claude Fable 5.1」の提供開始に伴うもの。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 6,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "「Claude」利用制限を“一括リセット”　「Fable 5.1」のリリースに伴い",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/02/2000001056/",
+      "published": "2026-09-02 11:04:40+09:00",
+      "summary": "米Anthropicは、AIサービス「Claude」の5時間および1週間の利用制限枠をリセットしたと発表した。AIモデル「Claude Fable 5.1」の提供開始に伴うもの。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 6
+    },
+    {
+      "title": "Google、「Gemini 3.8 Flash」公開　3.7から3週間、価格据え置きで防御特化の「Cyber」も",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/03/2000001096/",
+      "published": "2026-09-03 07:42:19+09:00",
+      "summary": "GoogleはAIモデル「Gemini 3.8 Flash」と、サイバー防御に特化した「Gemini 3.8 Flash Cyber」を発表した。推論とコーディング性能を大幅に向上させつつ価格は据え置いた。サイバー版は政府やインフラ企業など信頼できる防御側に限定提供され、脆弱性発見やパッチ自動生成を支援する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "Google、AI画像生成・編集ツール「Google Pics」提供開始　特定オブジェクトの編集や文字翻訳も可能",
+      "link": "https://www.itmedia.co.jp/news/article/2609/02/2000001058/",
+      "published": "2026-09-02 11:10:34+09:00",
+      "summary": "Googleは、画像生成・編集ツール「Google Pics」を発表した。画像モデル「Nano Banana」を基盤とし、ポスターやSNS画像の制作、特定領域の編集や文字の翻訳・修正が可能。Web版に加えGoogle Workspaceアプリにも統合され、対象の有料プラン向けに順次展開される。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "NEC、AIモデル「ミュトス」をサイバーセキュリティに活用　「Project Glasswing」に参画",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/02/2000001075/",
+      "published": "2026-09-02 16:48:34+09:00",
+      "summary": "NECは、米AnthropicのAIモデル「Claude Mythos Preview」をサイバーセキュリティ業務に活用すると発表した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "NEC、先進AI「Claude Mythos」ついに導入　Anthropic主導“セキュリティ防衛連合”で、何ができる？",
+      "link": "https://www.itmedia.co.jp/business/articles/2609/02/news095.html",
+      "published": "2026-09-02 16:30:00+09:00",
+      "summary": "NECが、Anthropicの先進AI「Claude Mythos Preview」を導入すると発表した。Anthropicが主導し、200社以上が参画する“セキュリティ防衛連合”「Project Glasswing」に参画した同社。何ができるようになったのか。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
