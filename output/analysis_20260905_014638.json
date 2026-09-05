@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Architecting memory and storage in the AI era",
+    "link": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+    "published": "2026-09-05 03:39:19+09:00",
+    "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced infrastructure acting as the engine of continuous intelligence, powering real-time services while…",
+    "source": "MIT Technology Review AI",
+    "language": "en",
+    "preliminary_score": 3
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Architecting memory and storage in the AI era",
+    "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced infrastructure acting as the engine of continuous intelligence, powering real-time services while…",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 3,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Architecting memory and storage in the AI era",
+      "link": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+      "published": "2026-09-05 03:39:19+09:00",
+      "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced infrastructure acting as the engine of continuous intelligence, powering real-time services while…",
+      "source": "MIT Technology Review AI",
+      "language": "en",
+      "preliminary_score": 3
+    },
+    {
+      "title": "従業員が「個人利用のAIサービス」に顧客情報をアップロード　RIZAPが謝罪",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/04/2000001166/",
+      "published": "2026-09-04 12:42:38+09:00",
+      "summary": "パーソナルジムの運営などを手掛けるRIZAPは、同社従業員が個人で利用している外部の生成AIサービスに顧客情報を誤ってアップロードしたと発表した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+      "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+      "published": "2026-09-05 08:36:14+09:00",
+      "summary": "The round is being raised just months after the robot data startup exited from stealth.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+      "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+      "published": "2026-09-05 08:15:11+09:00",
+      "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+      "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+      "published": "2026-09-05 06:12:11+09:00",
+      "summary": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
