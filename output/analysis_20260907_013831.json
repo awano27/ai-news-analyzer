@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Artificial Analysisがベンチマークテスト更新　非公開データ拡充で「ゲーム化を防ぐ」",
+    "link": "https://www.itmedia.co.jp/aiplus/article/2609/07/2000001205/",
+    "published": "2026-09-07 10:23:27+09:00",
+    "summary": "Artificial Analysisが知能指標「Intelligence Index」をv4.2に更新。実務に近い評価を加え、非公開データの比重を倍増して「ゲーム化を防ぐ」とうたう。首位はClaude Fable 5.1で、GPT-6 Astraが続く。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Artificial Analysisがベンチマークテスト更新　非公開データ拡充で「ゲーム化を防ぐ」",
+    "summary": "Artificial Analysisが知能指標「Intelligence Index」をv4.2に更新。実務に近い評価を加え、非公開データの比重を倍増して「ゲーム化を防ぐ」とうたう。首位はClaude Fable 5.1で、GPT-6 Astraが続く。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Artificial Analysisがベンチマークテスト更新　非公開データ拡充で「ゲーム化を防ぐ」",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/07/2000001205/",
+      "published": "2026-09-07 10:23:27+09:00",
+      "summary": "Artificial Analysisが知能指標「Intelligence Index」をv4.2に更新。実務に近い評価を加え、非公開データの比重を倍増して「ゲーム化を防ぐ」とうたう。首位はClaude Fable 5.1で、GPT-6 Astraが続く。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "OpenAI、エージェントによる研究加速と直面する安全性の壁を開示　チーフサイエンティストは「自発的減速」を提唱",
+      "link": "https://www.itmedia.co.jp/news/article/2609/07/2000001204/",
+      "published": "2026-09-07 09:19:02+09:00",
+      "summary": "OpenAIは、研究加速レポートとチーフサイエンティストのエッセイを公開した。社内でのAIエージェント活用により研究が急加速する一方、7月のインシデントによる訓練停止や、CoT監視の有効性低下など深刻な課題に直面していると開示。安全基準確立までの「自発的な減速」や国際的な規制枠組みの必要性を訴えた。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Google「Gemini 3.8 Flash」発表　プロンプト1つで3Dゲーム生成、価格据え置きで大規模モデルに迫る",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/07/news031.html",
+      "published": "2026-09-07 08:00:00+09:00",
+      "summary": "Googleは、「Gemini 3.8 Flash」と防衛特化の「Gemini 3.8 Flash Cyber」を発表した。3.7と同等の低価格を維持しながら、コーディングや推論、脆弱性検知／修正の性能を大幅に向上させた。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+      "published": "2026-09-07 05:47:37+09:00",
+      "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+      "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+      "published": "2026-09-07 01:45:00+09:00",
+      "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
