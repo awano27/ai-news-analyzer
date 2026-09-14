@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "日立HMAX新技術「AIオーケストレーション」、特急注文など部門間調整を自動化",
+    "link": "https://monoist.itmedia.co.jp/mn/articles/2609/14/news041.html",
+    "published": "2026-09-14 08:30:00+09:00",
+    "summary": "日立製作所は、製造業の部門間スケジュール調整を自動化する「AIオーケストレーション技術」の具体的な運用シナリオを公開した。部門特化型のAI群と計画最適化エンジンを連携させ、人は最終的な意思決定に集中する。2027年提供予定だ。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "日立HMAX新技術「AIオーケストレーション」、特急注文など部門間調整を自動化",
+    "summary": "日立製作所は、製造業の部門間スケジュール調整を自動化する「AIオーケストレーション技術」の具体的な運用シナリオを公開した。部門特化型のAI群と計画最適化エンジンを連携させ、人は最終的な意思決定に集中する。2027年提供予定だ。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "日立HMAX新技術「AIオーケストレーション」、特急注文など部門間調整を自動化",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2609/14/news041.html",
+      "published": "2026-09-14 08:30:00+09:00",
+      "summary": "日立製作所は、製造業の部門間スケジュール調整を自動化する「AIオーケストレーション技術」の具体的な運用シナリオを公開した。部門特化型のAI群と計画最適化エンジンを連携させ、人は最終的な意思決定に集中する。2027年提供予定だ。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "AI技術を“無料で公開”、なぜ？　米IT業界の文化「オープン化」の裏にしたたかな戦略、日本は追随できるか",
+      "link": "https://www.itmedia.co.jp/business/articles/2609/14/news047.html",
+      "published": "2026-09-14 07:00:00+09:00",
+      "summary": "AI分野で「オープン化」が進んでいる。企業はなぜ、自社技術を無料で公開するのか。そこには、AI企業のしたたかな戦略があった。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "What’s behind the AI industry’s latest warnings of doom?",
+      "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+      "published": "2026-09-14 04:40:15+09:00",
+      "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+      "link": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+      "published": "2026-09-14 01:30:00+09:00",
+      "summary": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "published": "2026-09-14 09:00:00+09:00",
+      "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+      "source": "OpenAI Blog",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
