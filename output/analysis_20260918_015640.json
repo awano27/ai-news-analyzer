@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Google DeepMind launches institute to widen the AGI debate",
+    "link": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+    "published": "2026-09-18 08:21:17+09:00",
+    "summary": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will likely change their minds, as more data and information comes to light at the fast-moving frontier.\"",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Google DeepMind launches institute to widen the AGI debate",
+    "summary": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will likely change their minds, as more data and information comes to light at the fast-moving frontier.\"",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Google DeepMind launches institute to widen the AGI debate",
+      "link": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+      "published": "2026-09-18 08:21:17+09:00",
+      "summary": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will likely change their minds, as more data and information comes to light at the fast-moving frontier.\"",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
+      "link": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
+      "published": "2026-09-18 02:15:59+09:00",
+      "summary": "Base Labs, the research group Baseten spun up earlier this year, will develop and publish methods for training and monitoring open models.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "経営者は「AI導入」に夢中、現場は「IT環境」に疲弊　ITサポート軽視が招く時間・人件費ロスの実態",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/18/news036.html",
+      "published": "2026-09-18 08:00:00+09:00",
+      "summary": "DXERは、社内IT環境と従業員の成果に関する実態調査の結果を発表した。動作の遅い端末やツール不足により、従業員1人当たり年間147時間が失われているという。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "AIへの「念のためプロンプト」はもう逆効果　Claudeのトークンを浪費する6つのアンチパターン",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/18/news040.html",
+      "published": "2026-09-18 08:00:00+09:00",
+      "summary": "Anthropicは、Claude Platformでコスト削減と精度向上を両立する3つの手法を公開した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "AI学習は拒否、検索クロールは維持……Cloudflareの新機能「AI学習の不許可」　Google、Apple、Microsoftが対応",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/17/2000001584/",
+      "published": "2026-09-17 15:19:43+09:00",
+      "summary": "検索のためのクロールは許可したまま、同じクローラーによるAI学習だけを拒否できる新たな設定メニュー「AI学習の不許可」（Disallow AI Training）をCloudflareが発表した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
