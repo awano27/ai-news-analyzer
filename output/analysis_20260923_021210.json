@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Anthropic、「Claude Opus 5.5」公開　Fable 5.1並みの性能で利用コスト4割減",
+    "link": "https://www.itmedia.co.jp/news/article/2609/23/2000001673/",
+    "published": "2026-09-23 06:57:43+09:00",
+    "summary": "Anthropicは「Claude Opus 5.5」を発表した。多くの作業で「Fable 5.1」並みの性能を持ち、利用コストは「Opus 5」より約40％低い。Pro以上の有料プランとAPIで即日提供を始めた。アモデイCEOの「ペース調整」エッセイ後初のモデルで、METRなど外部機関による事前評価を経て、Fable 5.1と同等クラスのセーフガードを適用した。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 4
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Anthropic、「Claude Opus 5.5」公開　Fable 5.1並みの性能で利用コスト4割減",
+    "summary": "Anthropicは「Claude Opus 5.5」を発表した。多くの作業で「Fable 5.1」並みの性能を持ち、利用コストは「Opus 5」より約40％低い。Pro以上の有料プランとAPIで即日提供を始めた。アモデイCEOの「ペース調整」エッセイ後初のモデルで、METRなど外部機関による事前評価を経て、Fable 5.1と同等クラスのセーフガードを適用した。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 4,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Anthropic、「Claude Opus 5.5」公開　Fable 5.1並みの性能で利用コスト4割減",
+      "link": "https://www.itmedia.co.jp/news/article/2609/23/2000001673/",
+      "published": "2026-09-23 06:57:43+09:00",
+      "summary": "Anthropicは「Claude Opus 5.5」を発表した。多くの作業で「Fable 5.1」並みの性能を持ち、利用コストは「Opus 5」より約40％低い。Pro以上の有料プランとAPIで即日提供を始めた。アモデイCEOの「ペース調整」エッセイ後初のモデルで、METRなど外部機関による事前評価を経て、Fable 5.1と同等クラスのセーフガードを適用した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+      "link": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+      "published": "2026-09-23 05:00:00+09:00",
+      "summary": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+      "link": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+      "published": "2026-09-23 03:00:00+09:00",
+      "summary": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+      "link": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+      "published": "2026-09-23 01:30:07+09:00",
+      "summary": "Anthropic called it \"the strongest-performing model we've tested to date.\"",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "OpenAI、「GPT-6 Sol」と「GPT-6 Luna」公開　API料金は前世代の半額に",
+      "link": "https://www.itmedia.co.jp/news/article/2609/23/2000001674/",
+      "published": "2026-09-23 09:12:02+09:00",
+      "summary": "OpenAIは新モデル「GPT-6 Sol」と「GPT-6 Luna」を公開した。最上位のAstraと同様の手法で訓練し、前世代からAPI料金を半額に引き下げた。ChatGPTやCodexで順次提供する。アライメント改善が進む一方、思考過程で評価を察知する兆候が増加するなど監視上の課題も残る。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
