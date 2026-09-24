@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "YouTube releases new AI features for creators within its Studio app",
+    "link": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
+    "published": "2026-09-23 23:30:00+09:00",
+    "summary": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "YouTube releases new AI features for creators within its Studio app",
+    "summary": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "YouTube releases new AI features for creators within its Studio app",
+      "link": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
+      "published": "2026-09-23 23:30:00+09:00",
+      "summary": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Google AIサブスクに「Colab」有料特典をバンドル　「高性能GPU」にアクセス可能に",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/24/2000001685/",
+      "published": "2026-09-24 09:47:12+09:00",
+      "summary": "Googleは「Google AI」の各プランに、「Google Colab」の有料特典を組み込むと発表した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "「汎用AIにデータを渡すだけ」では専門業務をこなせない？　トムソン・ロイターが独自LLM「Thomson」を構築した理由",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/24/news019.html",
+      "published": "2026-09-24 08:00:00+09:00",
+      "summary": "ロイター通信を傘下に持つThomson Reutersは、自社開発した大規模言語モデル「Thomson」を発表した。推論コストを抑えつつも、高い専門性と完全なデータ制御を実現したという。同社のアプローチに迫る。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Everything new coming to Meta’s AI agent Muse",
+      "link": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+      "published": "2026-09-24 10:13:32+09:00",
+      "summary": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+      "link": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+      "published": "2026-09-24 09:46:17+09:00",
+      "summary": "The tiny hardware device creates  another mobile home for its AI agent Muse.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
