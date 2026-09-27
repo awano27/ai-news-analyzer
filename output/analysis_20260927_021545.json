@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "「1週間の開発タスク」でAIの限界を検証　Googleが「Android Bench 2.0」公開",
+    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/26/news013.html",
+    "published": "2026-09-26 13:00:00+09:00",
+    "summary": "Googleは、AIモデルやエージェントのコーディング能力を測る「Android Bench 2.0」を公開した。エンジニアが数日を要する複雑な長期タスクを課す仕様に刷新。最高通過率は従来の約91％から約28％に急落した。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "「1週間の開発タスク」でAIの限界を検証　Googleが「Android Bench 2.0」公開",
+    "summary": "Googleは、AIモデルやエージェントのコーディング能力を測る「Android Bench 2.0」を公開した。エンジニアが数日を要する複雑な長期タスクを課す仕様に刷新。最高通過率は従来の約91％から約28％に急落した。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "「1週間の開発タスク」でAIの限界を検証　Googleが「Android Bench 2.0」公開",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/26/news013.html",
+      "published": "2026-09-26 13:00:00+09:00",
+      "summary": "Googleは、AIモデルやエージェントのコーディング能力を測る「Android Bench 2.0」を公開した。エンジニアが数日を要する複雑な長期タスクを課す仕様に刷新。最高通過率は従来の約91％から約28％に急落した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+      "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+      "published": "2026-09-27 10:30:00+09:00",
+      "summary": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Insurers claim AI is already increasing healthcare costs",
+      "link": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+      "published": "2026-09-27 06:02:06+09:00",
+      "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "I created an interactive digital avatar of myself — and you can talk to it",
+      "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+      "published": "2026-09-26 23:00:00+09:00",
+      "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "NTTドコモ、「正しく質問させる」をやめ、“聞き返すAI”で変える顧客対応",
+      "link": "https://kn.itmedia.co.jp/kn/article/2609/27/2000001764/",
+      "published": "2026-09-27 07:00:00+09:00",
+      "summary": "NTTドコモが、顧客の短い質問から意図をくみ取り、必要な手続きへ導く対話AIを導入した。生成AIが顧客に聞き返しながら情報を絞り込むことで、FAQを探す負担を軽減。AIによる顧客対応の本番運用を支える仕組みも整える。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
