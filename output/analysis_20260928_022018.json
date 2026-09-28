@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "「AIがSaaSを消す」は根本的な誤解　IDCが示す“本当に起こる変化”とは",
+    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/28/news036.html",
+    "published": "2026-09-28 08:00:00+09:00",
+    "summary": "IDCは、AIエージェントの普及に伴う「SaaS終焉論」を分析したレポートを公開した。AIはSaaSを代替するのではなくデータモデルを拡張すると指摘。市場ごとの浸透格差や成果型課金の急増など、真の構造変化を解説した。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "「AIがSaaSを消す」は根本的な誤解　IDCが示す“本当に起こる変化”とは",
+    "summary": "IDCは、AIエージェントの普及に伴う「SaaS終焉論」を分析したレポートを公開した。AIはSaaSを代替するのではなくデータモデルを拡張すると指摘。市場ごとの浸透格差や成果型課金の急増など、真の構造変化を解説した。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "「AIがSaaSを消す」は根本的な誤解　IDCが示す“本当に起こる変化”とは",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/28/news036.html",
+      "published": "2026-09-28 08:00:00+09:00",
+      "summary": "IDCは、AIエージェントの普及に伴う「SaaS終焉論」を分析したレポートを公開した。AIはSaaSを代替するのではなくデータモデルを拡張すると指摘。市場ごとの浸透格差や成果型課金の急増など、真の構造変化を解説した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "トランプ大統領と習主席、AIを「超知能（SI）」と呼ぶことで合意　「米中SI対話」も創設",
+      "link": "https://www.itmedia.co.jp/news/article/2609/28/2000001776/",
+      "published": "2026-09-28 06:38:20+09:00",
+      "summary": "米連邦政府は、習近平国家主席の国賓訪問に関するファクトシートを公開した。首脳会談でAIを「超知能（SI）」と呼ぶことで合意し、リスク対応の定期対話や連絡チャネルを創設した。公式晩餐会にはマスク氏やザッカーバーグ氏らIT首脳が集結した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Anthropic’s CEO is about to have dinner with President Trump",
+      "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+      "published": "2026-09-28 05:34:28+09:00",
+      "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Can Muse overcome Meta’s trust issues?",
+      "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+      "published": "2026-09-28 04:57:30+09:00",
+      "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+      "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+      "published": "2026-09-28 01:30:00+09:00",
+      "summary": "\"AI is the devil and I its maker.\"",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
