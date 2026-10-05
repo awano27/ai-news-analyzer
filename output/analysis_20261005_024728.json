@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+    "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+    "published": "2026-10-05 05:31:07+09:00",
+    "summary": "AI slop seems to be overwhelming bug bounty programs.",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+    "summary": "AI slop seems to be overwhelming bug bounty programs.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+      "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+      "published": "2026-10-05 05:31:07+09:00",
+      "summary": "AI slop seems to be overwhelming bug bounty programs.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Trump unveils his new Super Intelligence Force",
+      "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+      "published": "2026-10-05 00:15:10+09:00",
+      "summary": "This new task force is Trump's latest response to the debate over AI safety.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+      "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+      "published": "2026-10-05 05:08:34+09:00",
+      "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "ITエンジニアの8割超「AIは人間より優れた判断をする」と認める　“でも任せられない”業務とは",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2610/05/news017.html",
+      "published": "2026-10-05 11:00:00+09:00",
+      "summary": "サーバーワークスが2026年8月20日、ITエンジニア260人を対象にしたAIエージェントに関する調査結果を公表。勤務先の52.7％で導入済みであり、全10業務において「AI主体」を支持する割合が「人間主体」を上回る結果となった。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 0
+    },
+    {
+      "title": "「現場任せのAI活用」が失敗するこれだけの理由　経営層がすべき“頭の中”の言語化とは",
+      "link": "https://www.itmedia.co.jp/news/article/2610/05/2000001937/",
+      "published": "2026-10-05 07:30:00+09:00",
+      "summary": "実は成功しにくいボトムアップでのAI活用。現場主導のAI活用が奏功しない──このような事態はなぜ起きるのでしょうか。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
