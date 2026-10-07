@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Mistral、1兆パラメータの「Mistral Large 4」（通称「Le Chonk」）発表　10月末にオープンウェイトで公開へ",
+    "link": "https://www.itmedia.co.jp/news/article/2610/07/2000002075/",
+    "published": "2026-10-07 10:43:15+09:00",
+    "summary": "Mistral AIは、最大モデル「Mistral Large 4」のプレビュー版を公開した。総パラメータ1兆500億のMoE型で、画像認識や推論・指示応答の切り替えに対応。特にサイバーセキュリティやコーディングで高い性能を示し、脆弱性再現テストでは全モデル中最高を記録。モデルの重みは月末に公開予定だ。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 4
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Mistral、1兆パラメータの「Mistral Large 4」（通称「Le Chonk」）発表　10月末にオープンウェイトで公開へ",
+    "summary": "Mistral AIは、最大モデル「Mistral Large 4」のプレビュー版を公開した。総パラメータ1兆500億のMoE型で、画像認識や推論・指示応答の切り替えに対応。特にサイバーセキュリティやコーディングで高い性能を示し、脆弱性再現テストでは全モデル中最高を記録。モデルの重みは月末に公開予定だ。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 4,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Mistral、1兆パラメータの「Mistral Large 4」（通称「Le Chonk」）発表　10月末にオープンウェイトで公開へ",
+      "link": "https://www.itmedia.co.jp/news/article/2610/07/2000002075/",
+      "published": "2026-10-07 10:43:15+09:00",
+      "summary": "Mistral AIは、最大モデル「Mistral Large 4」のプレビュー版を公開した。総パラメータ1兆500億のMoE型で、画像認識や推論・指示応答の切り替えに対応。特にサイバーセキュリティやコーディングで高い性能を示し、脆弱性再現テストでは全モデル中最高を記録。モデルの重みは月末に公開予定だ。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "OpenAI、社内AIがリーマン予想の関連難問を証明と主張　論文722本をGitHubで公開",
+      "link": "https://www.itmedia.co.jp/news/article/2610/07/2000002071/",
+      "published": "2026-10-07 09:32:40+09:00",
+      "summary": "OpenAIは、社内のフロンティアモデルが生み出した数学の成果722本をGitHubで公開した。多くに証明支援系「Lean」による形式証明が付く。数学者らの独立組織AGMAIの提言を参考にしたもので、計算量や推論過程の要約も開示。過去の発表を巡る論争を踏まえ、数学界との対話や理解促進に向けた支援も進める。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "Hark releases an AI personal assistant with a focus on privacy",
+      "link": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
+      "published": "2026-10-07 03:22:45+09:00",
+      "summary": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "LibreOffice says ‘no AI’ is now a software feature",
+      "link": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
+      "published": "2026-10-07 00:25:00+09:00",
+      "summary": "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "2026年のAI開発最前線――「AIによるAI開発」から今後は再帰的自己改善「RSI」へ",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2610/07/news019.html",
+      "published": "2026-10-07 07:30:00+09:00",
+      "summary": "ELYZAは、再帰的自己改善（RSI）の研究開発を推進する「ELYZA RSI Research」を立ち上げたと発表した。併せて、自律研究基盤を用いた音声対話AIエージェント「ELYZA Voice Agent」やフィジカルAIに関する取り組みについても紹介した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
