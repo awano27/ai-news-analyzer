@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+    "link": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+    "published": "2026-10-20 04:28:34+09:00",
+    "summary": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
+    "source": "TechCrunch AI",
+    "language": "en",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+    "summary": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+      "link": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+      "published": "2026-10-20 04:28:34+09:00",
+      "summary": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+      "link": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+      "published": "2026-10-20 00:37:09+09:00",
+      "summary": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "「保守的な日本の現場に合う」導入2500時間の壁を壊す倉庫AI、IFS Softeonの真価",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2610/20/news044.html",
+      "published": "2026-10-20 06:30:00+09:00",
+      "summary": "IFSとIFS Softeonは、倉庫向けAIの新機能「Fulfillment Flow」を発表した。6つの現場特化型AIエージェントが連携し、「部分最適のしわ寄せ」を解消する。同社 最高収益責任者（CRO）のメイリー氏へのインタビューを交え、あえてシステムを統合しない独自戦略や、保守的な日本の現場に適合するAIの姿と今後の展望をひもとく。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+      "link": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+      "published": "2026-10-20 10:27:03+09:00",
+      "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+      "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+      "published": "2026-10-20 08:39:38+09:00",
+      "summary": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
