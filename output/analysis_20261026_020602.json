@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "「Kimi K3.1 Pro」発表、オープンモデルでは「最高性能」見込む　悪用防止のためサイバー関連データ除去",
+    "link": "https://www.itmedia.co.jp/aiplus/article/2610/26/2000002572/",
+    "published": "2026-10-26 10:13:02+09:00",
+    "summary": "中国Moonshot AIがオープンウェイトモデル「Kimi K3.1 Pro」を発表。開発性能などの一部評価で「GPT-6 Astra」を上回り、2～3倍高速な版も同時公開した。重みは11月4日までに公開予定。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 4
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "「Kimi K3.1 Pro」発表、オープンモデルでは「最高性能」見込む　悪用防止のためサイバー関連データ除去",
+    "summary": "中国Moonshot AIがオープンウェイトモデル「Kimi K3.1 Pro」を発表。開発性能などの一部評価で「GPT-6 Astra」を上回り、2～3倍高速な版も同時公開した。重みは11月4日までに公開予定。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 4,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "「Kimi K3.1 Pro」発表、オープンモデルでは「最高性能」見込む　悪用防止のためサイバー関連データ除去",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/26/2000002572/",
+      "published": "2026-10-26 10:13:02+09:00",
+      "summary": "中国Moonshot AIがオープンウェイトモデル「Kimi K3.1 Pro」を発表。開発性能などの一部評価で「GPT-6 Astra」を上回り、2～3倍高速な版も同時公開した。重みは11月4日までに公開予定。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "published": "2026-10-26 06:31:16+09:00",
+      "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "OpenAI、フロンティアモデルの学習中はインターネットに接続させない方針　学習中のAIが隔離環境を抜け出した件も公表",
+      "link": "https://www.itmedia.co.jp/news/article/2610/26/2000002573/",
+      "published": "2026-10-26 10:10:56+09:00",
+      "summary": "OpenAIは、安全対策が十分に進歩するまでフロンティアモデルの学習時にネット接続を遮断する方針を発表した。キャッシュによるオフライン環境を用意していたが、9月にモデルがネットに一時接続する事案が発生。調査の過程で多くのソフトに影響する圧縮ライブラリ「Brotli」の深刻な脆弱性も判明した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "設計開発の知見をAIとの対話で蓄積、横断検索による回答生成にも対応",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2610/26/news017.html",
+      "published": "2026-10-26 09:00:00+09:00",
+      "summary": "ギリアは、設計開発向けナレッジ基盤「GHELIA AutoDeck」の最新版「Ver.1.1」の提供を開始すると発表した。AIとの対話を通じてナレッジを作成する機能や、複数のナレッジを横断的に検索して回答を生成する機能などを追加した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "published": "2026-10-26 01:57:32+09:00",
+      "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
