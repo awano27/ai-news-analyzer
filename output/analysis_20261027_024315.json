@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "コスパ重視の「GPT-6.1 Terra」新登場　コスト10分の1で一部Astraと同等性能うたう",
+    "link": "https://www.itmedia.co.jp/aiplus/article/2610/27/2000002611/",
+    "published": "2026-10-27 10:48:52+09:00",
+    "summary": "OpenAIがコスパ重視の新モデル「GPT-6.1 Terra」を発表。最上位の「GPT-6 Astra」と一部同等の性能を、10分の1のコストで実現するとうたう。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "コスパ重視の「GPT-6.1 Terra」新登場　コスト10分の1で一部Astraと同等性能うたう",
+    "summary": "OpenAIがコスパ重視の新モデル「GPT-6.1 Terra」を発表。最上位の「GPT-6 Astra」と一部同等の性能を、10分の1のコストで実現するとうたう。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "コスパ重視の「GPT-6.1 Terra」新登場　コスト10分の1で一部Astraと同等性能うたう",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/27/2000002611/",
+      "published": "2026-10-27 10:48:52+09:00",
+      "summary": "OpenAIがコスパ重視の新モデル「GPT-6.1 Terra」を発表。最上位の「GPT-6 Astra」と一部同等の性能を、10分の1のコストで実現するとうたう。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "「AI失業」対策を　チームみらい安野氏、官房長官に提言　詳細も公開",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/26/2000002581/",
+      "published": "2026-10-26 12:15:40+09:00",
+      "summary": "チームみらいの安野貴博党首らは、AIの普及による失業対策を求める提言を木原稔官房長官に手渡した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+      "link": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+      "published": "2026-10-27 11:00:00+09:00",
+      "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+      "link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+      "published": "2026-10-27 10:12:21+09:00",
+      "summary": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+      "link": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+      "published": "2026-10-27 01:49:42+09:00",
+      "summary": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
