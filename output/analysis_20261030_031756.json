@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "今、最も使われているプログラミング言語は？　AIコーディングでPython超えて急成長",
+    "link": "https://www.itmedia.co.jp/aiplus/article/2610/29/2000002719/",
+    "published": "2026-10-29 16:16:51+09:00",
+    "summary": "Githubは年次レポート「GitHub Octoverse 2026」を公開。開発者が多いプログラミング言語のランキングが発表された。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 4
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "今、最も使われているプログラミング言語は？　AIコーディングでPython超えて急成長",
+    "summary": "Githubは年次レポート「GitHub Octoverse 2026」を公開。開発者が多いプログラミング言語のランキングが発表された。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 4,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "今、最も使われているプログラミング言語は？　AIコーディングでPython超えて急成長",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/29/2000002719/",
+      "published": "2026-10-29 16:16:51+09:00",
+      "summary": "Githubは年次レポート「GitHub Octoverse 2026」を公開。開発者が多いプログラミング言語のランキングが発表された。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+      "link": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+      "published": "2026-10-30 05:08:31+09:00",
+      "summary": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Meta quietly launches an AI fashion app called Style Sketch",
+      "link": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+      "published": "2026-10-30 04:14:36+09:00",
+      "summary": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+      "link": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+      "published": "2026-10-30 02:00:00+09:00",
+      "summary": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "ChatGPT Pro 100／500プランの利用上限を「倍」に　Pro 200プランの「半減」は撤回　経緯まとめ",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/30/2000002738/",
+      "published": "2026-10-30 11:34:51+09:00",
+      "summary": "OpenAIのプロダクト責任者ティボー・ソティオ氏（通称Tibo）は全てのProおよびBusiness Premiumプランの利用制限を倍にすると発表した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
