@@ -1,0 +1,62 @@
+{
+  "article": {
+    "title": "AI学習への利用拒否をrobots.txtで一括指定へ　OpenAIやGoogleなどが対応表明",
+    "link": "https://www.itmedia.co.jp/news/article/2611/01/2000002776/",
+    "published": "2026-11-01 08:31:07+09:00",
+    "summary": "OpenAI、Google、Microsoftは、Webサイト運営者がAI学習へのコンテンツ利用に関する意向を一括で指定できる共通の仕組みへの対応を発表した。Anthropicも担当者が個人名義で実装を表明している。robots.txtに共通トークンを記述するだけで、AI各社のAIクローラーを一元管理できるようになる。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "AI学習への利用拒否をrobots.txtで一括指定へ　OpenAIやGoogleなどが対応表明",
+    "summary": "OpenAI、Google、Microsoftは、Webサイト運営者がAI学習へのコンテンツ利用に関する意向を一括で指定できる共通の仕組みへの対応を発表した。Anthropicも担当者が個人名義で実装を表明している。robots.txtに共通トークンを記述するだけで、AI各社のAIクローラーを一元管理できるようになる。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "AI学習への利用拒否をrobots.txtで一括指定へ　OpenAIやGoogleなどが対応表明",
+      "link": "https://www.itmedia.co.jp/news/article/2611/01/2000002776/",
+      "published": "2026-11-01 08:31:07+09:00",
+      "summary": "OpenAI、Google、Microsoftは、Webサイト運営者がAI学習へのコンテンツ利用に関する意向を一括で指定できる共通の仕組みへの対応を発表した。Anthropicも担当者が個人名義で実装を表明している。robots.txtに共通トークンを記述するだけで、AI各社のAIクローラーを一元管理できるようになる。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "published": "2026-11-01 06:41:00+09:00",
+      "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "published": "2026-11-01 06:17:03+09:00",
+      "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "published": "2026-11-01 01:12:55+09:00",
+      "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
