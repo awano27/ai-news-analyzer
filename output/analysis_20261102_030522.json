@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "ChatGPTの「Chat」と「Work」統合へ　利用制限はCodexと共通化",
+    "link": "https://www.itmedia.co.jp/aiplus/article/2611/02/2000002781/",
+    "published": "2026-11-02 10:50:32+09:00",
+    "summary": "OpenAIはChatGPT Workのエージェント機能をChatGPTに統合する予定とし、CodexとChatGPTで有料プランの利用量制限が共通化されると発表した。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "ChatGPTの「Chat」と「Work」統合へ　利用制限はCodexと共通化",
+    "summary": "OpenAIはChatGPT Workのエージェント機能をChatGPTに統合する予定とし、CodexとChatGPTで有料プランの利用量制限が共通化されると発表した。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "ChatGPTの「Chat」と「Work」統合へ　利用制限はCodexと共通化",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2611/02/2000002781/",
+      "published": "2026-11-02 10:50:32+09:00",
+      "summary": "OpenAIはChatGPT Workのエージェント機能をChatGPTに統合する予定とし、CodexとChatGPTで有料プランの利用量制限が共通化されると発表した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "published": "2026-11-02 06:55:23+09:00",
+      "summary": "Data centers are deeply unpopular. But what if we called them something else?",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+      "published": "2026-11-02 05:57:58+09:00",
+      "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Anthropic、「Claude」の「Max 20x」を「Ultra」に名称変更　月200ドルで5時間ごとの利用制限を撤廃",
+      "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002777/",
+      "published": "2026-11-02 07:00:23+09:00",
+      "summary": "Anthropicは、「Claude」の個人向け有料プランの名称を変更し、月額100ドルの「Max 5x」を「Max」に、月額200ドルの「Max 20x」を「Ultra」にした。料金は据え置き。Ultraでは確認済みアカウントを対象に、5時間ごとの利用制限を撤廃した。週ごとの制限は変わらない。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 0
+    },
+    {
+      "title": "「保安検査の長い列」と「人手不足」をどう解消する？　フランクフルト空港におけるAI時代の空港DX",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/02/news003.html",
+      "published": "2026-11-02 07:00:00+09:00",
+      "summary": "4月に開業したフランクフルト空港の第3ターミナル。IT技術やAIを導入し、顧客体験の向上や業務効率化を行っている。どのような技術を導入し、「止まらない空港」を実現しようとしているのか？",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
