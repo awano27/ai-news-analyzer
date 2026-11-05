@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "GitHub、「Copilot Fusion」正式リリース　タスクに応じて最適なAIモデル選択、高性能・低コスト両立",
+    "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002869/",
+    "published": "2026-11-04 13:13:20+09:00",
+    "summary": "米GitHubは、米サンフランシスコで10月28日と29日の2日間開催した年次イベント「GitHub Universe 2026」で、新機能「GitHub Copilot Fusion」の正式リリースを発表しました。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 4
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "GitHub、「Copilot Fusion」正式リリース　タスクに応じて最適なAIモデル選択、高性能・低コスト両立",
+    "summary": "米GitHubは、米サンフランシスコで10月28日と29日の2日間開催した年次イベント「GitHub Universe 2026」で、新機能「GitHub Copilot Fusion」の正式リリースを発表しました。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 4,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "GitHub、「Copilot Fusion」正式リリース　タスクに応じて最適なAIモデル選択、高性能・低コスト両立",
+      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002869/",
+      "published": "2026-11-04 13:13:20+09:00",
+      "summary": "米GitHubは、米サンフランシスコで10月28日と29日の2日間開催した年次イベント「GitHub Universe 2026」で、新機能「GitHub Copilot Fusion」の正式リリースを発表しました。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "Open source AI is booming. Hugging Face explains who profits.",
+      "link": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+      "published": "2026-11-05 04:30:04+09:00",
+      "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up?  On this episode of […]",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
+      "link": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
+      "published": "2026-11-05 03:44:57+09:00",
+      "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up?  On this episode of […]",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "OpenAI、「Images 2.6」発表　生成速度50％向上、GIFアニメの生成も可能に",
+      "link": "https://www.itmedia.co.jp/news/article/2611/05/2000002894/",
+      "published": "2026-11-05 10:59:38+09:00",
+      "summary": "OpenAIは、画像生成AIの新版「ChatGPT Images 2.6」を発表した。画像生成速度の向上や編集精度の改善に加え、新たにGIFアニメーション作成機能や、保存した写真を別チャットで再利用できる機能を追加した。開発者向けには2種類のAPIモデルを提供し、電子透かし技術の導入など安全対策も強化している。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "OSSは「プルリクエストを送る」から「自分用に直す」へ？　AI時代のメンテナーがPR受付を閉じると宣言した理由",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2611/05/news004.html",
+      "published": "2026-11-05 05:00:00+09:00",
+      "summary": "AIが生成するプルリクエストの増加を受け、あるOSS開発者が「今後公開するコードではPRの受付をやめ、改変は自由にする」と宣言した。変更を上流に送るのではなく、各自が自分用にカスタマイズする「リミックスモデル」の中身と、その賛否を整理する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
