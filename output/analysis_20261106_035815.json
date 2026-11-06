@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "AIに自販機経営を1年任せてみた　指示は“利益の最大化”だけ　米ハーバード大などがシミュレーション",
+    "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002899/",
+    "published": "2026-11-06 12:00:00+09:00",
+    "summary": "米ハーバード・ビジネス・スクールとAI評価企業Andon Labsに所属する研究者らが発表した論文「Robber Bots: Autonomous AI Agents Mirroring the Darker Side of Human Commerce」は、利益の最大化だけを命じられた自律型AIエージェントにビジネスを任せるとどうなるかを検証した研究報告だ。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "AIに自販機経営を1年任せてみた　指示は“利益の最大化”だけ　米ハーバード大などがシミュレーション",
+    "summary": "米ハーバード・ビジネス・スクールとAI評価企業Andon Labsに所属する研究者らが発表した論文「Robber Bots: Autonomous AI Agents Mirroring the Darker Side of Human Commerce」は、利益の最大化だけを命じられた自律型AIエージェントにビジネスを任せるとどうなるかを検証した研究報告だ。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "AIに自販機経営を1年任せてみた　指示は“利益の最大化”だけ　米ハーバード大などがシミュレーション",
+      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002899/",
+      "published": "2026-11-06 12:00:00+09:00",
+      "summary": "米ハーバード・ビジネス・スクールとAI評価企業Andon Labsに所属する研究者らが発表した論文「Robber Bots: Autonomous AI Agents Mirroring the Darker Side of Human Commerce」は、利益の最大化だけを命じられた自律型AIエージェントにビジネスを任せるとどうなるかを検証した研究報告だ。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "MetaのAIエージェント「Muse」に音声対話機能　表情豊かなアバターと会話、まず米国で提供",
+      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002939/",
+      "published": "2026-11-06 10:39:30+09:00",
+      "summary": "Metaは、AIエージェント「Muse」にリアルタイム音声対話とアバター機能を追加すると発表した。米国で先行提供する。音声で作業を依頼できるほか、新技術により会話に合わせて表情や身ぶりが変わるアバターとの対面対話を可能にした。声は数百種類から選べ、今後はAIグラスなどへの展開も予定している。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "根拠の大半は「黒塗り」　AIはAI開発を加速しているか、第三者機関がAnthropic内部を調査",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2611/06/2000002938/",
+      "published": "2026-11-06 10:31:59+09:00",
+      "summary": "米国の非営利研究機関METRは、Anthropicの協力を得て「AIがAI開発を加速させているかどうか」を評価したレポートを公開した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "OpenAI、サイバーセキュリティ特化型「GPT-6 Cyber」発表　Firefoxの未知の脆弱性81件を発見",
+      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002931/",
+      "published": "2026-11-06 07:57:34+09:00",
+      "summary": "OpenAIは、サイバーセキュリティ特化型AI「GPT-6 Cyber」を発表した。汎用モデル「Astra」をベースに脆弱性発見や攻撃コード開発能力を大幅に強化。提供先は厳格な審査を通過した防御者に限定され、高度なAIによる攻撃が普及する前に、防御側が重要インフラの保護やシステム修正を迅速に行えるよう支援する狙いだ。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "OpenAI、データセンター立地地域への約束と政策提言を発表　電力費の全額負担や公職者とのNDA不使用など",
+      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002928/",
+      "published": "2026-11-06 07:03:55+09:00",
+      "summary": "OpenAIは、AI向けデータセンター（Compute Campusと呼び方を変更）の建設・運営に関する地域社会への約束と、政府向けの政策提言を発表した。電力や関連インフラ費用の全額負担、公職者との原則的なNDA不使用を盛り込むとともに、大口電力利用者への追加負担など、業界共通のルール作りを政府に求めている。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    }
+  ],
+  "fallback": true
+}
