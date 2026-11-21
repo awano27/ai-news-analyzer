@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "AIで成果を出す企業ほど「人を増やす」？　“通説”を否定する調査結果をIDCが発表",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2611/21/news003.html",
+    "published": "2026-11-21 09:00:00+09:00",
+    "summary": "「AIが普及すれば企業の人員は減る」という通説と食い違う調査結果を、IDCが発表した。AI投資で高いROIを得ている組織ほど、今後の増員を見込む割合が高い。AIで成果を出す企業が人員を増やすのはなぜか。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 2
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "AIで成果を出す企業ほど「人を増やす」？　“通説”を否定する調査結果をIDCが発表",
+    "summary": "「AIが普及すれば企業の人員は減る」という通説と食い違う調査結果を、IDCが発表した。AI投資で高いROIを得ている組織ほど、今後の増員を見込む割合が高い。AIで成果を出す企業が人員を増やすのはなぜか。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 2,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "AIで成果を出す企業ほど「人を増やす」？　“通説”を否定する調査結果をIDCが発表",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/21/news003.html",
+      "published": "2026-11-21 09:00:00+09:00",
+      "summary": "「AIが普及すれば企業の人員は減る」という通説と食い違う調査結果を、IDCが発表した。AI投資で高いROIを得ている組織ほど、今後の増員を見込む割合が高い。AIで成果を出す企業が人員を増やすのはなぜか。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "京大がAI依存チェックリスト公開　「当てはまるものあれば、しばらくAI触らないで」",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2611/20/2000003378/",
+      "published": "2026-11-20 19:13:44+09:00",
+      "summary": "京都大学の学生相談部門は「AIに悩みを相談する際に気をつけて欲しいこと」と題した文書を公開した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Antigravityを他社AIから操作すると「垢BAN」？　注意点をGoogle Cloud日本法人に聞いた",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2611/20/2000003353/",
+      "published": "2026-11-20 17:04:35+09:00",
+      "summary": "「Google Antigravity」を他社のAIツールを介して利用すると規約違反でアカウント停止の可能性があるとXなどで話題になっている。Google Cloud日本法人への取材や公開されている規約などを基に状況と対応を整理する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "「Muse」専用メアド、無料で作成可能に　AIが送受信を代理",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2611/20/2000003372/",
+      "published": "2026-11-20 16:52:48+09:00",
+      "summary": "米Metaは、AIエージェント「Muse」専用のメールアドレスについて、無料ユーザーを含む全ユーザーが取得できるようになったと発表した。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+      "published": "2026-11-21 04:53:41+09:00",
+      "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
