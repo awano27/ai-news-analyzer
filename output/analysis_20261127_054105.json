@@ -1,0 +1,71 @@
+{
+  "article": {
+    "title": "「Gemini 4 Neon」が実際の標高データからスキーシミュレーターを開発――Google公式が勧める利用例まとめ",
+    "link": "https://www.itmedia.co.jp/aiplus/article/2611/26/2000003494/",
+    "published": "2026-11-26 18:00:00+09:00",
+    "summary": "Googleが新発表したAIモデル「Gemini 4 Neon」について、公式ブログで披露されたデモや日常での活用場面をまとめて紹介する。",
+    "source": "ITmedia AI+",
+    "language": "ja",
+    "preliminary_score": 5
+  },
+  "analysis": {
+    "selected_index": 1,
+    "title_ja": "「Gemini 4 Neon」が実際の標高データからスキーシミュレーターを開発――Google公式が勧める利用例まとめ",
+    "summary": "Googleが新発表したAIモデル「Gemini 4 Neon」について、公式ブログで披露されたデモや日常での活用場面をまとめて紹介する。",
+    "surprise_reasons": [
+      "（自動分析失敗のため、キーワードスコアで選択）"
+    ],
+    "engineer_impact": "N/A",
+    "business_impact": "N/A",
+    "surprise_score": 5,
+    "other_candidates_comparison": "N/A"
+  },
+  "all_candidates": [
+    {
+      "title": "「Gemini 4 Neon」が実際の標高データからスキーシミュレーターを開発――Google公式が勧める利用例まとめ",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2611/26/2000003494/",
+      "published": "2026-11-26 18:00:00+09:00",
+      "summary": "Googleが新発表したAIモデル「Gemini 4 Neon」について、公式ブログで披露されたデモや日常での活用場面をまとめて紹介する。",
+      "source": "ITmedia AI+",
+      "language": "ja",
+      "preliminary_score": 5
+    },
+    {
+      "title": "AI原稿作成のやり方を解説！種類別プロンプト例とおすすめツール6選",
+      "link": "https://ainow.ai/2026/11/27/278565/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e5%258e%259f%25e7%25a8%25bf%25e4%25bd%259c%25e6%2588%2590%25e3%2581%25ae%25e3%2582%2584%25e3%2582%258a%25e6%2596%25b9%25e3%2582%2592%25e8%25a7%25a3%25e8%25aa%25ac%25ef%25bc%2581%25e7%25a8%25ae%25e9%25a1%259e%25e5%2588%25a5%25e3%2583%2597%25e3%2583%25ad%25e3%2583%25b3%25e3%2583%2597%25e3%2583%2588%25e4%25be%258b%25e3%2581%25a8",
+      "published": "2026-11-27 01:02:20+09:00",
+      "summary": "発表資料やプレスリリースの締め切りが重なり、原稿をゼロから書く時間が足りないと感じている方は多いでしょう。ChatGPTに頼んでみたものの、硬い文章しか出てこず書き直した経験がある方もいるのではないでしょうか。 AIで原... The post AI原稿作成のやり方を解説！種類別プロンプト例とおすすめツール6選 first appeared on AI専門ニュースメディア AINOW .",
+      "source": "AINOW",
+      "language": "ja",
+      "preliminary_score": 4
+    },
+    {
+      "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+      "published": "2026-11-27 01:00:00+09:00",
+      "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 2
+    },
+    {
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "published": "2026-11-27 05:03:54+09:00",
+      "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+      "source": "TechCrunch AI",
+      "language": "en",
+      "preliminary_score": 0
+    },
+    {
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "link": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "published": "2026-11-26 20:37:17+09:00",
+      "summary": "",
+      "source": "Hugging Face Blog",
+      "language": "en",
+      "preliminary_score": 0
+    }
+  ],
+  "fallback": true
+}
